@@ -1,38 +1,38 @@
 ASAH000LF: start: 3000 end: 7633
 Linda: What's going on! What's that sound?
-ลินดา: 
+ลินดา: เกิดอะไรขึ้น นั่นเสียงอะไรน่ะ?
 
 ASAH001SH: start: 7566 end: 13933
 Sheegor: Oh the insane asylum just blew up. But don't worry. Mr. Pokeylope helped me save all the brains before it fell down.
-ชีกอร์: 
+ชีกอร์: โอ้ โรงพยาบาลบ้าเพิ่งระเบิดน่ะ แต่ไม่ต้องห่วง มิสเตอร์โพคีโลพช่วยฉันเก็บสมองทั้งหมดก่อนมันจะถล่มลงมา
 
 ASAH002LF: start: 14700 end: 17166
 Linda: Mr. Pokeylope?
-ลินดา: 
+ลินดา: มิสเตอร์โพคีโลพ?
 
 ASAH003LF: start: 17800 end: 26233
 Linda: Sam? Is that you? It's me, Linda. From the lake?
-ลินดา: 
+ลินดา: แซม? นั่นเจ้ารึ? นี่ข้าเอง ลินดา จากทะเลสาบ?
 
 ASAH004PL: start: 26500 end: 32866
 Mr.Pokeylope: Linda. I haven't seen you in ages. You look so... different.
-มิสเตอร์โพคีโลพ: 
+มิสเตอร์โพคีโลพ: ลินดา ฉันไม่ได้เจอเธอมันตั้งนาน เธอดู... เปลี่ยนไปเยอะนะ
 
 ASAH005LF: start: 32733 end: 38833
 Linda: Uh, yeah. I've put on a little weight.
-ลินดา: 
+ลินดา: อ้าา ใช่ ฉันหนักขึ้นนิดหน่อย
 
 ASAH006PL: start: 38700 end: 43133
 Mr.Pokeylope: Ah, you know I don't mind that onnnnne bit.
-มิสเตอร์โพคีโลพ: 
+มิสเตอร์โพคีโลพ: อ้า เธอก็รู้ ฉันไม่แคร์เรื่องนั้นสักกกกกกนิด
 
 ASAH007LF: start: 43033 end: 47800
 Linda: Oh, Sam. You haven't changed at all!
-ลินดา: 
+ลินดา: โถ่ แซม เจ้านี่ไม่เปลี่ยนไปเลยนะ!
 
 ASAH008LF: start: 47633 end: 50333
 Linda: Ah ha ha!
-ลินดา: 
+ลินดา: ฮ่า ฮ่า ฮ่า!
 
 ASAH009PL: start: 48766 end: 50600
 Mr.Pokeylope: 
