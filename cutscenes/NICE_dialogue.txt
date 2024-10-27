@@ -1,44 +1,44 @@
 NICE001RA: start: 900 end: 2966
 Raz: Uh... Sasha?
-แรซ: 
+แรซ: เอ่อ... ซาช่า?
 
 NICE002SA: start: 2966 end: 4400
 Sasha: What is it? Another bunny?
-ซาช่า: 
+ซาช่า: อะไรเหรอ? กระต่ายอีกตัวเหรอ?
 
 NICE003RA: start: 4400 end: 9100
 Raz: No, this is more of a super scary, flaming-eyed demon kind of deal.
-แรซ: 
+แรซ: เปล่า มันน่ากลัวโครต ๆ เหมือนปีศาจที่มีตาเรืองแสงอะไรแบบนั้น
 
 NICE004SA: start: 9100 end: 11033
 Sasha: Oh. Hmmm.
-ซาช่า: 
+ซาช่า: โอ้ ฮืมมม
 
 NICE005RA: start: 10833 end: 11433
 Raz: What?
-แรซ: 
+แรซ: อะไร?
 
 NICE006SA: start: 11533 end: 15000
 Sasha: Okay, I'm pulling you out of there. Just give me a second.
-ซาช่า: 
+ซาช่า: โอเค ฉันจะดึงเธอออกมา ขอเวลาสักครู่
 
 NICE007RA: start: 14700 end: 15933
 Raz: Uh, Sasha?
-แรซ: 
+แรซ: เอ่อ ซาช่า?
 
 NICE008SA: start: 15900 end: 21333
 Sasha: Hold on. I'm still getting some unusual interference. It's fascinating, as if someone else were--
-ซาช่า: 
+ซาช่า: เดี๋ยวก่อน ฉันยังเจอการรบกวนผิดปกติ ช่างน่าสนใจ ราวกับมีใครบางคนอยู่-- 
 
 NICE009RA: start: 21033 end: 22066
 Raz: Agent Nein?
-แรซ: 
+แรซ: สายลับไน?
 
 NICE010SA: start: 21733 end: 23933
 Sasha: Sorry. Almost ready--
-ซาช่า: 
+ซาช่า: โทษที ใกล้แล้ว--
 
 NICE011RA: start: 23533 end: 25000
 Raz: SASHA!
-แรซ: 
+แรซ: ซาช่า!
 
