@@ -1,16 +1,16 @@
 SLIN003RA: start: 66 end: 3733
 Raz: I've been hearing a lot about head explosion and I was wondering--
-แรซ: 
+แรซ: ผมได้ยินข่าวลือเยอะมากเรื่องการระเบิดหัว ผมก็เลยสงสัยว่า--
 
 SLIN004SA: start: 3400 end: 8933
 Sasha: Science, Razputin. That is what we practice down here. Not parlor tricks.
-ซาช่า: 
+ซาช่า: วิทยาศาสตร์ แรซปูติน นั่นคือสิ่งที่เราจะปฏิบัติกันข้างล่างนี้ ไม่ใช่กลหลอกเด็ก
 
 SLIN005SA: start: 9166 end: 15033
 Sasha: If you are serious about exploring the possibilities of your mind, step up to the Brain Tumbler and we'll begin.
-ซาช่า: 
+ซาช่า: หากเธอจริงจังกับการสำรวจความเป็นไปได้ในจิตใจของเธอ จงไปยัง Brain Tumbler แล้วเราจะได้เริ่มกัน 
 
 SLIN006RA: start: 15133 end: 16033
 Raz: Brain tumbler?
-แรซ: 
+แรซ: Brain tumbler?
 
