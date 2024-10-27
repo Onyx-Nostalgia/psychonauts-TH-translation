@@ -3,54 +3,54 @@ Raz: Ah ha!
 แรซ: 
 
 MMDM002DM: start: 3500 end: 10700
-DM: Oh, hello there. Have you come to pay for your Rainbow Treats? We knew you would.
-DM: 
+Den-Mother: Oh, hello there. Have you come to pay for your Rainbow Treats? We knew you would.
+เด็น-มาเธอร์: 
 
 MMDM003DM: start: 10900 end: 15300
-DM: Won't you join us in our Rainbow Squirt Pledge of Purpose?
-DM: 
+Den-Mother: Won't you join us in our Rainbow Squirt Pledge of Purpose?
+เด็น-มาเธอร์: 
 
 MMDM004RQ: start: 15700 end: 17333
-RQ: To Promote Niceness.
-RQ: 
+Rainbow-Squirt: To Promote Niceness.
+เนตรนารีสายรุ้ง: 
 
 MMDM005RQ: start: 17966 end: 19600
-RQ: To Make the World Prettier.
-RQ: 
+Rainbow-Squirt: To Make the World Prettier.
+เนตรนารีสายรุ้ง: 
 
 MMDM006RQ: start: 20200 end: 22500
-RQ: To Share Candy With Everyone.
-RQ: 
+Rainbow-Squirt: To Share Candy With Everyone.
+เนตรนารีสายรุ้ง: 
 
 MMDM007RQ: start: 23333 end: 26600
-RQ: To Obfuscate the True Nature of the Milkman.
-RQ: 
+Rainbow-Squirt: To Obfuscate the True Nature of the Milkman.
+เนตรนารีสายรุ้ง: 
 
 MMDM009RQ: start: 27233 end: 29866
-RQ: To protect the Milkman at all costs.
-RQ: 
+Rainbow-Squirt: To protect the Milkman at all costs.
+เนตรนารีสายรุ้ง: 
 
 MMDM010DM: start: 42966 end: 44966
-DM: You brought them here!
-DM: 
+Den-Mother: You brought them here!
+เด็น-มาเธอร์: 
 
 MMDM011RQ: start: 45300 end: 50966
-RQ: To Destroy All Who Would Harm the Milkman, or Threaten to Reveal His Secret Objective.
-RQ: 
+Rainbow-Squirt: To Destroy All Who Would Harm the Milkman, or Threaten to Reveal His Secret Objective.
+เนตรนารีสายรุ้ง: 
 
 MMDM012DM: start: 51166 end: 53433
-DM: Go girls! Protect the milk!
-DM: 
+Den-Mother: Go girls! Protect the milk!
+เด็น-มาเธอร์: 
 
 MMDM013RS: start: 53566 end: 56133
-RS: 
-RS: 
+Rainbow-Squirt: 
+เนตรนารีสายรุ้ง: 
 
 MMDS001DM: start: 55733 end: 56400
-DM: Hi-ya!
-DM: 
+Den-Mother: Hi-ya!
+เด็น-มาเธอร์: 
 
 MMDM014DM: start: 57233 end: 62900
-DM: Do not follow! The milk is not ready, and you are not ready for the milk!
-DM: 
+Den-Mother: Do not follow! The milk is not ready, and you are not ready for the milk!
+เด็น-มาเธอร์: 
 

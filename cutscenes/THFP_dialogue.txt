@@ -1,100 +1,100 @@
 thfp000be: start: 2733 end: 6533
-BE: Look alive, people! Bonita Soleil is about to take the stage!
-BE: 
+Becky: Look alive, people! Bonita Soleil is about to take the stage!
+เบ็คกี้: 
 
 thfp001be: start: 6533 end: 10966
-BE: Flower girls in position one. And... ACTION!
-BE: 
+Becky: Flower girls in position one. And... ACTION!
+เบ็คกี้: 
 
 thfp002sf: start: 10966 end: 19533
-SF: Tonight I will be playing the part of Gloria Von Gouton, the famous actress!
-SF: 
+Pink-Flower: Tonight I will be playing the part of Gloria Von Gouton, the famous actress!
+ดอกชมพู: 
 
 thfp003hf: start: 19533 end: 24800
-HF: In this nostalgic memory of her breakthrough role in the smash hit musical...
-HF: 
+Yellow-Actor: In this nostalgic memory of her breakthrough role in the smash hit musical...
+น้องตัวเหลือง: 
 
 thfp004ff: start: 24866 end: 27200
-FF: "Sunshine Shenanigans!"
-FF: 
+Orange-Flower: "Sunshine Shenanigans!"
+น้องส้ม: 
 
 thfp005sf: start: 27000 end: 30400
-SF: Yay! Wooo!
-SF: 
+Pink-Flower: Yay! Wooo!
+ดอกชมพู: 
 
 thfp007ff: start: 27500 end: 29133
-FF: 
-FF: 
+Orange-Flower: 
+น้องส้ม: 
 
 thfp006hf: start: 27500 end: 29700
-HF: 
-HF: 
+Yellow-Actor: 
+น้องตัวเหลือง: 
 
 THBF000SF: start: 30833 end: 35966
-SF: And where would Gloria be without her muse?
-SF: 
+Pink-Flower: And where would Gloria be without her muse?
+ดอกชมพู: 
 
 thbf001hf: start: 35966 end: 37733
-HF: Her inner sunshine!
-HF: 
+Yellow-Actor: Her inner sunshine!
+น้องตัวเหลือง: 
 
 thbf002ff: start: 38066 end: 40733
-FF: The spirit of her youth!
-FF: 
+Orange-Flower: The spirit of her youth!
+น้องส้ม: 
 
 thbf003sf: start: 40733 end: 44633
-SF: Played tonight, once again, by...
-SF: 
+Pink-Flower: Played tonight, once again, by...
+ดอกชมพู: 
 
 thbf004sf: start: 44500 end: 47866
-SF: Bonita Soleil!
-SF: 
+Pink-Flower: Bonita Soleil!
+ดอกชมพู: 
 
 thbf006ff: start: 44500 end: 47533
-FF: 
-FF: 
+Orange-Flower: 
+น้องส้ม: 
 
 thbf005hf: start: 44766 end: 46700
-HF: 
-HF: 
+Yellow-Actor: 
+น้องตัวเหลือง: 
 
 thfp009sf: start: 50033 end: 54966
-SF: Oh, I do so hope that my mother is proud of me!
-SF: 
+Pink-Flower: Oh, I do so hope that my mother is proud of me!
+ดอกชมพู: 
 
 thfp010be: start: 56200 end: 57300
-BE: Not again!
-BE: 
+Becky: Not again!
+เบ็คกี้: 
 
 thfp011ff: start: 57133 end: 59533
-FF: The Phantom!
-FF: 
+Orange-Flower: The Phantom!
+น้องส้ม: 
 
 thfp012ja: start: 59533 end: 67900
-JA: I've seen some bad plays in my day, but this one's an actual menace. And it's all HER fault.
-JA: 
+Jasper: I've seen some bad plays in my day, but this one's an actual menace. And it's all HER fault.
+แจสเปอร์: 
 
 thfp013ja: start: 67900 end: 72100
-JA: It's her bad acting that makes the Phantom strike!
-JA: 
+Jasper: It's her bad acting that makes the Phantom strike!
+แจสเปอร์: 
 
 thfp015bt: start: 71233 end: 76466
-BT: Boo hoo hoo!
-BT: 
+Bonita: Boo hoo hoo!
+โบนิต้า: 
 
 thfp016ja: start: 74933 end: 81133
-JA: This time, I'm going to file a formal complaint and get this theater shut down! 
-JA: 
+Jasper: This time, I'm going to file a formal complaint and get this theater shut down! 
+แจสเปอร์: 
 
 thfp017be: start: 81133 end: 83466
-BE: Great. Well, I'm off to go kill myself. 
-BE: 
+Becky: Great. Well, I'm off to go kill myself. 
+เบ็คกี้: 
 
 thfp018ra: start: 83700 end: 86033
 Raz: You know, you could be a more constructive critic.
 แรซ: 
 
 thfp019ja: start: 86033 end: 92866
-JA: Kid, if you want to see a GOOD play, come talk to me. I've got a script here that will knock 'em dead, I promise.
-JA: 
+Jasper: Kid, if you want to see a GOOD play, come talk to me. I've got a script here that will knock 'em dead, I promise.
+แจสเปอร์: 
 
