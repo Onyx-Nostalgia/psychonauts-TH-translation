@@ -128,8 +128,8 @@
         "TH": "แจสเปอร์"
     },
     "LC": {
-        "EN": "Lungfish-Citizen-1",
-        "TH": "ชาวปลาปอด-1"
+        "EN": "Lungfish-Citizen",
+        "TH": "ชาวปลาปอด"
     },
     "RQ": {
         "EN": "Rainbow-Squirt",
@@ -176,8 +176,8 @@
         "TH": "ระบบรถราง"
     },
     "LR": {
-        "EN": "Lungfish-Citizen-2",
-        "TH": "ชาวปลาปอด-2"
+        "EN": "Lungfish-Resistance",
+        "TH": "ปลากลุ่มต่อต้าน"
     },
     "JT": {
         "EN": "J.T.",
@@ -196,12 +196,12 @@
         "TH": "ดัลเมเชี่ยน"
     },
     "LP": {
-        "EN": "Lungfish-Citizen-3",
-        "TH": "ชาวปลาปอด-3"
+        "EN": "Lungfish-Police",
+        "TH": "ปลาปอดตำรวจ"
     },
     "LY": {
-        "EN": "Lungfish-Citizen-4",
-        "TH": "ชาวปลาปอด-4"
+        "EN": "Lungfish-Madam",
+        "TH": "คุณนายปลาปอด"
     },
     "KI": {
         "EN": "Kitty",
