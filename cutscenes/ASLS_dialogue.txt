@@ -1,140 +1,140 @@
 ASLS001LO: start: 0 end: 5900
-LO: Worthless! These brains are worthless, Sheegor! Just like the one in your head!
-LO: 
+Dr.Loboto: Worthless! These brains are worthless, Sheegor! Just like the one in your head!
+ดร.โลโบโต้: 
 
 ASLS002SH: start: 5266 end: 11500
-SH: Oh, no, no, they're nice. They're--they're nice brains, Doctor Loboto. Really!
-SH: 
+Sheegor: Oh, no, no, they're nice. They're--they're nice brains, Doctor Loboto. Really!
+ชีกอร์: 
 
 ASLS003LO: start: 11233 end: 18133
-LO: They're TOO nice! They won't fight! I need killers! I need angry brains!
-LO: 
+Dr.Loboto: They're TOO nice! They won't fight! I need killers! I need angry brains!
+ดร.โลโบโต้: 
 
 ASLS004LO: start: 18133 end: 27433
-LO: I squeeze 'em, I poke 'em, I twist 'em! What do I have to do to make 'em fight? Maybe I should try my drill?
-LO: 
+Dr.Loboto: I squeeze 'em, I poke 'em, I twist 'em! What do I have to do to make 'em fight? Maybe I should try my drill?
+ดร.โลโบโต้: 
 
 ASLS005SH: start: 26800 end: 31366
-SH: I'm not going to bring you anymore brains if you're going to be so mean to them!
-SH: 
+Sheegor: I'm not going to bring you anymore brains if you're going to be so mean to them!
+ชีกอร์: 
 
 ASLS008LO: start: 31366 end: 32500
-LO: No matter what I do?
-LO: 
+Dr.Loboto: No matter what I do?
+ดร.โลโบโต้: 
 
 ASLS009SH: start: 32500 end: 35766
-SH: No. No matter... what.
-SH: 
+Sheegor: No. No matter... what.
+ชีกอร์: 
 
 ASLS010LO: start: 35833 end: 38100
-LO: Not even if I--
-LO: 
+Dr.Loboto: Not even if I--
+ดร.โลโบโต้: 
 
 ASLS011SH: start: 37500 end: 38933
-SH: No! Don't!
-SH: 
+Sheegor: No! Don't!
+ชีกอร์: 
 
 ASLS012LO: start: 38533 end: 41033
-LO: Not even if I cook you a little--
-LO: 
+Dr.Loboto: Not even if I cook you a little--
+ดร.โลโบโต้: 
 
 ASLS013SH: start: 39566 end: 42333
-SH: Don't. Doctor, no!
-SH: 
+Sheegor: Don't. Doctor, no!
+ชีกอร์: 
 
 ASLS014LO: start: 41900 end: 43900
-LO: A little turtle soup?
-LO: 
+Dr.Loboto: A little turtle soup?
+ดร.โลโบโต้: 
 
 ASLS015SH: start: 43466 end: 45866
-SH: Please, Doctor Loboto. No!
-SH: 
+Sheegor: Please, Doctor Loboto. No!
+ชีกอร์: 
 
 ASLS016LO: start: 45666 end: 49333
-LO: Huh? A nice hot turtle soup, hmm hmm?
-LO: 
+Dr.Loboto: Huh? A nice hot turtle soup, hmm hmm?
+ดร.โลโบโต้: 
 
 ASLS017SH: start: 48566 end: 49900
-SH: 
-SH: 
+Sheegor: 
+ชีกอร์: 
 
 ASLS018LO: start: 49400 end: 53966
-LO: Nothing better on a cold night like this than some boiling hot soup!
-LO: 
+Dr.Loboto: Nothing better on a cold night like this than some boiling hot soup!
+ดร.โลโบโต้: 
 
 ASLS019SH: start: 54100 end: 56733
-SH: Leave Mr. Pokeylope alone!!!
-SH: 
+Sheegor: Leave Mr. Pokeylope alone!!!
+ชีกอร์: 
 
 ASLS020LO: start: 56400 end: 57766
-LO: Oh, okay.
-LO: 
+Dr.Loboto: Oh, okay.
+ดร.โลโบโต้: 
 
 ASLS021SH: start: 57033 end: 59366
-SH: (Pant pant.)
-SH: 
+Sheegor: (Pant pant.)
+ชีกอร์: 
 
 ASLS022LO: start: 58933 end: 60066
-LO: You sure?
-LO: 
+Dr.Loboto: You sure?
+ดร.โลโบโต้: 
 
 ASLS023SH: start: 59533 end: 61833
-SH: NO! I mean, YES!
-SH: 
+Sheegor: NO! I mean, YES!
+ชีกอร์: 
 
 ASLS024LO: start: 61566 end: 63533
-LO: All right, all right.
-LO: 
+Dr.Loboto: All right, all right.
+ดร.โลโบโต้: 
 
 ASLS025LO: start: 63700 end: 66800
-LO: Oh, why don't I just go ahead and heat you up a cup?
-LO: 
+Dr.Loboto: Oh, why don't I just go ahead and heat you up a cup?
+ดร.โลโบโต้: 
 
 ASLS027LO: start: 67100 end: 71466
-LO: It's made of turtles! Turtles that you love!
-LO: 
+Dr.Loboto: It's made of turtles! Turtles that you love!
+ดร.โลโบโต้: 
 
 ASLS028LO: start: 71466 end: 75200
-LO: Isn't that right, Mr. Pokeylope?
-LO: 
+Dr.Loboto: Isn't that right, Mr. Pokeylope?
+ดร.โลโบโต้: 
 
 ASLS029SH: start: 73800 end: 76333
-SH: Stop it stop it stop it stop it stop it stop it!
-SH: 
+Sheegor: Stop it stop it stop it stop it stop it stop it!
+ชีกอร์: 
 
 ASLS030LO: start: 75533 end: 78533
-LO: Okay, okay.
-LO: 
+Dr.Loboto: Okay, okay.
+ดร.โลโบโต้: 
 
 ASLS031SH: start: 77066 end: 79000
-SH: (pant)
-SH: 
+Sheegor: (pant)
+ชีกอร์: 
 
 ASLS032LO: start: 78766 end: 81900
-LO: Well, maybe I'll just make some for myself.
-LO: 
+Dr.Loboto: Well, maybe I'll just make some for myself.
+ดร.โลโบโต้: 
 
 ASLS033SH: start: 81333 end: 84033
-SH: 
-SH: 
+Sheegor: 
+ชีกอร์: 
 
 ASLS034LO: start: 82900 end: 89766
-LO: Bring me a good brain, Sheegor, or Mr. Pokeylope becomes Mr. Smokey-lope!
-LO: 
+Dr.Loboto: Bring me a good brain, Sheegor, or Mr. Pokeylope becomes Mr. Smokey-lope!
+ดร.โลโบโต้: 
 
 ASLS035LO: start: 89766 end: 92233
-LO: Ha-ha-ha-ha-ha!
-LO: 
+Dr.Loboto: Ha-ha-ha-ha-ha!
+ดร.โลโบโต้: 
 
 ASLS036LO: start: 92233 end: 95500
-LO: Huah-huah-huah!
-LO: 
+Dr.Loboto: Huah-huah-huah!
+ดร.โลโบโต้: 
 
 ASLS037LO: start: 95500 end: 99300
-LO: Smokey-lope. HAAAAAA!
-LO: 
+Dr.Loboto: Smokey-lope. HAAAAAA!
+ดร.โลโบโต้: 
 
 ASLS038LO: start: 99400 end: 106866
-LO: When you're a dentist, you have to learn to have a sense of humor, you know. It helps to calm the patients down.
-LO: 
+Dr.Loboto: When you're a dentist, you have to learn to have a sense of humor, you know. It helps to calm the patients down.
+ดร.โลโบโต้: 
 
