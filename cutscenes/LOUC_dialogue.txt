@@ -1,4 +1,4 @@
 LOUC001LC: start: 0 end: 2700
 Lungfish-Citizen-1: Hey everyone, here comes Kochamara!
-ชาวปลาปอด-1: 
+ชาวปลาปอด-1: เฮ้ ทุกคน โคชามารามาแล้ว!
 
