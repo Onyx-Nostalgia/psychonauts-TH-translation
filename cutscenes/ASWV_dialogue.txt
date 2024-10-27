@@ -1,32 +1,32 @@
 ASWV001FR: start: 0 end: 4300
 Fred: Is he really gone? Hello? Hello? Anyone else in here?
-เฟร็ด: 
+เฟร็ด: เจ้านั่นไปแล้วใช่ไหม? สวัสดี? ว่าไง? มีใครไหม?
 
 ASWV002FR: start: 4300 end: 9866
 Fred: Hah! We did it, Raz! I'm all me again! One person! Not French!
-เฟร็ด: 
+เฟร็ด: Hah! เราทำได้ แรซ! ฉันกลับมาเป็นฉันอีกครั้ง หนึ่งเดียว! ไม่มีฝรั่งเศส!
 
 ASWV003FR: start: 10166 end: 13433
 Fred: Get me out of this dang jacket so I can go strangle me an orderly!
-เฟร็ด: 
+เฟร็ด: เอาแจ็คเก็ตเนี่ยออกไปซะ! ฉันจะได้ไปบีบคอพยาบาลฉันได้ซะที!
 
 ASWV004RA: start: 13333 end: 17100
 Raz: Hey, good thinking, Fred! That sure would save me a lot of work.
-แรซ: 
+แรซ: เฮ้ ความคิดดี เฟร็ด! นั่นคงช่วยฉันได้เยอะเลย
 
 ASWV005FR: start: 17100 end: 20433
 Fred: Yup! Right after I take a nap!
-เฟร็ด: 
+เฟร็ด: ใช่! หลังจากฉันงีบเสร็จ!
 
 ASWV006RA: start: 20300 end: 23266
 Raz: Yes, a--what? Nap?
-แรซ: 
+แรซ: ได้ --ไงนะ? งีบเหรอ?
 
 ASWV007FR: start: 23266 end: 39766
 Fred: (Sigh) War is hell, Razputin, and I'm sleepy. (Yawn) I'll take care of Crispin for you, just as soon as I... zzzzzzï¿½
-เฟร็ด: 
+เฟร็ด: (ถอานหายใจ) สงครามมันคือนรกเลยนะ แรซปูติน และฉันก็ง่วงด้วย (หาว) ฉันจะจัดการคริสปินให้นาย ทันทีที่ฉัน... zzzzzzï¿½
 
 ASWV008RA: start: 37833 end: 38900
 Raz: Oh man.
-แรซ: 
+แรซ: โถ่ พวก
 
