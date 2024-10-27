@@ -1,24 +1,24 @@
 ASCD024CR: start: 0 end: 3666
-CR: Taking her up yourself this time, eh Doctor? Less work for me!
-CR: 
+Crispin: Taking her up yourself this time, eh Doctor? Less work for me!
+คริสปิน: 
 
 ASCD025FR: start: 4800 end: 6400
-FR: Inmate Whytehead.
-FR: 
+Fred: Inmate Whytehead.
+เฟร็ด: 
 
 ASCD026CR: start: 5100 end: 10400
-CR: Gahh! Chief Orderly Bonaparte! You're... You're
-CR: 
+Crispin: Gahh! Chief Orderly Bonaparte! You're... You'reï¿½
+คริสปิน: 
 
 ASCD027FR: start: 10333 end: 11233
-FR: Armed?
-FR: 
+Fred: Armed?
+เฟร็ด: 
 
 ASCD028CR: start: 11066 end: 11766
-CR: Woo hoo ha ha hahaha!
-CR: 
+Crispin: Woo hoo ha ha hahaha!
+คริสปิน: 
 
 ASCD028CR: start: 11766 end: 14233
-CR: Woo hoo ha ha hahaha!
-CR: 
+Crispin: Woo hoo ha ha hahaha!
+คริสปิน: 
 

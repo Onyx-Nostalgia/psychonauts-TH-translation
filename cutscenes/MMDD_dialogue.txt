@@ -1,26 +1,26 @@
 MMDD001DM: start: 500 end: 2866
-DM: What have you done?
-DM: 
+Den-Mother: What have you done?
+เด็น-มาเธอร์: 
 
 MMDD002DM: start: 3133 end: 4766
-DM: He wakes!
-DM: 
+Den-Mother: He wakes!
+เด็น-มาเธอร์: 
 
 MMDD003BO: start: 11400 end: 14000
 Boyd: I am the Milkman. My milk is delicious.
 บอยด์: 
 
 MMDD004DM: start: 15833 end: 25033
-DM: And the sea shall run white (cough cough) with his rage
-DM: 
+Den-Mother: And the sea shall run white (cough cough) with his rage
+เด็น-มาเธอร์: 
 
 MMDD005RS: start: 31666 end: 37400
-RS: Ooooh ohhhh.
-RS: 
+Rainbow-Squirt: Ooooh ohhhh.
+เนตรนารีสายรุ้ง: 
 
 MMDD005RQ: start: 32966 end: 37166
-RQ: Ooooh ohhhh.
-RQ: 
+Rainbow-Squirt: Ooooh ohhhh.
+เนตรนารีสายรุ้ง: 
 
 MMDD006BO: start: 38533 end: 40833
 Boyd: 

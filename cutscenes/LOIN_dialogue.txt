@@ -1,32 +1,32 @@
 LOIN001LP: start: 23933 end: 25966
-LP: Ah, top of the mornin' to ya, ma'am.
-LP: 
+Lungfish-Citizen-3: Ah, top of the mornin' to ya, ma'am.
+ชาวปลาปอด-3: 
 
 LOIN002LY: start: 26033 end: 30066
-LY: And good day to you, Officer O'Lungfish. How are you today?
-LY: 
+Lungfish-Citizen-4: And good day to you, Officer O'Lungfish. How are you today?
+ชาวปลาปอด-4: 
 
 LOIN003LP: start: 30000 end: 35733
-LP: Oh, damp and happy. Can't complain! And what are you and the wee one up to on this lovely day?
-LP: 
+Lungfish-Citizen-3: Oh, damp and happy. Can't complain! And what are you and the wee one up to on this lovely day?
+ชาวปลาปอด-3: 
 
 LOIN004LY: start: 35800 end: 40733
-LY: Oh, just obeying the law as always. All posted directives followed to the letter.
-LY: 
+Lungfish-Citizen-4: Oh, just obeying the law as always. All posted directives followed to the letter.
+ชาวปลาปอด-4: 
 
 LOIN005LP: start: 40666 end: 44500
-LP: Ah, good to hear! Not a one of us want any trouble that's for sure!
-LP: 
+Lungfish-Citizen-3: Ah, good to hear! Not a one of us want any trouble that's for sure!
+ชาวปลาปอด-3: 
 
 LOIN006LY: start: 44100 end: 45700
-LY: Aaaaahhhhh!!!!
-LY: 
+Lungfish-Citizen-4: Aaaaahhhhh!!!!
+ชาวปลาปอด-4: 
 
 LOIN007LP: start: 47333 end: 48033
-LP: Aaaaaahhhh!!!!
-LP: 
+Lungfish-Citizen-3: Aaaaaahhhh!!!!
+ชาวปลาปอด-3: 
 
 LOIN008LR: start: 48266 end: 50633
-LR: Oh, Goggalor!!!!
-LR: 
+Lungfish-Citizen-2: Oh, Goggalor!!!!
+ชาวปลาปอด-2: 
 

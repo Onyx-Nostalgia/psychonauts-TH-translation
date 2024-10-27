@@ -1,24 +1,24 @@
 BVOT001LA: start: 2200 end: 4566
-LA: I knew you would save me some day.
-LA: 
+Lampita: I knew you would save me some day.
+แลมพิต้า: ฉันรู้ว่านายต้องมาช่วยฉันในสักวัน
 
 BVOT002LA: start: 5366 end: 11866
-LA: He just won't let me go. Tell me, how did you kill him?
-LA: 
+Lampita: He just won't let me go. Tell me, how did you kill him?
+แลมพิต้า: เขาจะไม่ปล่อยวันฉันไป บอกฉันสิ นายฆ่าเขาได้ยังไง?
 
 BVOT003RA: start: 12333 end: 13233
 Raz: Kill who?
-แรซ: 
+แรซ: ฆ่าใคร?
 
 BVOT004LA: start: 13833 end: 15366
-LA: 
-LA: 
+Lampita: 
+แลมพิต้า: El Odio
 
 BVOT005RA: start: 15733 end: 16500
 Raz: I didn't.
-แรซ: 
+แรซ: ฉันเปล่าฆ่านะ
 
 BVOT006RA: start: 19200 end: 19800
 Raz: Edgar?
-แรซ: 
+แรซ: เอ็ดการ์เหรอ?
 
