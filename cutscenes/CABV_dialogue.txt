@@ -11,7 +11,7 @@ Raz: I was just looking for a way out.
 แรซ: 
 
 BBVI008CO: start: 15433 end: 16466
-Coach: Oh
+Coach: Ohï¿½
 โค้ช: 
 
 BBVI011CO: start: 16466 end: 17333

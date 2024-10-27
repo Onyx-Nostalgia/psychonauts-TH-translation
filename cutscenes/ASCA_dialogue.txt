@@ -75,72 +75,72 @@ Raz: Ahhhhh!
 แรซ: 
 
 ASCA019ED: start: 80733 end: 84200
-ED: Well, it's official. The genius is back!
-ED: 
+Edgar: Well, it's official. The genius is back!
+เอ็ดการ์: 
 
 ASCA020ED: start: 84966 end: 87166
-ED: Time to go get ready for my gallery show.
-ED: 
+Edgar: Time to go get ready for my gallery show.
+เอ็ดการ์: 
 
 ASCA021ED: start: 88633 end: 90666
-ED: Rrrrrrr... Ahhh!
-ED: 
+Edgar: Rrrrrrr... Ahhh!
+เอ็ดการ์: 
 
 ASCA022ED: start: 93600 end: 95600
-ED: Uh-oh. This looks bad.
-ED: 
+Edgar: Uh-oh. This looks bad.
+เอ็ดการ์: 
 
 ASCA023ED: start: 96866 end: 97500
-ED: (Sniff sniff, sniff)
-ED: 
+Edgar: (Sniff sniff, sniff)
+เอ็ดการ์: 
 
 ASCA024ED: start: 98166 end: 102800
-ED: Ah, well, that's good. Someone must have turned off the gas long ago.
-ED: 
+Edgar: Ah, well, that's good. Someone must have turned off the gas long ago.
+เอ็ดการ์: 
 
 ASCA025GL: start: 104200 end: 109100
 Gloria: Oh, here's what my poor flowers need! A little water!
 กลอเรีย: 
 
 ASCA026ED: start: 113666 end: 117600
-ED: Oh, no. I spilled all my turpentine and acetone!
-ED: 
+Edgar: Oh, no. I spilled all my turpentine and acetone!
+เอ็ดการ์: 
 
 ASCA027FR: start: 130266 end: 133066
-FR: Hey, Boyd. Long time no see!
-FR: เฮ้, บอยด์. ไม่เจอกันนานเลยนะพวก!
+Fred: Hey, Boyd. Long time no see!
+เฟร็ด: เฮ้, บอยด์. ไม่เจอกันนานเลยนะพวก!
 
 ASCA028ED: start: 133266 end: 140500
-ED: Oh, Mr. Orderly. I did not see you there. I was just taking a little therapeutic walk in the moonlight
-ED: 
+Edgar: Oh, Mr. Orderly. I did not see you there. I was just taking a little therapeutic walk in the moonlightï¿½
+เอ็ดการ์: 
 
 ASCA029FR: start: 140433 end: 144166
-FR: Relax. The asylum's closed. We can all go home.
-FR: ใจเย็น. โรงบาลปิดแล้ว เราทุกคนกลับบ้านได้
+Fred: Relax. The asylum's closed. We can all go home.
+เฟร็ด: ใจเย็น. โรงบาลปิดแล้ว เราทุกคนกลับบ้านได้
 
 ASCA030GL: start: 144633 end: 147266
 Gloria: Leave? Here?
 กลอเรีย: ไป? จากนี่เหรอ?
 
 ASCA031FR: start: 147400 end: 153733
-FR: Yeah, this place is for crazy people. And I don't know about you but I ain't crazy no more!
-FR: ใช่, ที่นี่มันสำหรับคนบ้า แต่ฉันไม่ได้บ้าอีกต่อไปแล้ว
+Fred: Yeah, this place is for crazy people. And I don't know about you but I ain't crazy no more!
+เฟร็ด: ใช่, ที่นี่มันสำหรับคนบ้า แต่ฉันไม่ได้บ้าอีกต่อไปแล้ว
 
 ASCA032ED: start: 154700 end: 157566
-ED: I have to tell you, I'm feeling pretty good.
-ED: 
+Edgar: I have to tell you, I'm feeling pretty good.
+เอ็ดการ์: 
 
 ASCA033GL: start: 157800 end: 161833
 Gloria: You know, maybe it is time for us all to move on.
 กลอเรีย: 
 
 ASCA034FR: start: 162333 end: 163566
-FR: What do you think, Boyd?
-FR: 
+Fred: What do you think, Boyd?
+เฟร็ด: 
 
 ASCA035FR: start: 163833 end: 165800
-FR: You ready to blow this popsicle stand?
-FR: 
+Fred: You ready to blow this popsicle stand?
+เฟร็ด: 
 
 ASCA036BO: start: 179100 end: 181033
 Boyd: The Milkman has completed his route.
@@ -179,23 +179,23 @@ Coach: Never!
 โค้ช: 
 
 ASCA045FO: start: 225866 end: 229600
-FO: The Psychonauts have a word for people who turn on their own!
-FO: 
+Ford: The Psychonauts have a word for people who turn on their own!
+ฟอร์ด: 
 
 ASCA046CO: start: 229700 end: 236233
 Coach: Ha! I don't need the Psychonauts anymore! I'm making my own army! Got a word for that?
 โค้ช: 
 
 ASCA047FO: start: 236266 end: 239033
-FO: Yeah. Gesundheit!
-FO: 
+Ford: Yeah. Gesundheit!
+ฟอร์ด: 
 
 ASCA048CO: start: 239166 end: 239533
 Coach: Heh?
 โค้ช: 
 
 ASCA049CO: start: 240366 end: 244233
-Coach: Ah... ahh... ahhhh AHCHOO!
+Coach: Ah... ahh... ahhhhï¿½ AHCHOO!
 โค้ช: 
 
 ASCA073LI: start: 247866 end: 249033
@@ -215,8 +215,8 @@ Sasha: Always in such a rush, Razputin. It takes years before you're ready for c
 ซาช่า: 
 
 ASCA052FO: start: 315966 end: 322666
-FO: You'd be surprised, Nein. This one's been acing all my extra credit exams.  
-FO: 
+Ford: You'd be surprised, Nein. This one's been acing all my extra credit exams.  
+ฟอร์ด: 
 
 ASCA053RA: start: 322666 end: 325600
 Raz: I beat the Coach once already, and I can do it again.
