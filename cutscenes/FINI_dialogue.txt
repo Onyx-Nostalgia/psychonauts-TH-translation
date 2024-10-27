@@ -27,40 +27,40 @@ Coach: Thanks to that guy right there. Come on up here, Raz!
 โค้ช: 
 
 fini007fo: start: 44966 end: 52933
-FO: We endeavor to build strong minds here, with the power to lift things, to see things, to burn things.
-FO: 
+Ford: We endeavor to build strong minds here, with the power to lift things, to see things, to burn things.
+ฟอร์ด: 
 
 fini008fo: start: 52933 end: 60933
-FO: But it's a special quality of your heart, not your mind, that truly makes a great Psychonaut.
-FO: 
+Ford: But it's a special quality of your heart, not your mind, that truly makes a great Psychonaut.
+ฟอร์ด: 
 
 fini009fo: start: 60933 end: 62700
-FO: This young man has it.
-FO: 
+Ford: This young man has it.
+ฟอร์ด: 
 
 fini010fo: start: 62933 end: 64666
-FO: We did not give it to him. 
-FO: 
+Ford: We did not give it to him. 
+ฟอร์ด: 
 
 fini011fo: start: 64833 end: 69666
-FO: He got it from someone else, long before he came here.
-FO: 
+Ford: He got it from someone else, long before he came here.
+ฟอร์ด: 
 
 fini012fo: start: 70633 end: 78433
-FO: But we CAN give him this, to honor his mind, his courage, and his heart.
-FO: 
+Ford: But we CAN give him this, to honor his mind, his courage, and his heart.
+ฟอร์ด: 
 
 fini013fo: start: 78666 end: 87966
-FO: Son, we do not normally ask this of someone so young, but it is obvious to us all that you are not average.
-FO: 
+Ford: Son, we do not normally ask this of someone so young, but it is obvious to us all that you are not average.
+ฟอร์ด: 
 
 fini014fo: start: 88033 end: 90500
-FO: Will you join us, Razputin?
-FO: 
+Ford: Will you join us, Razputin?
+ฟอร์ด: 
 
 fini015fo: start: 90933 end: 94366
-FO: Will you be... a Psychonaut?
-FO: 
+Ford: Will you be... a Psychonaut?
+ฟอร์ด: 
 
 FINI016LI: start: 125333 end: 132533
 Lili: Okay, let's be perfectly clear about this. That was the best summer of my whole entire life.
@@ -123,8 +123,8 @@ Sasha: Sir, can you teleport this many of us back to headquarters?
 ซาช่า: 
 
 fini031fo: start: 186533 end: 191966
-FO: Hey, what are you people doing in my kitchen? Now git!
-FO: 
+Ford: Hey, what are you people doing in my kitchen? Now git!
+ฟอร์ด: 
 
 fini032co: start: 192200 end: 193566
 Coach: Guess we're taking the jet.
@@ -147,12 +147,12 @@ Sasha: Now how could we do this without our anti-kidnapping specialist?
 ซาช่า: 
 
 fini039gd: start: 222533 end: 224900
-GD: I've taught you everything I can, Son. 
-GD: 
+Augustus: I've taught you everything I can, Son. 
+ออกัสตัส: 
 
 fini040gd: start: 225000 end: 229433
-GD: Now you go show them. Show them all.
-GD: 
+Augustus: Now you go show them. Show them all.
+ออกัสตัส: 
 
 fini042ra: start: 232933 end: 233566
 Raz: Let's go.

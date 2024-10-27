@@ -11,7 +11,7 @@ Raz: Ahh! Try... not... to... sneeze!
 แรซ: 
 
 ASSP004RA: start: 19833 end: 23266
-Raz: Have... to... hold it... in
+Raz: Have... to... hold it... inï¿½
 แรซ: 
 
 ASSP005RA: start: 23266 end: 24800
