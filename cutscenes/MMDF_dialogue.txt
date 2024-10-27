@@ -1,12 +1,12 @@
 MMDF001DM: start: 19933 end: 24033
-DM: I told you not to follow. Now you must die!
-DM: 
+Den-Mother: I told you not to follow. Now you must die!
+เด็น-มาเธอร์: ฉันบอกเธอแล้วว่าอย่าตามมา. ตอนนี้ เธอ ต้อง ตาย!
 
 MMDF002RA: start: 24400 end: 24733
 Raz: But--
-แรซ: 
+แรซ: แต่--
 
 MMDF003DM: start: 24800 end: 26433
-DM: THAT IS THE WAY OF THE RAINBOW SQUIRTS!!!
-DM: 
+Den-Mother: THAT IS THE WAY OF THE RAINBOW SQUIRTS!!!
+เด็น-มาเธอร์: นั่นคือวิถีของเนตรนารีสายรุ้ง!!!
 
