@@ -1,42 +1,42 @@
 LOVE001CO: start: 16666 end: 19900
 Coach: Agggghhh!
-โค้ช: 
+โค้ช: Agggghhh!
 
 LOVE002CO: start: 21900 end: 27633
 Coach: Fine! Take control of this freaky toad! I don't need him to nab children for me anymore!
-โค้ช: 
+โค้ช: ได้! เอาไอ้เจ้าคางคกประหลาดนี่ไปเลย! ฉันไม่ต้องการให้มันจับเด็กๆ มาให้ฉันอีกแล้ว!
 
 LOVE003CO: start: 27800 end: 35466
 Coach: I've got the brain of a little girl back in my lab that's strong enough to power a whole army of Psychoblaster Death Tanks!
-โค้ช: 
+โค้ช: ในห้องทดลองของฉันมีสมองของเด็กผู้หญิงตัวน้อย ที่แข็งแกร่งพอที่จะสร้างพลังให้กับกองทัพรถถังมรณะ Psychoblaster ได้ทั้งหมด!
 
 LOVE005CO: start: 35833 end: 36200
 Coach: Wha--
-โค้ช: 
+โค้ช: อะ--
 
 LOVE006RA: start: 36600 end: 38400
 Raz: Ha ha ha!
-แรซ: 
+แรซ: ฮ่า ฮ่า ฮ่า!
 
 LOVE007CO: start: 38100 end: 38633
 Coach: What?
-โค้ช: 
+โค้ช: อะไร?
 
 LOVE008RA: start: 38400 end: 42533
 Raz: You've got the brain of a little girl! Ha ha ha!
-แรซ: 
+แรซ: นายมีสมองของเด็กผู้หญิงตัวน้อยเลยเหรอ ฮ่าๆๆ!
 
 LOVE009CO: start: 41666 end: 44000
 Coach: I said in my lab!
-โค้ช: 
+โค้ช: ฉันบอกว่าในห้องทดลองของฉันไง!
 
 LOVE010RA: start: 43733 end: 46500
 Raz: I think you've got the muscles of a little girl, too.
-แรซ: 
+แรซ: ฉันคิดว่านายก็มีกล้ามเหมือนเด็กผู้หญิงตัวน้อยเหมือนกันล่ะ
 
 LOVE012CO: start: 46500 end: 47933
 Coach: Ahhhh! Grrrrr!
-โค้ช: 
+โค้ช: Ahhhh! Grrrrr!
 
 LOVE011RA: start: 46500 end: 48133
 Raz: 
@@ -44,5 +44,5 @@ Raz:
 
 LOVE013CO: start: 49400 end: 50233
 Coach: Good one!
-โค้ช: 
+โค้ช: เก่งมาก!
 
