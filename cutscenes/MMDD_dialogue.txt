@@ -1,60 +1,60 @@
 MMDD001DM: start: 500 end: 2866
 Den-Mother: What have you done?
-เด็น-มาเธอร์: 
+เด็น-มาเธอร์: แกทำอะไรลงไป?
 
 MMDD002DM: start: 3133 end: 4766
 Den-Mother: He wakes!
-เด็น-มาเธอร์: 
+เด็น-มาเธอร์: เขาตื่นแล้ว!
 
 MMDD003BO: start: 11400 end: 14000
 Boyd: I am the Milkman. My milk is delicious.
-บอยด์: 
+บอยด์: ฉันคือคนส่งนม นมของฉันอร่อย
 
 MMDD004DM: start: 15833 end: 25033
 Den-Mother: And the sea shall run white (cough cough) with his rage
-เด็น-มาเธอร์: 
+เด็น-มาเธอร์: และท้องทะเลจะต้องขาวโพลน (ไอ ไอ) ด้วยความโกรธเกรี้ยวของเขา
 
 MMDD005RS: start: 31666 end: 37400
 Rainbow-Squirt: Ooooh ohhhh.
-เนตรนารีสายรุ้ง: 
+เนตรนารีสายรุ้ง: Ooooh ohhhh.
 
 MMDD005RQ: start: 32966 end: 37166
 Rainbow-Squirt: Ooooh ohhhh.
-เนตรนารีสายรุ้ง: 
+เนตรนารีสายรุ้ง: Ooooh ohhhh.
 
 MMDD006BO: start: 38533 end: 40833
 Boyd: 
-บอยด์: 
+บอยด์: ฉันคือคนส่งนม นมของฉันอร่อย
 
 MMDD007BO: start: 41133 end: 42666
 Boyd: Special delivery today.
-บอยด์: 
+บอยด์: วันนี้จัดส่งแบบพิเศษ
 
 MMDD008BO: start: 42933 end: 44000
 Boyd: GRAAAAAA!
-บอยด์: 
+บอยด์: GRAAAAAA!
 
 MMDD009BO: start: 62466 end: 64666
 Boyd: 
-บอยด์: 
+บอยด์: ฉันคือคนส่งนม นมของฉันอร่อย
 
 MMDD010RA: start: 66300 end: 68000
 Raz: Boyd? Are you okay?
-แรซ: 
+แรซ: บอยด์ นายโอเคไหม?
 
 MMDD011BO: start: 68100 end: 70266
 Boyd: Time for the final delivery to this address.
-บอยด์: 
+บอยด์: ถึงเวลาจัดส่งครั้งสุดท้ายในที่อยู่นี่แล้ว
 
 MMDD012RA: start: 71266 end: 75766
 Raz: Hey, is that milk regular kind, or the exploding dream kind?
-แรซ: 
+แรซ: เฮ้ นมนั่น นมธรรมดาหรือว่านมระเบิดฝันล่ะ?
 
 MMDD013BO: start: 75766 end: 79166
 Boyd: It's fortified with what the world wants, what the world deserves.
-บอยด์: 
+บอยด์: มันเสริมด้วยสิ่งที่โลกต้องการ สิ่งที่โลกสมควรได้รับ
 
 MMDD014RA: start: 80533 end: 83633
 Raz: Are you sure don't want to just talk about this, Boyd?
-แรซ: 
+แรซ: นายแน่ใจนะว่าไม่อยากคุยเรื่องนี้กันก่อนน่ะ บอยด์?
 
