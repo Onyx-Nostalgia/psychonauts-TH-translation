@@ -1,48 +1,48 @@
 CALP001RA: start: 2333 end: 3166
 Raz: Hey, Lili.
-แรซ: 
+แรซ: เฮ้ ลิลี่
 
 CALP002LI: start: 3766 end: 6900
 Lili: Going for the advanced training? What's the rush?
-ลิลี่: 
+ลิลี่: จะไปฝึกขั้นสูงแล้วเหรอ? รีบอะไรขนาดนั้น?
 
 CALP003RA: start: 6900 end: 11333
 Raz: Are you kidding? I only have a few days to become a Psychonaut or I lose my shot forever!
-แรซ: 
+แรซ: ล้อเล่นใช่ไหม? ฉันเหลือเวลาอีกไม่กี่วันเพื่อจะได้เป็นไซโคนอท ไม่อย่างนั้นก็จะเสียโอกาสไปตลอดชีวิต!
 
 CALP004LI: start: 11633 end: 17533
 Lili: Look, Raz, I hate to burst your bubble, but the Psychonauts are not what they used to be.
-ลิลี่: 
+ลิลี่: ฟังนะ แรซ ฉันไม่อยากทำลายความฝันนายหรอก แต่ไซโคนอทไม่ได้เป็นอย่างที่เคยเป็นอีกแล้ว
 
 CALP005LI: start: 17700 end: 21900
 Lili: Times have changed. The world just doesn't need us anymore.
-ลิลี่: 
+ลิลี่: สิ่งต่างๆ เปลี่ยนไปแล้ว โลกไม่ต้องการเราอีกต่อไป
 
 CALP006RA: start: 21900 end: 23800
 Raz: The world does too need Psychonauts!
-แรซ: 
+แรซ: โลกยังต้องการไซโคนอทอยู่นะ!
 
 CALP007RA: start: 24100 end: 30200
 Raz: Right here at this very camp, in fact. I think there are several fishy things that need psychic investigating.
-แรซ: 
+แรซ: ที่นี่ที่ค่ายแห่งนี้เลยล่ะ ที่จริง ฉันคิดว่ามีเรื่องแปลกๆ หลายอย่างที่ต้องใช้พลังจิตสืบสวน
 
 CALP008LI: start: 30200 end: 32000
 Lili: You are so immature!
-ลิลี่: 
+ลิลี่: นายยังเด็กเกินไป!
 
 CALP009LI: start: 32166 end: 37166
 Lili: And cute! When are you gonna just shut up and kiss me?
-ลิลี่: 
+ลิลี่: แถมยังน่ารักอีกด้วย! เมื่อไรนายจะหยุดพูดแล้วมาจูบฉันสักที?
 
 CALP010RA: start: 37333 end: 38566
 Raz: Shut up and do what?
-แรซ: 
+แรซ: หยุดพูดแล้วทำอะไรนะ?
 
 CALP011LI: start: 38566 end: 42766
 Lili: Oh. I didn't know you could--uh, I gotta go. Bye.
-ลิลี่: 
+ลิลี่: โอ้ ฉันไม่รู้ว่านายพูดถึง... เอ่อ ฉันต้องไปแล้ว บาย
 
 CALP012LI: start: 42766 end: 45500
 Lili: So embarrassing!
-ลิลี่: 
+ลิลี่: น่าอายชะมัด!
 
