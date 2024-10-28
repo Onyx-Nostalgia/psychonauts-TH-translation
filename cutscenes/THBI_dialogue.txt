@@ -1,60 +1,60 @@
 THBI000RA: start: 3966 end: 6766
 Raz: Okay Phantom, it's time to find out who--
-แรซ: 
+แรซ: โอเค แฟนทอม ถึงเวลาที่เราจะรู้แล้วว่า...
 
 THBI001RA: start: 7600 end: 9600
 Raz: ...you really are.
-แรซ: 
+แรซ: ...ตัวจริงของแกคือใคร
 
 THBI002RA: start: 15033 end: 15466
 Raz: What?
-แรซ: 
+แรซ: อะไรนะ?
 
 THBI003RA: start: 19266 end: 21000
 Raz: I totally guessed that!
-แรซ: 
+แรซ: เป็นอย่างที่ฉันคิด!
 
 THBI004FF: start: 21500 end: 23500
 Orange-Flower: Nuh-uh. You said it was Becky!
-น้องส้ม: 
+น้องส้ม: ไม่ใช่หรอก นายบอกว่าเป็นเบ็คกี้!
 
 THBI005RA: start: 23866 end: 24400
 Raz: Tssssst!
-แรซ: 
+แรซ: ชู่ว!
 
 THBI006RA: start: 26033 end: 28033
 Raz: Okay, the jig is up, PHANTOM!
-แรซ: 
+แรซ: โอเค มาถึงตอนนี้แล้ว แฟนทอม!
 
 THBI007JA: start: 28500 end: 37733
 Jasper: What? Why, I never! How dare you accuse me of being the rugged and romantic scoundrel that has thrilled and terrified audiences for years!
-แจสเปอร์: 
+แจสเปอร์: อะไรนะ? ทำไม ไม่ใช่ฉัน! นี่แกกล้าดียังไงมาหาว่าฉันเป็นคนเลวที่ทั้งน่าตื่นเต้นและน่ากลัว ที่ทำให้ผู้ชมทั้งหลงใหลและหวาดกลัวมาหลายปีกัน!
 
 THBI008RA: start: 38133 end: 45366
 Raz: Yeah, I guess you're right. He's so agile, and limber, and... thin. He could never be you.
-แรซ: 
+แรซ: ใช่ ฉันว่านายพูดถูก เขาทั้งสูง ปราดเปรียว และ...ผอมเพรียว ไม่มีทางเป็นนายได้หรอก
 
 THBI009JA: start: 47000 end: 49333
 Jasper: Why you! Of course it's me!
-แจสเปอร์: 
+แจสเปอร์: แกนี่มัน! แน่นอนเป็นฉันเองล่ะ!
 
 THBI010RA: start: 49333 end: 55066
 Raz: Well it's time to hang up the cape, Tubs, because your days of terrorizing the theater as the Phantom are over.
-แรซ: 
+แรซ: ถึงเวลาที่นายจะเลิกใส่เสื้อคลุมแล้ว ทับส์ เพราะวันแห่งความหวาดกลัวในโรงละครในฐานะแฟนทอมของนายมันสิ้นสุดลงแล้ว
 
 THBI011JA: start: 55066 end: 63733
 Jasper: Maybe as the Phantom, but he's nothing compared to the full, destructive force of an angry critic! Ha ha ha!
-แจสเปอร์: 
+แจสเปอร์: อาจจะในฐานะแฟนทอม แต่มันเทียบไม่ได้กับพลังทำลายล้างในฐานะนักวิจารณ์ที่โกรธแค้นหรอก! ฮ่าๆๆๆ
 
 THBI012RA: start: 63733 end: 70666
 Raz: Hmm. How can I say this and still sound cool... sticks and stones may break my bones but words will never hurt me?
-แรซ: 
+แรซ: อืม ฉันจะพูดยังไงให้มันดูเท่ดีนะ... ไม้และหินอาจป่นกระดูกฉันได้หากแต่คำพูดมิอาจทำร้ายฉันได้หรอก?
 
 THBI013JA: start: 81466 end: 82533
 Jasper: Well then!
-แจสเปอร์: 
+แจสเปอร์: แล้วถ้างั้น!
 
 THBI014JA: start: 82533 end: 86433
 Jasper: How 'bout these? Wahahahahaha!
-แจสเปอร์: 
+แจสเปอร์: อย่างนี้ล่ะ! วะฮะฮะฮะ!
 
