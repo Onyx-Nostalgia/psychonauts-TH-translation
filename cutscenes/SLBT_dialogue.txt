@@ -1,20 +1,20 @@
 SLBT001RA: start: 0 end: 2800
 Raz: So, what's this hair dryer thing do?
-แรซ: 
+แรซ: แล้วเจ้าเครื่องเป่าผมนี่มันทำอะไรได้ครับ?
 
 SLBT002SA: start: 2866 end: 5066
 Sasha: Ah, you're ready for the Brain Tumbler.
-ซาช่า: 
+ซาช่า: อ่า เธอพร้อมสำหรับ Brain Tumbler แล้วสินะ
 
 SLBT003SA: start: 5233 end: 12566
 Sasha: With this device we will send you deep into your own psyche, where you should find unparalleled insight and power.
-ซาช่า: 
+ซาช่า: ด้วยอุปกรณ์นี้แเราจะส่งเธอลึกเข้าไปยังจิตใจของเธอ ที่ซึ่งเธอควรจะได้ค้นพบความเข้าใจและพลังที่เหนือชั้น
 
 SLBT004RA: start: 12566 end: 15266
 Raz: Excellent. Tumble away.
-แรซ: 
+แรซ: ยอดเยี่ยม ลุยกันเลย
 
 SLBT005SA: start: 15500 end: 21033
 Sasha: Now just relax. This will not hurt, unless something really very bad happens.
-ซาช่า: 
+ซาช่า: ทีนี้ก็ผ่อนคลาย มันไม่ทำให้เจ็บ เว้นแต่จะมีอะไรบางอย่างที่เลวร้ายมาก ๆ เกิดขึ้น
 
