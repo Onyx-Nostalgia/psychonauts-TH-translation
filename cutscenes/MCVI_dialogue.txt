@@ -1,56 +1,56 @@
 MCVI000RA: start: 33300 end: 38900
 Raz: Ah! Ah! Bunnies! No! No meat! Ah!
-แรซ: 
+แรซ: Ah! Ah! พวกกระต่าย! ไม่นะ ไม่เอาเนื้อ! Ah!
 
 MCVI001GD: start: 38533 end: 43166
 Augustus: Shhh. No more. No more meat. Look.
-ออกัสตัส: 
+ออกัสตัส: ชู่วว ไม่มีแล้ว ไม่มีเนื้อแล้ว ดูสิ
 
 MCVI002OL: start: 46700 end: 51100
 Oly: There you go. Goooood little bunny. Ha ha!
-โอลี้: 
+โอลี้: อยู่นี่เอง เจ้าต่ายน้อยยย Ha ha!
 
 MCVI003OL: start: 51766 end: 56600
 Oly: Hey, thanks for helping me save the bunnies. And for talking to my dad.
-โอลี้: 
+โอลี้: เฮ้ ขอบคุณที่ช่วยฉันกับพวกต่ายนะและเรื่องคุยกับพ่อฉันด้วย
 
 MCVI004RA: start: 57600 end: 60366
 Raz: Uh, no problem, little Oly.
-แรซ: 
+แรซ: เอ่อ ไม่มีปัญหา โอลี้น้อย
 
 MCVI005OL: start: 60433 end: 63900
 Oly: Bye! Bye! Wave goodbye, Mr. Bun!
-โอลี้: 
+โอลี้: บาย! บาย! โบกมือหน่อย มิสเตอร์บัน!
 
 MCVI006RA: start: 64033 end: 64866
 Raz: Where's he going?
-แรซ: 
+แรซ: เขาจะไปไหนน่ะ?
 
 MCVI007GD: start: 65100 end: 68100
 Augustus: We're separating the brains now Razputin.
-ออกัสตัส: 
+ออกัสตัส: ตอนนี้เรากำลังถูกแยกสมองออกจากัน แรซปูติน
 
 MCVI008GD: start: 68266 end: 69400
 Augustus: He'll be fine.
-ออกัสตัส: 
+ออกัสตัส: เขาจะไม่เป็นไร
 
 MCVI009GD: start: 69466 end: 70866
 Augustus: Let's go inside.
-ออกัสตัส: 
+ออกัสตัส: ไปข้างในกันเถอะ
 
 MCVI010RA: start: 70866 end: 73800
 Raz: Man, I can't wait to tell you about all the messed up stuff that happened.
-แรซ: 
+แรซ: ให้ตายสิ ผมแทบจะรอไม่ไหวแล้วที่จะได้เล่าเรื่องบ้า ๆ ทั้งหมดที่เกิดขึ้นให้พ่อฟัง
 
 MCVI011GD: start: 74400 end: 79666
 Augustus: Oh, I know a lot of it. While you were out I... poked around a bit. 
-ออกัสตัส: 
+ออกัสตัส: อ๋อ พ่อรู้อะไรมาเยอะเลยล่ะ ในช่วงที่ลูกไม่อยู่ พ่อ... ตามสืบนิดหน่อย
 
 MCVI013GD: start: 79966 end: 82700
 Augustus: Tell me about this Lili person.
-ออกัสตัส: 
+ออกัสตัส: ไหนบอกพ่อสิ เรื่อง ลิลี่คนนี้น่ะ
 
 MCVI014RA: start: 82866 end: 83533
 Raz: Hey!
-แรซ: 
+แรซ: เฮ้!
 
