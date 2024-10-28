@@ -1,6 +1,6 @@
 THBF000SF: start: 3000 end: 8133
 Pink-Flower: And where would Gloria be without her muse?
-ดอกชมพู: แล้วกลอเรียจะอยู่ไหนได้ หากไร้ซึ่งแรงบันดาลใจ?
+ดอกชมพู: และกลอเรียจะไปไหนได้ หากไร้ซึ่งแรงบันดาลใจของเธอ?
 
 thbf001hf: start: 8000 end: 9733
 Yellow-Actor: Her inner sunshine!
@@ -20,7 +20,7 @@ Orange-Flower:
 
 thbf004sf: start: 16400 end: 19100
 Pink-Flower: Bonita Soleil!
-ดอกชมพู: โบนิต้า โซเลย์!
+ดอกชมพู: โบนิต้า โซเลล์!
 
 thbf005hf: start: 16500 end: 18400
 Yellow-Actor: 
