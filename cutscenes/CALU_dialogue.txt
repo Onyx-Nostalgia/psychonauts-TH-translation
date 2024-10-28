@@ -1,52 +1,52 @@
 CALU006RA: start: 3700 end: 4266
 Raz: (sniff sniff)
-แรซ: 
+แรซ: (ดมๆ)
 
 CALU002RA: start: 14433 end: 14800
 Raz: Gah!
-แรซ: 
+แรซ: อ้า!
 
 CALU003RA: start: 15066 end: 18366
 Raz: Hey, was that you? Looking at me?
-แรซ: 
+แรซ: เฮ้ นั่นเธอใช่ไหม? ที่มองฉันอยู่?
 
 CALU004LI: start: 18833 end: 24733
 Lili: Maybe you should try getting over yourself? There were a lot of other people on that stage besides you.
-ลิลี่: 
+ลิลี่: บางทีนายควรจะเลิกคิดถึงแต่ตัวเองได้แล้วนะ? บนเวทีตอนนั้นมีคนอื่นอีกตั้งเยอะนอกจากนาย
 
 CALU005RA: start: 24933 end: 27700
 Raz: No, just now. In the woods.
-แรซ: 
+แรซ: ไม่ หมายถึงตอนนี้ ในป่า
 
 CALU006RA: start: 28300 end: 28866
 Raz: (sniff sniff)
-แรซ: 
+แรซ: (ดมๆ)
 
 CALU007RA: start: 29233 end: 32100
 Raz: No, it must have been something else.
-แรซ: 
+แรซ: ไม่ใช่แฮะ ต้องเป็นอย่างอื่นแน่เลย
 
 CALU008RA: start: 32233 end: 33666
 Raz: You don't smell like pond scum.
-แรซ: 
+แรซ: เธอไม่ได้มีกลิ่นเหม็นเหมือนตะไคร่น้ำ
 
 CALU009LI: start: 34333 end: 36900
 Lili: Nice. You should write greeting cards.
-ลิลี่: 
+ลิลี่: เยี่ยม นายน่าจะไปเขียนการ์ดอวยพรนะ
 
 CALU017RA: start: 37200 end: 42666
 Raz: There was some sort of shadowy being out there... lurking... watching...
-แรซ: 
+แรซ: มีอะไรบางอย่างตะคุ่มๆ อยู่ข้างนอก... แอบซ่อนอยู่... กำลังเฝ้ามอง...
 
 CALU018LI: start: 42666 end: 52500
 Lili: I know of only one creature who fits that description. It likes to hide in dark places, silently watching unsuspecting children from a distance.
-ลิลี่: 
+ลิลี่: ฉันรู้จักสัตว์ประหลาดแค่ตัวเดียวที่ลักษณะตามที่นายเล่าเป๊ะ มันชอบซ่อนตัวในที่มืดๆ เฝ้ามองเด็กๆ ที่ไม่ทันระวังตัวจากระยะไกล
 
 CALU019RA: start: 52500 end: 54133
 Raz: Really? Who?
-แรซ: 
+แรซ: จริงเหรอ? คัวอะไร?
 
 CALU020LI: start: 54500 end: 56966
 Lili: You, tree sitter!  Hahahaha!
-ลิลี่: 
+ลิลี่: นายไง ไอ้คนรักษ์ต้นไม้! ฮ่าๆๆๆๆ!
 
