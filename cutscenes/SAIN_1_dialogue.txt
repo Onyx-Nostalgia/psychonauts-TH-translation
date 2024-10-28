@@ -1,56 +1,56 @@
 SAIN001SA: start: 4633 end: 6233
 Sasha: Welcome to my mind.
-ซาช่า: 
+ซาช่า: ยินดีต้อนรับสู่จิตใจของฉัน
 
 SAIN002RA: start: 6300 end: 9066
 Raz: Huh. It's so empty.
-แรซ: 
+แรซ: หืม โล่งจัง
 
 SAIN003RA: start: 9700 end: 10733
 Raz: Uh, I mean--
-แรซ: 
+แรซ: เอ่อ ผมหมายถึง--
 
 SAIN004SA: start: 10733 end: 15600
 Sasha: There's more here than meets the eye, but I've learned to keep it under strict control.
-ซาช่า: 
+ซาช่า: มีอะไรมากกว่าที่ตาเห็น แต่ฉันเรียนรู้ที่จะควบคุมมันไว้อย่างเข้มงวด
 
 SAIN005SA: start: 15666 end: 18900
 Sasha: And that's what I'm going to teach you: control.
-ซาช่า: 
+ซาช่า: และนั่นคือสิ่งที่ฉันจะสอนเธอ: "การควบคุม"
 
 SAIN006SA: start: 19000 end: 28400
 Sasha: Your feelings, your fears, your anger. You must learn to control them, focus them, concentrate them, and release them.
-ซาช่า: 
+ซาช่า: ความรู้สึก ความกลัว ความโกรธ เธอต้องเรียนรู้ที่จะควบคุมมัน มุ่งความสนใจไปที่มัน รวมมันเข้าด้วยกัน และปล่อยมันออกมา
 
 SAIN007RA: start: 28333 end: 29466
 Raz: As therapy?
-แรซ: 
+แรซ: เป็นการบำบัดเหรอ?
 
 SAIN008SA: start: 29400 end: 31300
 Sasha: No, as firepower!
-ซาช่า: 
+ซาช่า: ไม่ใช่ เป็นอาวุธ!
 
 SAIN009SA: start: 31566 end: 38366
 Sasha: Say something hideous and horrible jumps out at you. Something so disgusting that it simply must die.
-ซาช่า: 
+ซาช่า: สมมติว่ามีอะไรที่น่าเกลียดน่ากลัวกระโดดออกมาใส่เธอ อะไรที่น่าขยะแขยงจนต้องกำจัดมันให้สิ้นซาก
 
 SAIN010SA: start: 40466 end: 45866
 Sasha: Ahhh, oh, so tacky... I can't... look... directly at it!
-ซาช่า: 
+ซาช่า: โอ้ ไร้รสนิยมสิ้นดี! มอง... ตรง ๆ... ไม่ได้เลย!
 
 SAIN011SA: start: 46200 end: 52633
 Sasha: But I control those feelings, focus them, concentrate, and
-ซาช่า: 
+ซาช่า: แต่ฉันควบคุมความรู้สึกเหล่านั้น มุ่งความสนใจไปที่มัน รวมพลัง และ...
 
 SAIN012SA: start: 52633 end: 53433
 Sasha: release!
-ซาช่า: 
+ซาช่า: ปลดปล่อย!
 
 SAIN013SA: start: 54200 end: 56300
 Sasha: And the world is a better place.
-ซาช่า: 
+ซาช่า: และโลกก็ดีขึ้นกว่าเดิม
 
 SAIN014SA: start: 56433 end: 56966
 Sasha: Your turn.
-ซาช่า: 
+ซาช่า: ตาเธอแล้ว
 
