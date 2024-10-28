@@ -1,6 +1,6 @@
 MCBI001OL: start: 1700 end: 2233
 Oly: Help!
-โอลี้: 
+โอลี้: ช่วยด้วย!
 
 mcbi002ol: start: 3333 end: 3933
 Oly: 
@@ -8,57 +8,57 @@ Oly:
 
 mcbi003ol: start: 4566 end: 6900
 Oly: You gotta help me protect the bunnies!
-โอลี้: 
+โอลี้: นายต้องช่วยฉันปกป้องพวกกระต่ายนะ!
 
 mcbi004ra: start: 7100 end: 8766
 Raz: Hey, hey. Little Oly!
-แรซ: 
+แรซ: เฮ้ ๆ โอลี้น้อย!
 
 mcbi005ra: start: 8900 end: 11233
 Raz: It's okay, those monsters are gone now.
-แรซ: 
+แรซ: ไม่เป็นไร สัตว์ประหลาดพวกนั้นหายไปแล้ว
 
 mcbi006ra: start: 11433 end: 14266
 Raz: The bunnies are safe. We're all safe!
-แรซ: 
+แรซ: พวกกระต่ายปลอดภัย เราทุกคนปลอดภัย!
 
 mcbi007ol: start: 14366 end: 16800
 Oly: No, it's not safe!
-โอลี้: 
+โอลี้: ไม่ มันยังไม่ปลอดภัย!
 
 mcbi008ol: start: 16833 end: 18466
 Oly: He's coming!
-โอลี้: 
+โอลี้: เขากำลังมา!
 
 mcbi009ra: start: 18600 end: 19366
 Raz: Who's coming?
-แรซ: 
+แรซ: ใครกำลังมา?
 
 mcbi010ol: start: 20000 end: 21966
 Oly: My dad!
-โอลี้: 
+โอลี้: พ่อฉัน!
 
 mcbi011ra: start: 21966 end: 24600
 Raz: Your dad... the butcher?
-แรซ: 
+แรซ: พ่อนาย...คนขายเนื้ออะเหรอ?
 
 mcbi012ol: start: 24766 end: 27533
 Oly: He says little bunnies are good for nothing.
-โอลี้: 
+โอลี้: พ่อบอกว่า พวกกระต่ายตัวน้อยมันไร้ประโยชน์
 
 mcbi013ol: start: 27833 end: 29366
 Oly: Nothing but food!
-โอลี้: 
+โอลี้: เป็นได้แค่อาหาร!
 
 mcbi014bu: start: 30266 end: 32866
 Butcher: 
-คนขายเนื้อ: 
+คนขายเนื้อ: กระต่ายตัวน้อย อยู่นี่เอง!
 
 mcbi015ol: start: 32700 end: 35133
 Oly: Ahhhhhhhhhhhh!
-โอลี้: 
+โอลี้: อ้าาาาาาาา!
 
 mcbi016bu: start: 35333 end: 38833
 Butcher: DON'T RUN OR ELSE DADDY'S GONNA KILL YA!!!
-คนขายเนื้อ: 
+คนขายเนื้อ: อย่าหนี ไม่งั้นพ่อจะฆ่าแก!!!
 
