@@ -1,24 +1,24 @@
 ASIN001LF: start: 13900 end: 22633
 Linda: When it is your wish to travel across the lake, you may return to either shore and summon me with that.
-ลินดา: 
+ลินดา: เมื่อไหร่ที่เจ้าอยากข้ามทะเลสาบ เจ้าก็แค่กลับมาที่ฝั่งใดฝั่งหนึ่งแล้วเรียกข้าก็ได้
 
 ASIN002RA: start: 21100 end: 25800
 Raz: Thanks, Hulking Lungfish. You know, you really aren't as hideous as people say.
-แรซ: 
+แรซ: ขอบใจนะ เจ้าปลาปอดยักษ์ รู้ไหม แกไม่ได้น่ากลัวอย่างที่คนอื่นว่าเลยนะ
 
 ASIN003LF: start: 26000 end: 36100
 Linda: You may call me now by my true name, Razputin. The name given to me by my people.
-ลินดา: 
+ลินดา: เจ้าจะเรียกข้าด้วยชื่อจริงก็ได้นะ แรซปูติน ชื่อที่คนของข้าตั้งให้
 
 ASIN004RA: start: 34600 end: 37000
 Raz: And what name is that, noble lake creature?
-แรซ: 
+แรซ: แล้วชื่อนั้นคืออะไรล่ะ สิ่งมีชีวิตผู้สูงส่งแห่งทะเลสาบ?
 
 ASIN005LF: start: 37933 end: 41133
 Linda: Linda.
-ลินดา: 
+ลินดา: ลินดา
 
 ASIN006RA: start: 43066 end: 44600
 Raz: What a magical lady.
-แรซ: 
+แรซ: ช่างเป็นชื่อที่งดงามเหลือเกิน
 
