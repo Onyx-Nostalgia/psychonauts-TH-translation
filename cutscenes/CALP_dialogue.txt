@@ -8,7 +8,7 @@ Lili: Going for the advanced training? What's the rush?
 
 CALP003RA: start: 6900 end: 11333
 Raz: Are you kidding? I only have a few days to become a Psychonaut or I lose my shot forever!
-แรซ: ล้อเล่นฉันใช่ไหม? ฉันเหลือเวลาอีกไม่กี่วันเพื่อจะได้เป็นไซโคนอท ไม่อย่างนั้นก็เสียโอกาสไปตลอดชีวิต!
+แรซ: ล้อเล่นใช่ไหม? ฉันเหลือเวลาอีกไม่กี่วันเพื่อจะได้เป็นไซโคนอท ไม่อย่างนั้นก็จะเสียโอกาสไปตลอดชีวิต!
 
 CALP004LI: start: 11633 end: 17533
 Lili: Look, Raz, I hate to burst your bubble, but the Psychonauts are not what they used to be.
