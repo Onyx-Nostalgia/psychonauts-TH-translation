@@ -1,34 +1,34 @@
 BVVI001DI: start: 700 end: 1066
 Dingo: Ooof!
-ดิงโก้: 
+ดิงโก้: อุ๊ฟ!
 
 BVVI002LA: start: 1166 end: 4600
 Lampita: Ah-hoo hoo!
-แลมพิต้า: 
+แลมพิต้า: Ah-hoo hoo!
 
 BVVI004LA: start: 6133 end: 9066
 Lampita: It's... all right... it's okay.
-แลมพิต้า: 
+แลมพิต้า: มัน...จะไม่เป็นไร...ทุกอย่างจะโอเค
 
 BVVI005LA: start: 9333 end: 15400
 Lampita: We'll win the game... some... other... dayï¿½ oooh hooo hoo!
-แลมพิต้า: 
+แลมพิต้า: เราจะต้องชนะ...ใน...สักวันï¿½ oooh hooo hoo!
 
 BVVI006RA: start: 15400 end: 21333
 Raz: Ug, please. Edgar, look at them. They're too pathetic to hurt you any more.
-แรซ: 
+แรซ: ขอเถอะ เอ็ดการ์ ดูพวกนั้นสิ พวกเขาอ่อนแอเกินกว่าจะมาทำร้ายนายได้อีกแล้วนะ
 
 BVVI007RA: start: 21800 end: 23566
 Raz: Can't you just let it go?
-แรซ: 
+แรซ: นายจะปล่อยพวกเขาไปไม่ได้เหรอ?
 
 BVVI008ED: start: 24266 end: 29700
 Edgar: How embarrassing. I can't believe I was hung up for so long over these losers.
-เอ็ดการ์: 
+เอ็ดการ์: น่าอับอายจริง ๆ ฉันไม่อยากจะเชื่อว่าตัวเองมัวแต่สนใจขี้แพ้พวกนี้มานานขนาดนี้"
 
 BVVI009LA: start: 32366 end: 36000
 Lampita: Um... uh... I--I always loved you more?
-แลมพิต้า: 
+แลมพิต้า: เอ่อ... เอิ่ม... ฉะ--ฉันรักนายมากกว่าเสมอนะ?
 
 BVVI011DI: start: 41133 end: 47200
 Dingo: 
@@ -36,5 +36,5 @@ Dingo:
 
 BVVI010LA: start: 41133 end: 47200
 Lampita: Ahhhhhhhhhhhhhhhhh!
-แลมพิต้า: 
+แลมพิต้า: Ahhhhhhhhhhhhhhhhh!
 
