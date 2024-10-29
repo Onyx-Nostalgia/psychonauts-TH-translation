@@ -1,116 +1,116 @@
 BVDO001ED: start: 0 end: 3800
-ED: Snnnrl! Ooh-ooh-ug.
-ED: 
+Edgar: Snnnrl! Ooh-ooh-ug.
+เอ็ดการ์: Snnnrl! Ooh-ooh-ug.
 
 BVDO003ED: start: 3800 end: 5633
-ED: Where am I?
-ED: 
+Edgar: Where am I?
+เอ็ดการ์: ฉันอยู่ที่ไหน?
 
 BVDO004MA: start: 5633 end: 10766
-MA: Thank you for preparing the bull, my humble picador. I shall now finish this beast off easily.
-MA: 
+Matador: Thank you for preparing the bull, my humble picador. I shall now finish this beast off easily.
+มาธาดอร์: ขอบคุณสำหรับการเตรียมกระทิงให้ข้า ผู้ช่วยแสนต่ำต้อย ฉันจะจัดการสัตว์ร้ายตัวนี้ให้สิ้นซาก
 
 BVDO005RA: start: 10733 end: 15366
 Raz: Edgar, listen. There is no El Odio, no Lampita, no Dingo.
-แรซ: 
+แรซ: เอ็ดการ์ ฟังนะ ไม่มีเอล โอดิโอ ไม่มีแลมพิตา ไม่มีดิงโก้
 
 BVDO008ED: start: 15366 end: 16300
-ED: Wha--
-ED: 
+Edgar: Wha--
+เอ็ดการ์: อะไรนะ
 
 BVDO011RA: start: 16300 end: 19600
 Raz: You can't let the junior varsity pep squad ruin your life!
-แรซ: 
+แรซ: นายจะปล่อยให้พวกกองเชียร์ตัวประกอบมาทำลายชีวิตนายไม่ได้นะ!
 
 BVDO012DI: start: 19466 end: 21633
-DI: Um, what's up with the "Junior?"
-DI: 
+Dingo: Um, what's up with the "Junior?"
+ดิงโก้: อืม ทำไมต้อง "ตัวประกอบ" ด้วยล่ะ?
 
 BVDO013LA: start: 21533 end: 24333
-LA: Yeah, we were full-on varsity.
-LA: 
+Lampita: Yeah, we were full-on varsity.
+แลมพิต้า: ใช่ พวกเราเป็นตัวจริงต่างหาก
 
 BVDO014DI: start: 24333 end: 25400
-DI: Gimme a G!
-DI: 
+Dingo: Gimme a G!
+ดิงโก้: ขอเสียง G!
 
 BVDO015LA: start: 25266 end: 26000
-LA: G!
-LA: 
+Lampita: G!
+แลมพิต้า: G!
 
 BVDO016DI: start: 25800 end: 27066
-DI: Gimme an O!
-DI: 
+Dingo: Gimme an O!
+ดิงโก้: ขอเสียง O!
 
 BVDO017LA: start: 26733 end: 27300
-LA: O!
-LA: 
+Lampita: O!
+แลมพิต้า: O!
 
 BVDO018DI: start: 27233 end: 28366
-DI: Gimme a B!
-DI: 
+Dingo: Gimme a B!
+ดิงโก้: ขอเสียง B!
 
 BVDO019LA: start: 28133 end: 28666
-LA: B!
-LA: 
+Lampita: B!
+แลมพิต้า: B!
 
 BVDO020DI: start: 28533 end: 29666
-DI: Gimme a U!
-DI: 
+Dingo: Gimme a U!
+ดิงโก้: ขอเสียง U!
 
 BVDO021LA: start: 29433 end: 30100
-LA: U!
-LA: 
+Lampita: U!
+แลมพิต้า: U!
 
 BVDO022DI: start: 30000 end: 31066
-DI: Gimme an L!
-DI: 
+Dingo: Gimme an L!
+ดิงโก้: ขอเสียง L!
 
 BVDO023LA: start: 30966 end: 31566
-LA: L!
-LA: 
+Lampita: L!
+แลมพิต้า: L!
 
 BVDO024DI: start: 31500 end: 32666
-DI: Gimme another L!
-DI: 
+Dingo: Gimme another L!
+ดิงโก้: ขอเสียง L! อีกตัว
 
 BVDO025LA: start: 32566 end: 33133
-LA: 
-LA: 
+Lampita: 
+แลมพิต้า: L!
 
 BVDO026DI: start: 33000 end: 34000
-DI: Gimme an S!
-DI: 
+Dingo: Gimme an S!
+ดิงโก้: ขอเสียง S!
 
 BVDO027LA: start: 33833 end: 34533
-LA: S!
-LA: 
+Lampita: S!
+แลมพิต้า: S!
 
 BVDO028DI: start: 34366 end: 35466
-DI: What's that spell?
-DI: 
+Dingo: What's that spell?
+ดิงโก้: อ่านว่าอะไรนะ?
 
 BVDO029LA: start: 35466 end: 39033
-LA: Goooooooooo BULLS! Yeah! Wooo!
-LA: 
+Lampita: Goooooooooo BULLS! Yeah! Wooo!
+แลมพิต้า: Goooooooooo BULLS! Yeah! Wooo!
 
 BVDO030DI: start: 35466 end: 39266
-DI: 
-DI: 
+Dingo: 
+ดิงโก้: 
 
 BVDO033ED: start: 37533 end: 40300
-ED: Ahhhhhh!
-ED: 
+Edgar: Ahhhhhh!
+เอ็ดการ์: Ahhhhhh!
 
 BVDO034RA: start: 46433 end: 48600
 Raz: No, wait! Edgar!
-แรซ: 
+แรซ: ไม่ เดี๋ยว! เอ็ดการ์
 
 BVDO035LA: start: 48600 end: 49233
-LA: Olé!
-LA: 
+Lampita: Olï¿½!
+แลมพิต้า: Olï¿½!
 
 BVDO036DI: start: 51866 end: 54933
-DI: Ha ha ha! He never learns!
-DI: 
+Dingo: Ha ha ha! He never learns!
+ดิงโก้: ฮ่าๆๆ มันไม่เคยจำเลย!
 

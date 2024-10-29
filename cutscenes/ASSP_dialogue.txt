@@ -1,30 +1,30 @@
 ASSP001RA: start: 9666 end: 10466
 Raz: Ahhh!
-แรซ: 
+แรซ: Ahhh!
 
 ASSP002RA: start: 11500 end: 15533
 Raz: Super... sneezing... powder.
-แรซ: 
+แรซ: โครต...ผง...จาม
 
 ASSP003RA: start: 15533 end: 19700
 Raz: Ahh! Try... not... to... sneeze!
-แรซ: 
+แรซ: Ahh! พยา..ยาม..ไม่...จาม!
 
 ASSP004RA: start: 19833 end: 23266
-Raz: Have... to... hold it... in
-แรซ: 
+Raz: Have... to... hold it... inï¿½
+แรซ: ต้อง...กลั้น...เอา...inï¿½
 
 ASSP005RA: start: 23266 end: 24800
 Raz: Ah ah--
-แรซ: 
+แรซ: Ah ah--
 
 ASSP006RA: start: 24800 end: 25900
 Raz: ACHOO!
-แรซ: 
+แรซ: ACHOO!
 
 ASSP007RA: start: 32766 end: 34000
 Raz: TV?
-แรซ: 
+แรซ: ทีวี?
 
 ASSP008RA: start: 35266 end: 36533
 Raz: 
@@ -32,17 +32,17 @@ Raz:
 
 ASSP009RA: start: 40400 end: 42000
 Raz: Oh, this is just great.
-แรซ: 
+แรซ: โอ้ เยี่ยมไปเลย
 
 ASSP010RA: start: 42400 end: 44000
 Raz: Now what am I going to do?
-แรซ: 
+แรซ: ที่นี้ฉันจะทำยังไงล่ะเนี่ย?
 
 ASSP011RA: start: 44766 end: 46233
 Raz: Have to think!
-แรซ: 
+แรซ: ต้องคิด!
 
 ASSP012RA: start: 46666 end: 49000
 Raz: Ha. Like I got a choice...
-แรซ: 
+แรซ: เหอะ อย่างกับว่าฉันจะมีทางเลือก...
 

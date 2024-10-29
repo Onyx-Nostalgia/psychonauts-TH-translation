@@ -1,24 +1,25 @@
 SLAC001RA: start: 300 end: 533
 Raz: Ahhh!
-แรซ: 
+แรซ: Ahhh!
 
 SLAC002SA: start: 1100 end: 4400
 Sasha: Hmm. That should not have happened. We need to try that again.
-ซาช่า: 
+ซาช่า: ฮืมม. นั่นมันไม่ควรจะเกิดนขึ้น เราต้องลองกันอีกครั้ง
 
 SLAC003RA: start: 4666 end: 10733
 Raz: Oh, I don't think I need to be in the Tumbler with the glowy eye guys anymore.
-แรซ: 
+แรซ: โอ้ ผมไม่คิดว่าผมจะอยากเข้าไปในเครื่องที่มีไอ้เจ้าตาเรืองแสงนั่นอีกแล้ว
 
 SLAC004SA: start: 10733 end: 11466
 Sasha: Suit yourself.
-ซาช่า: 
+ซาช่า: ตามใจเธอ
 
 SLAC005SA: start: 11800 end: 18866
 Sasha: You know, in many tribal societies, learning to defeat the monsters you see in your dreams is considered a rite of passage.
-ซาช่า: 
+ซาช่า: เธอรู้ไหมว่า ในสังคมชนเผ่ามากมาย การเรียนรู้ที่จะเอาชนะสัตว์ประหลาดที่พบในความฝันถือเป็น "พิธีกรรมการเปลี่ยนผ่าน" รูปแบบหนึ่ง
 
 SLAC006SA: start: 19300 end: 22566
 Sasha: I can train you to fight. Come see me when you're ready.
-ซาช่า: 
+ซาช่า: ฉันสอนเธอต่อสู้ได้ มาพบฉัน เมื่อเธอพร้อม
+
 

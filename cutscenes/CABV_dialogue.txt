@@ -1,52 +1,52 @@
 BBVI005CO: start: 7433 end: 9133
 Coach: HOLD IT RIGHT THERE, SON!
-โค้ช: 
+โค้ช: หยุดอยู่ตรงนั้นแหละ ไอ้หนู!
 
 BBVI006CO: start: 10366 end: 13533
 Coach: Now just what in the sam hill do you thing you're doing in there?
-โค้ช: 
+โค้ช: นายคิดว่าตัวเองกำลังไปทำอะไรอยู่ในนั้น หา?
 
 BBVI007RA: start: 13533 end: 15266
 Raz: I was just looking for a way out.
-แรซ: 
+แรซ: ผมก็แค่หาทางออก
 
 BBVI008CO: start: 15433 end: 16466
-Coach: Oh
-โค้ช: 
+Coach: Ohï¿½
+โค้ช: โอ้ï¿½
 
 BBVI011CO: start: 16466 end: 17333
 Coach: Sorry about that.
-โค้ช: 
+โค้ช: ขอโทษทีนะ
 
 BBVI012CO: start: 17433 end: 19633
 Coach: Didn't think you'd get to the end so fast.
-โค้ช: 
+โค้ช: ไม่คิดว่านายจะมาถึงเส้นชัยได้เร็วขนาดนี้
 
 BBVI013CO: start: 19600 end: 21900
 Coach: Dang! I didn't think you'd get to the end at all!
-โค้ช: 
+โค้ช: ให้ตายสิ! ฉันไม่คิดว่านายจะมาถึงเส้นชัยได้ด้วยซ้ำ!
 
 BBVI015CO: start: 21933 end: 23666
 Coach: You surprised me out there, kid.
-โค้ช: 
+โค้ช: นายทำให้ฉันประหลาดใจมาก เจ้าหนู
 
 BBVI016CO: start: 23666 end: 25666
 Coach: Here. You've earned this.
-โค้ช: 
+โค้ช: นี่ นายสมควรได้รับ
 
 BBVI017CO: start: 25666 end: 28666
 Coach: Your first PSYCHONAUT MERIT BADGE!
-โค้ช: 
+โค้ช: "ตราทำดีไซโคนอท" อันแรกของนาย
 
 BBVI014CO: start: 48300 end: 52500
 Coach: But I'm always glad to see a soldier come back from the field alive.
-โค้ช: 
+โค้ช: แต่ฉันก็ดีใจเสมอที่ได้เห็นทหารกลับมาจากสนามรบอย่างปลอดภัย
 
 BBVI018CO: start: 52700 end: 55666
 Coach: Now if you'll excuse me, I gotta go back in.
-โค้ช: 
+โค้ช: งั้นขอตัวก่อนนะ ฉันต้องกลับไปข้างใน
 
 BBVI019CO: start: 55666 end: 57800
 Coach: I left some good men back there!
-โค้ช: 
+โค้ช: ฉันทิ้งมือดีไว้ข้างในนั้น!
 

@@ -1,60 +1,60 @@
 CASR001BN: start: 0 end: 6933
-BN: Way to make us look bad in there! You're in trouble now! Bobby Zilch ain't happy.
-BN: 
+Benny: Way to make us look bad in there! You're in trouble now! Bobby Zilch ain't happy.
+เบนนี่: แกทำพวกเราดูแย่ในนั้น! แกมีปัญหาแน่! บ๊อบบี้ ซิลช์ ต้องไม่พอใจ
 
 CASR002BZ: start: 7200 end: 10800
 Bobby: You better watch yourself, Gogglicious.
-บ๊อบบี้: 
+บ๊อบบี้: แกควรระวังตัวไว้หน่อยนะ ก๊อกกี้
 
 CASR003RA: start: 11100 end: 14666
 Raz: What's that, Hair Boy? You want a piece of me?
-แรซ: 
+แรซ: ว่าไง หัวฟู? นายอยากลองของกับฉันเหรอ?
 
 CASR004LI: start: 14700 end: 17500
 Lili: Hey, brainiacs. Settle down.
-ลิลี่: 
+ลิลี่: เฮ้ พวกทึ่ม เงียบๆ กันหน่อย
 
 CASR005BZ: start: 17666 end: 21300
 Bobby: Why? You worried I'm gonna hurt your boyfriend?
-บ๊อบบี้: 
+บ๊อบบี้: ทำไม? กลัวว่าฉันจะทำร้ายแฟนเธอเหรอ?
 
 CASR006LI: start: 21733 end: 26333
 Lili: No. Because Sasha Nein is standing right behind you.
-ลิลี่: 
+ลิลี่: เปล่า เพราะซาช่า ไน กำลังยืนอยู่หลังนายน่ะสิ
 
 CASR007SA: start: 28166 end: 34600
 Sasha: Your performance, young cadet, was outstanding. I'd like you to report to my lab for some advanced training.
-ซาช่า: 
+ซาช่า: ทักษะของเธอน่าทึ่งมาก นักเรียนน้อย ฉันอยากให้เธอมารายงานตัวที่ห้องแล็บของฉันเพื่อการฝึกขั้นสูง
 
 CASR008BZ: start: 34900 end: 45733
 Bobby: Oooh! Raz the Spaz is gonna be in the "special" class. Benny, remind me to give him a "special" beating later, okay?
-บ๊อบบี้: 
+บ๊อบบี้: โอ้! ไอ้บ้าแรซ จะได้เข้าคลาส "พิเศษ" แล้ว. เบนนี่ เตือนฉันเรื่องจัดหนัก"พิเศษ" มันทีหลังด้วยนะ
 
 CASR009SA: start: 47400 end: 58500
 Sasha: These tests are unauthorized, though, so I can't actually ask you to come. But if you happened to drop in, well, what could I do? Let me just give you this...
-ซาช่า: 
+ซาช่า: แต่การทดสอบนี้ไม่ได้รับอนุญาต ดังนั้นฉันจึงไม่สามารถขอให้เธอมาได้ แต่ถ้าเธออยากจะแวะมาเอง ฉันจะทำอะไรได้ล่ะ? ฉันขอให้สิ่งนี้กับเธอ...
 
 CASR010SA: start: 59566 end: 60300
 Sasha: Remember:
-ซาช่า: 
+ซาช่า: จำไว้นะ
 
 CASR011SA: start: 60400 end: 63466
 Sasha: Your talent will always set you apart, Razputin.
-ซาช่า: 
+ซาช่า: พรสวรรค์ของเธอจะทำให้เธอโดดเด่นเสมอ แรซปูติน
 
 CASR012SA: start: 63766 end: 70200
 Sasha: Sometimes isolation is a good thing. It can lead to important discoveries.
-ซาช่า: 
+ซาช่า: บางครั้ง การปลีกวิเวกก็เป็นสิ่งที่ดี มันจะนำไปสู่การค้นพบครั้งสำคัญ
 
 CASR013RA: start: 72000 end: 76600
 Raz: Wait, I don't even know where your lab is! Is this some kind of test?
-แรซ: 
+แรซ: เดี๋ยว ผมยังไม่รู้ด้วยซ้ำว่าห้องแล็บของคุณอยู่ที่ไหน! นี่เป็นการทดสอบแบบนึงเหรอ?
 
 CASR014SA: start: 77900 end: 84333
 Sasha: 
-ซาช่า: 
+ซาช่า: บางครั้ง การปลีกวิเวกก็เป็นสิ่งที่ดี มันจะนำไปสู่การค้นพบครั้งสำคัญ
 
 CASR015RA: start: 84900 end: 87233
 Raz: And now I'm hearing things. Great.
-แรซ: 
+แรซ: แล้วตอนนี้ฉันก็หูแว่วไปเอง เยี่ยม
 

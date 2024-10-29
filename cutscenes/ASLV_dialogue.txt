@@ -1,80 +1,80 @@
 ASLV001LI: start: 0 end: 1600
 Lili: Rrrr.
-ลิลี่: 
+ลิลี่: Rrrr.
 
 ASLV002RA: start: 1400 end: 2033
 Raz: Lili!
-แรซ: 
+แรซ: ลิลี่!
 
 ASLV003LI: start: 1866 end: 3333
 Lili: Grrrr!
-ลิลี่: 
+ลิลี่: Grrrr!
 
 ASLV004LI: start: 3200 end: 4066
 Lili: (Gasp!)
-ลิลี่: 
+ลิลี่: (หายใจหอบ)
 
 ASLV005LO: start: 4366 end: 7100
-LO: Well, I've reviewed your chart, little girl.
-LO: 
+Dr.Loboto: Well, I've reviewed your chart, little girl.
+ดร.โลโบโต้: อืม ฉันได้ตรวจดูประวัติของเธอแล้วนะ แม่สาวน้อย
 
 ASLV006LO: start: 7100 end: 11633
-LO: And the bad news is, we're gonna have to remove your brain
-LO: 
+Dr.Loboto: And the bad news is, we're gonna have to remove your brainï¿½
+ดร.โลโบโต้: และข่าวร้ายก็คือ เราจะต้องเอาสมองเธอออก...
 
 ASLV007LO: start: 12033 end: 21666
-LO: ...strap it into an armored battle tank and make it shoot down innocent civilians with its concentrated psychic death beam!
-LO: 
+Dr.Loboto: ...strap it into an armored battle tank and make it shoot down innocent civilians with its concentrated psychic death beam!
+ดร.โลโบโต้: ...แล้วเอาไปใส่ในรถถังหุ้มเกราะ แล้วทำให้มันยิงใส่ชาวบ้านที่ไม่รู้อิโหน่อิเหน่ด้วยลำแสงจิตสังหาร!
 
 ASLV008LI: start: 21166 end: 23733
 Lili: I'm gonna kill you so much.
-ลิลี่: 
+ลิลี่: ฉันจะฆ่าแกให้ตายเลย
 
 ASLV009LO: start: 24000 end: 28766
-LO: The good news is that your insurance is going to cover the whole thing, so--
-LO: 
+Dr.Loboto: The good news is that your insurance is going to cover the whole thing, so--
+ดร.โลโบโต้: ข่าวดีก็คือ ประกันของเธอครอบคลุมค่าใช้จ่ายทั้งหมด ดังนั้น--
 
 ASLV010LO: start: 28766 end: 31233
-LO: Heyyy, is it getting warm in here?
-LO: 
+Dr.Loboto: Heyyy, is it getting warm in here?
+ดร.โลโบโต้: เฮ้ๆ ที่นี่ร้อนขึ้นมาหรือเปล่า?
 
 ASLV011LI: start: 31233 end: 36500
 Lili: No, I'm just trying to set you on fire through this stupid hat!
-ลิลี่: 
+ลิลี่: เปล่าหรอก ฉันแค่พยายามจะเผาแกให้ตายด้วยหมวกบ้าๆ นั่น!
 
 ASLV012LO: start: 36500 end: 41633
-LO: What a delightfully mean little brain you have. Just what we want!
-LO: 
+Dr.Loboto: What a delightfully mean little brain you have. Just what we want!
+ดร.โลโบโต้: สมองตัวน้อยของเธอช่างร้ายกาจจริงๆ อย่างที่เราต้องการเลย!
 
 ASLV013LO: start: 41900 end: 50733
-LO: Here, do me a favor. Tell me if you think this smells like... your DOOM! Heh heh.
-LO: 
+Dr.Loboto: Here, do me a favor. Tell me if you think this smells like... your DOOM! Heh heh.
+ดร.โลโบโต้: นี่ ดมให้ทีสิ บอกฉันหน่อยว่ากลิ่นนี่มันเหมือน...ความตายของเธอไหม? ฮ่าๆ
 
 ASLV014LI: start: 50466 end: 54500
 Lili: (Snotty breathing.)
-ลิลี่: 
+ลิลี่: (หายใจฟืดฟาด)
 
 ASLV015LI: start: 54766 end: 59300
 Lili: (Sniff sniff.) I can't smell anything.
-ลิลี่: 
+ลิลี่: (ดมๆ) ฉันไม่ได้กลิ่นอะไรเลย
 
 ASLV016LO: start: 59200 end: 60000
-LO: Curses!
-LO: 
+Dr.Loboto: Curses!
+ดร.โลโบโต้: โธ่เว้ย!
 
 ASLV017LI: start: 60100 end: 61100
 Lili: Heh heh.
-ลิลี่: 
+ลิลี่: ฮ่าๆ
 
 ASLV018LO: start: 60833 end: 64166
-LO: You're a stubborn little ball of phlegm, ain't ya?
-LO: 
+Dr.Loboto: You're a stubborn little ball of phlegm, ain't ya?
+ดร.โลโบโต้: เธอมันเป็นก้อนเสมหะดื้อรั้นจริงๆ เลยนะ?
 
 ASLV019LO: start: 64333 end: 73133
-LO: Well, that head cold won't protect you forever, little girl, and when it's gone you'll be sneezing a different tune!
-LO: 
+Dr.Loboto: Well, that head cold won't protect you forever, little girl, and when it's gone you'll be sneezing a different tune!
+ดร.โลโบโต้: แต่ไข้หวัดของเธอปกป้องเธอไม่ได้ตลอดไปหรอก แม่สาวน้อย แล้วพอเธอหาย เธอก็จะจามออกมาเป็นเสียงที่ต่างออกไป!
 
 ASLV020LO: start: 73300 end: 78266
-LO: A tune in the key of... BRAINS! Ha ha ha!
-LO: 
+Dr.Loboto: A tune in the key of... BRAINS! Ha ha ha!
+ดร.โลโบโต้: เสียงที่เป็นทำนอง... สมอง! ฮ่าๆๆ
 

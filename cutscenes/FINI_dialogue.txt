@@ -1,160 +1,160 @@
 FINI000CO: start: 500 end: 3066
 Coach: And so, that brings us to the end.
-โค้ช: 
+โค้ช: และนี่ก็เป็นจุดจบของเรื่อง
 
 fini001co: start: 3666 end: 12800
 Coach: Where, as you can clearly see, the personal demons causing my negative behavior have all been eradicated, leaving me sane once again.
-โค้ช: 
+โค้ช: อย่างที่พวกนายรู้กันอย่างชัดเจนแล้ว ปีศาจภายในใจที่ทำให้ฉันประพฤติตัวไปในทางที่มิชอบนั้น ได้ถูกกำจัดไปหมดแล้ว ทำให้ฉันกลับมาเป็นคนมีสติอีกครั้ง
 
 fini002co: start: 13133 end: 18533
 Coach: This is also corroborated in CAT scan number three, on page fifty-nine of your handouts.
-โค้ช: 
+โค้ช: และนี่ก็ได้รับการยืนยันจากภาพสแกนสมองหมายเลขสาม ในหน้าที่ห้าสิบเก้าของเอกสารที่แจกให้พวกนาย
 
 fini003co: start: 18733 end: 27833
 Coach: On a personal note, I would just like to reiterate how extremely, extremely sorry I am for stealing all of your brains, and trying to take over the world.
-โค้ช: 
+โค้ช: นอกจากนี้ ฉันอยากจะเน้นย้ำอีกครั้งว่า ฉันรู้สึกเสียใจอย่างสุดซึ้งที่ขโมยสมองของพวกนายไป และพยายามจะยึดครองโลก
 
 fini004co: start: 28366 end: 29766
 Coach: Mistakes have been made.
-โค้ช: 
+โค้ช: ฉันได้ทำผิดพลาดไป
 
 fini005co: start: 30433 end: 36433
 Coach: But this camp is all about education, and I know I, for one, learned plenty.
-โค้ช: 
+โค้ช: แต่ที่นี่คือค่ายแห่งการเรียนรู้ และฉันรู้ว่าอย่างน้อย ตัวฉันเองก็ได้เรียนรู้อะไรมากมายเช่นกัน
 
 fini006co: start: 36566 end: 41366
 Coach: Thanks to that guy right there. Come on up here, Raz!
-โค้ช: 
+โค้ช: ต้องขอบคุณเด็กหนุ่มคนนี้เลย มาขึ้นมานี่เลย แรซ!
 
 fini007fo: start: 44966 end: 52933
-FO: We endeavor to build strong minds here, with the power to lift things, to see things, to burn things.
-FO: 
+Ford: We endeavor to build strong minds here, with the power to lift things, to see things, to burn things.
+ฟอร์ด: ที่นี่เราพยายามสร้างจิตใจที่แข็งแกร่ง ด้วยพลังที่จะยกสิ่งต่างๆ มองเห็นสิ่งต่างๆ และเผาผลาญสิ่งต่างๆ
 
 fini008fo: start: 52933 end: 60933
-FO: But it's a special quality of your heart, not your mind, that truly makes a great Psychonaut.
-FO: 
+Ford: But it's a special quality of your heart, not your mind, that truly makes a great Psychonaut.
+ฟอร์ด: แต่เป็นคุณสมบัติพิเศษในหัวใจของเธอต่างหาก ไม่ใช่จิตใจ ที่จะทำให้เป็นไซโคนอทที่ยอดเยี่ยม
 
 fini009fo: start: 60933 end: 62700
-FO: This young man has it.
-FO: 
+Ford: This young man has it.
+ฟอร์ด: เด็กหนุ่มคนนี้มีมัน
 
 fini010fo: start: 62933 end: 64666
-FO: We did not give it to him. 
-FO: 
+Ford: We did not give it to him. 
+ฟอร์ด: เราไม่ได้ให้มันแก่เขา
 
 fini011fo: start: 64833 end: 69666
-FO: He got it from someone else, long before he came here.
-FO: 
+Ford: He got it from someone else, long before he came here.
+ฟอร์ด: เขาได้รับมันมาจากคนอื่นเมื่อนานมาแล้ว ก่อนจะมาที่นี่ด้วยซ้ำ
 
 fini012fo: start: 70633 end: 78433
-FO: But we CAN give him this, to honor his mind, his courage, and his heart.
-FO: 
+Ford: But we CAN give him this, to honor his mind, his courage, and his heart.
+ฟอร์ด: แต่เรา "สามารถ" ให้สิ่งนี้แก่เขาได้ เพื่อเป็นเกียรติแก่จิตใจ ความกล้าหาญ และหัวใจของเขา
 
 fini013fo: start: 78666 end: 87966
-FO: Son, we do not normally ask this of someone so young, but it is obvious to us all that you are not average.
-FO: 
+Ford: Son, we do not normally ask this of someone so young, but it is obvious to us all that you are not average.
+ฟอร์ด: เจ้าหนู ปกติเราไม่เคยถามเด็กอายุเท่าเธอแบบนี้มาก่อน แต่เห็นได้ชัดว่าเธอไม่ธรรมดา
 
 fini014fo: start: 88033 end: 90500
-FO: Will you join us, Razputin?
-FO: 
+Ford: Will you join us, Razputin?
+ฟอร์ด: เธอจะมาร่วมกับพวกเราไหม แรซปูติน?
 
 fini015fo: start: 90933 end: 94366
-FO: Will you be... a Psychonaut?
-FO: 
+Ford: Will you be... a Psychonaut?
+ฟอร์ด: เธอจะเป็น... ไซโคนอทไหม?
 
 FINI016LI: start: 125333 end: 132533
 Lili: Okay, let's be perfectly clear about this. That was the best summer of my whole entire life.
-ลิลี่: 
+ลิลี่: โอเค มาพูดกันให้ชัดนะ นี่เป็นฤดูร้อนที่ดีที่สุดในชีวิตของฉันเลย
 
 fini017ra: start: 132666 end: 136266
 Raz: Hey, the summer's not over yet! We can hang out for a couple of weeks still.
-แรซ: 
+แรซ: เฮ้ ฤดูร้อนยังไม่จบเลยนี่นา เราสามารถอยู่ด้วยกันได้อีกสองสามสัปดาห์เลยนะ
 
 fini018li: start: 136566 end: 139966
 Lili: My family's out on the East Coast. Where's yours?
-ลิลี่: 
+ลิลี่: ครอบครัวฉันอยู่ที่ชายฝั่งตะวันออก นายล่ะ?
 
 fini019ra: start: 139966 end: 141933
 Raz: They move around a lot.
-แรซ: 
+แรซ: พวกเขาเดินทางไปทั่ว
 
 fini020li: start: 142566 end: 143500
 Lili: Hm...
-ลิลี่: 
+ลิลี่: อืม...
 
 fini021li: start: 144000 end: 148300
 Lili: Well, you'd better go. Your dad's waiting for you.
-ลิลี่: 
+ลิลี่: งั้นนายไปเถอะ พ่อนายกำลังรออยู่
 
 fini022ra: start: 151900 end: 153466
 Raz: Um, well--
-แรซ: 
+แรซ: อืม งั้น...
 
 fini023li: start: 153833 end: 154466
 Lili: Bye.
-ลิลี่: 
+ลิลี่: บาย
 
 fini024sa: start: 167933 end: 171066
 Sasha: Children, it's an emergency. There's been another kidnapping!
-ซาช่า: 
+ซาช่า: เด็กๆ เกิดเรื่องฉุกเฉิน มีการลักพาตัวอีกแล้ว!
 
 fini025co: start: 170933 end: 173333
 Coach: I was here the whole time. You saw me.
-โค้ช: 
+โค้ช: ฉันอยู่ตรงนี้ตลอดเวลา นายก็เห็นนี่
 
 fini026sa: start: 173800 end: 177033
 Sasha: No, this time we know who it is, and that's what scares us.
-ซาช่า: 
+ซาช่า: ไม่ คราวนี้เรารู้แล้วว่าใครเป็นคนทำ และนั่นคือสิ่งที่ทำให้พวกเรากลัว
 
 fini027ra: start: 177033 end: 178033
 Raz: Who was kidnapped?
-แรซ: 
+แรซ: ใครถูกจับตัวไป?
 
 fini028mi: start: 178633 end: 182166
 Milla: Truman Zanotto, the Grand Head of the Psychonauts.
-มิลล่า: 
+มิลล่า: ทรูแมน ซาน็อตโต หัวหน้าใหญ่ขององค์กรไซโคนอท
 
 fini029li: start: 182466 end: 183300
 Lili: Dad?
-ลิลี่: 
+ลิลี่: พ่อ!
 
 fini030sa: start: 183533 end: 186700
 Sasha: Sir, can you teleport this many of us back to headquarters?
-ซาช่า: 
+ซาช่า: ท่านครับ ท่านสามารถเคลื่อนย้ายพวกเรากลับไปที่สำนักงานใหญ่ได้หรือเปล่า?
 
 fini031fo: start: 186533 end: 191966
-FO: Hey, what are you people doing in my kitchen? Now git!
-FO: 
+Ford: Hey, what are you people doing in my kitchen? Now git!
+ฟอร์ด: เฮ้ พวกแกมาทำอะไรในครัวของฉันเนี่ย ออกไปให้หมด!
 
 fini032co: start: 192200 end: 193566
 Coach: Guess we're taking the jet.
-โค้ช: 
+โค้ช: เกรงว่าเราต้องไปเครื่องบินกันสินะ
 
 fini033mi: start: 203266 end: 206633
 Milla: Don't worry about your dad, darling. We'll get him back.
-มิลล่า: 
+มิลล่า: อย่าห่วงเรื่องพ่อเลย ที่รัก เราจะพาเขากลับมาจ๊ะ
 
 fini034sa: start: 206566 end: 209733
 Sasha: Yes, after all, we'll have Razputin helping us.
-ซาช่า: 
+ซาช่า: ใช่แล้ว หลังจากนี้ เราจะมีแรซปูตินคอยช่วยเรา
 
 fini035ra: start: 210166 end: 210900
 Raz: I'm going?
-แรซ: 
+แรซ: ผมไปด้วยเหรอ?
 
 fini036sa: start: 211766 end: 215433
 Sasha: Now how could we do this without our anti-kidnapping specialist?
-ซาช่า: 
+ซาช่า: แล้วเราจะทำยังไงได้หากไม่มีผู้เชี่ยวชาญด้านการต่อต้าน-การลักพาตัวของเรา?
 
 fini039gd: start: 222533 end: 224900
-GD: I've taught you everything I can, Son. 
-GD: 
+Augustus: I've taught you everything I can, Son. 
+ออกัสตัส: พ่อสอนทุกอย่างให้ลูกแล้ว ลูกรัก
 
 fini040gd: start: 225000 end: 229433
-GD: Now you go show them. Show them all.
-GD: 
+Augustus: Now you go show them. Show them all.
+ออกัสตัส: ตอนนี้ลูกต้องไปแสดงให้พวกเขาได้เห็น แสดงให้ทุกคนได้เห็น
 
 fini042ra: start: 232933 end: 233566
 Raz: Let's go.
-แรซ: 
+แรซ: ไปกันเถอะ
 

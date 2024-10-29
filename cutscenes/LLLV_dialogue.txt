@@ -1,40 +1,40 @@
 LLLV001LF: start: 2100 end: 3600
-LF: Human child.
-LF: 
+Linda: Human child.
+ลินดา: เด็กมนุษย์
 
 LLLV002RA: start: 3500 end: 6033
 Raz: Wha--who is that?
-แรซ: 
+แรซ: ไงนะ-- นั่นใคร?
 
 LLLV003LF: start: 6366 end: 9633
-LF: It is I, the creature whose spirit was once--
-LF: 
+Linda: It is I, the creature whose spirit was once--
+ลินดา: ข้าเอง สิ่งมีชีวิตที่ครั้งนึงเคย--
 
 LLLV004LF: start: 9966 end: 16666
-LF: Um, over here. Behind you? Yes.
-LF: 
+Linda: Um, over here. Behind you? Yes.
+ลินดา: อืม ทางนี้ ข้างหลังเจ้า? ใช่
 
 LLLV005RA: start: 16600 end: 17000
 Raz: Oh.
-แรซ: 
+แรซ: โอ้
 
 LLLV006LF: start: 17400 end: 21600
-LF: The creature whose spirit was once enslaved by the evil one.
-LF: 
+Linda: The creature whose spirit was once enslaved by the evil one.
+ลินดา: สิ่งมีชีวิตที่ครั้งนึงจิตวิญญาณเคยตกเป็นทาสของปีศาจ
 
 LLLV007LF: start: 22100 end: 29766
-LF: You have unchained my soul, and now I shall repay you, powerful human child!
-LF: 
+Linda: You have unchained my soul, and now I shall repay you, powerful human child!
+ลินดา: เจ้าได้ปลดโซ่ตรวนแห่งจิตวิญญาณของข้า และตอนนี้ข้าจะตอบแทนเจ้า เด็กมนุษย์ผู้ทรงพลังเอ๋ย!
 
 LLLV008RA: start: 29666 end: 35366
 Raz: Oh, uh... great! Well okay, show me what you did to my friend Lili!
-แรซ: 
+แรซ: โอ้ เอ่อ... เยี่ยม! โอเค บอกมาว่าแกทำอะไรกับเพื่อนฉัน ลิลี่!!
 
 LLLV009LF: start: 35833 end: 40966
-LF: By the drowned spirit of Oblongata, it is done!
-LF: 
+Linda: By the drowned spirit of Oblongata, it is done!
+ลินดา: แด่ดวงวิญญาณที่จมน้ำแห่งออบลองกาตา มันจบแล้ว!
 
 LLLV010RA: start: 40866 end: 41366
 Raz: Ah--
-แรซ: 
+แรซ: Ah--
 

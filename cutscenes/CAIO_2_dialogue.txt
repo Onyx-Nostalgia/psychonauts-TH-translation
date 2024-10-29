@@ -1,40 +1,40 @@
 INBB004RA: start: 0 end: 3600
 Raz: Sir! We need to get a containment team in the area STAT!
-แรซ: 
+แรซ: ท่านครับ! เราต้องการหน่วยปิดล้อมในพื้นที่ โดยด่วนครับ!
 
 INBB005RA: start: 3500 end: 5500
 Raz: I've spotted a U.P.E.
-แรซ: 
+แรซ: ผมพบพวก U.P.E. ครับ
 
 INBB006CO: start: 5366 end: 6533
 Coach: A U.P.E.?
-โค้ช: 
+โค้ช: พวก U.P.E.เรอะ?
 
 INBB007RA: start: 6400 end: 12533
 Raz: Yes, an Unregistered Paranormal Entity, possibly aquatic in nature...
-แรซ: 
+แรซ: ครับ "สิ่งเหนือธรรมชาติที่ไม่ได้จดทะเบียน" (Unregistered Paranormal Entity) อาจมีอยู่ในแหล่งน้ำตามธรรมชาติ...
 
 INBB008CO: start: 12333 end: 16566
 Coach: I know what a U.P.E. is, son. I just don't know how YOU know.
-โค้ช: 
+โค้ช: ฉันรู้ว่า U.P.E. คืออะไร ไอ้หนู! ฉันแค่ไม่รู้ว่า นายไปรู้มาได้ยังไง
 
 INBB009RA: start: 16533 end: 19766
 Raz: From "True Psychic Tales" Issue 424, sir!
-แรซ: 
+แรซ: จาก "True Psychic Tales" เล่มที่ 424 ครับท่าน!
 
 INBB010RA: start: 19666 end: 22800
 Raz: Where Sasha Nein fought that clairvoyant grizzly bear?
-แรซ: 
+แรซ: ตอนที่ ซาช่า ไน ต่อสู้กับหมีกริซลี่ที่มีตาทิพย์?
 
 INBB011CO: start: 22866 end: 25066
 Coach: Pah! Comic books!
-โค้ช: 
+โค้ช: เฮอะ! หนังสือการ์ตูน!
 
 INBB012RA: start: 24833 end: 30666
 Raz: This thing was real, and huge, and--and it smelled all smelly!
-แรซ: 
+แรซ: เรื่องจริงนะครับ มันตัวใหญ่ และ--และมันก็มีกลิ่นเหม็นเต็มไปหมด!
 
 INBB013CO: start: 30366 end: 33633
 Coach: Save your fish stories for the boathouse, boy.
-โค้ช: 
+โค้ช: เอาเรื่องเล่าชาวประมงไปเก็บโรงเรือซะเถอะ ไอ้หนู
 

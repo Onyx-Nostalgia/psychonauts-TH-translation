@@ -1,24 +1,24 @@
 SAIN017SA: start: 933 end: 3266
 Sasha: Excellent. A victory for good taste.
-ซาช่า: 
+ซาช่า: ยอดเยี่ยม ชัยชนะแห่งความมีระดับ
 
 SAIN018SA: start: 3433 end: 9866
 Sasha: Now, you must strive for precision when targeting. Say you were set upon by multiple attackers.
-ซาช่า: 
+ซาช่า: ทีนี้ เธอต้องเล็งเป้าเพื่อเพิ่มความแม่นยำกับเป้าหมาย สมมุติว่าเธอถูกโจมตีโดยศัตรูหลาย ๆ คน
 
 SAIN019SA: start: 10833 end: 11333
 Sasha: Eh.
-ซาช่า: 
+ซาช่า: Eh.
 
 SAIN020SA: start: 11600 end: 12300
 Sasha: Yecch.
-ซาช่า: 
+ซาช่า: Yecch.
 
 SAIN021SA: start: 12533 end: 13233
 Sasha: Bleh.
-ซาช่า: 
+ซาช่า: Bleh.
 
 SAIN022SA: start: 13600 end: 21433
 Sasha: But you need to dispense with them in a certain order. Eliminate these monsters in the proper sequence and we can move on to the next lesson.
-ซาช่า: 
+ซาช่า: แต่เธอต้องจัดการตามลำดับที่แน่นอน กำจัดสัตว์ประหลาดเหล่านี้ตามลำดับที่เหมาะสมแล้วเราจะเข้าสู่บทเรียนต่อไปกัน
 

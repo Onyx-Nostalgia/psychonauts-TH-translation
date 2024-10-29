@@ -1,8 +1,8 @@
 LLBF001RA: start: 25233 end: 28566
 Raz: Okay, cough up the girl and no one gets hurt, fish!
-แรซ: 
+แรซ: เอาล่ะ คายเด็กผู้หญิงมาซะ จะได้ไม่มีใครต้องเจ็บตัว ไอ้ปลา!
 
 LLBF003RA: start: 30400 end: 33900
 Raz: Man, it's gonna be hard to find a new place to give you lumps.
-แรซ: 
+แรซ: พวก คงยากแน่ถ้าต้องหาที่ใหม่เพื่ออัดแกเนี่ย
 

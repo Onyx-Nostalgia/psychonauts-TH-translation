@@ -1,40 +1,40 @@
 NID2001LO: start: 1200 end: 15333
-LO: Little boy, I am sorry to say that you have a very serious mental problem. The trouble originates in this area here, the area that we in the medical profession like to refer to as
-LO: 
+Dr.Loboto: Little boy, I am sorry to say that you have a very serious mental problem. The trouble originates in this area here, the area that we in the medical profession like to refer to as
+ดร.โลโบโต้: เด็กน้อย ฉันเสียใจที่จะบอกว่านายมีปัญหาทางจิตที่ร้ายแรงมาก ปัญหามันเริ่มมาจากตรงนี้ บริเวณที่พวกเราในวงการแพทย์เรียกว่า...
 
 NID2002LO: start: 15333 end: 19033
-LO: the brain. You see, son, it's just no good!
-LO: 
+Dr.Loboto: the brain. You see, son, it's just no good!
+ดร.โลโบโต้: ...สมอง เธอเห็นไหม หนู มันไม่ดีเลย!
 
 NID2003LO: start: 19266 end: 26100
-LO: I hate to be so blunt, but YOU have the insanity... of a manatee!
-LO: 
+Dr.Loboto: I hate to be so blunt, but YOU have the insanity... of a manatee!
+ดร.โลโบโต้: ฉันเกลียดที่จะต้องพูดตรงๆ แต่ "เธอ" มีความบ้าคลั่ง... เหมือนแมนาที!
 
 NID2004DO: start: 26100 end: 31300
 Dogen: I know! People are always saying that! What do you think's wrong with my brain, Doctor?
-โดแกน: 
+โดแกน: ผมรู้! คนอื่นๆ ก็บอกแบบนั้นตลอด! คุณคิดว่าสมองของผมเป็นอะไรไปหรือเปล่า หมอ?
 
 NID2005LO: start: 31300 end: 40066
-LO: How should I know? I'm a dentist! But here's what I do know: How should I know? I'm a dentist! But here's what I do know: How should I know? I'm a dentist! But here's what I do know: if a tooth is bad, you pull it!
-LO: 
+Dr.Loboto: How should I know? I'm a dentist! But here's what I do know: if a tooth is bad, you pull it!
+ดร.โลโบโต้: ฉันจะไปรู้ได้ยังไง? ฉันเป็นหมอฟัน! แต่สิ่งที่ฉันรู้ก็คือ: ถ้าฟันมันผุ ก็ต้องถอนมันออก!
 
 NID2006DO: start: 40066 end: 41900
 Dogen: But my teeth are fine!
-โดแกน: 
+โดแกน: แต่ฟันผมไม่ผุนะ!
 
 NID2007LO: start: 41900 end: 50933
-LO: Yup! That brain's got to come out, boy. It's the quickest way to cure what you've got: Yup! That brain's got to come out, boy. It's the quickest way to cure what you've got: Yup! That brain's got to come out, boy. It's the quickest way to cure what you've got: INSANITY OF THE MIND!
-LO: 
+Dr.Loboto: Yup! That brain's got to come out, boy. It's the quickest way to cure what you've got: INSANITY OF THE MIND!
+ดร.โลโบโต้: ใช่แล้ว! สมองนั่นต้องเอาออก ไอ้หนู มันเป็นวิธีที่เร็วที่สุดในการรักษาสิ่งที่เธอเป็น: ความบ้าคลั่งในจิตใจ!
 
 NID2008DO: start: 50933 end: 52033
 Dogen: But, I don't wanna--
-โดแกน: 
+โดแกน: แต่ ผมไม่อยาก--
 
 NID2009LO: start: 51566 end: 58433
-LO: Shush-shush-shush-shush-shushie! Now hold still. This will only hurt until your brains come flying out!
-LO: 
+Dr.Loboto: Shush-shush-shush-shush-shushie! Now hold still. This will only hurt until your brains come flying out!
+ดร.โลโบโต้: ชู่ๆๆๆๆ อยู่นิ่งๆ นะ นี่จะเจ็บแค่ตอนที่สมองเธอหลุดออกมาเท่านั้นแหละ!
 
 NID2010DO: start: 58900 end: 61733
 Dogen: Ahh! Ahh! Get back! HELP!
-โดแกน: 
+โดแกน: อาห์! อาห์! ถอยไปนะ! ช่วยด้วย!
 

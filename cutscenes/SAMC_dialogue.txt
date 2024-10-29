@@ -1,48 +1,48 @@
 SAMC001SA: start: 1800 end: 4533
 Sasha: Young man, I hope you've learned a lesson here today.
-ซาช่า: 
+ซาช่า: หนุ่มน้อย ฉันหวังว่าวันนี้เธอจะได้รับบทเรียนนะ
 
 SAMC002RA: start: 4533 end: 5566
 Raz: Yes I have.
-แรซ: 
+แรซ: ครับใช่เลย
 
 SAMC003RA: start: 5666 end: 8166
 Raz: That shooting things is fun and useful.
-แรซ: 
+แรซ: การยิงอะไรก็ตามมันทั้งสนุกและมีประโยชน์ชะมัด
 
 SAMC004SA: start: 8100 end: 12733
 Sasha: No, that once you lose control of your own mind, it's very hard to get it back!
-ซาช่า: 
+ซาช่า: ไม่ เมื่อเธอเสียการควบคุมจิตใจของตัวเอง เป็นเรื่องยากมากที่จะกู้คืนมันกลับมา!
 
 SAMC005RA: start: 12733 end: 16633
 Raz: Yes. One's thoughts must be 100% controlled at all times!
-แรซ: 
+แรซ: ครับ ต้องควบคุมความคิดของตัวเองให้ได้ 100% ตลอดเวลา!
 
 SAMC006SA: start: 16633 end: 24866
 Sasha: Well, no. Actually, if you try to completely suppress your undesirable feelings, they'll build and build and eventually explode.
-ซาช่า: 
+ซาช่า: เอ่อ ไม่เชิง อันที่จริงถ้าเธอพยายามระงับความรู้สึกที่ไม่ดีของเธอเอาไว้ ความรู้สึกเหล่านั้นจะเพิ่มพูนขึ้นเรื่อยๆ และในที่สุดก็จะระเบิดออกมา
 
 SAMC007RA: start: 24800 end: 32333
 Raz: Oh. So, uh, what would happen if you were to, say, completely block off all your censor outlets?
-แรซ: 
+แรซ: โอ้ งั้น เอิ่ม จะเป็นยังไง ถ้าคุณดันไปปิดท่อระบาย Censor "ทั้งหมด" ล่ะ?
 
 SAMC008SA: start: 32366 end: 38966
 Sasha: Well, there would be a buildup of censor energy within, that would... uh eventually
-ซาช่า: 
+ซาช่า: อืม มันจะมีพลังงานของ Censor สะสมอยู่ภายใน แล้วก็จะ... เอ่อ ในที่สุดก็จะ...
 
 SAMC009SA: start: 41400 end: 43666
 Sasha: Run, Razputin. Very fast.
-ซาช่า: 
+ซาช่า: วิ่ง แรซปูติน วิ่งเร็วเข้า
 
 SAMC010SA: start: 52633 end: 56800
 Sasha: You are my own creation. I command you to stop!
-ซาช่า: 
+ซาช่า: แกเป็นสิ่งที่ฉันสร้างขึ้น ฉันขอสั่งให้แกหยุด!
 
 SAMC012SA: start: 57900 end: 58800
 Sasha: Ahhhhhhh!
-ซาช่า: 
+ซาช่า: Ahhhhhhh!
 
 SAMC013SA: start: 60033 end: 62766
 Sasha: Razputin, it's time to earn your merit badge!
-ซาช่า: 
+ซาช่า: แรซปูติน ถึงเวลาที่เธอจะได้รับตราทำดีแล้ว!
 

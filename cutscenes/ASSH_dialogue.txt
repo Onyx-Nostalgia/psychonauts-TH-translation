@@ -1,40 +1,40 @@
 ASSH001SH: start: 8866 end: 14466
-SH: (Gasp!) M-M-Mr. Pokeylope?
-SH: 
+Sheegor: (Gasp!) M-M-Mr. Pokeylope?
+ชีกอร์: (ตกใจ!) มะ มะ มะ มิสเตอร์โพคีโลพ?
 
 ASSH002SH: start: 14466 end: 22866
-SH: Oh, Mr. Pokeylope! (Kiss kiss.) I was so scared!
-SH: 
+Sheegor: Oh, Mr. Pokeylope! (Kiss kiss.) I was so scared!
+ชีกอร์: โอ้ มิสเตอร์โพคีโลพ! (จุ๊บ จุ๊บ) ฉันกลัวมากเลย!
 
 ASSH009SH: start: 23466 end: 26566
-SH: Now you're back, Mr. Pokeylope, and you'll tell us what to do!
-SH: 
+Sheegor: Now you're back, Mr. Pokeylope, and you'll tell us what to do!
+ชีกอร์: ตอนนี้คุณกลับมาแล้ว มิสเตอร์โพคีโลพ คุณจะบอกเราว่าควรต้องทำอะไร!
 
 ASSH010SH: start: 27333 end: 31466
-SH: Right? You've got a plan or something, right Mr. Pokeylope?
-SH: 
+Sheegor: Right? You've got a plan or something, right Mr. Pokeylope?
+ชีกอร์: ใช่ไหม? คุณมีแผนหรืออะไรสักอย่าง ใช่ไหม มิสเตอร์โพคีโลพ?
 
 ASSH011SH: start: 31700 end: 32166
-SH: Right???
-SH: 
+Sheegor: Right???
+ชีกอร์: ใช่ไหม???
 
 ASSH012PL: start: 32966 end: 38466
-PL: That's right baby. Daddy's here. Everything's gonna be alllll right.
-PL: 
+Mr.Pokeylope: That's right baby. Daddy's here. Everything's gonna be alllll right.
+มิสเตอร์โพคีโลพ: แน่นอนน้องหนู ป๊ะป๋าอยู่นี่แล้ว ทุกอย่างจะต้องม่าาายเป็นไร
 
 ASSH013PL: start: 39200 end: 40866
-PL: Now here's what we're gonna do.
-PL: 
+Mr.Pokeylope: Now here's what we're gonna do.
+มิสเตอร์โพคีโลพ: และนี่คือสิ่งที่เราต้องทำ
 
 ASSH015PL: start: 41500 end: 50833
-PL: (Mutter mutter.)
-PL: 
+Mr.Pokeylope: (Mutter mutter.)
+มิสเตอร์โพคีโลพ: (กระซิบ กระซิบ)
 
 ASSH014SH: start: 43100 end: 47366
-SH: Mmm. Uh-huh. Uh-huh. Mmm. Okay. Uh-huh. Uh-hmmm. Uh-hmmm
-SH: 
+Sheegor: Mmm. Uh-huh. Uh-huh. Mmm. Okay. Uh-huh. Uh-hmmm. Uh-hmmmï¿½
+ชีกอร์: อื้มม อาฮะ อาฮะ อื้ม โอเค อาฮะ อะฮื้ม อะฮื้มï¿½
 
 ASSH014SH: start: 48033 end: 52300
-SH: Mmm. Uh-huh. Uh-huh. Mmm. Okay. Uh-huh. Uh-hmmm. Uh-hmmm
-SH: 
+Sheegor: Mmm. Uh-huh. Uh-huh. Mmm. Okay. Uh-huh. Uh-hmmm. Uh-hmmmï¿½
+ชีกอร์: อื้มม อาฮะ อาฮะ อื้ม โอเค อาฮะ อะฮื้ม อะฮื้มï¿½
 
