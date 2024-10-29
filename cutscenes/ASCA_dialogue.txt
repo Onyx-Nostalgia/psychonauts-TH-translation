@@ -1,110 +1,110 @@
 ASCA000LI: start: 1200 end: 6033
 Lili: Finally! If that thing gave me a cowlick, Coach Oleander's gonna burn.
-ลิลี่: 
+ลิลี่: ในที่สุด! ถ้าไอ้เจ้านั่นทำผมฉันยุ่งละก็ ฉันจะเผาโค้ชโอลีแอนเดอร์แน่
 
 ASCA001MI: start: 6133 end: 10866
 Milla: At least he never got inside your brain. It's going to take me weeks to get my rhythm back!
-มิลล่า: 
+มิลล่า: อย่างน้อยมันก็ไม่ได้เข้าไปในสมองของเธอนะ ฉันคงต้องใช้เวลาหลายสัปดาห์กว่าจะกลับมาเป็นปกติ
 
 ASCA002SA: start: 10866 end: 15966
 Sasha: Razputin, you have surprised us yet again. I cannot thank you enough for what you've done.
-ซาช่า: 
+ซาช่า: แรซปูติน เธอทำให้เราประหลาดใจอีกแล้ว ฉันไม่รู้ว่าจะขอบคุณเธอยังไงกับสิ่งที่เธอได้ทำในครั้งนี้
 
 ASCA003RA: start: 16066 end: 18933
 Raz: Hey, hey. All in a day's work for a Psychonaut.
-แรซ: 
+แรซ: เฮ้ๆ นี่มันก็แค่งานๆ นึงของไซโคนอทเท่านั้น
 
 ASCA004SA: start: 19066 end: 22100
 Sasha: Ha ha. Well... PSI CADET, you mean.
-ซาช่า: 
+ซาช่า: ฮ่าๆ ก็..."นักเรียนพลังจิต"สินะ ที่เธอหมายถึง
 
 ASCA005LI: start: 22133 end: 28466
 Lili: Hey, the Psychonauts should be so lucky to get someone like Raz. The brain he's got in there is--
-ลิลี่: 
+ลิลี่: เฮ้ ไซโคนอทควรโชคดีมากที่มีคนอย่างแรซนะ สมองของเขาเนี่ย...
 
 ASCA006CO: start: 28166 end: 34400
 Coach: Is one in a million! Thanks to all of you for bringing it straight to my door!
-โค้ช: 
+โค้ช: เป็นหนึ่งในล้าน! ขอบคุณทุกคนที่นำมันมาส่งตรงถึงหน้าบ้านฉันขนาดนี้!
 
 ASCA007MI: start: 34400 end: 34700
 Milla: (Gasp!)
-มิลล่า: 
+มิลล่า: (อุทาน)
 
 ASCA008SA: start: 34966 end: 36100
 Sasha: Oleander!
-ซาช่า: 
+ซาช่า: โอลีแอนเดอร์
 
 ASCA009RA: start: 36100 end: 36666
 Raz: You! 
-แรซ: 
+แรซ: แก!
 
 ASCA010RA: start: 37366 end: 49166
 Raz: You took all my friends' brains, you turned an innocent fish into a giant monster, you stole all the teachers--DERAILING MY EDUCATION--AND you kidnapped--
-แรซ: 
+แรซ: แกขโมยสมองเพื่อนฉัน แกเปลี่ยนปลาตัวหนึ่งให้กลายเป็นสัตว์ประหลาด แกจับตัวครูทุกคน ทำให้การเรียนของฉันพังพินาศ และแกยังลักพาตัว...
 
 ASCA011RA: start: 49966 end: 51600
 Raz: MY GIRLFRIEND!
-แรซ: 
+แรซ: แฟนของฉัน!
 
 ASCA012SA: start: 51600 end: 53966
 Sasha: Razputin, this fight is too big for you.
-ซาช่า: 
+ซาช่า: แรซปูติน การต่อสู้ครั้งนี้ใหญ่เกินไปสำหรับเธอ
 
 ASCA013RA: start: 54100 end: 60766
 Raz: Back home I had to clean up after the elephants, so trust me, I know how to take care of this ugly, little pile of--
-แรซ: 
+แรซ: ที่บ้านผมต้องคอยทำความสะอาดหลังโชว์ช้าง เชื่อผม ผมรู้วิธีจัดการของน่าเกลียด เป็นก้อน--
 
 ASCA014MI: start: 61966 end: 63833
 Milla: Kids, let the grown-ups handle this.
-มิลล่า: 
+มิลล่า: เด็กๆ ปล่อยให้ผู้ใหญ่จัดการเถอะ
 
 ASCA015CO: start: 65866 end: 68066
 Coach: You tall people!
-โค้ช: 
+โค้ช: เจ้าพวกตัวสูง!
 
 ASCA016RA: start: 76633 end: 77666
 Raz: Sasha!
-แรซ: 
+แรซ: ซาช่า!
 
 ASCA017LI: start: 77666 end: 79300
 Lili: We get to kill him too!
-ลิลี่: 
+ลิลี่: เราก็อยากฆ่าเขาด้วย!
 
 ASCA018RA: start: 79300 end: 80066
 Raz: Ahhhhh!
-แรซ: 
+แรซ: อ้ากกกก!
 
 ASCA019ED: start: 80733 end: 84200
 Edgar: Well, it's official. The genius is back!
-เอ็ดการ์: 
+เอ็ดการ์: เอาล่ะ เป็นทางการแล้ว อัจฉริยะกลับมาแล้ว!
 
 ASCA020ED: start: 84966 end: 87166
 Edgar: Time to go get ready for my gallery show.
-เอ็ดการ์: 
+เอ็ดการ์: ถึงเวลาไปเตรียมตัวสำหรับการแสดงนิทรรศการภาพวาดของฉันแล้ว
 
 ASCA021ED: start: 88633 end: 90666
 Edgar: Rrrrrrr... Ahhh!
-เอ็ดการ์: 
+เอ็ดการ์: Rrrrrrr... Ahhh!
 
 ASCA022ED: start: 93600 end: 95600
 Edgar: Uh-oh. This looks bad.
-เอ็ดการ์: 
+เอ็ดการ์: โอ๊ะ โอ ท่าไม่ดีแล้ว
 
 ASCA023ED: start: 96866 end: 97500
 Edgar: (Sniff sniff, sniff)
-เอ็ดการ์: 
+เอ็ดการ์: (ฟุดฟิด ฟุดฟิด ฟุดฟิด)
 
 ASCA024ED: start: 98166 end: 102800
 Edgar: Ah, well, that's good. Someone must have turned off the gas long ago.
-เอ็ดการ์: 
+เอ็ดการ์: อืม ยังดี คงมีคนไปปิดแก๊สเมื่อนานมาแล้ว
 
 ASCA025GL: start: 104200 end: 109100
 Gloria: Oh, here's what my poor flowers need! A little water!
-กลอเรีย: 
+กลอเรีย: โอ้ นี่แหละสิ่งที่ดอกไม้น่าสงสารของฉันต้องการ! น้ำนิดหน่อย!
 
 ASCA026ED: start: 113666 end: 117600
 Edgar: Oh, no. I spilled all my turpentine and acetone!
-เอ็ดการ์: 
+เอ็ดการ์: โอ้ ไม่ ฉันทำน้ำมันสนกับอะซิโตนหกหมดเลย!
 
 ASCA027FR: start: 130266 end: 133066
 Fred: Hey, Boyd. Long time no see!
@@ -112,7 +112,7 @@ Fred: Hey, Boyd. Long time no see!
 
 ASCA028ED: start: 133266 end: 140500
 Edgar: Oh, Mr. Orderly. I did not see you there. I was just taking a little therapeutic walk in the moonlightï¿½
-เอ็ดการ์: 
+เอ็ดการ์: โอ้ มิสเตอร์ออร์เดอร์ลี่ ผมไม่ทันเห็นคุณเลย ผมแค่มาเดินเล่นบำบัดใต้แสงจันทร์นิดหน่อย
 
 ASCA029FR: start: 140433 end: 144166
 Fred: Relax. The asylum's closed. We can all go home.
@@ -124,23 +124,23 @@ Gloria: Leave? Here?
 
 ASCA031FR: start: 147400 end: 153733
 Fred: Yeah, this place is for crazy people. And I don't know about you but I ain't crazy no more!
-เฟร็ด: ใช่, ที่นี่มันสำหรับคนบ้า แต่ฉันไม่ได้บ้าอีกต่อไปแล้ว
+เฟร็ด: ใช่, ที่นี่มันที่สำหรับคนบ้า นายเป็นยังไงฉันไม่รู้ แต่ฉันไม่ได้บ้าอีกต่อไปแล้ว
 
 ASCA032ED: start: 154700 end: 157566
 Edgar: I have to tell you, I'm feeling pretty good.
-เอ็ดการ์: 
+เอ็ดการ์: ผมต้องบอกคุณว่า ผมรู้สึกดีขึ้นมาก
 
 ASCA033GL: start: 157800 end: 161833
 Gloria: You know, maybe it is time for us all to move on.
-กลอเรีย: 
+กลอเรีย: รู้อะไรไหม บางทีถึงเวลาที่พวกเราทุกคนจะต้องก้าวต่อไปแล้ว
 
 ASCA034FR: start: 162333 end: 163566
 Fred: What do you think, Boyd?
-เฟร็ด: 
+เฟร็ด: นายคิดว่าไงล่ะ บอยด์?
 
 ASCA035FR: start: 163833 end: 165800
 Fred: You ready to blow this popsicle stand?
-เฟร็ด: 
+เฟร็ด: นายพร้อมจะระเบิดแท่นไอติมนี่หรือยังล่ะ?
 
 ASCA036BO: start: 179100 end: 181033
 Boyd: The Milkman has completed his route.
@@ -152,55 +152,55 @@ Boyd: You guys want to split a cab?
 
 ASCA038RA: start: 197400 end: 199266
 Raz: And the crib wasn't even that clean!
-แรซ: 
+แรซ: ไม่แม้จะได้เก็บกวาดเลยด้วยซ้ำ!
 
 ASCA039RA: start: 199800 end: 203266
 Raz: I mean, what do I have to do to get those guys to take me seriously?
-แรซ: 
+แรซ: ฉันหมายถึง ฉันต้องทำอย่างไรให้พวกเขายอมรับฉันอย่างจริงจังสักที?
 
 ASCA040LI: start: 203133 end: 205533
 Lili: When are you going to shut up and kiss me?
-ลิลี่: 
+ลิลี่: เมื่อไหร่นายจะหยุดพูดและจูบฉันสักที?
 
 ASCA041RA: start: 205666 end: 208066
 Raz: Um... I can hear that.
-แรซ: 
+แรซ: อืม... ฉันได้ยินนะ
 
 ASCA042LI: start: 208066 end: 209033
 Lili: I know.
-ลิลี่: 
+ลิลี่: ฉันรู้
 
 ASCA043SA: start: 217400 end: 218366
 Sasha: Surrender!
-ซาช่า: 
+ซาช่า: ยอมแพ้ซะ!
 
 ASCA044CO: start: 218366 end: 219300
 Coach: Never!
-โค้ช: 
+โค้ช: ไม่มีวัน!
 
 ASCA045FO: start: 225866 end: 229600
 Ford: The Psychonauts have a word for people who turn on their own!
-ฟอร์ด: 
+ฟอร์ด: ไซโคนอทมีคำเรียกสำหรับพวกทรยศอยู่
 
 ASCA046CO: start: 229700 end: 236233
 Coach: Ha! I don't need the Psychonauts anymore! I'm making my own army! Got a word for that?
-โค้ช: 
+โค้ช: ฮ่า! ฉันไม่ต้องการไซโคนอทอีกต่อไปแล้ว! ฉันจะสร้างกองทัพของตัวเอง! มีคำเรียกสำหรับพวกแบบนั้นไหมล่ะ?
 
 ASCA047FO: start: 236266 end: 239033
 Ford: Yeah. Gesundheit!
-ฟอร์ด: 
+ฟอร์ด: มีสิ หายไวๆ นะ!
 
 ASCA048CO: start: 239166 end: 239533
 Coach: Heh?
-โค้ช: 
+โค้ช: หะ?
 
 ASCA049CO: start: 240366 end: 244233
 Coach: Ah... ahh... ahhhhï¿½ AHCHOO!
-โค้ช: 
+โค้ช: ฮะ... ฮ๊ะ... ฮากก... ฮัชชู่!
 
 ASCA073LI: start: 247866 end: 249033
 Lili: Wow.
-ลิลี่: 
+ลิลี่: ว้าว
 
 ASCA074RA: start: 250033 end: 250566
 Raz: 
@@ -208,35 +208,35 @@ Raz:
 
 ASCA050RA: start: 306366 end: 309766
 Raz: Hey, that was my fight! I was ready for that one!
-แรซ: 
+แรซ: เฮ้ นั่นมันการต่อสู้ของผม! ผมพร้อมสู้นะ!
 
 ASCA051SA: start: 309900 end: 315966
 Sasha: Always in such a rush, Razputin. It takes years before you're ready for combat of that magnitude.
-ซาช่า: 
+ซาช่า: ช่างรีบร้อนเสมอเลยนะ แรซปูติน มันต้องใช้เวลาหลายปีกว่าเธอจะพร้อมสำหรับการต่อสู้ระดับนั้น
 
 ASCA052FO: start: 315966 end: 322666
 Ford: You'd be surprised, Nein. This one's been acing all my extra credit exams.  
-ฟอร์ด: 
+ฟอร์ด: เธออาจจะประหลาดใจนะ ไนน์ เขาคนนี้สอบผ่านทุกวิชาพิเศษของฉันเลย
 
 ASCA053RA: start: 322666 end: 325600
 Raz: I beat the Coach once already, and I can do it again.
-แรซ: 
+แรซ: ผมเคยเอาชนะโค้ชมาแล้ว และผมสามารถทำมันได้อีก
 
 ASCA054MI: start: 325600 end: 330533
 Milla: Darling, that was just a remote projection of the Coach. He wasn't as strong as he would be...
-มิลล่า: 
+มิลล่า: ที่รัก นั่นแค่ภาพสะท้อนของโค้ช เขาไม่ได้แข็งแกร่งเหมือนอย่างตอนที่...
 
 ASCA055MI: start: 331100 end: 334300
 Milla: ...if he were to appear... in the real world.
-มิลล่า: 
+มิลล่า: ...เขาอยู่ใน... โลกแห่งความจริง
 
 ASCA056CO: start: 338233 end: 339766
 Coach: Teeee Veee?
-โค้ช: 
+โค้ช: ทีวี?
 
 ASCA057MI: start: 339966 end: 341966
 Milla: Ha ha ha!
-มิลล่า: 
+มิลล่า: ฮ่าๆๆ
 
 ASCA058SA: start: 340300 end: 341333
 Sasha: 
@@ -244,19 +244,19 @@ Sasha:
 
 ASCA060CO: start: 341966 end: 343666
 Coach: Teee VEEE?
-โค้ช: 
+โค้ช: ทีวี?
 
 ASCA061RA: start: 344000 end: 344933
 Raz: Where's his brain?
-แรซ: 
+แรซ: สมองของเขาอยู่ไหน?
 
 ASCA062SA: start: 345566 end: 349633
 Sasha: Oh, probably stuck in one of his plans to take over the world somewhere.
-ซาช่า: 
+ซาช่า: โอ้ คงไปอยู่ที่ไหนสักแห่งในแผนการยึดครองโลกของเขาล่ะมั้ง
 
 ASCA063SA: start: 350333 end: 351733
 Sasha: Ha ha!
-ซาช่า: 
+ซาช่า: ฮ่าๆ
 
 ASCA064MI: start: 350400 end: 352633
 Milla: 
@@ -264,29 +264,29 @@ Milla:
 
 ASCA066CO: start: 362933 end: 365800
 Coach: Hey. How's the weather down there.
-โค้ช: 
+โค้ช: เฮ้ อากาศข้างล่างเป็นยังไงบ้าง
 
 ASCA067CO: start: 372633 end: 377833
 Coach: Ah, finally. Alone at last, eh Razputin?
-โค้ช: 
+โค้ช: อ้า ในที่สุด ก็ได้อยู่กันตามลำพังสักที แรซปูติน
 
 ASCA068RA: start: 377933 end: 380666
 Raz: Glad you're finally picking on someone your own size!
-แรซ: 
+แรซ: ดีใจที่ในที่สุดแกก็เลือกที่จะสู้กับคนตัวเท่ากัน!
 
 ASCA069CO: start: 380800 end: 385700
 Coach: Yes, I've been dying for a chance to... PICK YOUR BRAIN.
-โค้ช: 
+โค้ช: ใช่ ฉันรอโอกาสนี้มานานแล้ว... ที่จะ... ดูดสมองแก
 
 ASCA070RA: start: 391333 end: 392933
 Raz: Two can play that game!
-แรซ: 
+แรซ: เกมนี้เล่นกันได้แค่สองคน
 
 ASCA071CO: start: 393066 end: 396066
 Coach: Yeah, but only one can win!
-โค้ช: 
+โค้ช: ใช่ แต่มีเพียงคนเดียวที่จะชนะ!
 
 ASCA072CO: start: 396100 end: 398800
 Coach: Bwah ha ha ha!
-โค้ช: 
+โค้ช: บว้าฮ่าฮ่าฮ่า!
 
