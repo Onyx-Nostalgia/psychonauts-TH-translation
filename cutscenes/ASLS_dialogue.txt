@@ -1,58 +1,58 @@
 ASLS001LO: start: 0 end: 5900
 Dr.Loboto: Worthless! These brains are worthless, Sheegor! Just like the one in your head!
-ดร.โลโบโต้: 
+ดร.โลโบโต้: ไร้ค่า! สมองพวกนี้มันไร้ค่า ชีกอร์! เหมือนกับที่อยู่ในหัวของเธอเลย!
 
 ASLS002SH: start: 5266 end: 11500
 Sheegor: Oh, no, no, they're nice. They're--they're nice brains, Doctor Loboto. Really!
-ชีกอร์: 
+ชีกอร์: โอ้ ไม่ๆ พวกมันดีนะ พวกมัน-- พวกมันเป็นสมองที่ดีนะ ด็อกเตอร์โลโบโต้ จริงๆนะ!
 
 ASLS003LO: start: 11233 end: 18133
 Dr.Loboto: They're TOO nice! They won't fight! I need killers! I need angry brains!
-ดร.โลโบโต้: 
+ดร.โลโบโต้: มันดี"เกินไป"! พวกมันไม่ยอมสู้! ฉันต้องการนักฆ่า! ฉันต้องการสมองที่กำลังโกรธ!
 
 ASLS004LO: start: 18133 end: 27433
 Dr.Loboto: I squeeze 'em, I poke 'em, I twist 'em! What do I have to do to make 'em fight? Maybe I should try my drill?
-ดร.โลโบโต้: 
+ดร.โลโบโต้: ฉันบีบ ฉันจิ้ม ฉันบิด! ฉันต้องทำยังไงถึงจะทำให้พวกมันสู้ล่ะ? บางทีฉันน่าจะลองใช้สว่านของฉันดู?
 
 ASLS005SH: start: 26800 end: 31366
 Sheegor: I'm not going to bring you anymore brains if you're going to be so mean to them!
-ชีกอร์: 
+ชีกอร์: ฉันจะไม่นำสมองมาให้คุณอีกแล้ว ถ้าคุณจะใจร้ายกับพวกมันแบบนี้!
 
 ASLS008LO: start: 31366 end: 32500
 Dr.Loboto: No matter what I do?
-ดร.โลโบโต้: 
+ดร.โลโบโต้: ไม่ว่าฉันจะทำอะไรก็ตาม?
 
 ASLS009SH: start: 32500 end: 35766
 Sheegor: No. No matter... what.
-ชีกอร์: 
+ชีกอร์: ไม่ ไม่ว่า... อะไรก็ตาม
 
 ASLS010LO: start: 35833 end: 38100
 Dr.Loboto: Not even if I--
-ดร.โลโบโต้: 
+ดร.โลโบโต้: ไม่แม้กระทั่งถ้าฉัน...
 
 ASLS011SH: start: 37500 end: 38933
 Sheegor: No! Don't!
-ชีกอร์: 
+ชีกอร์: ไม่นะ! อย่า!
 
 ASLS012LO: start: 38533 end: 41033
 Dr.Loboto: Not even if I cook you a little--
-ดร.โลโบโต้: 
+ดร.โลโบโต้: ไม่แม้กระทั่งถ้าฉันจะทำซุปให้เธอด้วย...
 
 ASLS013SH: start: 39566 end: 42333
 Sheegor: Don't. Doctor, no!
-ชีกอร์: 
+ชีกอร์: อย่านะ ด็อกเตอร์ ไม่นะ!
 
 ASLS014LO: start: 41900 end: 43900
 Dr.Loboto: A little turtle soup?
-ดร.โลโบโต้: 
+ดร.โลโบโต้: ซุปเต่าสักหน่อยนะ?
 
 ASLS015SH: start: 43466 end: 45866
 Sheegor: Please, Doctor Loboto. No!
-ชีกอร์: 
+ชีกอร์: ได้โปรด ดร.โลโบโต้ ไม่นะ!
 
 ASLS016LO: start: 45666 end: 49333
 Dr.Loboto: Huh? A nice hot turtle soup, hmm hmm?
-ดร.โลโบโต้: 
+ดร.โลโบโต้: หืม? ซุปเต่าร้อนๆ อืมๆ?
 
 ASLS017SH: start: 48566 end: 49900
 Sheegor: 
@@ -60,59 +60,59 @@ Sheegor:
 
 ASLS018LO: start: 49400 end: 53966
 Dr.Loboto: Nothing better on a cold night like this than some boiling hot soup!
-ดร.โลโบโต้: 
+ดร.โลโบโต้: ไม่มีอะไรจะดีไปกว่าซุปร้อนๆ ในคืนที่หนาวเย็นแบบนี้อีกแล้ว!
 
 ASLS019SH: start: 54100 end: 56733
 Sheegor: Leave Mr. Pokeylope alone!!!
-ชีกอร์: 
+ชีกอร์: ปล่อยมิสเตอร์โพกีโลพนะ!!!
 
 ASLS020LO: start: 56400 end: 57766
 Dr.Loboto: Oh, okay.
-ดร.โลโบโต้: 
+ดร.โลโบโต้: โอ้ โอเค
 
 ASLS021SH: start: 57033 end: 59366
 Sheegor: (Pant pant.)
-ชีกอร์: 
+ชีกอร์: (หายใจหอบ)
 
 ASLS022LO: start: 58933 end: 60066
 Dr.Loboto: You sure?
-ดร.โลโบโต้: 
+ดร.โลโบโต้: เธอแน่ใจนะ?
 
 ASLS023SH: start: 59533 end: 61833
 Sheegor: NO! I mean, YES!
-ชีกอร์: 
+ชีกอร์: ไม่! หมายถึง ใช่!
 
 ASLS024LO: start: 61566 end: 63533
 Dr.Loboto: All right, all right.
-ดร.โลโบโต้: 
+ดร.โลโบโต้: เอาล่ะ เอาล่ะ
 
 ASLS025LO: start: 63700 end: 66800
 Dr.Loboto: Oh, why don't I just go ahead and heat you up a cup?
-ดร.โลโบโต้: 
+ดร.โลโบโต้: โอ้ ทำไมฉันไม่ตักให้เธอสักถ้วยไปเลยล่ะ?
 
 ASLS027LO: start: 67100 end: 71466
 Dr.Loboto: It's made of turtles! Turtles that you love!
-ดร.โลโบโต้: 
+ดร.โลโบโต้: ซุปทำจากเต่า! เต่าที่เธอรักไง!
 
 ASLS028LO: start: 71466 end: 75200
 Dr.Loboto: Isn't that right, Mr. Pokeylope?
-ดร.โลโบโต้: 
+ดร.โลโบโต้: ไม่ใช่เหรอ มิสเตอร์โพกีโลพ?
 
 ASLS029SH: start: 73800 end: 76333
 Sheegor: Stop it stop it stop it stop it stop it stop it!
-ชีกอร์: 
+ชีกอร์: หยุดนะ หยุดนะ หยุดนะ หยุดนะ หยุดนะ!
 
 ASLS030LO: start: 75533 end: 78533
 Dr.Loboto: Okay, okay.
-ดร.โลโบโต้: 
+ดร.โลโบโต้: โอเค โอเค
 
 ASLS031SH: start: 77066 end: 79000
 Sheegor: (pant)
-ชีกอร์: 
+ชีกอร์: (หายใจหอบ)
 
 ASLS032LO: start: 78766 end: 81900
 Dr.Loboto: Well, maybe I'll just make some for myself.
-ดร.โลโบโต้: 
+ดร.โลโบโต้: งั้นฉันจะทำกินเองละกัน
 
 ASLS033SH: start: 81333 end: 84033
 Sheegor: 
@@ -120,21 +120,21 @@ Sheegor:
 
 ASLS034LO: start: 82900 end: 89766
 Dr.Loboto: Bring me a good brain, Sheegor, or Mr. Pokeylope becomes Mr. Smokey-lope!
-ดร.โลโบโต้: 
+ดร.โลโบโต้: นำสมองดีๆ มาให้ฉันซะ ชีกอร์ ไม่งั้นมิสเตอร์โพกีโลพจะกลายเป็นมิสเตอร์สโมกีโลพ!
 
 ASLS035LO: start: 89766 end: 92233
 Dr.Loboto: Ha-ha-ha-ha-ha!
-ดร.โลโบโต้: 
+ดร.โลโบโต้: Ha-ha-ha-ha-ha!
 
 ASLS036LO: start: 92233 end: 95500
 Dr.Loboto: Huah-huah-huah!
-ดร.โลโบโต้: 
+ดร.โลโบโต้: Huah-huah-huah!
 
 ASLS037LO: start: 95500 end: 99300
 Dr.Loboto: Smokey-lope. HAAAAAA!
-ดร.โลโบโต้: 
+ดร.โลโบโต้: สโมกีโลพ HAAAAAA!
 
 ASLS038LO: start: 99400 end: 106866
 Dr.Loboto: When you're a dentist, you have to learn to have a sense of humor, you know. It helps to calm the patients down.
-ดร.โลโบโต้: 
+ดร.โลโบโต้: เวลาที่นายเป็นหมอฟัน นายต้องเรียนรู้ที่จะมีอารมณ์ขันซะบ้าง รู้ไหม มันช่วยให้คนไข้ใจเย็นลงได้
 
