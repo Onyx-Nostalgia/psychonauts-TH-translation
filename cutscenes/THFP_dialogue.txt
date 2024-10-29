@@ -1,26 +1,26 @@
 thfp000be: start: 2733 end: 6533
 Becky: Look alive, people! Bonita Soleil is about to take the stage!
-เบ็คกี้: 
+เบ็คกี้: ร่าเริงไว้นะทุกคน! โบนิต้า โซเลล์กำลังจะขึ้นเวทีแล้ว!
 
 thfp001be: start: 6533 end: 10966
 Becky: Flower girls in position one. And... ACTION!
-เบ็คกี้: 
+เบ็คกี้: สาวๆดอกไม้ ประจำที่ และ...ACTION!
 
 thfp002sf: start: 10966 end: 19533
 Pink-Flower: Tonight I will be playing the part of Gloria Von Gouton, the famous actress!
-ดอกชมพู: 
+ดอกชมพู: คืนนี้ ฉันจะรับบทเป็น กลอเรีย ฟอน กูตัน นักแสดงชื่อดัง!
 
 thfp003hf: start: 19533 end: 24800
 Yellow-Actor: In this nostalgic memory of her breakthrough role in the smash hit musical...
-น้องตัวเหลือง: 
+น้องตัวเหลือง: ในความทรงจำอันแสนอบอุ่นของบทบาทที่ทำให้เธอโด่งดังจากละครเพลงที่ประสบความสำเร็จอย่าง...
 
 thfp004ff: start: 24866 end: 27200
 Orange-Flower: "Sunshine Shenanigans!"
-น้องส้ม: 
+น้องส้ม: "Sunshine Shenanigans!"
 
 thfp005sf: start: 27000 end: 30400
 Pink-Flower: Yay! Wooo!
-ดอกชมพู: 
+ดอกชมพู: เย้! วู้!
 
 thfp007ff: start: 27500 end: 29133
 Orange-Flower: 
@@ -32,23 +32,23 @@ Yellow-Actor:
 
 THBF000SF: start: 30833 end: 35966
 Pink-Flower: And where would Gloria be without her muse?
-ดอกชมพู: 
+ดอกชมพู: และกลอเรียจะไปไหนได้ หากไร้ซึ่งแรงบันดาลใจของเธอ?
 
 thbf001hf: start: 35966 end: 37733
 Yellow-Actor: Her inner sunshine!
-น้องตัวเหลือง: 
+น้องตัวเหลือง: แสงในตัวเธอ!
 
 thbf002ff: start: 38066 end: 40733
 Orange-Flower: The spirit of her youth!
-น้องส้ม: 
+น้องส้ม: จิตวิญญาณแห่งความเยาว์วัยของเธอ!
 
 thbf003sf: start: 40733 end: 44633
 Pink-Flower: Played tonight, once again, by...
-ดอกชมพู: 
+ดอกชมพู: แสดงในคืนนี้อีกครั้ง โดย...
 
 thbf004sf: start: 44500 end: 47866
 Pink-Flower: Bonita Soleil!
-ดอกชมพู: 
+ดอกชมพู: โบนิต้า โซเลล์!
 
 thbf006ff: start: 44500 end: 47533
 Orange-Flower: 
@@ -60,41 +60,41 @@ Yellow-Actor:
 
 thfp009sf: start: 50033 end: 54966
 Pink-Flower: Oh, I do so hope that my mother is proud of me!
-ดอกชมพู: 
+ดอกชมพู: โอ้ ฉันหวังเหลือเกินว่าแม่ของฉันจะภูมิใจในตัวฉัน!
 
 thfp010be: start: 56200 end: 57300
 Becky: Not again!
-เบ็คกี้: 
+เบ็คกี้: ไม่เอาอีกแล้วนะ!
 
 thfp011ff: start: 57133 end: 59533
 Orange-Flower: The Phantom!
-น้องส้ม: 
+น้องส้ม: แฟนทอม!
 
 thfp012ja: start: 59533 end: 67900
 Jasper: I've seen some bad plays in my day, but this one's an actual menace. And it's all HER fault.
-แจสเปอร์: 
+แจสเปอร์: ฉันเคยดูละครแย่ๆ มาเยอะ แต่เรื่องนี้มันแย่ที่สุดแล้ว และทั้งหมดเป็นความผิดของ"เธอ"คนเดียว
 
 thfp013ja: start: 67900 end: 72100
 Jasper: It's her bad acting that makes the Phantom strike!
-แจสเปอร์: 
+แจสเปอร์: การแสดงแย่ๆ ของเธอทำให้แฟนทอมโผล่ออกมา!
 
 thfp015bt: start: 71233 end: 76466
 Bonita: Boo hoo hoo!
-โบนิต้า: 
+โบนิต้า: ฮือๆๆ
 
 thfp016ja: start: 74933 end: 81133
 Jasper: This time, I'm going to file a formal complaint and get this theater shut down! 
-แจสเปอร์: 
+แจสเปอร์: คราวนี้ฉันจะยื่นเรื่องร้องเรียนอย่างเป็นทางการและให้ปิดโรงละครนี้ซะ!
 
 thfp017be: start: 81133 end: 83466
 Becky: Great. Well, I'm off to go kill myself. 
-เบ็คกี้: 
+เบ็คกี้: เยี่ยม ฉันขอลาออกไปฆ่าตัวตายดีกว่า
 
 thfp018ra: start: 83700 end: 86033
 Raz: You know, you could be a more constructive critic.
-แรซ: 
+แรซ: รู้ไหม นายควรวิจารณ์อย่างสร้างสรรค์กว่านี้หน่อยนะ
 
 thfp019ja: start: 86033 end: 92866
 Jasper: Kid, if you want to see a GOOD play, come talk to me. I've got a script here that will knock 'em dead, I promise.
-แจสเปอร์: 
+แจสเปอร์: เด็กน้อย ถ้านายอยากดูละคร"ดีๆ" มาคุยกับฉันสิ ฉันมีบทละครที่รับรองว่าจะทำให้ทุกคนต้องทึ่ง
 
