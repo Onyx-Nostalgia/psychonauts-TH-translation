@@ -21,7 +21,7 @@ def get_template(file_path=constants.CUTSCENES_TEMPLATE_PATH):
 
 
 def read_dfs(file_path):
-    with open(file_path, mode="r", encoding="latin-1") as f:
+    with open(file_path, mode="r") as f:
         raw_rows = f.readlines()
 
     return [(raw_row[: constants.DIALOGUE_ID_LENGTH].upper(), raw_row) for raw_row in raw_rows]
@@ -35,7 +35,7 @@ def get_dialogue(dfs_rows, folder_path):
     dialogue_stack = {}
     filenames = get_filenames(folder_path)
     for filename in filenames:
-        with open(filename, mode="r", encoding="latin-1") as csvfile:
+        with open(filename, mode="r",encoding="latin-1") as csvfile:
             csv_text = csvfile.read()
         for dialogue_id in dialogue_ids:
             if dialogue_id in dialogue_stack:
@@ -79,6 +79,7 @@ def create_cutscene_dialogue(
     file_path,
     dest_folder=constants.CUTSCENES_FOLDER_NAME,
     dialogue_folder=constants.DIALOGUES_FOLDER_NAME,
+    dry_run=False
 ):
     filename = file_path.split("/")[-1]
     if filename.endswith(".dfs"):
@@ -103,7 +104,7 @@ def create_cutscene_dialogue(
         
         if dialogue_id in dialogues:
             en_dialogue = dialogues[dialogue_id][2]
-            th_dialogue = dialogues[dialogue_id][3]
+            th_dialogue = dialogues[dialogue_id][3].encode("latin-1").decode("utf-8")
 
         # check with exist
         if exist_cutscene_dialogues:
@@ -118,7 +119,7 @@ def create_cutscene_dialogue(
                 and exist_cutscene_dialogue["TH_Character"] != character_id
             ):
                 th_character = exist_cutscene_dialogue["TH_Character"]
-            th_dialogue = exist_cutscene_dialogue["TH_Dialogue"]
+            th_dialogue = th_dialogue or exist_cutscene_dialogue["TH_Dialogue"]
 
         text = string_template.format(
             dfs=dfs,
@@ -129,9 +130,10 @@ def create_cutscene_dialogue(
         )
         result.append(text)
 
-    with open(dest_file_path, mode="w") as f:
-        text = "".join(result)
-        f.write(text)
+    if not dry_run:
+        with open(dest_file_path, mode="w") as f:
+            text = "".join(result)
+            f.write(text)
     print("🤩 Created/Updated {}".format(dest_file_path))
 
 
@@ -153,16 +155,17 @@ if __name__ == "__main__":
         required=False,
         default=constants.DIALOGUES_FOLDER_NAME,
     )
+    arg_parser.add_argument("--dry-run",required=False,action="store_true")
     args = arg_parser.parse_args()
 
     if args.dfs_file_path:
         create_cutscene_dialogue(
-            args.dfs_file_path, args.dest_folder, dialogue_folder=args.dialogue_folder
+            args.dfs_file_path, args.dest_folder, dialogue_folder=args.dialogue_folder,dry_run=args.dry_run
         )
 
     elif args.dfs_folder_path:
         file_paths = get_filenames(args.dfs_folder_path, type=".dfs")
         for file_path in file_paths:
             create_cutscene_dialogue(
-                file_path, args.dest_folder, dialogue_folder=args.dialogue_folder
+                file_path, args.dest_folder, dialogue_folder=args.dialogue_folder,dry_run=args.dry_run
             )
