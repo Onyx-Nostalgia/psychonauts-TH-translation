@@ -96,7 +96,7 @@ Coach: I don't want the kids to be afraid to go out at night and walk alone on t
 
 INTR027CO: start: 147900 end: 154500
 Coach: And we don't want to scare our special guests, superstar Psychonauts Sasha Nein and Milla Vodello!
-โค้ช: และเราก็ไม่ต้องการทำให้แขกพิเศษของเรากลัวเช่นกัน! ไซโคนอทซูเปอร์สตาร์ ซาช่า ไน และ มิลล่า โวเดลโล!
+โค้ช: และเราก็ไม่ต้องการทำให้แขกพิเศษของเรากลัวเช่นกัน! ไซโคนอทซูเปอร์สตาร์ ซาช่า ไนน์ และ มิลล่า โวเดลโล!
 
 INTR029RA: start: 156033 end: 156666
 Raz: Whoa--
@@ -172,7 +172,7 @@ Raz: Sorry I'm late. I don't want to disrupt your briefing, Agent Oleander.
 
 INTR047RA: start: 219233 end: 221000
 Raz: Agents Nein, Vodello.
-แรซ: สายลับไนและโวเดลโล.
+แรซ: สายลับไนน์และโวเดลโล.
 
 INTR048RA: start: 221000 end: 222866
 Raz: Please, continue.
@@ -280,7 +280,7 @@ Sasha: But he has mental defenses like I've never seen in someone so young. If I
 
 INTR075CO: start: 390600 end: 396933
 Coach: That kid's one in a million, Nein. But I'm not going to let you turn him into one of your guinea pigs!
-โค้ช: เด็กนั่นเป็นหนึ่งในล้านเลยล่ะ ไน แต่ฉันจะไม่ยอมให้นายเปลี่ยนเขาไปเป็นหนูทดลองของนายหรอกนะ!
+โค้ช: เด็กนั่นเป็นหนึ่งในล้านเลยล่ะ ไนน์ แต่ฉันจะไม่ยอมให้นายเปลี่ยนเขาไปเป็นหนูทดลองของนายหรอกนะ!
 
 INTR076CO: start: 397900 end: 401033
 Coach: I've got big plans for that mind.
