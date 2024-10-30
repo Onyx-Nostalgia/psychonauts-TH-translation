@@ -69,19 +69,19 @@ BBVI016CO;CO;Here. You've earned this.;
 BBVI017CO;CO;Your first PSYCHONAUT MERIT BADGE!;
 BBVI018CO;CO;Now if you'll excuse me, I gotta go back in.;
 BBVI019CO;CO;I left some good men back there!;
-LLLV001LF;LF;Human child.;
-LLLV002RA;RA;Wha--who is that?;
-LLLV003LF;LF;It is I, the creature whose spirit was once--;
-LLLV004LF;LF;Um, over here. Behind you? Yes.;
-LLLV005RA;RA;Oh.;
-LLLV006LF;LF;The creature whose spirit was once enslaved by the evil one.;
-LLLV007LF;LF;You have unchained my soul, and now I shall repay you, powerful human child!;
-LLLV008RA;RA;Oh, uh... great! Well okay, show me what you did to my friend Lili!;
-LLLV009LF;LF;By the drowned spirit of Oblongata, it is done!;
-LLLV010RA;RA;Ah--;
+LLLV001LF;LF;Human child.;เด็กมนุษย์
+LLLV002RA;RA;Wha--who is that?;ไงนะ-- นั่นใคร?
+LLLV003LF;LF;It is I, the creature whose spirit was once--;ข้าเอง สิ่งมีชีวิตที่ครั้งนึงเคย--
+LLLV004LF;LF;Um, over here. Behind you? Yes.;อืม ทางนี้ ข้างหลังเจ้า? ใช่
+LLLV005RA;RA;Oh.;โอ้
+LLLV006LF;LF;The creature whose spirit was once enslaved by the evil one.;สิ่งมีชีวิตที่ครั้งนึงจิตวิญญาณเคยตกเป็นทาสของปีศาจ
+LLLV007LF;LF;You have unchained my soul, and now I shall repay you, powerful human child!;เจ้าได้ปลดโซ่ตรวนแห่งจิตวิญญาณของข้า และตอนนี้ข้าจะตอบแทนเจ้า เด็กมนุษย์ผู้ทรงพลังเอ๋ย!
+LLLV008RA;RA;Oh, uh... great! Well okay, show me what you did to my friend Lili!;โอ้ เอ่อ... เยี่ยม! โอเค บอกมาว่าแกทำอะไรกับเพื่อนฉัน ลิลี่!!
+LLLV009LF;LF;By the drowned spirit of Oblongata, it is done!;แด่ดวงวิญญาณที่จมน้ำแห่งออบลองกาตา มันจบแล้ว!
+LLLV010RA;RA;Ah--;Ah--
 MMDD008BO;BO;GRAAAAAA!;
-SAIN008SA;SA;No, as firepower!;
-SAIN010SA;SA;Ahhh, oh, so tacky... I� can't... look... directly at it!;
+SAIN008SA;SA;No, as firepower!;ไม่ใช่ เป็นอาวุธ!
+SAIN010SA;SA;Ahhh, oh, so tacky... I� can't... look... directly at it!;โอ้ ไร้รสนิยมสิ้นดี! มอง... ตรง ๆ... ไม่ได้เลย!
 GLRA001RA;RA;giggle;
 GLRA007RA;RA;Uh-oof.;
 GLRA008RA;RA;Yuh-uhf.;
@@ -109,46 +109,46 @@ ASAH005LF;LF;Uh, yeah. I've put on a little weight.;
 ASAH006PL;PL;Ah, you know I don't mind that onnnnne bit.;
 ASAH007LF;LF;Oh, Sam. You haven't changed at all!;
 ASAH008LF;LF;Ah ha ha!;
-FINI000CO;CO;And so, that brings us to the end.;
-FINI001CO;CO;Where, as you can clearly see, the personal demons causing my negative behavior have all been eradicated, leaving me sane once again.;
-FINI002CO;CO;This is also corroborated in CAT scan number three, on page fifty-nine of your handouts.;
-FINI003CO;CO;On a personal note, I would just like to reiterate how extremely, extremely sorry I am for stealing all of your brains, and trying to take over the world.;
-FINI004CO;CO;Mistakes have been made.;
-FINI005CO;CO;But this camp is all about education, and I know I, for one, learned plenty.;
-FINI006CO;CO;Thanks to that guy right there. Come on up here, Raz!;
-FINI007FO;FO;We endeavor to build strong minds here, with the power to lift things, to see things, to burn things.;
-FINI008FO;FO;But it's a special quality of your heart, not your mind, that truly makes a great Psychonaut.;
-FINI009FO;FO;This young man has it.;
-FINI010FO;FO;We did not give it to him. ;
-FINI011FO;FO;He got it from someone else, long before he came here.;
-FINI012FO;FO;But we CAN give him this, to honor his mind, his courage, and his heart.;
-FINI013FO;FO;Son, we do not normally ask this of someone so young, but it is obvious to us all that you are not average.;
-FINI014FO;FO;Will you join us, Razputin?;
-FINI015FO;FO;Will you be... a Psychonaut?;
-FINI016LI;LI;Okay, let's be perfectly clear about this. That was the best summer of my whole entire life.;
-FINI017RA;RA;Hey, the summer's not over yet! We can hang out for a couple of weeks still.;
-FINI018LI;LI;My family's out on the East Coast. Where's yours?;
-FINI019RA;RA;They move around a lot.;
-FINI020LI;LI;Hm...;
-FINI021LI;LI;Well, you'd better go. Your dad's waiting for you.;
-FINI022RA;RA;Um, well--;
-FINI023LI;LI;Bye.;
-FINI024SA;SA;Children, it's an emergency. There's been another kidnapping!;
-FINI025CO;CO;I was here the whole time. You saw me.;
-FINI026SA;SA;No, this time we know who it is, and that's what scares us.;
-FINI027RA;RA;Who was kidnapped?;
-FINI028MI;MI;Truman Zanotto, the Grand Head of the Psychonauts.;
-FINI029LI;LI;Dad?;
-FINI030SA;SA;Sir, can you teleport this many of us back to headquarters?;
-FINI031FO;FO;Hey, what are you people doing in my kitchen? Now git!;
-FINI032CO;CO;Guess we're taking the jet.;
-FINI033MI;MI;Don't worry about your dad, darling. We'll get him back.;
-FINI034SA;SA;Yes, after all, we'll have Razputin helping us.;
-FINI035RA;RA;I'm going?;
-FINI036SA;SA;Now how could we do this without our anti-kidnapping specialist?;
-FINI039GD;GD;I've taught you everything I can, Son. ;
-FINI040GD;GD;Now you go show them. Show them all.;
-FINI042RA;RA;Let's go.;
+FINI000CO;CO;And so, that brings us to the end.;และนี่ก็เป็นจุดจบของเรื่อง
+FINI001CO;CO;Where, as you can clearly see, the personal demons causing my negative behavior have all been eradicated, leaving me sane once again.;อย่างที่พวกนายรู้กันอย่างชัดเจนแล้ว ปีศาจภายในใจที่ทำให้ฉันประพฤติตัวไปในทางที่มิชอบนั้น ได้ถูกกำจัดไปหมดแล้ว ทำให้ฉันกลับมาเป็นคนมีสติอีกครั้ง
+FINI002CO;CO;This is also corroborated in CAT scan number three, on page fifty-nine of your handouts.;และนี่ก็ได้รับการยืนยันจากภาพสแกนสมองหมายเลขสาม ในหน้าที่ห้าสิบเก้าของเอกสารที่แจกให้พวกนาย
+FINI003CO;CO;On a personal note, I would just like to reiterate how extremely, extremely sorry I am for stealing all of your brains, and trying to take over the world.;นอกจากนี้ ฉันอยากจะเน้นย้ำอีกครั้งว่า ฉันรู้สึกเสียใจอย่างสุดซึ้งที่ขโมยสมองของพวกนายไป และพยายามจะยึดครองโลก
+FINI004CO;CO;Mistakes have been made.;ฉันได้ทำผิดพลาดไป
+FINI005CO;CO;But this camp is all about education, and I know I, for one, learned plenty.;แต่ที่นี่คือค่ายแห่งการเรียนรู้ และฉันรู้ว่าอย่างน้อย ตัวฉันเองก็ได้เรียนรู้อะไรมากมายเช่นกัน
+FINI006CO;CO;Thanks to that guy right there. Come on up here, Raz!;ต้องขอบคุณเด็กหนุ่มคนนี้เลย มาขึ้นมานี่เลย แรซ!
+FINI007FO;FO;We endeavor to build strong minds here, with the power to lift things, to see things, to burn things.;ที่นี่เราพยายามสร้างจิตใจที่แข็งแกร่ง ด้วยพลังที่จะยกสิ่งต่างๆ มองเห็นสิ่งต่างๆ และเผาผลาญสิ่งต่างๆ
+FINI008FO;FO;But it's a special quality of your heart, not your mind, that truly makes a great Psychonaut.;แต่เป็นคุณสมบัติพิเศษในหัวใจของเธอต่างหาก ไม่ใช่จิตใจ ที่จะทำให้เป็นไซโคนอทที่ยอดเยี่ยม
+FINI009FO;FO;This young man has it.;เด็กหนุ่มคนนี้มีมัน
+FINI010FO;FO;We did not give it to him. ;เราไม่ได้ให้มันแก่เขา
+FINI011FO;FO;He got it from someone else, long before he came here.;เขาได้รับมันมาจากคนอื่นเมื่อนานมาแล้ว ก่อนจะมาที่นี่ด้วยซ้ำ
+FINI012FO;FO;But we CAN give him this, to honor his mind, his courage, and his heart.;แต่เรา "สามารถ" ให้สิ่งนี้แก่เขาได้ เพื่อเป็นเกียรติแก่จิตใจ ความกล้าหาญ และหัวใจของเขา
+FINI013FO;FO;Son, we do not normally ask this of someone so young, but it is obvious to us all that you are not average.;เจ้าหนู ปกติเราไม่เคยถามเด็กอายุเท่าเธอแบบนี้มาก่อน แต่เห็นได้ชัดว่าเธอไม่ธรรมดา
+FINI014FO;FO;Will you join us, Razputin?;เธอจะมาร่วมกับพวกเราไหม แรซปูติน?
+FINI015FO;FO;Will you be... a Psychonaut?;เธอจะเป็น... ไซโคนอทไหม?
+FINI016LI;LI;Okay, let's be perfectly clear about this. That was the best summer of my whole entire life.;โอเค มาพูดกันให้ชัดนะ นี่เป็นฤดูร้อนที่ดีที่สุดในชีวิตของฉันเลย
+FINI017RA;RA;Hey, the summer's not over yet! We can hang out for a couple of weeks still.;เฮ้ ฤดูร้อนยังไม่จบเลยนี่นา เราสามารถอยู่ด้วยกันได้อีกสองสามสัปดาห์เลยนะ
+FINI018LI;LI;My family's out on the East Coast. Where's yours?;ครอบครัวฉันอยู่ที่ชายฝั่งตะวันออก นายล่ะ?
+FINI019RA;RA;They move around a lot.;พวกเขาเดินทางไปทั่ว
+FINI020LI;LI;Hm...;อืม...
+FINI021LI;LI;Well, you'd better go. Your dad's waiting for you.;งั้นนายไปเถอะ พ่อนายกำลังรออยู่
+FINI022RA;RA;Um, well--;อืม งั้น...
+FINI023LI;LI;Bye.;บาย
+FINI024SA;SA;Children, it's an emergency. There's been another kidnapping!;เด็กๆ เกิดเรื่องฉุกเฉิน มีการลักพาตัวอีกแล้ว!
+FINI025CO;CO;I was here the whole time. You saw me.;ฉันอยู่ตรงนี้ตลอดเวลา นายก็เห็นนี่
+FINI026SA;SA;No, this time we know who it is, and that's what scares us.;ไม่ คราวนี้เรารู้แล้วว่าใครเป็นคนทำ และนั่นคือสิ่งที่ทำให้พวกเรากลัว
+FINI027RA;RA;Who was kidnapped?;ใครถูกจับตัวไป?
+FINI028MI;MI;Truman Zanotto, the Grand Head of the Psychonauts.;ทรูแมน ซาน็อตโต หัวหน้าใหญ่ขององค์กรไซโคนอท
+FINI029LI;LI;Dad?;พ่อ!
+FINI030SA;SA;Sir, can you teleport this many of us back to headquarters?;ท่านครับ ท่านสามารถเคลื่อนย้ายพวกเรากลับไปที่สำนักงานใหญ่ได้หรือเปล่า?
+FINI031FO;FO;Hey, what are you people doing in my kitchen? Now git!;เฮ้ พวกแกมาทำอะไรในครัวของฉันเนี่ย ออกไปให้หมด!
+FINI032CO;CO;Guess we're taking the jet.;เกรงว่าเราต้องไปเครื่องบินกันสินะ
+FINI033MI;MI;Don't worry about your dad, darling. We'll get him back.;อย่าห่วงเรื่องพ่อเลย ที่รัก เราจะพาเขากลับมาจ๊ะ
+FINI034SA;SA;Yes, after all, we'll have Razputin helping us.;ใช่แล้ว หลังจากนี้ เราจะมีแรซปูตินคอยช่วยเรา
+FINI035RA;RA;I'm going?;ผมไปด้วยเหรอ?
+FINI036SA;SA;Now how could we do this without our anti-kidnapping specialist?;แล้วเราจะทำยังไงได้หากไม่มีผู้เชี่ยวชาญด้านการต่อต้าน-การลักพาตัวของเรา?
+FINI039GD;GD;I've taught you everything I can, Son. ;พ่อสอนทุกอย่างให้ลูกแล้ว ลูกรัก
+FINI040GD;GD;Now you go show them. Show them all.;ตอนนี้ลูกต้องไปแสดงให้พวกเขาได้เห็น แสดงให้ทุกคนได้เห็น
+FINI042RA;RA;Let's go.;ไปกันเถอะ
 GLZH022TO;TO;No merit badges;
 GLZG025TO;TO;Good news! You have enough PSI Cards /PsiCard/ to build a new PSI Challenge Marker! /Marker/ Just buy a PSI Core /PsiCore/ at the Camp Store and bring it to Ford Cruller /FordNinja/ so he can make you one!;
 GLZG026TO;TO;Congratulations! You found a loose PSI Card! [image of card] Collect nine of these and you can build a PSI Challenge Marker [image of marker] out of them, but you'll need to get a PSI Core [image of core] from the Camp Store, and a little help from Ford Cruller. [image of ninja Ford];

@@ -275,11 +275,11 @@ ASCD020CR;CR;You inmates are getting ever more clever, but...;
 ASCD021CR;CR;You still can't fool old Crispin Whytehead.;
 ASCD022CR;CR;I'm an orderly you know. I am NOT an imposter.;
 ASCD023CR;CR;Good day.;
-ASCD024CR;CR;Taking her up yourself this time, eh Doctor? Less work for me!;
-ASCD025FR;FR;Inmate Whytehead.;
-ASCD026CR;CR;Gahh! Chief Orderly Bonaparte! You're... You're�;
-ASCD027FR;FR;Armed?;
-ASCD028CR;CR;Woo hoo ha ha hahaha!;
+ASCD024CR;CR;Taking her up yourself this time, eh Doctor? Less work for me!;คราวนี้คุณจะพาเธอขึ้นไปเองใช่ไหม ด๊อกเตอร์ งานผมจะได้น้อยลง!
+ASCD025FR;FR;Inmate Whytehead.;คนไข้ไวท์เฮด
+ASCD026CR;CR;Gahh! Chief Orderly Bonaparte! You're... You're�;เอิ๊ก! หัวหน้าพยาบาลโบนาปาร์ต คุณกลับ... คุณ.ï¿½
+ASCD027FR;FR;Armed?;เตรียมตัว?
+ASCD028CR;CR;Woo hoo ha ha hahaha!;Woo hoo ha ha hahaha!
 ASCL001RA;RA;Hey it works!;
 ASCL002RA;RA;What's up, Linda?;
 ASCL003RA;RA;I don't suppose I could just ride on top this time?;
@@ -317,30 +317,30 @@ ASET001RA;RA;Hey, why are you all locked up?;
 ASET002ED;ED;Hmmm.;
 ASET003ED;ED;Why... am... I... all... locked... up?;
 ASET004ED;ED;Good question.;
-ASET005RA;RA;What ya paintin' there?;
+ASET005RA;RA;What ya paintin' there?;นายวาดอะไรอยู่เนี่ย?
 ASET006ED;ED;Nothing. Everything. An invisible portrait of my own artistic impotence.;
-ASET007RA;RA;Looks like Doctor Loboto to me.;
-ASET008ED;ED;That is my patron, my psychiatrist, my warden.;
-ASET009RA;RA;Is he the one who chained you up?;
+ASET007RA;RA;Looks like Doctor Loboto to me.;ดูเหมือน ดร.โลโบโต้เลย
+ASET008ED;ED;That is my patron, my psychiatrist, my warden.;นั่นคือผู้สนับสนุนของฉัน จิตแพทย์ของฉัน ผู้คุมของฉัน
+ASET009RA;RA;Is he the one who chained you up?;เขาเหรอที่ล่ามโซ่นาย?
 ASET010ED;ED;Art therapy is all about commitment, child.;
-ASET011ED;ED;The Doctor won't let me go until I complete my treatment.;
-ASET012RA;RA;So, why don't you just finish the painting and go home?;
-ASET013ED;ED;Why... don't I... just...;
+ASET011ED;ED;The Doctor won't let me go until I complete my treatment.;หมอไม่ยอมปล่อยฉันไปจนกว่าฉันจะรักษาตัวเสร็จ
+ASET012RA;RA;So, why don't you just finish the painting and go home?;งั้นทำไมนายไม่แค่วาดภาพให้เสร็จแล้วกลับบ้านไปล่ะ?
+ASET013ED;ED;Why... don't I... just...;ทำไม... ฉันไม่... แค่...
 ASET014ED;ED;heavy, bull-like breathing and grunting as he paints;
-ASET015RA;RA;Wow! See, sometimes you just have to--;
-ASET016RA;RA;Huh. You painted a bullfight over the Doctor's face. Why a bull fight?;
-ASET017RA;RA;Huh? Huh Edgar? Why do you--;
-ASET019ED;ED;EVERY TIME!;
-ASET020ED;ED;Every time it is the same!;
-ASET021ED;ED;The matador! The bull! How I despise you both!;
-ASET022ED;ED;But my hands... won't let you go.;
-ASET023ED;ED;Ahhhhhh!;
+ASET015RA;RA;Wow! See, sometimes you just have to--;ว้าว! เห็นไหม บางทีนายก็แค่ต้อง--
+ASET016RA;RA;Huh. You painted a bullfight over the Doctor's face. Why a bull fight?;หืม นายวาดภาพสู้วัวกระทิงทับหน้าหมอไปแล้ว ทำไมต้องสู้วัวกระทิง?
+ASET017RA;RA;Huh? Huh Edgar? Why do you--;หืม? หืม เอ็ดการ์ ทำไมนายถึง...
+ASET019ED;ED;EVERY TIME!;ทุกครั้ง!
+ASET020ED;ED;Every time it is the same!;ทุกครั้งมันก็เป็นแบบนี้!
+ASET021ED;ED;The matador! The bull! How I despise you both!;มาธาดอร์! วัวกระทิง! ฉันเกลียดพวกมันทั้งคู่!
+ASET022ED;ED;But my hands... won't let you go.;แต่มือของฉัน... มันไม่ยอมปล่อย
+ASET023ED;ED;Ahhhhhh!;อาาาห์!
 ASET024ED;ED;The blank canvas, like the matador's cape, waves before me.;
 ASET025ED;ED;Infuriating. Alluring. Just like the pitiful horned beast in the painting, I know it is a trick-and yet I charge again and again. And every time I lose.;
-ASET026ED;ED;That is why I am here, chained in more ways than you can see.;
-ASET027RA;RA;A prisoner of art.;
-ASET029RA;RA;Well, I'm going downstairs. You good?;
-ASET030ED;ED;I'm good.;
+ASET026ED;ED;That is why I am here, chained in more ways than you can see.;นี่แหละคือเหตุผลที่ฉันอยู่ที่นี่ ถูกล่ามด้วยโซ่ที่มากกว่าที่ตาเห็น
+ASET027RA;RA;A prisoner of art.;ทาสแห่งศิลปะ
+ASET029RA;RA;Well, I'm going downstairs. You good?;งั้น ฉันไปข้างล่างก่อนนะ นายโอเคไหม?
+ASET030ED;ED;I'm good.;ฉันโอเค
 ASFD001RA;RA;Excuse me, sir?;
 ASFD002NP;NP;My name is Napoleon Bonaparte!;
 ASFD003RA;RA;Oh! Uh... excuse me... Mr. Bonaparte?;
@@ -406,7 +406,7 @@ ASFI052FR;FR;Look, we're not just an army. We are a family, and today we all hav
 ASFI053FR;FR;Kill for daddy!;
 ASFI054FR;FR;Hey, I'm tired too. But you don't see me lying down in the shade, now do you?;
 ASFI055FR;FR;Oh, you want a court martial too? I got one for you too! And you, buddy!;
-ASIE001ED;ED;Hmmm. What is this? Are you working on an abstract piece? Nice use of color...;
+ASIE001ED;ED;Hmmm. What is this? Are you working on an abstract piece? Nice use of color...;ฮืมม. นี่มันอะไร? นายกำลังสร้างผลงาน abstract อยู่เหรอ? ใช้สีได้สวยดีนะ...
 ASII001NP;NP;Attack!;
 ASII002FR;FR;No, wait! Don't listen to him! Retreat!;
 ASII003NP;NP;Shut up you fool! The battle is ours! Wellington is on the run! This is our moment of glory!;
@@ -417,12 +417,12 @@ ASII007CR;CR;I'm afraid you lost it years ago, Fred. Now pipe down over there. I
 ASII009CR;CR;Oh, now, see? You've disrupted Mr. Teglee's art therapy session.;
 ASII010NP;NP;Ha ha! Le jour de gloire est arriv�!;
 ASII011CR;CR;Whatever.;
-ASIN001LF;LF;When it is your wish to travel across the lake, you may return to either shore and summon me with that.;
-ASIN002RA;RA;Thanks, Hulking Lungfish. You know, you really aren't as hideous as people say.;
-ASIN003LF;LF;You may call me now by my true name, Razputin. The name given to me by my people.;
-ASIN004RA;RA;And what name is that, noble lake creature?;
-ASIN005LF;LF;Linda.;
-ASIN006RA;RA;What a magical lady.;
+ASIN001LF;LF;When it is your wish to travel across the lake, you may return to either shore and summon me with that.;เมื่อไหร่ที่เจ้าอยากข้ามทะเลสาบ เจ้าก็แค่กลับมาที่ฝั่งใดฝั่งหนึ่งแล้วเรียกข้าก็ได้
+ASIN002RA;RA;Thanks, Hulking Lungfish. You know, you really aren't as hideous as people say.;ขอบใจนะ เจ้าปลาปอดยักษ์ รู้ไหม แกไม่ได้น่ากลัวอย่างที่คนอื่นว่าเลยนะ
+ASIN003LF;LF;You may call me now by my true name, Razputin. The name given to me by my people.;เจ้าจะเรียกข้าด้วยชื่อจริงก็ได้นะ แรซปูติน ชื่อที่คนของข้าตั้งให้
+ASIN004RA;RA;And what name is that, noble lake creature?;แล้วชื่อนั้นคืออะไรล่ะ สิ่งมีชีวิตผู้สูงส่งแห่งทะเลสาบ?
+ASIN005LF;LF;Linda.;ลินดา
+ASIN006RA;RA;What a magical lady.;ช่างเป็นชื่อที่งดงามเหลือเกิน
 ASLC001LI;LI;Grrr!;
 ASLC002LI;LI;Arg!;
 ASLC003LI;LI;Man!;
@@ -446,169 +446,169 @@ ASLR005LI;LI;Yeah?;
 ASLR006LI;LI;Oh, man. I'm so glad he showed up! I was just starting to feel slightly less phlegmy.;
 ASLR007LI;LI;Wait, he didn't just hear--;
 ASLR008LI;LI;Ah! Get away from me! Stop reading my mind. Go re-brain Sasha and Milla so they can help us break this lock!;
-ASLS001LO;LO;Worthless! These brains are worthless, Sheegor! Just like the one in your head!;
-ASLS002SH;SH;Oh, no, no, they're nice. They're--they're nice brains, Doctor Loboto. Really!;
-ASLS003LO;LO;They're TOO nice! They won't fight! I need killers! I need angry brains!;
-ASLS004LO;LO;I squeeze 'em, I poke 'em, I twist 'em! What do I have to do to make 'em fight? Maybe I should try my drill?;
-ASLS005SH;SH;I'm not going to bring you anymore brains if you're going to be so mean to them!;
+ASLS001LO;LO;Worthless! These brains are worthless, Sheegor! Just like the one in your head!;ไร้ค่า! สมองพวกนี้มันไร้ค่า ชีกอร์! เหมือนกับที่อยู่ในหัวของเธอเลย!
+ASLS002SH;SH;Oh, no, no, they're nice. They're--they're nice brains, Doctor Loboto. Really!;โอ้ ไม่ๆ พวกมันดีนะ พวกมัน-- พวกมันเป็นสมองที่ดีนะ ด็อกเตอร์โลโบโต้ จริงๆนะ!
+ASLS003LO;LO;They're TOO nice! They won't fight! I need killers! I need angry brains!;มันดี"เกินไป"! พวกมันไม่ยอมสู้! ฉันต้องการนักฆ่า! ฉันต้องการสมองที่กำลังโกรธ!
+ASLS004LO;LO;I squeeze 'em, I poke 'em, I twist 'em! What do I have to do to make 'em fight? Maybe I should try my drill?;ฉันบีบ ฉันจิ้ม ฉันบิด! ฉันต้องทำยังไงถึงจะทำให้พวกมันสู้ล่ะ? บางทีฉันน่าจะลองใช้สว่านของฉันดู?
+ASLS005SH;SH;I'm not going to bring you anymore brains if you're going to be so mean to them!;ฉันจะไม่นำสมองมาให้คุณอีกแล้ว ถ้าคุณจะใจร้ายกับพวกมันแบบนี้!
 ASLS006LO;LO;Oh, you're not, are you?;
 ASLS007SH;SH;No.;
-ASLS008LO;LO;No matter what I do?;
-ASLS009SH;SH;No. No matter... what.;
-ASLS010LO;LO;Not even if I--;
-ASLS011SH;SH;No! Don't!;
-ASLS012LO;LO;Not even if I cook you a little--;
-ASLS013SH;SH;Don't. Doctor, no!;
-ASLS014LO;LO;A little turtle soup?;
-ASLS015SH;SH;Please, Doctor Loboto. No!;
-ASLS016LO;LO;Huh? A nice hot turtle soup, hmm hmm?;
-ASLS018LO;LO;Nothing better on a cold night like this than some boiling hot soup!;
-ASLS019SH;SH;Leave Mr. Pokeylope alone!!!;
-ASLS020LO;LO;Oh, okay.;
-ASLS021SH;SH;(Pant pant.);
-ASLS022LO;LO;You sure?;
-ASLS023SH;SH;NO! I mean, YES!;
-ASLS024LO;LO;All right, all right.;
-ASLS025LO;LO;Oh, why don't I just go ahead and heat you up a cup?;
+ASLS008LO;LO;No matter what I do?;ไม่ว่าฉันจะทำอะไรก็ตาม?
+ASLS009SH;SH;No. No matter... what.;ไม่ ไม่ว่า... อะไรก็ตาม
+ASLS010LO;LO;Not even if I--;ไม่แม้กระทั่งถ้าฉัน...
+ASLS011SH;SH;No! Don't!;ไม่นะ! อย่า!
+ASLS012LO;LO;Not even if I cook you a little--;ไม่แม้กระทั่งถ้าฉันจะทำซุปให้เธอด้วย...
+ASLS013SH;SH;Don't. Doctor, no!;อย่านะ ด็อกเตอร์ ไม่นะ!
+ASLS014LO;LO;A little turtle soup?;ซุปเต่าสักหน่อยนะ?
+ASLS015SH;SH;Please, Doctor Loboto. No!;ได้โปรด ดร.โลโบโต้ ไม่นะ!
+ASLS016LO;LO;Huh? A nice hot turtle soup, hmm hmm?;หืม? ซุปเต่าร้อนๆ อืมๆ?
+ASLS018LO;LO;Nothing better on a cold night like this than some boiling hot soup!;ไม่มีอะไรจะดีไปกว่าซุปร้อนๆ ในคืนที่หนาวเย็นแบบนี้อีกแล้ว!
+ASLS019SH;SH;Leave Mr. Pokeylope alone!!!;ปล่อยมิสเตอร์โพกีโลพนะ!!!
+ASLS020LO;LO;Oh, okay.;โอ้ โอเค
+ASLS021SH;SH;(Pant pant.);(หายใจหอบ)
+ASLS022LO;LO;You sure?;เธอแน่ใจนะ?
+ASLS023SH;SH;NO! I mean, YES!;ไม่! หมายถึง ใช่!
+ASLS024LO;LO;All right, all right.;เอาล่ะ เอาล่ะ
+ASLS025LO;LO;Oh, why don't I just go ahead and heat you up a cup?;โอ้ ทำไมฉันไม่ตักให้เธอสักถ้วยไปเลยล่ะ?
 ASLS026LO;LO;Pleeeeease!;
-ASLS027LO;LO;It's made of turtles! Turtles that you love!;
-ASLS028LO;LO;Isn't that right, Mr. Pokeylope?;
-ASLS029SH;SH;Stop it stop it stop it stop it stop it stop it!;
-ASLS030LO;LO;Okay, okay.;
-ASLS031SH;SH;(pant);
-ASLS032LO;LO;Well, maybe I'll just make some for myself.;
-ASLS034LO;LO;Bring me a good brain, Sheegor, or Mr. Pokeylope becomes Mr. Smokey-lope!;
-ASLS035LO;LO;Ha-ha-ha-ha-ha!;
-ASLS036LO;LO;Huah-huah-huah!;
-ASLS037LO;LO;Smokey-lope. HAAAAAA!;
-ASLS038LO;LO;When you're a dentist, you have to learn to have a sense of humor, you know. It helps to calm the patients down.;
-ASLV001LI;LI;Rrrr.;
-ASLV002RA;RA;Lili!;
-ASLV003LI;LI;Grrrr!;
-ASLV004LI;LI;(Gasp!);
-ASLV005LO;LO;Well, I've reviewed your chart, little girl.;
-ASLV006LO;LO;And the bad news is, we're gonna have to remove your brain�;
-ASLV007LO;LO;...strap it into an armored battle tank and make it shoot down innocent civilians with its concentrated psychic death beam!;
-ASLV008LI;LI;I'm gonna kill you so much.;
-ASLV009LO;LO;The good news is that your insurance is going to cover the whole thing, so--;
-ASLV010LO;LO;Heyyy, is it getting warm in here?;
-ASLV011LI;LI;No, I'm just trying to set you on fire through this stupid hat!;
-ASLV012LO;LO;What a delightfully mean little brain you have. Just what we want!;
-ASLV013LO;LO;Here, do me a favor. Tell me if you think this smells like... your DOOM! Heh heh.;
-ASLV014LI;LI;(Snotty breathing.);
-ASLV015LI;LI;(Sniff sniff.) I can't smell anything.;
-ASLV016LO;LO;Curses!;
-ASLV017LI;LI;Heh heh.;
-ASLV018LO;LO;You're a stubborn little ball of phlegm, ain't ya?;
-ASLV019LO;LO;Well, that head cold won't protect you forever, little girl, and when it's gone you'll be sneezing a different tune!;
-ASLV020LO;LO;A tune in the key of... BRAINS! Ha ha ha!;
+ASLS027LO;LO;It's made of turtles! Turtles that you love!;ซุปทำจากเต่า! เต่าที่เธอรักไง!
+ASLS028LO;LO;Isn't that right, Mr. Pokeylope?;ไม่ใช่เหรอ มิสเตอร์โพกีโลพ?
+ASLS029SH;SH;Stop it stop it stop it stop it stop it stop it!;หยุดนะ หยุดนะ หยุดนะ หยุดนะ หยุดนะ!
+ASLS030LO;LO;Okay, okay.;โอเค โอเค
+ASLS031SH;SH;(pant);(หายใจหอบ)
+ASLS032LO;LO;Well, maybe I'll just make some for myself.;งั้นฉันจะทำกินเองละกัน
+ASLS034LO;LO;Bring me a good brain, Sheegor, or Mr. Pokeylope becomes Mr. Smokey-lope!;นำสมองดีๆ มาให้ฉันซะ ชีกอร์ ไม่งั้นมิสเตอร์โพกีโลพจะกลายเป็นมิสเตอร์สโมกีโลพ!
+ASLS035LO;LO;Ha-ha-ha-ha-ha!;Ha-ha-ha-ha-ha!
+ASLS036LO;LO;Huah-huah-huah!;Huah-huah-huah!
+ASLS037LO;LO;Smokey-lope. HAAAAAA!;สโมกีโลพ HAAAAAA!
+ASLS038LO;LO;When you're a dentist, you have to learn to have a sense of humor, you know. It helps to calm the patients down.;เวลาที่นายเป็นหมอฟัน นายต้องเรียนรู้ที่จะมีอารมณ์ขันซะบ้าง รู้ไหม มันช่วยให้คนไข้ใจเย็นลงได้
+ASLV001LI;LI;Rrrr.;Rrrr.
+ASLV002RA;RA;Lili!;ลิลี่!
+ASLV003LI;LI;Grrrr!;Grrrr!
+ASLV004LI;LI;(Gasp!);(หายใจหอบ)
+ASLV005LO;LO;Well, I've reviewed your chart, little girl.;อืม ฉันได้ตรวจดูประวัติของเธอแล้วนะ แม่สาวน้อย
+ASLV006LO;LO;And the bad news is, we're gonna have to remove your brain�;และข่าวร้ายก็คือ เราจะต้องเอาสมองเธอออก...
+ASLV007LO;LO;...strap it into an armored battle tank and make it shoot down innocent civilians with its concentrated psychic death beam!;...แล้วเอาไปใส่ในรถถังหุ้มเกราะ แล้วทำให้มันยิงใส่ชาวบ้านที่ไม่รู้อิโหน่อิเหน่ด้วยลำแสงจิตสังหาร!
+ASLV008LI;LI;I'm gonna kill you so much.;ฉันจะฆ่าแกให้ตายเลย
+ASLV009LO;LO;The good news is that your insurance is going to cover the whole thing, so--;ข่าวดีก็คือ ประกันของเธอครอบคลุมค่าใช้จ่ายทั้งหมด ดังนั้น--
+ASLV010LO;LO;Heyyy, is it getting warm in here?;เฮ้ๆ ที่นี่ร้อนขึ้นมาหรือเปล่า?
+ASLV011LI;LI;No, I'm just trying to set you on fire through this stupid hat!;เปล่าหรอก ฉันแค่พยายามจะเผาแกให้ตายด้วยหมวกบ้าๆ นั่น!
+ASLV012LO;LO;What a delightfully mean little brain you have. Just what we want!;สมองตัวน้อยของเธอช่างร้ายกาจจริงๆ อย่างที่เราต้องการเลย!
+ASLV013LO;LO;Here, do me a favor. Tell me if you think this smells like... your DOOM! Heh heh.;นี่ ดมให้ทีสิ บอกฉันหน่อยว่ากลิ่นนี่มันเหมือน...ความตายของเธอไหม? ฮ่าๆ
+ASLV014LI;LI;(Snotty breathing.);(หายใจฟืดฟาด)
+ASLV015LI;LI;(Sniff sniff.) I can't smell anything.;(ดมๆ) ฉันไม่ได้กลิ่นอะไรเลย
+ASLV016LO;LO;Curses!;โธ่เว้ย!
+ASLV017LI;LI;Heh heh.;ฮ่าๆ
+ASLV018LO;LO;You're a stubborn little ball of phlegm, ain't ya?;เธอมันเป็นก้อนเสมหะดื้อรั้นจริงๆ เลยนะ?
+ASLV019LO;LO;Well, that head cold won't protect you forever, little girl, and when it's gone you'll be sneezing a different tune!;แต่ไข้หวัดของเธอปกป้องเธอไม่ได้ตลอดไปหรอก แม่สาวน้อย แล้วพอเธอหาย เธอก็จะจามออกมาเป็นเสียงที่ต่างออกไป!
+ASLV020LO;LO;A tune in the key of... BRAINS! Ha ha ha!;เสียงที่เป็นทำนอง... สมอง! ฮ่าๆๆ
 ASMI001RA;RA;Hey, slow down there, speedy. Let's talk about this.;
 ASMI002BO;BO;Can't stop. Must make... final delivery... to this address.;
-ASSH001SH;SH;(Gasp!) M-M-Mr. Pokeylope?;
-ASSH002SH;SH;Oh, Mr. Pokeylope! (Kiss kiss.) I was so scared!;
-ASSP001RA;RA;Ahhh!;
-ASSP002RA;RA;Super... sneezing... powder.;
-ASSP003RA;RA;Ahh! Try... not... to... sneeze!;
-ASSP004RA;RA;Have... to... hold it... in�;
-ASSP005RA;RA;Ah ah--;
-ASSP006RA;RA;ACHOO!;
-ASSP007RA;RA;TV?;
-ASSP009RA;RA;Oh, this is just great.;
-ASSP010RA;RA;Now what am I going to do?;
-ASSP011RA;RA;Have to think!;
-ASSP012RA;RA;Ha. Like I got a choice...;
+ASSH001SH;SH;(Gasp!) M-M-Mr. Pokeylope?;(ตกใจ!) มะ มะ มะ มิสเตอร์โพคีโลพ?
+ASSH002SH;SH;Oh, Mr. Pokeylope! (Kiss kiss.) I was so scared!;โอ้ มิสเตอร์โพคีโลพ! (จุ๊บ จุ๊บ) ฉันกลัวมากเลย!
+ASSP001RA;RA;Ahhh!;Ahhh!
+ASSP002RA;RA;Super... sneezing... powder.;โครต...ผง...จาม
+ASSP003RA;RA;Ahh! Try... not... to... sneeze!;Ahh! พยา..ยาม..ไม่...จาม!
+ASSP004RA;RA;Have... to... hold it... in�;ต้อง...กลั้น...เอา...inï¿½
+ASSP005RA;RA;Ah ah--;Ah ah--
+ASSP006RA;RA;ACHOO!;ACHOO!
+ASSP007RA;RA;TV?;ทีวี?
+ASSP009RA;RA;Oh, this is just great.;โอ้ เยี่ยมไปเลย
+ASSP010RA;RA;Now what am I going to do?;ที่นี้ฉันจะทำยังไงล่ะเนี่ย?
+ASSP011RA;RA;Have to think!;ต้องคิด!
+ASSP012RA;RA;Ha. Like I got a choice...;เหอะ อย่างกับว่าฉันจะมีทางเลือก...
 ASWF001NP;NP;Ha ha! Back to Russia with you, invader!;
 ASWF002FR;FR;Don't leave me alone in here!;
-ASWV001FR;FR;Is he really gone? Hello? Hello? Anyone else in here?;
-ASWV002FR;FR;Hah! We did it, Raz! I'm all me again! One person! Not French!;
-ASWV003FR;FR;Get me out of this dang jacket so I can go strangle me an orderly!;
-ASWV004RA;RA;Hey, good thinking, Fred! That sure would save me a lot of work.;
-ASWV005FR;FR;Yup! Right after I take a nap!;
-ASWV006RA;RA;Yes, a--what? Nap?;
-ASWV007FR;FR;(Sigh) War is hell, Razputin, and I'm sleepy. (Yawn) I'll take care of Crispin for you, just as soon as I... zzzzzz�;
-ASWV008RA;RA;Oh man.;
+ASWV001FR;FR;Is he really gone? Hello? Hello? Anyone else in here?;เจ้านั่นไปแล้วใช่ไหม? สวัสดี? ว่าไง? มีใครไหม?
+ASWV002FR;FR;Hah! We did it, Raz! I'm all me again! One person! Not French!;Hah! เราทำได้ แรซ! ฉันกลับมาเป็นฉันอีกครั้ง หนึ่งเดียว! ไม่มีฝรั่งเศส!
+ASWV003FR;FR;Get me out of this dang jacket so I can go strangle me an orderly!;เอาแจ็คเก็ตเนี่ยออกไปซะ! ฉันจะได้ไปบีบคอพยาบาลฉันได้ซะที!
+ASWV004RA;RA;Hey, good thinking, Fred! That sure would save me a lot of work.;เฮ้ ความคิดดี เฟร็ด! นั่นคงช่วยฉันได้เยอะเลย
+ASWV005FR;FR;Yup! Right after I take a nap!;ใช่! หลังจากฉันงีบเสร็จ!
+ASWV006RA;RA;Yes, a--what? Nap?;ได้ --ไงนะ? งีบเหรอ?
+ASWV007FR;FR;(Sigh) War is hell, Razputin, and I'm sleepy. (Yawn) I'll take care of Crispin for you, just as soon as I... zzzzzz�;(ถอานหายใจ) สงครามมันคือนรกเลยนะ แรซปูติน และฉันก็ง่วงด้วย (หาว) ฉันจะจัดการคริสปินให้นาย ทันทีที่ฉัน... zzzzzzï¿½
+ASWV008RA;RA;Oh man.;โถ่ พวก
 ASWV009FR;FR;(Snore.);
-ASCA000LI;LI;Finally! If that thing gave me a cowlick, Coach Oleander's gonna burn.;
-ASCA001MI;MI;At least he never got inside your brain. It's going to take me weeks to get my rhythm back!;
-ASCA002SA;SA;Razputin, you have surprised us yet again. I cannot thank you enough for what you've done.;
-ASCA003RA;RA;Hey, hey. All in a day's work for a Psychonaut.;
-ASCA004SA;SA;Ha ha. Well... PSI CADET, you mean.;
-ASCA005LI;LI;Hey, the Psychonauts should be so lucky to get someone like Raz. The brain he's got in there is--;
-ASCA006CO;CO;Is one in a million! Thanks to all of you for bringing it straight to my door!;
-ASCA007MI;MI;(Gasp!);
-ASCA008SA;SA;Oleander!;
-ASCA009RA;RA;You! ;
-ASCA010RA;RA;You took all my friends' brains, you turned an innocent fish into a giant monster, you stole all the teachers--DERAILING MY EDUCATION--AND you kidnapped--;
-ASCA011RA;RA;MY GIRLFRIEND!;
-ASCA012SA;SA;Razputin, this fight is too big for you.;
-ASCA013RA;RA;Back home I had to clean up after the elephants, so trust me, I know how to take care of this ugly, little pile of--;
-ASCA014MI;MI;Kids, let the grown-ups handle this.;
-ASCA015CO;CO;You tall people!;
-ASCA016RA;RA;Sasha!;
-ASCA017LI;LI;We get to kill him too!;
-ASCA018RA;RA;Ahhhhh!;
-ASCA019ED;ED;Well, it's official. The genius is back!;
-ASCA020ED;ED;Time to go get ready for my gallery show.;
-ASCA021ED;ED;Rrrrrrr... Ahhh!;
-ASCA022ED;ED;Uh-oh. This looks bad.;
-ASCA023ED;ED;(Sniff sniff, sniff);
-ASCA024ED;ED;Ah, well, that's good. Someone must have turned off the gas long ago.;
-ASCA025GL;GL;Oh, here's what my poor flowers need! A little water!;
-ASCA026ED;ED;Oh, no. I spilled all my turpentine and acetone!;
-ASCA027FR;FR;Hey, Boyd. Long time no see!;
-ASCA028ED;ED;Oh, Mr. Orderly. I did not see you there. I was just taking a little therapeutic walk in the moonlight�;
-ASCA029FR;FR;Relax. The asylum's closed. We can all go home.;
-ASCA030GL;GL;Leave? Here?;
-ASCA031FR;FR;Yeah, this place is for crazy people. And I don't know about you but I ain't crazy no more!;
-ASCA032ED;ED;I have to tell you, I'm feeling pretty good.;
-ASCA033GL;GL;You know, maybe it is time for us all to move on.;
-ASCA034FR;FR;What do you think, Boyd?;
-ASCA035FR;FR;You ready to blow this popsicle stand?;
-ASCA036BO;BO;The Milkman has completed his route.;
+ASCA000LI;LI;Finally! If that thing gave me a cowlick, Coach Oleander's gonna burn.;ในที่สุด! ถ้าไอ้เจ้านั่นทำผมฉันยุ่งละก็ ฉันจะเผาโค้ชโอลีแอนเดอร์แน่
+ASCA001MI;MI;At least he never got inside your brain. It's going to take me weeks to get my rhythm back!;อย่างน้อยมันก็ไม่ได้เข้าไปในสมองของเธอนะ ฉันคงต้องใช้เวลาหลายสัปดาห์กว่าจะกลับมาเป็นปกติ
+ASCA002SA;SA;Razputin, you have surprised us yet again. I cannot thank you enough for what you've done.;แรซปูติน เธอทำให้เราประหลาดใจอีกแล้ว ฉันไม่รู้ว่าจะขอบคุณเธอยังไงกับสิ่งที่เธอได้ทำในครั้งนี้
+ASCA003RA;RA;Hey, hey. All in a day's work for a Psychonaut.;เฮ้ๆ นี่มันก็แค่งานๆ นึงของไซโคนอทเท่านั้น
+ASCA004SA;SA;Ha ha. Well... PSI CADET, you mean.;ฮ่าๆ ก็..."นักเรียนพลังจิต"สินะ ที่เธอหมายถึง
+ASCA005LI;LI;Hey, the Psychonauts should be so lucky to get someone like Raz. The brain he's got in there is--;เฮ้ ไซโคนอทควรโชคดีมากที่มีคนอย่างแรซนะ สมองของเขาเนี่ย...
+ASCA006CO;CO;Is one in a million! Thanks to all of you for bringing it straight to my door!;เป็นหนึ่งในล้าน! ขอบคุณทุกคนที่นำมันมาส่งตรงถึงหน้าบ้านฉันขนาดนี้!
+ASCA007MI;MI;(Gasp!);(อุทาน)
+ASCA008SA;SA;Oleander!;โอลีแอนเดอร์
+ASCA009RA;RA;You! ;แก!
+ASCA010RA;RA;You took all my friends' brains, you turned an innocent fish into a giant monster, you stole all the teachers--DERAILING MY EDUCATION--AND you kidnapped--;แกขโมยสมองเพื่อนฉัน แกเปลี่ยนปลาตัวหนึ่งให้กลายเป็นสัตว์ประหลาด แกจับตัวครูทุกคน ทำให้การเรียนของฉันพังพินาศ และแกยังลักพาตัว...
+ASCA011RA;RA;MY GIRLFRIEND!;แฟนของฉัน!
+ASCA012SA;SA;Razputin, this fight is too big for you.;แรซปูติน การต่อสู้ครั้งนี้ใหญ่เกินไปสำหรับเธอ
+ASCA013RA;RA;Back home I had to clean up after the elephants, so trust me, I know how to take care of this ugly, little pile of--;ที่บ้านผมต้องคอยทำความสะอาดหลังโชว์ช้าง เชื่อผม ผมรู้วิธีจัดการของน่าเกลียด เป็นก้อน--
+ASCA014MI;MI;Kids, let the grown-ups handle this.;เด็กๆ ปล่อยให้ผู้ใหญ่จัดการเถอะ
+ASCA015CO;CO;You tall people!;เจ้าพวกตัวสูง!
+ASCA016RA;RA;Sasha!;ซาช่า!
+ASCA017LI;LI;We get to kill him too!;เราก็อยากฆ่าเขาด้วย!
+ASCA018RA;RA;Ahhhhh!;อ้ากกกก!
+ASCA019ED;ED;Well, it's official. The genius is back!;เอาล่ะ เป็นทางการแล้ว อัจฉริยะกลับมาแล้ว!
+ASCA020ED;ED;Time to go get ready for my gallery show.;ถึงเวลาไปเตรียมตัวสำหรับการแสดงนิทรรศการภาพวาดของฉันแล้ว
+ASCA021ED;ED;Rrrrrrr... Ahhh!;Rrrrrrr... Ahhh!
+ASCA022ED;ED;Uh-oh. This looks bad.;โอ๊ะ โอ ท่าไม่ดีแล้ว
+ASCA023ED;ED;(Sniff sniff, sniff);(ฟุดฟิด ฟุดฟิด ฟุดฟิด)
+ASCA024ED;ED;Ah, well, that's good. Someone must have turned off the gas long ago.;อืม ยังดี คงมีคนไปปิดแก๊สเมื่อนานมาแล้ว
+ASCA025GL;GL;Oh, here's what my poor flowers need! A little water!;โอ้ นี่แหละสิ่งที่ดอกไม้น่าสงสารของฉันต้องการ! น้ำนิดหน่อย!
+ASCA026ED;ED;Oh, no. I spilled all my turpentine and acetone!;โอ้ ไม่ ฉันทำน้ำมันสนกับอะซิโตนหกหมดเลย!
+ASCA027FR;FR;Hey, Boyd. Long time no see!;เฮ้, บอยด์. ไม่เจอกันนานเลยนะพวก!
+ASCA028ED;ED;Oh, Mr. Orderly. I did not see you there. I was just taking a little therapeutic walk in the moonlight�;โอ้ มิสเตอร์ออร์เดอร์ลี่ ผมไม่ทันเห็นคุณเลย ผมแค่มาเดินเล่นบำบัดใต้แสงจันทร์นิดหน่อย
+ASCA029FR;FR;Relax. The asylum's closed. We can all go home.;ใจเย็น. โรงบาลปิดแล้ว เราทุกคนกลับบ้านได้
+ASCA030GL;GL;Leave? Here?;ไป? จากนี่เหรอ?
+ASCA031FR;FR;Yeah, this place is for crazy people. And I don't know about you but I ain't crazy no more!;ใช่, ที่นี่มันที่สำหรับคนบ้า นายเป็นยังไงฉันไม่รู้ แต่ฉันไม่ได้บ้าอีกต่อไปแล้ว
+ASCA032ED;ED;I have to tell you, I'm feeling pretty good.;ผมต้องบอกคุณว่า ผมรู้สึกดีขึ้นมาก
+ASCA033GL;GL;You know, maybe it is time for us all to move on.;รู้อะไรไหม บางทีถึงเวลาที่พวกเราทุกคนจะต้องก้าวต่อไปแล้ว
+ASCA034FR;FR;What do you think, Boyd?;นายคิดว่าไงล่ะ บอยด์?
+ASCA035FR;FR;You ready to blow this popsicle stand?;นายพร้อมจะระเบิดแท่นไอติมนี่หรือยังล่ะ?
+ASCA036BO;BO;The Milkman has completed his route.;คนส่งนมสิ้นสุดการเดินทางของเขาแล้ว.
 ASCA037BO;BO;You guys want to split a cab?;พวกนายอยากหารค่าแทกซี่กันไหม?
-ASCA038RA;RA;And the crib wasn't even that clean!;
-ASCA039RA;RA;I mean, what do I have to do to get those guys to take me seriously?;
-ASCA040LI;LI;When are you going to shut up and kiss me?;
-ASCA041RA;RA;Um... I can hear that.;
-ASCA042LI;LI;I know.;
-ASCA043SA;SA;Surrender!;
-ASCA044CO;CO;Never!;
-ASCA045FO;FO;The Psychonauts have a word for people who turn on their own!;
-ASCA046CO;CO;Ha! I don't need the Psychonauts anymore! I'm making my own army! Got a word for that?;
-ASCA047FO;FO;Yeah. Gesundheit!;
-ASCA048CO;CO;Heh?;
-ASCA049CO;CO;Ah... ahh... ahhhh� AHCHOO!;
-ASCA050RA;RA;Hey, that was my fight! I was ready for that one!;
-ASCA051SA;SA;Always in such a rush, Razputin. It takes years before you're ready for combat of that magnitude.;
-ASCA052FO;FO;You'd be surprised, Nein. This one's been acing all my extra credit exams.  ;
-ASCA053RA;RA;I beat the Coach once already, and I can do it again.;
-ASCA054MI;MI;Darling, that was just a remote projection of the Coach. He wasn't as strong as he would be...;
-ASCA055MI;MI;...if he were to appear... in the real world.;
-ASCA056CO;CO;Teeee Veee?;
-ASCA057MI;MI;Ha ha ha!;
-ASCA060CO;CO;Teee VEEE?;
-ASCA061RA;RA;Where's his brain?;
-ASCA062SA;SA;Oh, probably stuck in one of his plans to take over the world somewhere.;
-ASCA063SA;SA;Ha ha!;
-ASCA066CO;CO;Hey. How's the weather down there.;
-ASCA067CO;CO;Ah, finally. Alone at last, eh Razputin?;
-ASCA068RA;RA;Glad you're finally picking on someone your own size!;
-ASCA069CO;CO;Yes, I've been dying for a chance to... PICK YOUR BRAIN.;
-ASCA070RA;RA;Two can play that game!;
-ASCA071CO;CO;Yeah, but only one can win!;
-ASCA072CO;CO;Bwah ha ha ha!;
-ASSH009SH;SH;Now you're back, Mr. Pokeylope, and you'll tell us what to do!;
-ASSH010SH;SH;Right? You've got a plan or something, right Mr. Pokeylope?;
-ASSH011SH;SH;Right???;
-ASSH012PL;PL;That's right baby. Daddy's here. Everything's gonna be alllll right.;
-ASSH013PL;PL;Now here's what we're gonna do.;
-ASSH014SH;SH;Mmm. Uh-huh. Uh-huh. Mmm. Okay. Uh-huh. Uh-hmmm. Uh-hmmm�;
-ASSH015PL;PL;(Mutter mutter.);
-ASIF002NP;NP;Sacr� bleu! I have been hit!;Sacr� bleu! ฉันโดนโจมตี!
-ASIG000GL;GL;OH!;
+ASCA038RA;RA;And the crib wasn't even that clean!;ไม่แม้จะได้เก็บกวาดเลยด้วยซ้ำ!
+ASCA039RA;RA;I mean, what do I have to do to get those guys to take me seriously?;ฉันหมายถึง ฉันต้องทำอย่างไรให้พวกเขายอมรับฉันอย่างจริงจังสักที?
+ASCA040LI;LI;When are you going to shut up and kiss me?;เมื่อไหร่นายจะหยุดพูดและจูบฉันสักที?
+ASCA041RA;RA;Um... I can hear that.;อืม... ฉันได้ยินนะ
+ASCA042LI;LI;I know.;ฉันรู้
+ASCA043SA;SA;Surrender!;ยอมแพ้ซะ!
+ASCA044CO;CO;Never!;ไม่มีวัน!
+ASCA045FO;FO;The Psychonauts have a word for people who turn on their own!;ไซโคนอทมีคำเรียกสำหรับพวกทรยศอยู่
+ASCA046CO;CO;Ha! I don't need the Psychonauts anymore! I'm making my own army! Got a word for that?;ฮ่า! ฉันไม่ต้องการไซโคนอทอีกต่อไปแล้ว! ฉันจะสร้างกองทัพของตัวเอง! มีคำเรียกสำหรับพวกแบบนั้นไหมล่ะ?
+ASCA047FO;FO;Yeah. Gesundheit!;มีสิ หายไวๆ นะ!
+ASCA048CO;CO;Heh?;หะ?
+ASCA049CO;CO;Ah... ahh... ahhhh� AHCHOO!;ฮะ... ฮ๊ะ... ฮากก... ฮัชชู่!
+ASCA050RA;RA;Hey, that was my fight! I was ready for that one!;เฮ้ นั่นมันการต่อสู้ของผม! ผมพร้อมสู้นะ!
+ASCA051SA;SA;Always in such a rush, Razputin. It takes years before you're ready for combat of that magnitude.;ช่างรีบร้อนเสมอเลยนะ แรซปูติน มันต้องใช้เวลาหลายปีกว่าเธอจะพร้อมสำหรับการต่อสู้ระดับนั้น
+ASCA052FO;FO;You'd be surprised, Nein. This one's been acing all my extra credit exams.  ;เธออาจจะประหลาดใจนะ ไนน์ เขาคนนี้สอบผ่านทุกวิชาพิเศษของฉันเลย
+ASCA053RA;RA;I beat the Coach once already, and I can do it again.;ผมเคยเอาชนะโค้ชมาแล้ว และผมสามารถทำมันได้อีก
+ASCA054MI;MI;Darling, that was just a remote projection of the Coach. He wasn't as strong as he would be...;ที่รัก นั่นแค่ภาพสะท้อนของโค้ช เขาไม่ได้แข็งแกร่งเหมือนอย่างตอนที่...
+ASCA055MI;MI;...if he were to appear... in the real world.;...เขาอยู่ใน... โลกแห่งความจริง
+ASCA056CO;CO;Teeee Veee?;ทีวี?
+ASCA057MI;MI;Ha ha ha!;ฮ่าๆๆ
+ASCA060CO;CO;Teee VEEE?;ทีวี?
+ASCA061RA;RA;Where's his brain?;สมองของเขาอยู่ไหน?
+ASCA062SA;SA;Oh, probably stuck in one of his plans to take over the world somewhere.;โอ้ คงไปอยู่ที่ไหนสักแห่งในแผนการยึดครองโลกของเขาล่ะมั้ง
+ASCA063SA;SA;Ha ha!;ฮ่าๆ
+ASCA066CO;CO;Hey. How's the weather down there.;เฮ้ อากาศข้างล่างเป็นยังไงบ้าง
+ASCA067CO;CO;Ah, finally. Alone at last, eh Razputin?;อ้า ในที่สุด ก็ได้อยู่กันตามลำพังสักที แรซปูติน
+ASCA068RA;RA;Glad you're finally picking on someone your own size!;ดีใจที่ในที่สุดแกก็เลือกที่จะสู้กับคนตัวเท่ากัน!
+ASCA069CO;CO;Yes, I've been dying for a chance to... PICK YOUR BRAIN.;ใช่ ฉันรอโอกาสนี้มานานแล้ว... ที่จะ... ดูดสมองแก
+ASCA070RA;RA;Two can play that game!;เกมนี้เล่นกันได้แค่สองคน
+ASCA071CO;CO;Yeah, but only one can win!;ใช่ แต่มีเพียงคนเดียวที่จะชนะ!
+ASCA072CO;CO;Bwah ha ha ha!;บว้าฮ่าฮ่าฮ่า!
+ASSH009SH;SH;Now you're back, Mr. Pokeylope, and you'll tell us what to do!;ตอนนี้คุณกลับมาแล้ว มิสเตอร์โพคีโลพ คุณจะบอกเราว่าควรต้องทำอะไร!
+ASSH010SH;SH;Right? You've got a plan or something, right Mr. Pokeylope?;ใช่ไหม? คุณมีแผนหรืออะไรสักอย่าง ใช่ไหม มิสเตอร์โพคีโลพ?
+ASSH011SH;SH;Right???;ใช่ไหม???
+ASSH012PL;PL;That's right baby. Daddy's here. Everything's gonna be alllll right.;แน่นอนน้องหนู ป๊ะป๋าอยู่นี่แล้ว ทุกอย่างจะต้องม่าาายเป็นไร
+ASSH013PL;PL;Now here's what we're gonna do.;และนี่คือสิ่งที่เราต้องทำ
+ASSH014SH;SH;Mmm. Uh-huh. Uh-huh. Mmm. Okay. Uh-huh. Uh-hmmm. Uh-hmmm�;อื้มม อาฮะ อาฮะ อื้ม โอเค อาฮะ อะฮื้ม อะฮื้มï¿½
+ASSH015PL;PL;(Mutter mutter.);(กระซิบ กระซิบ)
+ASIF002NP;NP;Sacr� bleu! I have been hit!;Sacré bleu! ฉันโดนโจมตี!
+ASIG000GL;GL;OH!;โอ้!
 ASIG002GL;GL;Now, who threw that?;
-ASIG003GL;GL;If you don't like the performance, a simple "boo" will do.;ถ้าไม่ชอบการแสดง แค่โห่เบาๆ ก็พอแล้ว
-ASIB001BO;BO;Gah!;
+ASIG003GL;GL;If you don't like the performance, a simple "boo" will do.;ถ้าเธอไม่ชอบการแสดง แค่"โห่" เบาๆ ก็พอแล้ว
+ASIB001BO;BO;Gah!;อ๊าก!
 ASIB002BO;BO;Not another tracking device!;ไม่เอาอุปกรณ์ติดตามอีกแล้วนะ!
 ASGT000GL;GL;Oh, you found my old trophy!;
 ASGT001GL;GL;I should really put that thing away, before somebody hurts themselves on that gleaming, metal, clawlike part on the top. ;
@@ -646,7 +646,7 @@ ASAD002RA;RA;Finally! Recognition for my acting talents!;
 ASAD003RA;RA;Raaar!;
 ASAE000RA;RA;Guess I'm locked outside.;
 ASAF000RA;RA;I don't wanna tickle that right now.;
-ASCA073LI;LI;Wow.;
+ASCA073LI;LI;Wow.;ว้าว
 ASAA000PL;PL;Ow!;
 ASAA001PL;PL;Hey!;
 ASAA002PL;PL;Careful, there, now!;
@@ -662,15 +662,15 @@ ASAA011PL;PL;Throw me into the Brain Tank!;
 ASAA012PL;PL;If we could just get my beautiful mind into that tank's brain chamber, I could do some real damage!;
 ASAA013PL;PL;Good!;
 ASAA014PL;PL;Almost!;
-ASAH000LF;LF;What's going on! What's that sound?;
-ASAH001SH;SH;Oh the insane asylum just blew up. But don't worry. Mr. Pokeylope helped me save all the brains before it fell down.;
-ASAH002LF;LF;Mr. Pokeylope?;
-ASAH003LF;LF;Sam? Is that you? It's me, Linda. From the lake?;
-ASAH004PL;PL;Linda. I haven't seen you in ages. You look so... different.;
-ASAH005LF;LF;Uh, yeah. I've put on a little weight.;
-ASAH006PL;PL;Ah, you know I don't mind that onnnnne bit.;
-ASAH007LF;LF;Oh, Sam. You haven't changed at all!;
-ASAH008LF;LF;Ah ha ha!;
+ASAH000LF;LF;What's going on! What's that sound?;เกิดอะไรขึ้น นั่นเสียงอะไรน่ะ?
+ASAH001SH;SH;Oh the insane asylum just blew up. But don't worry. Mr. Pokeylope helped me save all the brains before it fell down.;โอ้ โรงพยาบาลบ้าเพิ่งระเบิดน่ะ แต่ไม่ต้องห่วง มิสเตอร์โพคีโลพช่วยฉันเก็บสมองทั้งหมดก่อนมันจะถล่มลงมา
+ASAH002LF;LF;Mr. Pokeylope?;มิสเตอร์โพคีโลพ?
+ASAH003LF;LF;Sam? Is that you? It's me, Linda. From the lake?;แซม? นั่นเจ้ารึ? นี่ข้าเอง ลินดา จากทะเลสาบ?
+ASAH004PL;PL;Linda. I haven't seen you in ages. You look so... different.;ลินดา ฉันไม่ได้เจอเธอมันตั้งนาน เธอดู... เปลี่ยนไปเยอะนะ
+ASAH005LF;LF;Uh, yeah. I've put on a little weight.;อ้าา ใช่ ฉันหนักขึ้นนิดหน่อย
+ASAH006PL;PL;Ah, you know I don't mind that onnnnne bit.;อ้า เธอก็รู้ ฉันไม่แคร์เรื่องนั้นสักกกกกกนิด
+ASAH007LF;LF;Oh, Sam. You haven't changed at all!;โถ่ แซม เจ้านี่ไม่เปลี่ยนไปเลยนะ!
+ASAH008LF;LF;Ah ha ha!;ฮ่า ฮ่า ฮ่า!
 ASUP000SH;SH;(pant!);
 ASUP005SH;SH;Eek!;
 ASUP006SH;SH;Eep!;

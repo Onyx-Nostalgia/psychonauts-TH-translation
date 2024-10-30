@@ -1,40 +1,40 @@
 id;character;origin_dialogue;translated_dialogue
-BBLI001BZ;BZ;We can't get past this. This is STUPID.;
-BBLI002RA;RA;Hmm. Looks like a test. There's probably a secret, more advanced route.;
-BBLI003BZ;BZ;What's THAT supposed to mean? You think you're more advanced than me, new kid?;
-BBLI004RA;RA;Sorry. What?;
-BBLI005BZ;BZ;I'm not stupid. You're stupid. The Coach is stupid. The whole camp is stupid. That thing flying at you is stupid!;
-BBLI006RA;RA;What's flying at me?;
-BBLI007RA;RA;Wha--;
-BBLI008BZ;BZ;Bobby Zilch's foot, that's what! Ya stupid new kid! Yeah!;
-BBLI009BZ;BZ;Eh, eh-heh! Eh, eh, eh-eh! Eh, eh-eh!;
-BBLI010RA;RA;Waaaahhh-uh!;
+BBLI001BZ;BZ;We can't get past this. This is STUPID.;เราไปต่อไม่ได้แล้ว นี่มันโง่ชะมัด!
+BBLI002RA;RA;Hmm. Looks like a test. There's probably a secret, more advanced route.;หืม ดูเหมือนเป็นบททดสอบนะ อาจมีทางลับที่ต้องใช้ทักษะมากกว่านี้
+BBLI003BZ;BZ;What's THAT supposed to mean? You think you're more advanced than me, new kid?;หมายความว่าไง? นี่แกคิดว่าแกมีทักษะกว่าฉันงั้นเหรอ เจ้าเด็กใหม่?
+BBLI004RA;RA;Sorry. What?;ขอโทษนะ อะไรนะ?
+BBLI005BZ;BZ;I'm not stupid. You're stupid. The Coach is stupid. The whole camp is stupid. That thing flying at you is stupid!;ฉันไม่ได้โง่ แกสิโง่ โค้ชก็โง่ ค่ายนี้ก็โง่หมด! ไอ้นั่นที่กำลังบินใส่แกก็โง่!
+BBLI006RA;RA;What's flying at me?;อะไรกำลังบินใส่ฉัน?
+BBLI007RA;RA;Wha--;ว้าาาห์—
+BBLI008BZ;BZ;Bobby Zilch's foot, that's what! Ya stupid new kid! Yeah!;เท้าบ๊อบบี้ ซิลช์ นี่แหละ! แกมันไอ้เด็กใหม่หน้าโง่! เย้!
+BBLI009BZ;BZ;Eh, eh-heh! Eh, eh, eh-eh! Eh, eh-eh!;Eh, eh-heh! Eh, eh, eh-eh! Eh, eh-eh!
+BBLI010RA;RA;Waaaahhh-uh!;ว้าาห์—อุ๊ย!
 BBLI011RA;RA;Uh-huh?;
-BBLI012RA;RA;Oh, heh. Thanks for saving me!;
-BBLI013LI;LI;Well, actually, I was saving this plant.;
-BBLI014RA;RA;Huh. Never seen one so meaty before.;
-BBLI015LI;LI;I have. It's been appearing in this creepy nightmare I keep having.;
-BBLI016RA;RA;You're having nightmares? Oh, I've been reading about how to fix those! Will you let me see one?;
-BBLI017LI;LI;Hmmm. No.;
+BBLI012RA;RA;Oh, heh. Thanks for saving me!;โอ้ เฮ้ ขอบคุณที่ช่วยนะ!
+BBLI013LI;LI;Well, actually, I was saving this plant.;ที่จริงแล้ว ฉันกำลังช่วยต้นไม้นี่ต่างหาก
+BBLI014RA;RA;Huh. Never seen one so meaty before.;หืม ไม่เคยเห็นต้นไม้ที่ดูเหมือนเนื้อแบบนี้มาก่อน
+BBLI015LI;LI;I have. It's been appearing in this creepy nightmare I keep having.;ฉันเคยเห็น มันโผล่มาในฝันร้ายของฉันตลอด
+BBLI016RA;RA;You're having nightmares? Oh, I've been reading about how to fix those! Will you let me see one?;เธอฝันร้ายเหรอ? โอ้ ฉันเคยอ่านวิธีแก้ฝันร้ายนะ! ขอฉันดูหน่อยได้ไหม?
+BBLI017LI;LI;Hmmm. No.;อืม ไม่เอา
 BBVI001RA;RA;Hello!;
 BBVI002RA;RA;Hello?;
 BBVI003RA;RA;Guess I'm early.;
 BBVI004RA;RA;Hmmm...;
-BBVI005CO;CO;HOLD IT RIGHT THERE, SON!;
-BBVI006CO;CO;Now just what in the sam hill do you thing you're doing in there?;
-BBVI007RA;RA;I was just looking for a way out.;
-BBVI008CO;CO;Oh�;
+BBVI005CO;CO;HOLD IT RIGHT THERE, SON!;หยุดอยู่ตรงนั้นแหละ ไอ้หนู!
+BBVI006CO;CO;Now just what in the sam hill do you thing you're doing in there?;นายคิดว่าตัวเองกำลังไปทำอะไรอยู่ในนั้น หา?
+BBVI007RA;RA;I was just looking for a way out.;ผมก็แค่หาทางออก
+BBVI008CO;CO;Oh�;โอ้ï¿½
 BBVI009CO;CO;You found it!;
 BBVI010RA;RA;Yeeeh!;
-BBVI011CO;CO;Sorry about that.;
-BBVI012CO;CO;Didn't think you'd get to the end so fast.;
-BBVI013CO;CO;Dang! I didn't think you'd get to the end at all!;
-BBVI014CO;CO;But I'm always glad to see a soldier come back from the field alive.;
-BBVI015CO;CO;You surprised me out there, kid.;
-BBVI016CO;CO;Here. You've earned this.;
-BBVI017CO;CO;Your first PSYCHONAUT MERIT BADGE!;
-BBVI018CO;CO;Now if you'll excuse me, I gotta go back in.;
-BBVI019CO;CO;I left some good men back there!;
+BBVI011CO;CO;Sorry about that.;ขอโทษทีนะ
+BBVI012CO;CO;Didn't think you'd get to the end so fast.;ไม่คิดว่านายจะมาถึงเส้นชัยได้เร็วขนาดนี้
+BBVI013CO;CO;Dang! I didn't think you'd get to the end at all!;ให้ตายสิ! ฉันไม่คิดว่านายจะมาถึงเส้นชัยได้ด้วยซ้ำ!
+BBVI014CO;CO;But I'm always glad to see a soldier come back from the field alive.;แต่ฉันก็ดีใจเสมอที่ได้เห็นทหารกลับมาจากสนามรบอย่างปลอดภัย
+BBVI015CO;CO;You surprised me out there, kid.;นายทำให้ฉันประหลาดใจมาก เจ้าหนู
+BBVI016CO;CO;Here. You've earned this.;นี่ นายสมควรได้รับ
+BBVI017CO;CO;Your first PSYCHONAUT MERIT BADGE!;"ตราทำดีไซโคนอท" อันแรกของนาย
+BBVI018CO;CO;Now if you'll excuse me, I gotta go back in.;งั้นขอตัวก่อนนะ ฉันต้องกลับไปข้างใน
+BBVI019CO;CO;I left some good men back there!;ฉันทิ้งมือดีไว้ข้างในนั้น!
 BBBI030CO;CO;Your Mental Health depends on your hustle.;
 BBBI031CO;CO;If you get hurt in this plane, you will lose mental health, and not be able to maintain your projection onto the field of battle.;
 BBBI032CO;CO;YOU WILL BE SENT BACK TO THE REAL WORLD DO YOU UNDERSTAND?;

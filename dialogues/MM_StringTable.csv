@@ -200,34 +200,34 @@ ASBR199BO;BO;...no, no, no, no...;
 ASBR200BO;BO;...okay, okay, but�;
 ASBR201BO;BO;...huh...;
 ASBR202BO;BO;...riiiiiiight...;
-MMDD001DM;DM;What have you done?;
-MMDD002DM;DM;He wakes!;
-MMDD003BO;BO;I am the Milkman. My milk is delicious.;
-MMDD004DM;DM;And the sea shall run white (cough cough) with his rage�;
-MMDD005RS;RS;Ooooh ohhhh.;
-MMDD007BO;BO;Special delivery today.;
-MMDD008BO;BO;GRAAAAAA!;
-MMDD010RA;RA;Boyd? Are you okay?;
-MMDD011BO;BO;Time for the final delivery to this address.;
-MMDD012RA;RA;Hey, is that milk regular kind, or the exploding dream kind?;
-MMDD013BO;BO;It's fortified with what the world wants, what the world deserves.;
-MMDD014RA;RA;Are you sure don't want to just talk about this, Boyd?;
-MMDF001DM;DM;I told you not to follow. Now you must die!;
-MMDF002RA;RA;But--;
-MMDF003DM;DM;THAT IS THE WAY OF THE RAINBOW SQUIRTS!!!;
-MMDM001RA;RA;Ah ha!;
-MMDM002DM;DM;Oh, hello there. Have you come to pay for your Rainbow Treats? We knew you would.;
-MMDM003DM;DM;Won't you join us in our Rainbow Squirt Pledge of Purpose?;
+MMDD001DM;DM;What have you done?;แกทำอะไรลงไป?
+MMDD002DM;DM;He wakes!;เขาตื่นแล้ว!
+MMDD003BO;BO;I am the Milkman. My milk is delicious.;ฉันคือคนส่งนม นมของฉันอร่อย
+MMDD004DM;DM;And the sea shall run white (cough cough) with his rage�;และท้องทะเลจะต้องขาวโพลน (ไอ ไอ) ด้วยความโกรธเกรี้ยวของเขา
+MMDD005RS;RS;Ooooh ohhhh.;Ooooh ohhhh.
+MMDD007BO;BO;Special delivery today.;วันนี้จัดส่งแบบพิเศษ
+MMDD008BO;BO;GRAAAAAA!;GRAAAAAA!
+MMDD010RA;RA;Boyd? Are you okay?;บอยด์ นายโอเคไหม?
+MMDD011BO;BO;Time for the final delivery to this address.;ถึงเวลาจัดส่งครั้งสุดท้ายในที่อยู่นี่แล้ว
+MMDD012RA;RA;Hey, is that milk regular kind, or the exploding dream kind?;เฮ้ นมนั่น นมธรรมดาหรือว่านมระเบิดฝันล่ะ?
+MMDD013BO;BO;It's fortified with what the world wants, what the world deserves.;มันเสริมด้วยสิ่งที่โลกต้องการ สิ่งที่โลกสมควรได้รับ
+MMDD014RA;RA;Are you sure don't want to just talk about this, Boyd?;นายแน่ใจนะว่าไม่อยากคุยเรื่องนี้กันก่อนน่ะ บอยด์?
+MMDF001DM;DM;I told you not to follow. Now you must die!;ฉันบอกเธอแล้วว่าอย่าตามมา. ตอนนี้ เธอ ต้อง ตาย!
+MMDF002RA;RA;But--;แต่--
+MMDF003DM;DM;THAT IS THE WAY OF THE RAINBOW SQUIRTS!!!;นั่นคือวิถีของเนตรนารีสายรุ้ง!!!
+MMDM001RA;RA;Ah ha!;Ah ha!
+MMDM002DM;DM;Oh, hello there. Have you come to pay for your Rainbow Treats? We knew you would.;โอ้ สวัสดีจ๊ะ หนูจ่ายเงินค่าขนมสายรุ้งหรือยังจ๊ะ? เรารู้ว่าหนูต้องมา
+MMDM003DM;DM;Won't you join us in our Rainbow Squirt Pledge of Purpose?;หนูจะมาเข้าร่วมในคำปฏิญาณเนตรนารีสายรุ้งกับเราไหม?
 MMDM004RS;RS;To Promote Niceness.;
 MMDM005RS;RS;To Make the World Prettier.;
 MMDM006RS;RS;To Share Candy With Everyone.;
 MMDM007RS;RS;To Obfuscate the True Nature of the Milkman.;
 MMDM009RS;RS;To protect the Milkman at all costs.;
-MMDM010DM;DM;You brought them here!;
+MMDM010DM;DM;You brought them here!;แกพาพวกมันมาที่นี่!
 MMDM011RS;RS;To Destroy All Who Would Harm the Milkman, or Threaten to Reveal His Secret Objective.;
-MMDM012DM;DM;Go girls! Protect the milk!;
-MMDM014DM;DM;Do not follow! The milk is not ready, and you are not ready for the milk!;
-MMDS001DM;DM;Hi-ya!;
+MMDM012DM;DM;Go girls! Protect the milk!;ไปสาวๆ ปกป้องนม!
+MMDM014DM;DM;Do not follow! The milk is not ready, and you are not ready for the milk!;อย่าตามมานะ! นมยังไม่พร้อม และแกก็ยังไม่พร้อมสำหรับนม!
+MMDS001DM;DM;Hi-ya!;Hi-ya!
 MMDS002DM;DM;Haaa!;
 MMDS003DM;DM;Hruuuh!;
 MMDS004DM;DM;Cha!;
@@ -682,14 +682,14 @@ MMAU002BO;BO;I am the Milkman.;
 MMAU003BO;BO;My employer has commissioned me to deliver this milk, to whitewash what went on here.;
 MMAU004BO;BO;I make sure no evidence is left of anything, except for milk.;
 MMAU005BO;BO;I cannot rest until I have made my final delivery.;
-MMDD005RQ;RQ;Ooooh ohhhh.;
-MMDM006RQ;RQ;To Share Candy With Everyone.;
-MMDM007RQ;RQ;To Obfuscate the True Nature of the Milkman.;
-MMDM009RQ;RQ;To protect the Milkman at all costs.;
-MMDM011RQ;RQ;To Destroy All Who Would Harm the Milkman, or Threaten to Reveal His Secret Objective.;
+MMDD005RQ;RQ;Ooooh ohhhh.;Ooooh ohhhh.
+MMDM006RQ;RQ;To Share Candy With Everyone.;เพื่อแบ่งปันขนมกับทุกคน
+MMDM007RQ;RQ;To Obfuscate the True Nature of the Milkman.;เพื่อปกปิดธรรมชาติที่แท้จริงของคนส่งนม
+MMDM009RQ;RQ;To protect the Milkman at all costs.;เพื่อปกป้องคนส่งนมอย่างสุดใจ
+MMDM011RQ;RQ;To Destroy All Who Would Harm the Milkman, or Threaten to Reveal His Secret Objective.;เพื่อทำลายล้างทุกคนที่คิดจะทำร้ายคนส่งนม หรือพยายามเปิดเผยเป้าหมายลับของเขา
 MMDM013RQ;RQ;Aiiiiiieee!;
-MMDM004RQ;RQ;To Promote Niceness.;
-MMDM005RQ;RQ;To Make the World Prettier.;
+MMDM004RQ;RQ;To Promote Niceness.;เพื่อส่งเสริมความดี
+MMDM005RQ;RQ;To Make the World Prettier.;เพื่อทำให้โลกสวยงาม
 MMZB000TO;TO;Crow Feather;
 MMZB001TO;TO;Hedge Trimmers;
 MMZB002TO;TO;Rolling Pin;

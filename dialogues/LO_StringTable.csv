@@ -1,24 +1,24 @@
 id;character;origin_dialogue;translated_dialogue
-LOIN001LP;LP;Ah, top of the mornin' to ya, ma'am.;
-LOIN002LY;LY;And good day to you, Officer O'Lungfish. How are you today?;
-LOIN003LP;LP;Oh, damp and happy. Can't complain! And what are you and the wee one up to on this lovely day?;
-LOIN004LY;LY;Oh, just obeying the law as always. All posted directives followed to the letter.;
-LOIN005LP;LP;Ah, good to hear! Not a one of us want any trouble that's for sure!;
-LOIN006LY;LY;Aaaaahhhhh!!!!;
-LOIN007LP;LP;Aaaaaahhhh!!!!;
-LOIN008LR;LR;Oh, Goggalor!!!!;
-LOVE001CO;CO;Agggghhh!;
-LOVE002CO;CO;Fine! Take control of this freaky toad! I don't need him to nab children for me anymore!;
-LOVE003CO;CO;I've got the brain of a little girl back in my lab that's strong enough to power a whole army of Psychoblaster Death Tanks!;
+LOIN001LP;LP;Ah, top of the mornin' to ya, ma'am.;อ้า สวัสดียามเช้าครับคุณนาย
+LOIN002LY;LY;And good day to you, Officer O'Lungfish. How are you today?;สวัสดี คุณเจ้าหน้าที่โอลุงฟิช วันนี้คุณสบายดีไหม
+LOIN003LP;LP;Oh, damp and happy. Can't complain! And what are you and the wee one up to on this lovely day?;โอ้ สดชื่นและสุขสันต์ครับ ไม่ต้องสงสัยเลย! แล้วคุณกับเจ้าตัวเล็กกำลังทำอะไรกันอยู่ในวันดี ๆ แบบนี้ครับ
+LOIN004LY;LY;Oh, just obeying the law as always. All posted directives followed to the letter.;โอ้ แค่ทำตามกฎระเบียบตามปกติน่ะค่ะ ปฏิบัติตามคำสั่งทุกอย่างอย่างเคร่งครัด 
+LOIN005LP;LP;Ah, good to hear! Not a one of us want any trouble that's for sure!;ดีแล้วครับ! แน่นอนว่าไม่มีใครอยากมีปัญหากันหรอก!
+LOIN006LY;LY;Aaaaahhhhh!!!!;Aaaaahhhhh!!!!
+LOIN007LP;LP;Aaaaaahhhh!!!!;Aaaaaahhhh!!!!
+LOIN008LR;LR;Oh, Goggalor!!!!;โอ้ กอกกาลอร์!!!!
+LOVE001CO;CO;Agggghhh!;Agggghhh!
+LOVE002CO;CO;Fine! Take control of this freaky toad! I don't need him to nab children for me anymore!;ได้! เอาไอ้เจ้าคางคกประหลาดนี่ไปเลย! ฉันไม่ต้องการให้มันจับเด็กๆ มาให้ฉันอีกแล้ว!
+LOVE003CO;CO;I've got the brain of a little girl back in my lab that's strong enough to power a whole army of Psychoblaster Death Tanks!;ในห้องทดลองของฉันมีสมองของเด็กผู้หญิงตัวน้อย ที่แข็งแกร่งพอที่จะสร้างพลังให้กับกองทัพรถถังมรณะ Psychoblaster ได้ทั้งหมด!
 LOVE004RA;RA;Why you--heh heh!;
-LOVE005CO;CO;Wha--;
-LOVE006RA;RA;Ha ha ha!;
-LOVE007CO;CO;What?;
-LOVE008RA;RA;You've got the brain of a little girl! Ha ha ha!;
-LOVE009CO;CO;I said in my lab!;
-LOVE010RA;RA;I think you've got the muscles of a little girl, too.;
-LOVE012CO;CO;Ahhhh! Grrrrr!;
-LOVE013CO;CO;Good one!;
+LOVE005CO;CO;Wha--;อะ--
+LOVE006RA;RA;Ha ha ha!;ฮ่า ฮ่า ฮ่า!
+LOVE007CO;CO;What?;อะไร?
+LOVE008RA;RA;You've got the brain of a little girl! Ha ha ha!;นายมีสมองของเด็กผู้หญิงตัวน้อยเลยเหรอ ฮ่าๆๆ!
+LOVE009CO;CO;I said in my lab!;ฉันบอกว่าในห้องทดลองของฉันไง!
+LOVE010RA;RA;I think you've got the muscles of a little girl, too.;ฉันคิดว่านายก็มีกล้ามเหมือนเด็กผู้หญิงตัวน้อยเหมือนกันล่ะ
+LOVE012CO;CO;Ahhhh! Grrrrr!;Ahhhh! Grrrrr!
+LOVE013CO;CO;Good one!;เก่งมาก!
 LOAB005Z1;Z1;Freedom!;
 LOAB014Z1;Z1;WOOOOO!;
 LOAB015Z1;Z1;FREEDO--;
@@ -64,37 +64,37 @@ LOCP039LC;LC;My tank!;
 LOCP040LC;LC;My cheese shop!;
 LOCP041LC;LC;My outlet store!;
 LOCP042LC;LC;Gahhhhhhhhh!;
-LOZI001Z1;Z1;Hey! Goggalor! Down here!;
-LOZI002RA;RA;Excuse me, were you talking to me?;
-LOZI003Z1;Z1;Ahhhhhh! Owwwww! My ears!;
-LOZI004RA;RA;I'm sorry.;
-LOZI005Z1;Z1;Ahhhhhh! Oh my god! Ahhhhhhhh!;
-LOZI006RA;RA;Are you okay?;
-LOZI007Z2;Z2;He's dead!;
-LOZI008RA;RA;Oh jeez, I'm sorry.;
-LOZI009Z2;Z2;Don't worry, every member of the resistance is prepared to die fighting the tyranny of Kochamara.;
-LOZI010RA;RA;What's Kochamara?;
-LOZI011Z2;Z2;He's a giant monster like you, Goggalor. He brainwashed and enslaved almost everyone in Lungfishopolis.;
-LOZI012RA;RA;That stinks. So hey, have you seen any other humans around here? I'm looking for a girl called Lili.;
-LOZI015Z2;Z2;The government archives might have some information about your young girlfriend, Goggalor.;
-LOZI016RA;RA;I don't know if she's really my girlfriend. I mean, I think she--;
-LOZI017Z2;Z2;I only meant that she is your friend who is a girl, Goggalor. To access the archives, we must first destroy the broadcast tower Kochamara uses to control the populace.;
-LOZI018RA;RA;Check. I'll go smash that, then.;
-LOZI019Z2;Z2;Wait, Goggalor! In order to reach the tower, you'll need to pass through that wall of lasers. But you'll never make it through the lasers without our help.;
-LOZI020RA;RA;So are you gonna start helping soon?;
-LOZI021Z2;Z2;First, I need you to do something for the resistance. Punch a hole in that prison and free my comrades!;
-LOZI025RA;RA;Hooyah! Now how about getting me past those gates?;
-LOZI026Z1;Z1;Right. We stole this shield power module from Kochamara. It's too big for any of us to operate, but it should work for you.;
-LOZI027RA;RA;Hey, is this gonna upset Kochamara and all your little brainwashed neighbors?;
-LOZI028Z1;Z1;Nooo.;
-LOZI029Z2;Z2;I doubt it.;
-LOZI030Z3;Z3;Uh, no no no.;
-LOZI031RA;RA;So knocking down the prison and then breaking this laser shield thing--nobody's gonna get mad about that and start shooting at me?;
-LOZI032Z1;Z1;Nooooo!;
-LOZI033Z2;Z2;Uhh, maybe one guy would.;
-LOZI034Z1;Z1;But what is even an entire navy of Lungfish against the might and revolutionary zeal of Goggalor!;
-LOZI035RA;RA;Wait, what Navy?;
-LOZI036Z1;Z1;Meet us at the dam, Goggalor. FOR FREEDOM!;
+LOZI001Z1;Z1;Hey! Goggalor! Down here!;เฮ้! กอกกาลอร์! ข้างล่างนี่!
+LOZI002RA;RA;Excuse me, were you talking to me?;โทษที นายคุยกับฉันเหรอ?
+LOZI003Z1;Z1;Ahhhhhh! Owwwww! My ears!;อ้าาา! โอ้ววว! หูฉัน!
+LOZI004RA;RA;I'm sorry.;โทษที
+LOZI005Z1;Z1;Ahhhhhh! Oh my god! Ahhhhhhhh!;อ้าาาา! พระเจ้า! อ้าาาา!
+LOZI006RA;RA;Are you okay?;นายไม่เป็นไรนะ?
+LOZI007Z2;Z2;He's dead!;เขาตายแล้ว!
+LOZI008RA;RA;Oh jeez, I'm sorry.;โอ้ พระเจ้า ฉันขอโทษ
+LOZI009Z2;Z2;Don't worry, every member of the resistance is prepared to die fighting the tyranny of Kochamara.;อย่าห่วงเลย สมาชิกกลุ่มต่อต้านทุกคนพร้อมที่สละชีวิตในการต่อสู้กับเผด็จการของโคชามาราอยู่แล้ว
+LOZI010RA;RA;What's Kochamara?;โคชามารา อะไรนะ?
+LOZI011Z2;Z2;He's a giant monster like you, Goggalor. He brainwashed and enslaved almost everyone in Lungfishopolis.;เจ้านั่นเป็นสัตว์ประหลาดยักษ์เหมือนนายแหละ กอกกาลอร์ เจ้านั่นล้างสมองและทำให้ทุกตัวใน Lungfishopolis เป็นทาส
+LOZI012RA;RA;That stinks. So hey, have you seen any other humans around here? I'm looking for a girl called Lili.;แหม่งๆ แฮะ เฮ้ นายเห็นมนุษย์คนอื่นแถวนี้บ้างไหม ฉันกำลังตามหาผู้หญิงชื่อลิลี่น่ะ
+LOZI015Z2;Z2;The government archives might have some information about your young girlfriend, Goggalor.;หอจดหมายเหตุของรัฐบาลอาจมีข้อมูลบางอย่างเกี่ยวกับแฟนสาวตัวน้อยของนายก็ได้ กอกกาลอร์
+LOZI016RA;RA;I don't know if she's really my girlfriend. I mean, I think she--;ฉันไม่รู้ว่าเธอเป็นแฟนฉันจริงหรือเปล่า ฉันหมายถึง ฉันคิดว่าเธอ--
+LOZI017Z2;Z2;I only meant that she is your friend who is a girl, Goggalor. To access the archives, we must first destroy the broadcast tower Kochamara uses to control the populace.;ฉันหมายถึงว่าเธอเป็นเพื่อนที่เป็นผู้หญิงของนายต่างหาก กอกกาลอร์ หากต้องการเข้าถึงคลังข้อมูล เราต้องทำลายหอส่งสัญญาณที่โคชามาราใช้ควบคุมชาวเมืองเสียก่อน
+LOZI018RA;RA;Check. I'll go smash that, then.;ได้เลย ฉันจะไปทำลายมันซะ
+LOZI019Z2;Z2;Wait, Goggalor! In order to reach the tower, you'll need to pass through that wall of lasers. But you'll never make it through the lasers without our help.;เดี๋ยวก่อน กอกกาลอร์! ในการที่จะไปถึงหอคอย นายจะต้องผ่านกำแพงเลเซอร์นั่น แต่นายจะผ่านเลเซอร์ไปไม่ได้เลยถ้าไม่มีเราคอยช่วย
+LOZI020RA;RA;So are you gonna start helping soon?;แล้วนายจะเริ่มช่วยเร็วๆ นี้เลยไหม?
+LOZI021Z2;Z2;First, I need you to do something for the resistance. Punch a hole in that prison and free my comrades!;ก่อนอื่น ฉันอยากให้นายทำอะไรสักอย่างเพื่อเป็นการต่อต้าน เจาะรูคุกนั่นและปล่อยพวกพ้องของฉันออกมา!
+LOZI025RA;RA;Hooyah! Now how about getting me past those gates?;ฮูยา! แล้วตอนนี้จะพาฉันผ่านประตูพวกนั้นไปยังไง?
+LOZI026Z1;Z1;Right. We stole this shield power module from Kochamara. It's too big for any of us to operate, but it should work for you.;ได้เลย พวกเราขโมยโมดูลพลังโล่อันนี้มาจากโคชามารา มันใหญ่เกินไปสำหรับพวกเรา แต่สำหรับนายน่าจะใช้ได้
+LOZI027RA;RA;Hey, is this gonna upset Kochamara and all your little brainwashed neighbors?;เฮ้ แล้วการทำแบบนี้จะทำให้โคชามารา และพวกเพื่อนบ้านตัวน้อยที่ถูกล้างสมองของพวกนายโกรธหรือเปล่า?
+LOZI028Z1;Z1;Nooo.;ม่าาาย
+LOZI029Z2;Z2;I doubt it.;ฉันว่าไม่นะ
+LOZI030Z3;Z3;Uh, no no no.;เอ่อ ไม่ ไม่ ไม่หรอก
+LOZI031RA;RA;So knocking down the prison and then breaking this laser shield thing--nobody's gonna get mad about that and start shooting at me?;งั้นก็คือ การพังคุกแล้วทำลายโล่เลเซอร์อันนี้--จะไม่มีใครโกรธแล้วมาไล่ยิงฉันใช่ไหม?
+LOZI032Z1;Z1;Nooooo!;ไม่มีหรอกก!
+LOZI033Z2;Z2;Uhh, maybe one guy would.;เอ่อ อาจจะมีพวกนึงที่โกรธ
+LOZI034Z1;Z1;But what is even an entire navy of Lungfish against the might and revolutionary zeal of Goggalor!;แต่นาวิกปลาปอดทั้งกองทัพ ไม่มีทางต่อกรกับพลังและความกระหายการปฏิวัติของกอกกาลอร์ได้หรอก!
+LOZI035RA;RA;Wait, what Navy?;เดี๋ยวนะ นาวิกอะไร?
+LOZI036Z1;Z1;Meet us at the dam, Goggalor. FOR FREEDOM!;มาเจอกันที่เขื่อน กอกกาลอร์ เพื่ออิสรภาพ!
 LOZM003Z1;Z1;Goggalor, come in! We have commandeered these vessels in your name!;
 LOZM004Z2;Z2;We can put them in position to help you cross Kochamara Channel, to get to Kochamara Island, and destroy Kochamara Tower!;
 LOZM005Z1;Z1;The thing is that, uh, although you have had SEVERAL excellent plans today, Goggalor... We... Uh�;
@@ -241,6 +241,6 @@ LOAM007RA;RA;Well, okay then. I'll bet I can save you a bit on the demolition co
 LOAM008Z1;Z1;Yeah, go nuts! You can squish people too if you want. My family lives in a whole other town.;
 LOZF000TO;TO;/YButton/ Pick up Tank.;
 LOZE000TO;TO;/YButton/ Throw Tank.;
-LOUC001LC;LC;Hey everyone, here comes Kochamara!;
+LOUC001LC;LC;Hey everyone, here comes Kochamara!;เฮ้ ทุกคน โคชามารามาแล้ว!
 LOZF001TO;TO;Use your PSYCHIC SHIELD to protect you from damage, and reflect SOME enemy attacks back at the attacker! NOTE: You will not be able to maintain a PSYCHIC SHIELD forever, and when this part of your mind is exhausted, you will need to wait a while before you use it again.;
 LOAO000RA;RA;Excellent. There it is.;
