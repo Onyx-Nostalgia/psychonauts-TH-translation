@@ -22,4 +22,3 @@ SLAC006SA: start: 19300 end: 22566
 Sasha: I can train you to fight. Come see me when you're ready.
 ซาช่า: ฉันสอนเธอต่อสู้ได้ มาพบฉัน เมื่อเธอพร้อม
 
-

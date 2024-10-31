@@ -139,7 +139,7 @@ Raz: My name...
 แรซ: ฉันมีชื่อ...
 
 INTR039CO: start: 199000 end: 200666
-Coach: ...starts with a "D"
+Coach: ...starts with a "D"ï¿½
 โค้ช: ... เริ่มด้วยตัว "ด"
 
 INTR040RA: start: 200333 end: 201500
@@ -251,11 +251,11 @@ Raz: But here, I have a chance to be something. To make a difference.
 แรซ: แต่ที่นี่ ฉันมีโอกาสที่จะเป็นอะไรบางอย่างที่ต่างออกไป
 
 INTR067RA: start: 352966 end: 360700
-Raz: They may come for me, Dogen, but they'll be looking for Raz, the boy. What they're going to find
+Raz: They may come for me, Dogen, but they'll be looking for Raz, the boy. What they're going to findï¿½
 แรซ: พวกเขาอาจตามหาฉัน โดแกน ตามหา "แรซ" เด็กคนนึง. แต่สิ่งที่พวกเขาจะได้พบ
 
 INTR068RA: start: 361633 end: 366666
-Raz: What they don't expect, is Raz, the Psychonaut.
+Raz: ï¿½What they don't expect, is Raz, the Psychonaut.
 แรซ: สิ่งที่พวกเขาไม่คาดคิด คือ "แรซแห่งไซโคนอท".  
 
 INTR069DO: start: 366666 end: 369833
