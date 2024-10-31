@@ -290,9 +290,9 @@ def generate_cutscene(ctx, file_path, cutscene_folder, dialogue_folder):
 )
 @click.argument("file-path", required=False, type=click.Path(exists=True), nargs=-1)
 @click.option(
-    "--all/--no-all",
+    "--all",
     "_all",
-    default=False,
+    is_flag=True,
     help=f"Update all cutscene in folder '{constants.CUTSCENES_FOLDER_NAME}'",
 )
 @click.option(
@@ -312,7 +312,7 @@ def update_csv(ctx, file_path, dialogue_folder, _all):
     """
     string_template = get_template()
     if not file_path and not _all:
-        raise click.BadParameter("🤔 Please specify", param_hint=["-f", "--all"])
+        raise click.UsageError("🤔 Please specify: FILE_PATH / --all")
     if _all:
         for filename in get_filenames(
             constants.CUTSCENES_FOLDER_NAME, type="_dialogue.txt"
@@ -323,25 +323,25 @@ def update_csv(ctx, file_path, dialogue_folder, _all):
                 dialogue_folder=dialogue_folder,
                 dry_run=ctx.obj["DRY_RUN"],
             )
+            return
 
-    else:
-        for _file_path in file_path:
-            if os.path.isfile(_file_path):
+    for _file_path in file_path:
+        if os.path.isfile(_file_path):
+            __update_csv(
+                _file_path,
+                string_template,
+                dialogue_folder=dialogue_folder,
+                dry_run=ctx.obj["DRY_RUN"],
+            )
+
+        elif os.path.isdir(_file_path):
+            for filename in get_filenames(_file_path, type="_dialogue.txt"):
                 __update_csv(
-                    _file_path,
+                    filename,
                     string_template,
                     dialogue_folder=dialogue_folder,
                     dry_run=ctx.obj["DRY_RUN"],
                 )
-
-            elif os.path.isdir(_file_path):
-                for filename in get_filenames(_file_path, type="_dialogue.txt"):
-                    __update_csv(
-                        filename,
-                        string_template,
-                        dialogue_folder=dialogue_folder,
-                        dry_run=ctx.obj["DRY_RUN"],
-                    )
 
 
 if __name__ == "__main__":
