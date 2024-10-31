@@ -1,4 +1,3 @@
-import argparse
 import os
 import re
 
@@ -10,7 +9,6 @@ from utils.file_util import get_filenames
 
 
 def get_template(file_path=constants.CUTSCENES_TEMPLATE_PATH):
-
     with open(file_path, mode="r") as f:
         text = f.read()
     start_marker = "<--start-template-->"
@@ -71,7 +69,9 @@ def extract_cutscene_dialogue(file_path, template):
     with open(file_path, mode="r") as f:
         cutscene_text = f.read()
     pattern = re.escape(template)
-    pattern = re.sub(r"\\\{([\w\d]{2,4})_Character\\\}", r"(?P<\1_Character>.[^:]*)", pattern)
+    pattern = re.sub(
+        r"\\\{([a-zA-Z0-9]{2,4})_Character\\\}", r"(?P<\1_Character>.[^:]*)", pattern
+    )
     pattern = re.sub(r"\\\{(\w+)\\\}", r"(?P<\1>.*)", pattern)
     cutscene_dialogues = [
         match.groupdict() for match in re.finditer(pattern, cutscene_text)
@@ -145,7 +145,7 @@ def __create_cutscene_dialogue(
         dialogue_cutscene = __validate_dialogue_cutscene(
             dialogue_id, exist_cutscene_dialogues, dialogues
         )
-        
+
         text = string_template.format(
             dfs=dfs, **character_cutscene, **dialogue_cutscene
         )
@@ -183,8 +183,8 @@ def __update_th_dialogue(dialogue_id, csv_text, cutscene_dialogue):
                 + csv_text[end_index:]
             )
         rows = csv_text[start_index : th_start_index + 1] + th_dialogue.encode()
-        return csv_text,rows
-    return csv_text,None
+        return csv_text, rows
+    return csv_text, None
 
 
 def __update_csv(
@@ -236,10 +236,12 @@ def cli(ctx, dry_run):
     ctx.obj["DRY_RUN"] = dry_run
 
 
-@cli.command(context_settings={"ignore_unknown_options": True},name="generate", short_help="Generate cutscene dialogue")
-@click.argument(
-    "file-path", type=click.Path(exists=True),nargs=-1
+@cli.command(
+    context_settings={"ignore_unknown_options": True},
+    name="generate",
+    short_help="Generate cutscene dialogue",
 )
+@click.argument("file-path", type=click.Path(exists=True), nargs=-1)
 @click.option(
     "-c",
     "--cutscene-folder",
@@ -258,8 +260,8 @@ def cli(ctx, dry_run):
 @click.pass_context
 def generate_cutscene(ctx, file_path, cutscene_folder, dialogue_folder):
     """Generate cutscene dialogue
-    
-    FILE_PATH: .dfs file path or folder path e.g.\n 
+
+    FILE_PATH: .dfs file path or folder path e.g.\n
      - file path: cutscene.py generate /psychonauts/WorkResource/cutscenes/prerendered/CABD.dfs\n
      - folder path: cutscene.py generate /psychonauts/WorkResource/cutscenes/prerendered/
     """
@@ -282,13 +284,11 @@ def generate_cutscene(ctx, file_path, cutscene_folder, dialogue_folder):
                 )
 
 
-@cli.command(context_settings={"ignore_unknown_options": True},short_help="Update cutscene to csv dialogue")
-@click.argument(
-    "file-path",
-    required=False,
-    type=click.Path(exists=True),
-    nargs=-1
+@cli.command(
+    context_settings={"ignore_unknown_options": True},
+    short_help="Update cutscene to csv dialogue",
 )
+@click.argument("file-path", required=False, type=click.Path(exists=True), nargs=-1)
 @click.option(
     "--all/--no-all",
     "_all",
@@ -303,12 +303,10 @@ def generate_cutscene(ctx, file_path, cutscene_folder, dialogue_folder):
     show_default=True,
 )
 @click.pass_context
-def update_csv(
-    ctx, file_path, dialogue_folder, _all
-):
+def update_csv(ctx, file_path, dialogue_folder, _all):
     """Update cutscene to csv dialogue
-    
-    FILE_PATH: file path or folder path of cutscene e.g.\n 
+
+    FILE_PATH: file path or folder path of cutscene e.g.\n
      - file path: cutscene.py update-csv cutscenes/CASA_dialogue.txt cutscenes/CABA_dialogue.txt\n
      - folder path: cutscene.py update-csv cutscenes
     """
