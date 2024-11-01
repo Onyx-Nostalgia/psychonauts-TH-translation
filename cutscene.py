@@ -4,7 +4,7 @@ import re
 import click
 
 import constants
-from update_character import get_character_names
+from character import get_character_names
 from utils.file_util import get_filenames
 
 
@@ -226,7 +226,7 @@ def __update_csv(
 
 
 @click.group()
-@click.option("--dry-run/--no-dry-run", default=False, help="Dry run")
+@click.option("--dry-run",is_flag=True, help="Dry run")
 @click.pass_context
 def cli(ctx, dry_run):
     dry_run_msg = f"{" (dry run) ":=^55}"
