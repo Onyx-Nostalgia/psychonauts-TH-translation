@@ -71,3 +71,114 @@ python unpack_strings.py --folder Psychonauts/WorkResource/Localization/English
 ```bash
 python unpack_strings.py --folder Psychonauts/WorkResource/Localization/English --dest new_dialogues/
 ``` 
+# 🧠 Extract Character Name
+
+คำสั่งในการ extract character จากไฟล์ dialogue CSV มาเก็บไว้ใน [character_name.json](/character_name.json)
+```bash
+Usage: character.py save [OPTIONS]
+
+Options:
+  -d, --dialogue-folder DIRECTORY
+                                  [default: dialogues]
+  -n, --name FILE                 [default: character_name.json]
+  --help                          Show this message and exit.
+```
+ตัวอย่าง
+```bash
+python character.py save
+```
+# 🧠 Update Character Name to Dialogue CSV
+หากทำการ Update ชื่อเต็ม ใน file [character_name.json](/character_name.json) แล้วต้องการ update ชื่อเต็มลงใน file dialogue CSV สามารถทำได้โดยคำสั่งต่อไปนี้
+```bash
+Usage: character.py update-dialogue [OPTIONS]
+
+Options:
+  -d, --dialogue-folder DIRECTORY
+                                  [default: dialogues]
+  -n, --name FILE                 [default: character_name.json]
+  --help                          Show this message and exit.
+```
+
+ตัวอย่าง
+```bash
+python character.py update-dialogue
+```
+ตัวอย่างผลลัพธ์
+
+สังเกตุที่ column **character**
+
+**Before**
+| id        | character | origin_dialogue | translated_dialogue |
+| --------- | --------- | --------------- | ------------------- |
+| ASGD027GL | GL        | Oh, no!         | โอ้, ไม่นะ!           |
+
+**After**
+| id        | character | origin_dialogue | translated_dialogue |
+| --------- | --------- | --------------- | ------------------- |
+| ASGD027GL | Gloria    | Oh, no!         | โอ้, ไม่นะ!           |
+
+# 🧠 สร้างไฟล์ Cutscene Dialogue
+หลักการสร้าง file cutscene dialogue คือการใช้ ไฟล์ `.dfs` ที่อยู่ใน Folder `psychonauts/WorkResource/cutscenes/prerendered/*.dfs` มาเพื่อค้นหา dialogue ในแต่ละ cutscene และไฟล์ผลลัพธ์จะถูกเก็บอยู่ใน folder `cutscenes` 
+
+```bash
+Usage: cutscene.py generate [OPTIONS] [FILE_PATH]...
+
+  Generate cutscene dialogue
+
+  FILE_PATH: .dfs file path or folder path e.g.
+
+   - file path: cutscene.py generate
+   /psychonauts/WorkResource/cutscenes/prerendered/CABD.dfs
+
+   - folder path: cutscene.py generate
+   /psychonauts/WorkResource/cutscenes/prerendered/
+
+Options:
+  -c, --cutscene-folder, --dest-folder DIRECTORY
+                                  [default: cutscenes]
+  -d, --dialogue-folder DIRECTORY
+                                  [default: dialogues]
+  --help                          Show this message and exit.
+```
+
+## Extract จากบาง cutscene
+ตัวอย่างการ extract จากบางไฟล์ `.dfs` เช่น ` CABD.dfs` และ ` CABV.dfs`
+```
+python cutscene.py generate /psychonauts/WorkResource/cutscenes/prerendered/CABD.dfs /psychonauts/WorkResource/cutscenes/prerendered/CABV.dfs
+```
+ไฟล์ผลลัพธ์ [cutscenes/CABD_dialogue.txt](/cutscenes/CABD_dialogue.txt) และ [cutscenes/CABD_dialogue.txt](/cutscenes/CABV_dialogue.txt)
+
+## Extarct ทั้ง folder .dfs
+```
+python cutscene.py generate /psychonauts/WorkResource/cutscenes/prerendered/
+```
+# 🧠 Update Dialogue CSV จากคำแปลในไฟล์ Cutscene Dialogue
+หากเราแปลบทพูดจากในไฟล์ cutscene dialogue ([cutscenes/*_dialogue.txt](/cutscenes/)) เรียบร้อยแล้วและต้องการ update บทพูดที่เราแปลลงไปในไฟล์ dialogue CSV (ไฟล์ที่อยู่ใน folder [dialogues/](/dialogues/))  
+
+```bash
+Usage: cutscene.py update-csv [OPTIONS] [FILE_PATH]...
+
+  Update cutscene to csv dialogue
+
+  FILE_PATH: file path or folder path of cutscene e.g.
+
+   - file path: cutscene.py update-csv cutscenes/CASA_dialogue.txt
+
+   - folder path: cutscene.py update-csv cutscenes
+
+Options:
+  --all                           Update all cutscene in folder 'cutscenes'
+  -d, --dialogue-folder DIRECTORY
+                                  [default: dialogues]
+  --help                          Show this message and exit.
+```
+## Update ทั้งหมด
+```bash
+python cutscene.py update-csv --all
+```
+
+## Update จากบาง cutscene dialogue
+ตัวอย่างการ update จาก ไฟล์ `cutscenes/CASA_dialogue.txt` และ `cutscenes/CASB_dialogue.txt`
+```bash
+python cutscene.py update-csv cutscenes/CASA_dialogue.txt cutscenes/CASB_dialogue.txt
+```

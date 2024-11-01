@@ -32,7 +32,7 @@ Sasha: Hold on. I'm still getting some unusual interference. It's fascinating, a
 
 NICE009RA: start: 21033 end: 22066
 Raz: Agent Nein?
-แรซ: สายลับไน?
+แรซ: สายลับไนน์?
 
 NICE010SA: start: 21733 end: 23933
 Sasha: Sorry. Almost ready--

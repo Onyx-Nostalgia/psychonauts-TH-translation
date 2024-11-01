@@ -24,7 +24,7 @@ Raz: From "True Psychic Tales" Issue 424, sir!
 
 INBB010RA: start: 19666 end: 22800
 Raz: Where Sasha Nein fought that clairvoyant grizzly bear?
-แรซ: ตอนที่ ซาช่า ไน ต่อสู้กับหมีกริซลี่ที่มีตาทิพย์?
+แรซ: ตอนที่ ซาช่า ไนน์ ต่อสู้กับหมีกริซลี่ที่มีตาทิพย์?
 
 INBB011CO: start: 22866 end: 25066
 Coach: Pah! Comic books!

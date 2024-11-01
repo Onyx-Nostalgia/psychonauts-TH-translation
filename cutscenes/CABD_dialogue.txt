@@ -8,7 +8,7 @@ Dogen: TV?
 
 CABD003RA: start: 9000 end: 13533
 Raz: Well, first of all, Sasha Nein invited me down to his SECRET LAB and--
-แรซ: ก็ ตอนแรก ซาช่า ไน เชิญฉันไปที่ "ห้องทดลองลับ" ของเขาและ--
+แรซ: ก็ ตอนแรก ซาช่า ไนน์ เชิญฉันไปที่ "ห้องทดลองลับ" ของเขาและ--
 
 CABD004DO: start: 13800 end: 14766
 Dogen: 

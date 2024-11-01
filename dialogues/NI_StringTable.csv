@@ -1,117 +1,117 @@
 id;character;origin_dialogue;translated_dialogue
-NICE001RA;RA;Uh... Sasha?;
-NICE002SA;SA;What is it? Another bunny?;
-NICE003RA;RA;No, this is more of a super scary, flaming-eyed demon kind of deal.;
-NICE004SA;SA;Oh. Hmmm.;
-NICE005RA;RA;What?;
-NICE006SA;SA;Okay, I'm pulling you out of there. Just give me a second.;
-NICE007RA;RA;Uh, Sasha?;
-NICE008SA;SA;Hold on. I'm still getting some unusual interference. It's fascinating, as if someone else were--;
-NICE009RA;RA;Agent Nein?;
-NICE010SA;SA;Sorry. Almost ready--;
-NICE011RA;RA;SASHA!;
-NID1001DO;DO;Aaaaaaaa!;
-NID1002LO;LO;Why are you screaming?;
-NID1003LO;LO;Oh right! I remember!;
-NID1004DO;DO;Wahhhhhhhh-a ha ha ha!;
-NID1005DO;DO;(giggle giggle);
-NID1006DO;DO;A-CHOOO!;
-NID1007LO;LO;Oh, good boy. There's that pesky brain.;
-NID1008LO;LO;Here's a tissue.;
-NID1009LO;LO;Now, don't you feel better, my dear lad?;
-NID1010DO;DO;TV?;
-NID1011LO;LO;Of course! Right here!;
-NID1012LO;LO;And this BAD tooth, we just drop it in the old garbage chute!;
-NID1013LO;LO;Now, don't chew solid foods for six hours!;
-NID1014RA;RA;Lili!;
-NID1015DO;DO;TV!;
-NID2001LO;LO;Little boy, I am sorry to say that you have a very serious mental problem. The trouble originates in this area here, the area that we in the medical profession like to refer to as�;
-NID2002LO;LO;�the brain. You see, son, it's just no good!;
-NID2003LO;LO;I hate to be so blunt, but YOU have the insanity... of a manatee!;
-NID2004DO;DO;I know! People are always saying that! What do you think's wrong with my brain, Doctor?;
-NID2005LO;LO;How should I know? I'm a dentist! But here's what I do know: if a tooth is bad, you pull it!;
-NID2006DO;DO;But my teeth are fine!;
-NID2007LO;LO;Yup! That brain's got to come out, boy. It's the quickest way to cure what you've got: INSANITY OF THE MIND!;
-NID2008DO;DO;But, I don't wanna--;
-NID2009LO;LO;Shush-shush-shush-shush-shushie! Now hold still. This will only hurt until your brains come flying out!;
-NID2010DO;DO;Ahh! Ahh! Get back! HELP!;
-NID2011LO;LO;Oh, please. Be serious.;
-NID2012DO;DO;Heeeeeeeelp!;
-NIEN001RA;RA;Is this a nightmare... or a plan?;
-NIEN002RA;RA;Or both?;
-NIEN003RA;RA;Wait a minute!;
-NIEN004SA;SA;Razputin, I'm sorry. I had to abort the experiment. Something unbelievably urgent has come up and I must leave immediately.;
-NIEN005RA;RA;I know! You'll never believe--;
-NIEN006SA;SA;Hold that thought! In a rush! Official Psychonauts business!;
-NIEN007RA;RA;Wait! So is this!;
-NIEN008RA;RA;Official Psychonaut--hey! You forgot your--;
-NIEN009RA;RA;Hmmm...;
-NIIN001SA;SA;Razputin, can you hear me?;
-NIIN002RA;RA;Sasha, where am I?;
-NIIN003SA;SA;You are inside your own mind, but I'm not sure where. Tell me. What can you see?;
-NIIN004RA;RA;I see a run-down gypsy caravan.;
-NIIN005SA;SA;Do you recognize it?;
-NIIN006RA;RA;Yes. It's where I was born.;
-NIIN007SA;SA;I see...;
-NIIN008SA;SA;Compelling.;
-NIVI001RA;RA;Sasha, I'm going inside the caravan.;
-NIVI002SA;SA;What do you see inside?;
-NIVI003RA;RA;I'm not sure. It's getting fuzzy.;
-NIVI004RA;RA;Ahhhhhhhhhh...;
-NIVI005RA;RA;Oof!;
-NIVI006SA;SA;Razputin, are you okay? What do you see now?;
-NIVI007RA;RA;I see a small, bunny-like animal thing.;
-NIVI008SA;SA;Hmmm. An unfamiliar animal entity in a dream often represents a primal fear or memory. Follow it, and it should lead you somewhere important.;
-NIVI009RA;RA;Check. Okay, Mr. Bun. You and I are gonna be tight. Wherever you go, I go. Like... two peas in a--hey!;
-NIVI010RA;RA;Come back here!;
-NIVI011SA;SA;Don't let him get away!;
-NIAB004RA;RA;Hey! No fair! I blasted you, tank!;
-NIAB005RA;RA;RECEIVE MY PSYCHIC BLASTING, JERK!;
-NIAB006RA;RA;Rats. That tank is armored like a... tank!;
-NIAB007RA;RA;It must have a weak spot somewhere!;
-NIAB008RA;RA;Probably not on the top though.;
-NIAB009RA;RA;Probably hidden.;
-NIAB010RA;RA;The weak spot, I mean.;
-NIAB011RA;RA;Probably, hidden on, like, the bottom.;
-NIAB014RA;RA;Man, I am so smart.;
-NIAC004RA;RA;Uh-oh.;
-NIAC006RA;RA;No, I'll figure it out.;
-NIAC008SA;SA;Razputin, tell me what is happening.;
-NIAC009RA;RA;Well, I'm kind of stuck in a little, white space.;
-NIAC010SA;SA;Hm. How little?;
-NIAC011RA;RA;Really little.;
-NIAC013SA;SA;Do you feel trapped?;
-NIAC014RA;RA;No...;
-NIAC015SA;SA;Confined?;
-NIAC016RA;RA;No.;
-NIAC017SA;SA;Smothered like you're buried alive?;
-NIAC018RA;RA;NO! Aaack! Get me out of here.;
-NIAC019SA;SA;Can you find your way out?;
-NIAC020RA;RA;I can't see anything.;
-NIAC022SA;SA;Can you fight your way out?;
-NIAC023RA;RA;Huh?;
-NIAC025SA;SA;Strike out with your psychic fist, Razputin, but carefully.;
-NIAC028SA;SA;Punch your way out, Razputin!;
-NIAC029SA;SA;Now! Hurry!;
-NIAC030SA;SA;This test is costing the taxpayers a lot of money!;
-NIAC032RA;RA;Ah-ha!;
-NIAC034SA;SA;Keep punching Razputin!;
-NIAD002RA;RA;Don't worry, Dogen. I'm coming up there to save you!;
-NIAD003SA;SA;What is wrong, Razputin?;
-NIAD004RA;RA;No time to explain, Sasha. I gotta climb this spooky thorn tower.;
-NIAD006RA;RA;Argh! There's no way to get any higher!;
-NIAD007SA;SA;You must use your Levitation power.;
-NIAD008RA;RA;I don't know how to levitate...;
-NIAA000RA;RA;Okay, what the hell was that???;
-NIAA001RA;RA;I'm seeing some crazy stuff in here, Sasha. This can't be right.;
-NIAA002SA;SA;Ach.  Why did I buy the CHEAP Brain Tumbler?;
-NIAE000RA;RA;Hey, where'd it go? Don't tell me I imagined that whole thing?;
-NIAF000RA;RA;You are my own creation! I command you to stop!;
-NIAF001RA;RA;Dang, does that EVER work?;
-NIAG000RA;RA;Soft, gelatinous underbelly, here I come.;
-NIAG001RA;RA;Ahh! Confusion... grenade...;
-NIAG002RA;RA;so... dizzy... who... am I?;
-NIAG003RA;RA;Ah! Target lock! ;
-NIAG004RA;RA;Gotta hide behind something!;
-NIZF000TO;TO;Press /YButton/ to open the hatch.;
-NIZZ000TO;TO;ALL MINE;
+NICE001RA;Raz;Uh... Sasha?;เอ่อ... ซาช่า?
+NICE002SA;Sasha;What is it? Another bunny?;อะไรเหรอ? กระต่ายอีกตัวเหรอ?
+NICE003RA;Raz;No, this is more of a super scary, flaming-eyed demon kind of deal.;เปล่า มันน่ากลัวโครต ๆ เหมือนปีศาจที่มีตาเรืองแสงอะไรแบบนั้น
+NICE004SA;Sasha;Oh. Hmmm.;โอ้ ฮืมมม
+NICE005RA;Raz;What?;อะไร?
+NICE006SA;Sasha;Okay, I'm pulling you out of there. Just give me a second.;โอเค ฉันจะดึงเธอออกมา ขอเวลาสักครู่
+NICE007RA;Raz;Uh, Sasha?;เอ่อ ซาช่า?
+NICE008SA;Sasha;Hold on. I'm still getting some unusual interference. It's fascinating, as if someone else were--;เดี๋ยวก่อน ฉันยังเจอการรบกวนผิดปกติ ช่างน่าสนใจ ราวกับมีใครบางคนอยู่-- 
+NICE009RA;Raz;Agent Nein?;สายลับไนน์?
+NICE010SA;Sasha;Sorry. Almost ready--;โทษที ใกล้แล้ว--
+NICE011RA;Raz;SASHA!;ซาช่า!
+NID1001DO;Dogen;Aaaaaaaa!;อ้าาาาาาาา!
+NID1002LO;Dr.Loboto;Why are you screaming?;นายจะร้องทำไม?
+NID1003LO;Dr.Loboto;Oh right! I remember!;อ๋อ ใช่! ฉันจำได้ละ!
+NID1004DO;Dogen;Wahhhhhhhh-a ha ha ha!;Wahhhhhhhh-a ha ha ha!
+NID1005DO;Dogen;(giggle giggle);(หัวเราะ หัวเราะ)
+NID1006DO;Dogen;A-CHOOO!;ฮัดชิ่ว!
+NID1007LO;Dr.Loboto;Oh, good boy. There's that pesky brain.;โอ้ เด็กดี สมองน่าเกลียดน่าชัง
+NID1008LO;Dr.Loboto;Here's a tissue.;นี่ทิชชู่
+NID1009LO;Dr.Loboto;Now, don't you feel better, my dear lad?;เอาล่ะ ดีขึ้นไหม เจ้าตัวน้อยที่รัก?
+NID1010DO;Dogen;TV?;ทีวี?
+NID1011LO;Dr.Loboto;Of course! Right here!;แน่นอน! อยู่นี่ไง!
+NID1012LO;Dr.Loboto;And this BAD tooth, we just drop it in the old garbage chute!;และ "ฟันผุ" นี่ เราแค่ทิ้งมันลงปล่องทิ้งขยะเก่าไปซะ!
+NID1013LO;Dr.Loboto;Now, don't chew solid foods for six hours!;เอาล่ะ อย่าเคี้ยวอาหารแข็ง ๆ สัก 6 ชั่วโมงนะ!
+NID1014RA;Raz;Lili!;ลิลี่!
+NID1015DO;Dogen;TV!;ทีวี!
+NID2001LO;Dr.Loboto;Little boy, I am sorry to say that you have a very serious mental problem. The trouble originates in this area here, the area that we in the medical profession like to refer to as�;เด็กน้อย ฉันเสียใจที่จะบอกว่านายมีปัญหาทางจิตที่ร้ายแรงมาก ปัญหามันเริ่มมาจากตรงนี้ บริเวณที่พวกเราในวงการแพทย์เรียกว่า...
+NID2002LO;Dr.Loboto;�the brain. You see, son, it's just no good!;...สมอง เธอเห็นไหม หนู มันไม่ดีเลย!
+NID2003LO;Dr.Loboto;I hate to be so blunt, but YOU have the insanity... of a manatee!;ฉันเกลียดที่จะต้องพูดตรงๆ แต่ "เธอ" มีความบ้าคลั่ง... เหมือนแมนาที!
+NID2004DO;Dogen;I know! People are always saying that! What do you think's wrong with my brain, Doctor?;ผมรู้! คนอื่นๆ ก็บอกแบบนั้นตลอด! คุณคิดว่าสมองของผมเป็นอะไรไปหรือเปล่า หมอ?
+NID2005LO;Dr.Loboto;How should I know? I'm a dentist! But here's what I do know: if a tooth is bad, you pull it!;ฉันจะไปรู้ได้ยังไง? ฉันเป็นหมอฟัน! แต่สิ่งที่ฉันรู้ก็คือ: ถ้าฟันมันผุ ก็ต้องถอนมันออก!
+NID2006DO;Dogen;But my teeth are fine!;แต่ฟันผมไม่ผุนะ!
+NID2007LO;Dr.Loboto;Yup! That brain's got to come out, boy. It's the quickest way to cure what you've got: INSANITY OF THE MIND!;ใช่แล้ว! สมองนั่นต้องเอาออก ไอ้หนู มันเป็นวิธีที่เร็วที่สุดในการรักษาสิ่งที่เธอเป็น: ความบ้าคลั่งในจิตใจ!
+NID2008DO;Dogen;But, I don't wanna--;แต่ ผมไม่อยาก--
+NID2009LO;Dr.Loboto;Shush-shush-shush-shush-shushie! Now hold still. This will only hurt until your brains come flying out!;ชู่ๆๆๆๆ อยู่นิ่งๆ นะ นี่จะเจ็บแค่ตอนที่สมองเธอหลุดออกมาเท่านั้นแหละ!
+NID2010DO;Dogen;Ahh! Ahh! Get back! HELP!;อาห์! อาห์! ถอยไปนะ! ช่วยด้วย!
+NID2011LO;Dr.Loboto;Oh, please. Be serious.;
+NID2012DO;Dogen;Heeeeeeeelp!;
+NIEN001RA;Raz;Is this a nightmare... or a plan?;นี่มันฝันร้ายเหรอ... หรือเป็นแผนการ?
+NIEN002RA;Raz;Or both?;หรือเป็นทั้งคู่?
+NIEN003RA;Raz;Wait a minute!;เดี๋ยวนะ!
+NIEN004SA;Sasha;Razputin, I'm sorry. I had to abort the experiment. Something unbelievably urgent has come up and I must leave immediately.;แรซปูติน ขออภัย ฉันต้องยกเลิกการทดลอง มีเหตุฉุกเฉินน่าเหลือเชื่อโผล่มาและฉันต้องไปโดยด่วน
+NIEN005RA;Raz;I know! You'll never believe--;ผมรู้! คุณต้องไม่เชื่อแน่--
+NIEN006SA;Sasha;Hold that thought! In a rush! Official Psychonauts business!;ไว้ก่อน! เรื่องด่วน! ธุระทางการของไซโคนอท!
+NIEN007RA;Raz;Wait! So is this!;เดี๋ยว! เรื่องนี้ก็เหมือนกัน!
+NIEN008RA;Raz;Official Psychonaut--hey! You forgot your--;ธุระทางการของไซโคนอท-- เฮ้! คุณลืม--
+NIEN009RA;Raz;Hmmm...;ฮืมม...
+NIIN001SA;Sasha;Razputin, can you hear me?;แรซปูติน เธอได้ยินฉันไหม?
+NIIN002RA;Raz;Sasha, where am I?;ซาช่า ผมอยู่ที่ไหน?
+NIIN003SA;Sasha;You are inside your own mind, but I'm not sure where. Tell me. What can you see?;ภายในจิตใจของเธอเอง แต่ฉันไม่แน่ใจว่าที่ไหน บอกฉันสิ เธอเห็นอะไร?
+NIIN004RA;Raz;I see a run-down gypsy caravan.;ผมเห็นรถคาราวานยิปซีเก่า ๆ
+NIIN005SA;Sasha;Do you recognize it?;มีความหมายอะไรกับเธอไหม?
+NIIN006RA;Raz;Yes. It's where I was born.;ครับ มันคือที่ ๆ ผมเกิด
+NIIN007SA;Sasha;I see...;เข้าใจละ...
+NIIN008SA;Sasha;Compelling.;น่าสนใจ
+NIVI001RA;Raz;Sasha, I'm going inside the caravan.;
+NIVI002SA;Sasha;What do you see inside?;
+NIVI003RA;Raz;I'm not sure. It's getting fuzzy.;
+NIVI004RA;Raz;Ahhhhhhhhhh...;
+NIVI005RA;Raz;Oof!;
+NIVI006SA;Sasha;Razputin, are you okay? What do you see now?;แรซปูติน เธอไม่เป็นไรนะ ตอนนี้เธอเห็นอะไร
+NIVI007RA;Raz;I see a small, bunny-like animal thing.;ผมเห็น อะไรสักอย่างหน้าตามันเหมือน กระต่ายตัวน้อย
+NIVI008SA;Sasha;Hmmm. An unfamiliar animal entity in a dream often represents a primal fear or memory. Follow it, and it should lead you somewhere important.;หืมม พวกสัตว์แปลก ๆ ในความฝันมักสะท้อนถึงความกลัวหรือความทรงจำแรกเริ่มของเรา ตามมันไป มันจะนำเธอไปสู่สถานที่สำคัญสักแห่ง
+NIVI009RA;Raz;Check. Okay, Mr. Bun. You and I are gonna be tight. Wherever you go, I go. Like... two peas in a--hey!;ได้เลย โอเค คุณต่าย นายและฉัน จะเป็นคู่ซี้ นายไปไหนฉันไปด้วย เหมือนถั่วที่อยู่-- เฮ้!
+NIVI010RA;Raz;Come back here!;กลับมานี่นะ!
+NIVI011SA;Sasha;Don't let him get away!;
+NIAB004RA;Raz;Hey! No fair! I blasted you, tank!;
+NIAB005RA;Raz;RECEIVE MY PSYCHIC BLASTING, JERK!;
+NIAB006RA;Raz;Rats. That tank is armored like a... tank!;
+NIAB007RA;Raz;It must have a weak spot somewhere!;
+NIAB008RA;Raz;Probably not on the top though.;
+NIAB009RA;Raz;Probably hidden.;
+NIAB010RA;Raz;The weak spot, I mean.;
+NIAB011RA;Raz;Probably, hidden on, like, the bottom.;
+NIAB014RA;Raz;Man, I am so smart.;
+NIAC004RA;Raz;Uh-oh.;
+NIAC006RA;Raz;No, I'll figure it out.;
+NIAC008SA;Sasha;Razputin, tell me what is happening.;
+NIAC009RA;Raz;Well, I'm kind of stuck in a little, white space.;
+NIAC010SA;Sasha;Hm. How little?;
+NIAC011RA;Raz;Really little.;
+NIAC013SA;Sasha;Do you feel trapped?;
+NIAC014RA;Raz;No...;
+NIAC015SA;Sasha;Confined?;
+NIAC016RA;Raz;No.;
+NIAC017SA;Sasha;Smothered like you're buried alive?;
+NIAC018RA;Raz;NO! Aaack! Get me out of here.;
+NIAC019SA;Sasha;Can you find your way out?;
+NIAC020RA;Raz;I can't see anything.;
+NIAC022SA;Sasha;Can you fight your way out?;
+NIAC023RA;Raz;Huh?;
+NIAC025SA;Sasha;Strike out with your psychic fist, Razputin, but carefully.;
+NIAC028SA;Sasha;Punch your way out, Razputin!;
+NIAC029SA;Sasha;Now! Hurry!;
+NIAC030SA;Sasha;This test is costing the taxpayers a lot of money!;
+NIAC032RA;Raz;Ah-ha!;
+NIAC034SA;Sasha;Keep punching Razputin!;
+NIAD002RA;Raz;Don't worry, Dogen. I'm coming up there to save you!;
+NIAD003SA;Sasha;What is wrong, Razputin?;
+NIAD004RA;Raz;No time to explain, Sasha. I gotta climb this spooky thorn tower.;
+NIAD006RA;Raz;Argh! There's no way to get any higher!;
+NIAD007SA;Sasha;You must use your Levitation power.;
+NIAD008RA;Raz;I don't know how to levitate...;
+NIAA000RA;Raz;Okay, what the hell was that???;
+NIAA001RA;Raz;I'm seeing some crazy stuff in here, Sasha. This can't be right.;
+NIAA002SA;Sasha;Ach.  Why did I buy the CHEAP Brain Tumbler?;
+NIAE000RA;Raz;Hey, where'd it go? Don't tell me I imagined that whole thing?;
+NIAF000RA;Raz;You are my own creation! I command you to stop!;
+NIAF001RA;Raz;Dang, does that EVER work?;
+NIAG000RA;Raz;Soft, gelatinous underbelly, here I come.;
+NIAG001RA;Raz;Ahh! Confusion... grenade...;
+NIAG002RA;Raz;so... dizzy... who... am I?;
+NIAG003RA;Raz;Ah! Target lock! ;
+NIAG004RA;Raz;Gotta hide behind something!;
+NIZF000TO;System;Press /YButton/ to open the hatch.;
+NIZZ000TO;System;ALL MINE;

@@ -20,7 +20,7 @@ Bobby: Why? You worried I'm gonna hurt your boyfriend?
 
 CASR006LI: start: 21733 end: 26333
 Lili: No. Because Sasha Nein is standing right behind you.
-ลิลี่: เปล่า เพราะซาช่า ไน กำลังยืนอยู่หลังนายน่ะสิ
+ลิลี่: เปล่า เพราะซาช่า ไนน์ กำลังยืนอยู่หลังนายน่ะสิ
 
 CASR007SA: start: 28166 end: 34600
 Sasha: Your performance, young cadet, was outstanding. I'd like you to report to my lab for some advanced training.

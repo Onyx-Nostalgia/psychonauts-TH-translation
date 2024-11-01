@@ -1,4 +1,4 @@
 SLIN001RA: start: 166 end: 3633
 Raz: Agent Nein? I'm here for the advanced training!
-แรซ: สายลับไนครับ ผมมาฝึกอบรมขั้นสูงแล้วครับ!
+แรซ: สายลับไนน์ครับ ผมมาฝึกอบรมขั้นสูงแล้วครับ!
 
