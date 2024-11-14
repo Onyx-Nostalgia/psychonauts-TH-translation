@@ -20,6 +20,8 @@ The extraction code and replacement code are originally from [TrupSteam/psychona
 - Extract dialogues from game file (`.lub` file) to csv
 - [dialogues/](/dialogues) to store csv file of dialogues that are being translated or have been translated
 - [cutscenes/](/cutscenes) to store dialogue files according to cutscenes for easy translation
+- ⚠️Develop⚠️ Replace dialogues from csv into game file (`.lub` file)
+  - ❌💥 Do not use at this time because the game font does not support Thai language.
   
 # 🧠 Dialogues csv file
 see sample in [dialogues/](/dialogues)
@@ -37,6 +39,10 @@ see sample in [dialogues/](/dialogues)
 **translated_dialogue**: Column for adding Thai translations
 
 **Note:** File CSV use delimeter `;` and endline `\r\n`
+
+## Translated Progress
+<!--trans-progress-st-->
+<!--trans-progress-en-->
 
 # 🧠 Pre-request
 - Install Python 3.X (recommend 3.10+)
@@ -69,3 +75,117 @@ Sometimes if you want to change the destination folder where you want to save th
 ```bash
 python unpack_strings.py --folder Psychonauts/WorkResource/Localization/English --dest new_dialogues/
 ```
+
+# 🧠 Extract Character Name
+
+Command to extract character from dialogue CSV file and store in [character_name.json](/character_name.json)
+```bash
+Usage: character.py save [OPTIONS]
+
+Options:
+  -d, --dialogue-folder DIRECTORY
+                                  [default: dialogues]
+  -n, --name FILE                 [default: character_name.json]
+  --help                          Show this message and exit.
+```
+Example
+```bash
+python character.py save
+```
+# 🧠 Update Character Name to Dialogue CSV
+
+If you update the full name in the file [character_name.json](/character_name.json) and want to update the full name in the dialogue CSV file, you can do so with the following command.
+```bash
+Usage: character.py update-dialogue [OPTIONS]
+
+Options:
+  -d, --dialogue-folder DIRECTORY
+                                  [default: dialogues]
+  -n, --name FILE                 [default: character_name.json]
+  --help                          Show this message and exit.
+```
+
+Example
+```bash
+python character.py update-dialogue
+```
+Sample result
+
+Notice the column **character**
+
+**Before**
+| id        | character | origin_dialogue | translated_dialogue |
+| --------- | --------- | --------------- | ------------------- |
+| ASGD027GL | GL        | Oh, no!         | โอ้, ไม่นะ!           |
+
+**After**
+| id        | character | origin_dialogue | translated_dialogue |
+| --------- | --------- | --------------- | ------------------- |
+| ASGD027GL | Gloria    | Oh, no!         | โอ้, ไม่นะ!           |
+
+# 🧠 Create Cutscene Dialogue Files
+The principle of creating cutscene dialogue file is to use `.dfs` file in Folder `psychonauts/WorkResource/cutscenes/prerendered/*.dfs` to search for dialogue in each cutscene and the result file will be stored in folder `cutscenes`.
+
+```bash
+Usage: cutscene.py generate [OPTIONS] [FILE_PATH]...
+
+  Generate cutscene dialogue
+
+  FILE_PATH: .dfs file path or folder path e.g.
+
+   - file path: cutscene.py generate
+   /psychonauts/WorkResource/cutscenes/prerendered/CABD.dfs
+
+   - folder path: cutscene.py generate
+   /psychonauts/WorkResource/cutscenes/prerendered/
+
+Options:
+  -c, --cutscene-folder, --dest-folder DIRECTORY
+                                  [default: cutscenes]
+  -d, --dialogue-folder DIRECTORY
+                                  [default: dialogues]
+  --help                          Show this message and exit.
+```
+
+## Extract from some cutscene
+Example of extracting from some `.dfs` files such as `CABD.dfs` and `CABV.dfs`.
+```
+python cutscene.py generate /psychonauts/WorkResource/cutscenes/prerendered/CABD.dfs /psychonauts/WorkResource/cutscenes/prerendered/CABV.dfs
+```
+Result file [cutscenes/CABD_dialogue.txt](/cutscenes/CABD_dialogue.txt) and [cutscenes/CABD_dialogue.txt](/cutscenes/CABV_dialogue.txt)
+
+## Extarct all folder .dfs
+```
+python cutscene.py generate /psychonauts/WorkResource/cutscenes/prerendered/
+```
+# 🧠 Update Dialogue CSV จากคำแปลในไฟล์ Cutscene Dialogue
+If we have translated the dialogue from the cutscene dialogue file ([cutscenes/*_dialogue.txt](/cutscenes/)) and want to update the translated dialogue into the dialogue CSV file (the file is in the folder [dialogues/](/dialogues/)).
+
+```bash
+Usage: cutscene.py update-csv [OPTIONS] [FILE_PATH]...
+
+  Update cutscene to csv dialogue
+
+  FILE_PATH: file path or folder path of cutscene e.g.
+
+   - file path: cutscene.py update-csv cutscenes/CASA_dialogue.txt
+
+   - folder path: cutscene.py update-csv cutscenes
+
+Options:
+  --all                           Update all cutscene in folder 'cutscenes'
+  -d, --dialogue-folder DIRECTORY
+                                  [default: dialogues]
+  --help                          Show this message and exit.
+```
+## Update all
+```bash
+python cutscene.py update-csv --all
+```
+
+## Update from some cutscene dialogue
+Example of updating from `cutscenes/CASA_dialogue.txt` and `cutscenes/CASB_dialogue.txt`
+```bash
+python cutscene.py update-csv cutscenes/CASA_dialogue.txt cutscenes/CASB_dialogue.txt
+```
+
