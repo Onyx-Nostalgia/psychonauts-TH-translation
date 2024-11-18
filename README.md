@@ -25,7 +25,7 @@ The extraction code and replacement code are originally from [TrupSteam/psychona
 
 # 🪴 Translated Progress
 <!--trans-progress-st-->
-**Total**: 9/28 ![](https://geps.dev/progress/38)
+**Total**: 10/28 ![](https://geps.dev/progress/42)
 |                                                                          |          |                                    |
 | ------------------------------------------------------------------------ | -------- | ---------------------------------- |
 | [dialogues/CA_StringTable.csv](dialogues/CA_StringTable.csv)             | 399/2542 | ![](https://geps.dev/progress/15)  |
@@ -50,7 +50,7 @@ The extraction code and replacement code are originally from [TrupSteam/psychona
 | [dialogues/BB_StringTablePC.csv](dialogues/BB_StringTablePC.csv)         | 0/6      | ![](https://geps.dev/progress/0)   |
 | [dialogues/LL_StringTable.csv](dialogues/LL_StringTable.csv)             | 2/57     | ![](https://geps.dev/progress/3)   |
 | [dialogues/MI_StringTable.csv](dialogues/MI_StringTable.csv)             | 0/322    | ![](https://geps.dev/progress/0)   |
-| [dialogues/SA_StringTablePC.csv](dialogues/SA_StringTablePC.csv)         | 0/2      | ![](https://geps.dev/progress/0)   |
+| [dialogues/SA_StringTablePC.csv](dialogues/SA_StringTablePC.csv)         | 2/2      | ![](https://geps.dev/progress/100) |
 | [dialogues/MC_StringTable.csv](dialogues/MC_StringTable.csv)             | 53/188   | ![](https://geps.dev/progress/28)  |
 | [dialogues/NI_StringTable.csv](dialogues/NI_StringTable.csv)             | 58/116   | ![](https://geps.dev/progress/50)  |
 | [dialogues/LL_StringTablePC.csv](dialogues/LL_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
@@ -189,7 +189,7 @@ Result file [cutscenes/CABD_dialogue.txt](/cutscenes/CABD_dialogue.txt) and [cut
 ```
 python cutscene.py generate /psychonauts/WorkResource/cutscenes/prerendered/
 ```
-# 🧠 Update Dialogue CSV จากคำแปลในไฟล์ Cutscene Dialogue
+# 🧠 Update Dialogue CSV from Cutscene Dialogue
 If we have translated the dialogue from the cutscene dialogue file ([cutscenes/*_dialogue.txt](/cutscenes/)) and want to update the translated dialogue into the dialogue CSV file (the file is in the folder [dialogues/](/dialogues/)).
 
 ```bash
