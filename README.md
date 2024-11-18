@@ -25,7 +25,7 @@ The extraction code and replacement code are originally from [TrupSteam/psychona
 
 # 🪴 Translated Progress
 <!--trans-progress-st-->
-**Total**: 11/28 ![](https://geps.dev/progress/47)
+**Total**: 12/28 ![](https://geps.dev/progress/47)
 |                                                                          |          |                                    |
 | ------------------------------------------------------------------------ | -------- | ---------------------------------- |
 | [dialogues/AS_StringTable.csv](dialogues/AS_StringTable.csv)             | 196/1002 | ![](https://geps.dev/progress/19)  |
@@ -48,7 +48,7 @@ The extraction code and replacement code are originally from [TrupSteam/psychona
 | [dialogues/MI_StringTablePC.csv](dialogues/MI_StringTablePC.csv)         | 1/1      | ![](https://geps.dev/progress/100) |
 | [dialogues/MM_StringTable.csv](dialogues/MM_StringTable.csv)             | 29/707   | ![](https://geps.dev/progress/4)   |
 | [dialogues/MM_StringTablePC.csv](dialogues/MM_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
-| [dialogues/NI_StringTable.csv](dialogues/NI_StringTable.csv)             | 114/116  | ![](https://geps.dev/progress/98)  |
+| [dialogues/NI_StringTable.csv](dialogues/NI_StringTable.csv)             | 116/116  | ![](https://geps.dev/progress/100) |
 | [dialogues/NI_StringTablePC.csv](dialogues/NI_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
 | [dialogues/SA_StringTable.csv](dialogues/SA_StringTable.csv)             | 35/171   | ![](https://geps.dev/progress/20)  |
 | [dialogues/SA_StringTablePC.csv](dialogues/SA_StringTablePC.csv)         | 2/2      | ![](https://geps.dev/progress/100) |
