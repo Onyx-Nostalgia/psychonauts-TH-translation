@@ -12,9 +12,9 @@ SAIN006SA;Sasha;Your feelings, your fears, your anger. You must learn to control
 SAIN007RA;Raz;As therapy?;เป็นการบำบัดเหรอ?
 SAIN008SA;Sasha;No, as firepower!;
 SAIN009SA;Sasha;Say something hideous and horrible jumps out at you. Something so disgusting that it simply must die.;สมมติว่ามีอะไรที่น่าเกลียดน่ากลัวกระโดดออกมาใส่เธอ อะไรที่น่าขยะแขยงจนต้องกำจัดมันให้สิ้นซาก
-SAIN010SA;Sasha;Ahhh, oh, so tacky... I� can't... look... directly at it!;
-SAIN011SA;Sasha;But I control those feelings, focus them, concentrate, and�;แต่ฉันควบคุมความรู้สึกเหล่านั้น มุ่งความสนใจไปที่มัน รวมพลัง และ...
-SAIN012SA;Sasha;�release!;ปลดปล่อย!
+SAIN010SA;Sasha;Ahhh, oh, so tacky... I� can't... look... directly at it!;
+SAIN011SA;Sasha;But I control those feelings, focus them, concentrate, and�;แต่ฉันควบคุมความรู้สึกเหล่านั้น มุ่งความสนใจไปที่มัน รวมพลัง และ...
+SAIN012SA;Sasha;�release!;ปลดปล่อย!
 SAIN013SA;Sasha;And the world is a better place.;และโลกก็ดีขึ้นกว่าเดิม
 SAIN014SA;Sasha;Your turn.;ตาเธอแล้ว
 SAIN015RA;Raz;Okay...;
@@ -32,7 +32,7 @@ SAMC004SA;Sasha;No, that once you lose control of your own mind, it's very hard 
 SAMC005RA;Raz;Yes. One's thoughts must be 100% controlled at all times!;ครับ ต้องควบคุมความคิดของตัวเองให้ได้ 100% ตลอดเวลา!
 SAMC006SA;Sasha;Well, no. Actually, if you try to completely suppress your undesirable feelings, they'll build and build and eventually explode.;เอ่อ ไม่เชิง อันที่จริงถ้าเธอพยายามระงับความรู้สึกที่ไม่ดีของเธอเอาไว้ ความรู้สึกเหล่านั้นจะเพิ่มพูนขึ้นเรื่อยๆ และในที่สุดก็จะระเบิดออกมา
 SAMC007RA;Raz;Oh. So, uh, what would happen if you were to, say, completely block off all your censor outlets?;โอ้ งั้น เอิ่ม จะเป็นยังไง ถ้าคุณดันไปปิดท่อระบาย Censor "ทั้งหมด" ล่ะ?
-SAMC008SA;Sasha;Well, there would be a buildup of censor energy within, that would... uh� eventually�;อืม มันจะมีพลังงานของ Censor สะสมอยู่ภายใน แล้วก็จะ... เอ่อ ในที่สุดก็จะ...
+SAMC008SA;Sasha;Well, there would be a buildup of censor energy within, that would... uh� eventually�;อืม มันจะมีพลังงานของ Censor สะสมอยู่ภายใน แล้วก็จะ... เอ่อ ในที่สุดก็จะ...
 SAMC009SA;Sasha;Run, Razputin. Very fast.;วิ่ง แรซปูติน วิ่งเร็วเข้า
 SAMC010SA;Sasha;You are my own creation. I command you to stop!;แกเป็นสิ่งที่ฉันสร้างขึ้น ฉันขอสั่งให้แกหยุด!
 SAMC012SA;Sasha;Ahhhhhhh!;Ahhhhhhh!
@@ -162,11 +162,11 @@ SAAK014SA;Sasha;I... I have no idea. I seem to be... asleep... or in a trance...
 SAAK015RA;Raz;Well don't worry about it. Ford and I are on the case.;
 SAAK016SA;Sasha;Okay. I'd love to join you, but I think I need to focus on maintaining some level of brain activity.;
 SAAK017RA;Raz;Ooh, I can help with that! Let me shoot up the place!;
-SAZE000TO;System;Move RIGHT /Joystick/ while holding /LeftFlipper/ to switch targets.;
+SAZE000TO;System;Move RIGHT /Joystick/ while holding /LeftFlipper/ to switch targets.;ขยับ /Joystick/ ไปทางขวาและกด /LeftFlipper/  ค้างเพื่อเปลี่ยนเป้าหมาย
 SAZE001TO;System;Press /RightFlipper/ to shoot.;
 SAZE002TO;System;Hold /LeftFlipper/ to lock on to a target.;
 SAZE003TO;System;Hold /LeftFlipper/ to lock on, then press /RightFlipper/;
-SAZF000TO;System;When your MENTAL FOCUS is LOCKED, press /AButton/ and move the LEFT /Joystick/ to execute a fast tumble in any direction. Very useful for circling your enemies!;
+SAZF000TO;System;When your MENTAL FOCUS is LOCKED, press /AButton/ and move the LEFT /Joystick/ to execute a fast tumble in any direction. Very useful for circling your enemies!;ขณะที่ MENTAL FOCUS กำลังล็อค กด /AButton/ และขยับ /Joystick/ ไปทางซ้ายเพื่อกลิ้งอย่างรวดเร็วไปในทิศทางใดก็ได้. จะมีประโยชน์มากในการวนรอบศัตรูของคุณ!
 SAZF001TO;System;DAILY MAXIMUM REACHED for this Censor output setting. Please increase Censor output setting if more Censors are desired.;
 SAAM000SA;Sasha;Enough horseplay, Razputin!;
 SAAK018SA;Sasha;Razputin, instead of that why don't you help me free Ms. Zanotto?;
