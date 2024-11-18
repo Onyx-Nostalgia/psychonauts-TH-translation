@@ -6,11 +6,10 @@ name: README Update
 on:
   push:
     branches: [ "master" ]
+    paths: ['dialogues/**.csv']
   pull_request:
     branches: [ "master" ]
-
-permissions:
-  contents: read
+    paths: ['dialogues/**.csv']
 
 jobs:
   build:
@@ -29,3 +28,6 @@ jobs:
       run: |
         python progress.py
         python progress.py docs/README-TH.md
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: '📝 docs: 🤖 auto update translated progress'
