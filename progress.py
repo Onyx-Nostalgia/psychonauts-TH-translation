@@ -129,6 +129,7 @@ def update_progress_markdown(
 def _dialogue_progress(dialogue_folder: str = constants.DIALOGUES_FOLDER_NAME):
     file_paths = get_filenames(dialogue_folder)
     results = [get_progress(file_path) for file_path in file_paths]
+    results = sorted(results, key=lambda x: x[0])
     return results
 
 
