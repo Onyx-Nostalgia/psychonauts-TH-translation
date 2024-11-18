@@ -25,8 +25,8 @@ NID1012LO;Dr.Loboto;And this BAD tooth, we just drop it in the old garbage chute
 NID1013LO;Dr.Loboto;Now, don't chew solid foods for six hours!;เอาล่ะ อย่าเคี้ยวอาหารแข็ง ๆ สัก 6 ชั่วโมงนะ!
 NID1014RA;Raz;Lili!;ลิลี่!
 NID1015DO;Dogen;TV!;ทีวี!
-NID2001LO;Dr.Loboto;Little boy, I am sorry to say that you have a very serious mental problem. The trouble originates in this area here, the area that we in the medical profession like to refer to as�;เด็กน้อย ฉันเสียใจที่จะบอกว่านายมีปัญหาทางจิตที่ร้ายแรงมาก ปัญหามันเริ่มมาจากตรงนี้ บริเวณที่พวกเราในวงการแพทย์เรียกว่า...
-NID2002LO;Dr.Loboto;�the brain. You see, son, it's just no good!;...สมอง เธอเห็นไหม หนู มันไม่ดีเลย!
+NID2001LO;Dr.Loboto;Little boy, I am sorry to say that you have a very serious mental problem. The trouble originates in this area here, the area that we in the medical profession like to refer to as�;เด็กน้อย ฉันเสียใจที่จะบอกว่านายมีปัญหาทางจิตที่ร้ายแรงมาก ปัญหามันเริ่มมาจากตรงนี้ บริเวณที่พวกเราในวงการแพทย์เรียกว่า...
+NID2002LO;Dr.Loboto;�the brain. You see, son, it's just no good!;...สมอง เธอเห็นไหม หนู มันไม่ดีเลย!
 NID2003LO;Dr.Loboto;I hate to be so blunt, but YOU have the insanity... of a manatee!;ฉันเกลียดที่จะต้องพูดตรงๆ แต่ "เธอ" มีความบ้าคลั่ง... เหมือนแมนาที!
 NID2004DO;Dogen;I know! People are always saying that! What do you think's wrong with my brain, Doctor?;ผมรู้! คนอื่นๆ ก็บอกแบบนั้นตลอด! คุณคิดว่าสมองของผมเป็นอะไรไปหรือเปล่า หมอ?
 NID2005LO;Dr.Loboto;How should I know? I'm a dentist! But here's what I do know: if a tooth is bad, you pull it!;ฉันจะไปรู้ได้ยังไง? ฉันเป็นหมอฟัน! แต่สิ่งที่ฉันรู้ก็คือ: ถ้าฟันมันผุ ก็ต้องถอนมันออก!
@@ -54,64 +54,64 @@ NIIN005SA;Sasha;Do you recognize it?;มีความหมายอะไร�
 NIIN006RA;Raz;Yes. It's where I was born.;ครับ มันคือที่ ๆ ผมเกิด
 NIIN007SA;Sasha;I see...;เข้าใจละ...
 NIIN008SA;Sasha;Compelling.;น่าสนใจ
-NIVI001RA;Raz;Sasha, I'm going inside the caravan.;
-NIVI002SA;Sasha;What do you see inside?;
-NIVI003RA;Raz;I'm not sure. It's getting fuzzy.;
-NIVI004RA;Raz;Ahhhhhhhhhh...;
-NIVI005RA;Raz;Oof!;
+NIVI001RA;Raz;Sasha, I'm going inside the caravan.;ซาช่า ผมกำลังเข้าไปในคาราวาน
+NIVI002SA;Sasha;What do you see inside?;เธอเห็นอะไรในนั้น?
+NIVI003RA;Raz;I'm not sure. It's getting fuzzy.;ผมไม่แน่ใจ มันฟุ้งไปหมดเลย
+NIVI004RA;Raz;Ahhhhhhhhhh...;Ahhhhhhhhhh...
+NIVI005RA;Raz;Oof!;Oof!
 NIVI006SA;Sasha;Razputin, are you okay? What do you see now?;แรซปูติน เธอไม่เป็นไรนะ ตอนนี้เธอเห็นอะไร
 NIVI007RA;Raz;I see a small, bunny-like animal thing.;ผมเห็น อะไรสักอย่างหน้าตามันเหมือน กระต่ายตัวน้อย
 NIVI008SA;Sasha;Hmmm. An unfamiliar animal entity in a dream often represents a primal fear or memory. Follow it, and it should lead you somewhere important.;หืมม พวกสัตว์แปลก ๆ ในความฝันมักสะท้อนถึงความกลัวหรือความทรงจำแรกเริ่มของเรา ตามมันไป มันจะนำเธอไปสู่สถานที่สำคัญสักแห่ง
 NIVI009RA;Raz;Check. Okay, Mr. Bun. You and I are gonna be tight. Wherever you go, I go. Like... two peas in a--hey!;ได้เลย โอเค คุณต่าย นายและฉัน จะเป็นคู่ซี้ นายไปไหนฉันไปด้วย เหมือนถั่วที่อยู่-- เฮ้!
 NIVI010RA;Raz;Come back here!;กลับมานี่นะ!
-NIVI011SA;Sasha;Don't let him get away!;
-NIAB004RA;Raz;Hey! No fair! I blasted you, tank!;
-NIAB005RA;Raz;RECEIVE MY PSYCHIC BLASTING, JERK!;
-NIAB006RA;Raz;Rats. That tank is armored like a... tank!;
-NIAB007RA;Raz;It must have a weak spot somewhere!;
-NIAB008RA;Raz;Probably not on the top though.;
-NIAB009RA;Raz;Probably hidden.;
-NIAB010RA;Raz;The weak spot, I mean.;
-NIAB011RA;Raz;Probably, hidden on, like, the bottom.;
-NIAB014RA;Raz;Man, I am so smart.;
-NIAC004RA;Raz;Uh-oh.;
-NIAC006RA;Raz;No, I'll figure it out.;
-NIAC008SA;Sasha;Razputin, tell me what is happening.;
-NIAC009RA;Raz;Well, I'm kind of stuck in a little, white space.;
-NIAC010SA;Sasha;Hm. How little?;
-NIAC011RA;Raz;Really little.;
-NIAC013SA;Sasha;Do you feel trapped?;
-NIAC014RA;Raz;No...;
-NIAC015SA;Sasha;Confined?;
-NIAC016RA;Raz;No.;
-NIAC017SA;Sasha;Smothered like you're buried alive?;
-NIAC018RA;Raz;NO! Aaack! Get me out of here.;
-NIAC019SA;Sasha;Can you find your way out?;
-NIAC020RA;Raz;I can't see anything.;
-NIAC022SA;Sasha;Can you fight your way out?;
-NIAC023RA;Raz;Huh?;
-NIAC025SA;Sasha;Strike out with your psychic fist, Razputin, but carefully.;
-NIAC028SA;Sasha;Punch your way out, Razputin!;
-NIAC029SA;Sasha;Now! Hurry!;
-NIAC030SA;Sasha;This test is costing the taxpayers a lot of money!;
-NIAC032RA;Raz;Ah-ha!;
-NIAC034SA;Sasha;Keep punching Razputin!;
-NIAD002RA;Raz;Don't worry, Dogen. I'm coming up there to save you!;
-NIAD003SA;Sasha;What is wrong, Razputin?;
-NIAD004RA;Raz;No time to explain, Sasha. I gotta climb this spooky thorn tower.;
-NIAD006RA;Raz;Argh! There's no way to get any higher!;
-NIAD007SA;Sasha;You must use your Levitation power.;
-NIAD008RA;Raz;I don't know how to levitate...;
-NIAA000RA;Raz;Okay, what the hell was that???;
-NIAA001RA;Raz;I'm seeing some crazy stuff in here, Sasha. This can't be right.;
-NIAA002SA;Sasha;Ach.  Why did I buy the CHEAP Brain Tumbler?;
-NIAE000RA;Raz;Hey, where'd it go? Don't tell me I imagined that whole thing?;
-NIAF000RA;Raz;You are my own creation! I command you to stop!;
-NIAF001RA;Raz;Dang, does that EVER work?;
-NIAG000RA;Raz;Soft, gelatinous underbelly, here I come.;
-NIAG001RA;Raz;Ahh! Confusion... grenade...;
-NIAG002RA;Raz;so... dizzy... who... am I?;
-NIAG003RA;Raz;Ah! Target lock! ;
-NIAG004RA;Raz;Gotta hide behind something!;
-NIZF000TO;System;Press /YButton/ to open the hatch.;
-NIZZ000TO;System;ALL MINE;
+NIVI011SA;Sasha;Don't let him get away!;อย่าปล่อยเขาหนีไปได้!
+NIAB004RA;Raz;Hey! No fair! I blasted you, tank!;เฮ้! ไม่ยุติธรรม! ฉันยิงแกแล้วนิ เจ้ารถถัง!
+NIAB005RA;Raz;RECEIVE MY PSYCHIC BLASTING, JERK!;เอาลำแสงของฉันไปกินซะ ไอ้เวร!
+NIAB006RA;Raz;Rats. That tank is armored like a... tank!;ไอหนูพวกนี้ เกราะแข็งอย่างกับ...รถถัง!
+NIAB007RA;Raz;It must have a weak spot somewhere!;มันต้องมีจุดอ่อนที่ไหนสักแห่ง!
+NIAB008RA;Raz;Probably not on the top though.;แต่คงไม่ได้อยู่ด้านบนหรอก
+NIAB009RA;Raz;Probably hidden.;อาจจะซ่อนอยู่ก็ได้
+NIAB010RA;Raz;The weak spot, I mean.;จุดอ่อนน่ะ ที่ฉันหมายถึง
+NIAB011RA;Raz;Probably, hidden on, like, the bottom.;อาจจะซ่อนอยู่ตรงด้านล่างก็ได้
+NIAB014RA;Raz;Man, I am so smart.;โอ้โห ฉันฉลาดจริงๆ
+NIAC004RA;Raz;Uh-oh.;Uh-oh.
+NIAC006RA;Raz;No, I'll figure it out.;ไม่, ฉันจะหาทางเอง
+NIAC008SA;Sasha;Razputin, tell me what is happening.;แรซปูติน บอกฉันมาว่าเกิดอะไรขึ้น
+NIAC009RA;Raz;Well, I'm kind of stuck in a little, white space.;ก็ ผมเหมือนจะติดอยู่ในห้องเล็กๆ สีขาวๆ
+NIAC010SA;Sasha;Hm. How little?;ฮืม เล็กแค่ไหน?
+NIAC011RA;Raz;Really little.;เล็กมากๆ
+NIAC013SA;Sasha;Do you feel trapped?;เธอรู้สึกเหมือนติดกับอยู่ใช่ไหม?
+NIAC014RA;Raz;No...;เปล่า...
+NIAC015SA;Sasha;Confined?;สบสน?
+NIAC016RA;Raz;No.;เปล่า
+NIAC017SA;Sasha;Smothered like you're buried alive?;หายใจไม่ออกเหมือนถูกฝังทั้งเป็น?
+NIAC018RA;Raz;NO! Aaack! Get me out of here.;เปล่า! อ้าา! เอาผมออกไปจากที่นี่
+NIAC019SA;Sasha;Can you find your way out?;เธอหาทางออกเจอไหม?
+NIAC020RA;Raz;I can't see anything.;ผมไม่เห็นอะไรเลย
+NIAC022SA;Sasha;Can you fight your way out?;เธอต่อสู้เพื่อสร้างทางออกได้ไหม?
+NIAC023RA;Raz;Huh?;หา?
+NIAC025SA;Sasha;Strike out with your psychic fist, Razputin, but carefully.;โจมตีด้วยมือพลังจิตของเธอ แรซปูติน อย่างระวังด้วย
+NIAC028SA;Sasha;Punch your way out, Razputin!;ชกเพื่อสร้างทางออกของเธอ แรซ!
+NIAC029SA;Sasha;Now! Hurry!;เดี๋ยวนี้! เร็วเข้า!
+NIAC030SA;Sasha;This test is costing the taxpayers a lot of money!;การทดสอบครั้งนี้ทำให้ผู้เสียภาษีต้องเสียเงินเป็นจำนวนมาก!
+NIAC032RA;Raz;Ah-ha!;Ah-ha!
+NIAC034SA;Sasha;Keep punching Razputin!;ชกต่อไป แรซปูติน!
+NIAD002RA;Raz;Don't worry, Dogen. I'm coming up there to save you!;ไม่ต้องห่วง โดแกน ฉันมาช่วยนายแล้ว!
+NIAD003SA;Sasha;What is wrong, Razputin?;เกิดอะไรขึ้น แรซปูติน?
+NIAD004RA;Raz;No time to explain, Sasha. I gotta climb this spooky thorn tower.;ไม่มีเวลาแล้ว ซาช่า ผมต้องปีนหอคอยหนามนี่
+NIAD006RA;Raz;Argh! There's no way to get any higher!;Argh! ไม่มีทางที่จะไปได้สูงกว่านี้แล้ว!
+NIAD007SA;Sasha;You must use your Levitation power.;เธอต้องใช้พลังลอยตัว
+NIAD008RA;Raz;I don't know how to levitate...;ผมไม่รู้วิธีการลอยตัว...
+NIAA000RA;Raz;Okay, what the hell was that???;โอเค นั่นมันอะไรน่ะ???
+NIAA001RA;Raz;I'm seeing some crazy stuff in here, Sasha. This can't be right.;ผมเห็นบางอย่างน่าขนลุกในนี้ ซาช่า นี่มันไม่ถูกต้องนะ
+NIAA002SA;Sasha;Ach.  Why did I buy the CHEAP Brain Tumbler?;ทำไมฉันถึงได้ซื้อ Brain Tumbler "ราคาถูก" มากันนะ?
+NIAE000RA;Raz;Hey, where'd it go? Don't tell me I imagined that whole thing?;เฮ้ มันไปไหนล่ะ อย่าบอกนะว่าฉันคิดไปเอง
+NIAF000RA;Raz;You are my own creation! I command you to stop!;แกคือสิ่งที่ฉันสร้างขึ้น! ฉันขอสั่งให้แกหยุด!
+NIAF001RA;Raz;Dang, does that EVER work?;มันได้ผลมั้ยเนี่ย?
+NIAG000RA;Raz;Soft, gelatinous underbelly, here I come.;ท้องอ่อนๆ นิ่มๆ ฉันมาแล้ว
+NIAG001RA;Raz;Ahh! Confusion... grenade...;อ่า! ระเบิด... งงงวย...
+NIAG002RA;Raz;so... dizzy... who... am I?;เวียน...หัว...ฉัน...เป็นใคร?
+NIAG003RA;Raz;Ah! Target lock! ;อ่า! ล็อคเป้า! 
+NIAG004RA;Raz;Gotta hide behind something!;ต้องซ่อนตัวอยู่หลังอะไรสักอย่าง!
+NIZF000TO;System;Press /YButton/ to open the hatch.;กด /YButton/ เพื่อออกจากไข่
+NIZZ000TO;System;ALL MINE;ทั้งหมด
