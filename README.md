@@ -28,34 +28,34 @@ The extraction code and replacement code are originally from [TrupSteam/psychona
 **Total**: 10/28 ![](https://geps.dev/progress/42)
 |                                                                          |          |                                    |
 | ------------------------------------------------------------------------ | -------- | ---------------------------------- |
-| [dialogues/CA_StringTable.csv](dialogues/CA_StringTable.csv)             | 399/2542 | ![](https://geps.dev/progress/15)  |
-| [dialogues/MC_StringTablePC.csv](dialogues/MC_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
-| [dialogues/BV_StringTablePC.csv](dialogues/BV_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
-| [dialogues/WW_StringTablePC.csv](dialogues/WW_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
-| [dialogues/TH_StringTable.csv](dialogues/TH_StringTable.csv)             | 41/803   | ![](https://geps.dev/progress/5)   |
-| [dialogues/TH_StringTablePC.csv](dialogues/TH_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
-| [dialogues/NI_StringTablePC.csv](dialogues/NI_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
-| [dialogues/AS_StringTablePC.csv](dialogues/AS_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
-| [dialogues/MM_StringTablePC.csv](dialogues/MM_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
-| [dialogues/MI_StringTablePC.csv](dialogues/MI_StringTablePC.csv)         | 0/1      | ![](https://geps.dev/progress/0)   |
-| [dialogues/WW_StringTable.csv](dialogues/WW_StringTable.csv)             | 0/399    | ![](https://geps.dev/progress/0)   |
-| [dialogues/BB_StringTable.csv](dialogues/BB_StringTable.csv)             | 30/333   | ![](https://geps.dev/progress/9)   |
 | [dialogues/CA_StringTablePC.csv](dialogues/CA_StringTablePC.csv)         | 0/12     | ![](https://geps.dev/progress/0)   |
-| [dialogues/LO_StringTable.csv](dialogues/LO_StringTable.csv)             | 51/245   | ![](https://geps.dev/progress/20)  |
-| [dialogues/MM_StringTable.csv](dialogues/MM_StringTable.csv)             | 29/707   | ![](https://geps.dev/progress/4)   |
-| [dialogues/GLOBAL_StringTablePC.csv](dialogues/GLOBAL_StringTablePC.csv) | 4/116    | ![](https://geps.dev/progress/3)   |
-| [dialogues/AS_StringTable.csv](dialogues/AS_StringTable.csv)             | 196/1002 | ![](https://geps.dev/progress/19)  |
-| [dialogues/GLOBAL_StringTable.csv](dialogues/GLOBAL_StringTable.csv)     | 56/1428  | ![](https://geps.dev/progress/3)   |
-| [dialogues/BV_StringTable.csv](dialogues/BV_StringTable.csv)             | 56/750   | ![](https://geps.dev/progress/7)   |
-| [dialogues/BB_StringTablePC.csv](dialogues/BB_StringTablePC.csv)         | 0/6      | ![](https://geps.dev/progress/0)   |
-| [dialogues/LL_StringTable.csv](dialogues/LL_StringTable.csv)             | 2/57     | ![](https://geps.dev/progress/3)   |
-| [dialogues/MI_StringTable.csv](dialogues/MI_StringTable.csv)             | 0/322    | ![](https://geps.dev/progress/0)   |
-| [dialogues/SA_StringTablePC.csv](dialogues/SA_StringTablePC.csv)         | 2/2      | ![](https://geps.dev/progress/100) |
-| [dialogues/MC_StringTable.csv](dialogues/MC_StringTable.csv)             | 53/188   | ![](https://geps.dev/progress/28)  |
-| [dialogues/NI_StringTable.csv](dialogues/NI_StringTable.csv)             | 58/116   | ![](https://geps.dev/progress/50)  |
-| [dialogues/LL_StringTablePC.csv](dialogues/LL_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
-| [dialogues/LO_StringTablePC.csv](dialogues/LO_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
 | [dialogues/SA_StringTable.csv](dialogues/SA_StringTable.csv)             | 33/171   | ![](https://geps.dev/progress/19)  |
+| [dialogues/SA_StringTablePC.csv](dialogues/SA_StringTablePC.csv)         | 2/2      | ![](https://geps.dev/progress/100) |
+| [dialogues/LL_StringTablePC.csv](dialogues/LL_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
+| [dialogues/WW_StringTablePC.csv](dialogues/WW_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
+| [dialogues/CA_StringTable.csv](dialogues/CA_StringTable.csv)             | 399/2542 | ![](https://geps.dev/progress/15)  |
+| [dialogues/MI_StringTablePC.csv](dialogues/MI_StringTablePC.csv)         | 0/1      | ![](https://geps.dev/progress/0)   |
+| [dialogues/GLOBAL_StringTable.csv](dialogues/GLOBAL_StringTable.csv)     | 56/1428  | ![](https://geps.dev/progress/3)   |
+| [dialogues/LO_StringTablePC.csv](dialogues/LO_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
+| [dialogues/MM_StringTable.csv](dialogues/MM_StringTable.csv)             | 29/707   | ![](https://geps.dev/progress/4)   |
+| [dialogues/LO_StringTable.csv](dialogues/LO_StringTable.csv)             | 51/245   | ![](https://geps.dev/progress/20)  |
+| [dialogues/LL_StringTable.csv](dialogues/LL_StringTable.csv)             | 2/57     | ![](https://geps.dev/progress/3)   |
+| [dialogues/MM_StringTablePC.csv](dialogues/MM_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
+| [dialogues/MI_StringTable.csv](dialogues/MI_StringTable.csv)             | 0/322    | ![](https://geps.dev/progress/0)   |
+| [dialogues/MC_StringTable.csv](dialogues/MC_StringTable.csv)             | 53/188   | ![](https://geps.dev/progress/28)  |
+| [dialogues/WW_StringTable.csv](dialogues/WW_StringTable.csv)             | 0/399    | ![](https://geps.dev/progress/0)   |
+| [dialogues/NI_StringTablePC.csv](dialogues/NI_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
+| [dialogues/BV_StringTable.csv](dialogues/BV_StringTable.csv)             | 56/750   | ![](https://geps.dev/progress/7)   |
+| [dialogues/AS_StringTable.csv](dialogues/AS_StringTable.csv)             | 196/1002 | ![](https://geps.dev/progress/19)  |
+| [dialogues/AS_StringTablePC.csv](dialogues/AS_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
+| [dialogues/BB_StringTable.csv](dialogues/BB_StringTable.csv)             | 30/333   | ![](https://geps.dev/progress/9)   |
+| [dialogues/NI_StringTable.csv](dialogues/NI_StringTable.csv)             | 58/116   | ![](https://geps.dev/progress/50)  |
+| [dialogues/TH_StringTable.csv](dialogues/TH_StringTable.csv)             | 41/803   | ![](https://geps.dev/progress/5)   |
+| [dialogues/BV_StringTablePC.csv](dialogues/BV_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
+| [dialogues/MC_StringTablePC.csv](dialogues/MC_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
+| [dialogues/TH_StringTablePC.csv](dialogues/TH_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
+| [dialogues/BB_StringTablePC.csv](dialogues/BB_StringTablePC.csv)         | 0/6      | ![](https://geps.dev/progress/0)   |
+| [dialogues/GLOBAL_StringTablePC.csv](dialogues/GLOBAL_StringTablePC.csv) | 4/116    | ![](https://geps.dev/progress/3)   |
 <!--trans-progress-en-->
 
 # 🧠 Sample Dialogues csv file
