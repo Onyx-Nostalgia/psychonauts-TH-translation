@@ -26,8 +26,8 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Update translated progress 
       run: |
-        python progress.py
-        python progress.py docs/README-TH.md
+        python progress.py update-markdown
+        python progress.py update-markdown docs/README-TH.md
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: '📝 docs: 🤖 auto update translated progress'

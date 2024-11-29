@@ -29,9 +29,23 @@ def get_progress(filename):
 
 def display(result):
     filename, count, nums, percent = result
-    print(f"{filename:40s}", end="")
-    print(f"({count}/{nums})".ljust(10), end="")
-    print(f"{percent:.2f} %".rjust(10))
+    if percent >= 80:
+        bg_color = "green"
+        emoji = "🦄"
+    elif 80 > percent >= 60:
+        bg_color = "bright_blue"
+        emoji = "🐯"
+    elif 60 > percent >= 40:
+        bg_color = "yellow"
+        emoji = "🐔"
+    else:
+        bg_color = "red"
+        emoji = "🦠"
+    click.secho(f"{emoji} ", nl=False)
+    click.secho(f"{filename:40s}", nl=False, bg=bg_color)
+    click.secho(f"({count}/{nums})".ljust(10), nl=False, bg=bg_color)
+    click.secho(f"{percent:.2f} %".rjust(10), nl=False, bg=bg_color)
+    click.secho(f" {emoji}")
 
 
 def __format_table_markdown(results):
@@ -90,7 +104,7 @@ def generate_markdown(results):
     return markdown
 
 
-@click.command()
+@click.command("update-markdown")
 @click.argument(
     "filename", required=False, type=click.Path(exists=True), default="README.md"
 )
@@ -102,13 +116,23 @@ def generate_markdown(results):
     show_default=True,
 )
 def update_progress_markdown(
-    filename="README.md", dialogue_folder: str = constants.DIALOGUES_FOLDER_NAME
+    filename: str = "README.md", dialogue_folder: str = constants.DIALOGUES_FOLDER_NAME
 ):
+    """
+    Update the translation progress in markdown file.
+
+    FILENAME: file path of markdown file, default is `README.md`
+
+    -d, --dialogue-folder: folder path of dialogue csv files, default is `dialogues/`
+
+    This function will generate markdown table of translation progress from dialogue csv files
+    and replace the table in markdown file between `<!--trans-progress-st-->` and `<!--trans-progress-en-->`
+    """
     results = _dialogue_progress(dialogue_folder)
     markdown = generate_markdown(results)
     start_marker = "<!--trans-progress-st-->"
     end_marker = "<!--trans-progress-en-->"
-    with open(filename, "r") as f:
+    with open(filename, "r", encoding="utf-8") as f:
         text = f.read()
         _start_index = text.find(start_marker)
         end_index = text.find(end_marker)
@@ -121,7 +145,7 @@ def update_progress_markdown(
 
         new_text = text[: start_index + 1] + markdown + "\n" + text[end_index:]
 
-    with open(filename, "w") as write_file:
+    with open(filename, "w", encoding="utf-8") as write_file:
         write_file.write(new_text)
     print("👍 DONE!: update progress markdown")
 
@@ -133,11 +157,54 @@ def _dialogue_progress(dialogue_folder: str = constants.DIALOGUES_FOLDER_NAME):
     return results
 
 
-def display_progress():
-    results = _dialogue_progress()
+@click.command("display-all")
+@click.argument(
+    "dialogue_folder",
+    required=False,
+    type=click.Path(exists=True, file_okay=False),
+    default=constants.DIALOGUES_FOLDER_NAME,
+)
+def display_all_progress(dialogue_folder: str = constants.DIALOGUES_FOLDER_NAME):
+    """
+    Displays the progress of all translations in the given dialogue folder.
+
+    Args:
+        dialogue_folder: The path to the folder containing the dialogue files (.csv), default is `dialogues/`
+    """
+    results = _dialogue_progress(dialogue_folder)
     for result in results:
         display(result)
 
 
+@click.command("display")
+@click.argument("filename", type=click.Path(exists=True, dir_okay=False))
+def display_progress(filename):
+    """
+    Displays the progress of translation in the given filename.
+
+    Args:
+        filename: The path to the dialogue file (.csv)
+    """
+    result = get_progress(filename)
+    display(result)
+
+
+@click.group()
+def cli():
+    pass
+
+
+def main():
+    """
+    Entry point of this script.
+
+    Updates the progress markdown in the README.md.
+    """
+    cli.add_command(update_progress_markdown)
+    cli.add_command(display_all_progress)
+    cli.add_command(display_progress)
+    cli()
+
+
 if __name__ == "__main__":
-    update_progress_markdown()
+    main()
