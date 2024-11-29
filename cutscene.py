@@ -118,7 +118,7 @@ def generate_dest_file_path(file_path, dest_folder):
     if filename.endswith(".dfs"):
         filename = filename[:-4] + "_dialogue.txt"
         dest_file_path = os.path.join(dest_folder, filename)
-    return dest_file_path
+        return dest_file_path
 
 
 def __create_cutscene_dialogue(
@@ -205,23 +205,25 @@ def __update_csv(
         with open(filename, mode="rb") as csvfile:
             csv_text = csvfile.read()
         for dialogue_id, cutscene_dialogue in cutscene_dialogues.items():
-            if dialogue_id in dialogue_stack:
-                continue
+            # if dialogue_id in dialogue_stack:
+            #     continue
             csv_text, _th_dialogue = __update_th_dialogue(
                 dialogue_id, csv_text, cutscene_dialogue
             )
             if _th_dialogue:
                 is_found = True
                 dialogue_stack[dialogue_id] = _th_dialogue
-            if set(dialogue_stack.keys()) == set(dialogue_ids):
-                write_csv_dialogue(csv_text, filename, dry_run=dry_run)
-                return dialogue_stack
+                
+            # if set(dialogue_stack.keys()) == set(dialogue_ids):
+            #     write_csv_dialogue(csv_text, filename, dry_run=dry_run)
+            #     return dialogue_stack
         if is_found:
             write_csv_dialogue(csv_text, filename, dry_run=dry_run)
 
     # case id in cutscene not found in any dialogues
     difference_dialogues = set(dialogue_ids) - set(dialogue_stack.keys())
-    print("   🤔 {} dialogue not found.".format(", ".join(difference_dialogues)))
+    if difference_dialogues:
+        print("   🤔 {} dialogue not found.".format(", ".join(difference_dialogues)))
     return dialogue_stack
 
 
@@ -323,7 +325,7 @@ def update_csv(ctx, file_path, dialogue_folder, _all):
                 dialogue_folder=dialogue_folder,
                 dry_run=ctx.obj["DRY_RUN"],
             )
-            return
+        return
 
     for _file_path in file_path:
         if os.path.isfile(_file_path):
