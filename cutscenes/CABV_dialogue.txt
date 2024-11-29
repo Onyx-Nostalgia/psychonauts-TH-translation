@@ -36,7 +36,7 @@ Coach: Here. You've earned this.
 
 BBVI017CO: start: 25666 end: 28666
 Coach: Your first PSYCHONAUT MERIT BADGE!
-โค้ช: "ตราทำดีไซโคนอท" อันแรกของนาย
+โค้ช: "ป้ายทักษะไซโคนอท" อันแรกของนาย
 
 BBVI014CO: start: 48300 end: 52500
 Coach: But I'm always glad to see a soldier come back from the field alive.

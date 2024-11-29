@@ -44,5 +44,5 @@ Sasha: Ahhhhhhh!
 
 SAMC013SA: start: 60033 end: 62766
 Sasha: Razputin, it's time to earn your merit badge!
-ซาช่า: แรซปูติน ถึงเวลาที่เธอจะได้รับตราทำดีแล้ว!
+ซาช่า: แรซปูติน ถึงเวลาที่เธอจะได้รับป้ายทักษะแล้ว!
 
