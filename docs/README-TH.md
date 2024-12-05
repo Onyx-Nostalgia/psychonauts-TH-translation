@@ -25,20 +25,20 @@ Code ในการ extraction และ replacement file มีต้นแบ
 
 # 🪴 Translated Progress
 <!--trans-progress-st-->
-**Total**: 12/28 ![](https://geps.dev/progress/47)
+**Total**: 14/28 ![](https://geps.dev/progress/56)
 |                                                                          |          |                                    |
 | ------------------------------------------------------------------------ | -------- | ---------------------------------- |
 | [dialogues/AS_StringTable.csv](dialogues/AS_StringTable.csv)             | 196/1002 | ![](https://geps.dev/progress/19)  |
 | [dialogues/AS_StringTablePC.csv](dialogues/AS_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
-| [dialogues/BB_StringTable.csv](dialogues/BB_StringTable.csv)             | 30/333   | ![](https://geps.dev/progress/9)   |
-| [dialogues/BB_StringTablePC.csv](dialogues/BB_StringTablePC.csv)         | 0/6      | ![](https://geps.dev/progress/0)   |
+| [dialogues/BB_StringTable.csv](dialogues/BB_StringTable.csv)             | 333/333  | ![](https://geps.dev/progress/100) |
+| [dialogues/BB_StringTablePC.csv](dialogues/BB_StringTablePC.csv)         | 6/6      | ![](https://geps.dev/progress/100) |
 | [dialogues/BV_StringTable.csv](dialogues/BV_StringTable.csv)             | 56/750   | ![](https://geps.dev/progress/7)   |
 | [dialogues/BV_StringTablePC.csv](dialogues/BV_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
-| [dialogues/CA_StringTable.csv](dialogues/CA_StringTable.csv)             | 399/2542 | ![](https://geps.dev/progress/15)  |
+| [dialogues/CA_StringTable.csv](dialogues/CA_StringTable.csv)             | 624/2542 | ![](https://geps.dev/progress/24)  |
 | [dialogues/CA_StringTablePC.csv](dialogues/CA_StringTablePC.csv)         | 0/12     | ![](https://geps.dev/progress/0)   |
-| [dialogues/GLOBAL_StringTable.csv](dialogues/GLOBAL_StringTable.csv)     | 56/1428  | ![](https://geps.dev/progress/3)   |
+| [dialogues/GLOBAL_StringTable.csv](dialogues/GLOBAL_StringTable.csv)     | 482/1428 | ![](https://geps.dev/progress/33)  |
 | [dialogues/GLOBAL_StringTablePC.csv](dialogues/GLOBAL_StringTablePC.csv) | 4/116    | ![](https://geps.dev/progress/3)   |
-| [dialogues/LL_StringTable.csv](dialogues/LL_StringTable.csv)             | 2/57     | ![](https://geps.dev/progress/3)   |
+| [dialogues/LL_StringTable.csv](dialogues/LL_StringTable.csv)             | 12/57    | ![](https://geps.dev/progress/21)  |
 | [dialogues/LL_StringTablePC.csv](dialogues/LL_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
 | [dialogues/LO_StringTable.csv](dialogues/LO_StringTable.csv)             | 51/245   | ![](https://geps.dev/progress/20)  |
 | [dialogues/LO_StringTablePC.csv](dialogues/LO_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
@@ -50,7 +50,7 @@ Code ในการ extraction และ replacement file มีต้นแบ
 | [dialogues/MM_StringTablePC.csv](dialogues/MM_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
 | [dialogues/NI_StringTable.csv](dialogues/NI_StringTable.csv)             | 116/116  | ![](https://geps.dev/progress/100) |
 | [dialogues/NI_StringTablePC.csv](dialogues/NI_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
-| [dialogues/SA_StringTable.csv](dialogues/SA_StringTable.csv)             | 35/171   | ![](https://geps.dev/progress/20)  |
+| [dialogues/SA_StringTable.csv](dialogues/SA_StringTable.csv)             | 37/171   | ![](https://geps.dev/progress/21)  |
 | [dialogues/SA_StringTablePC.csv](dialogues/SA_StringTablePC.csv)         | 2/2      | ![](https://geps.dev/progress/100) |
 | [dialogues/TH_StringTable.csv](dialogues/TH_StringTable.csv)             | 41/803   | ![](https://geps.dev/progress/5)   |
 | [dialogues/TH_StringTablePC.csv](dialogues/TH_StringTablePC.csv)         | 0/0      | ![](https://geps.dev/progress/100) |
