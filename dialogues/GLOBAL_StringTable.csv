@@ -82,24 +82,24 @@ LLLV010RA;Raz;Ah--;Ah--
 MMDD008BO;Boyd;GRAAAAAA!;GRAAAAAA!
 SAIN008SA;Sasha;No, as firepower!;ไม่ใช่ เป็นอาวุธ!
 SAIN010SA;Sasha;Ahhh, oh, so tacky... I� can't... look... directly at it!;โอ้ ไร้รสนิยมสิ้นดี! มอง... ตรง ๆ... ไม่ได้เลย!
-GLRA001RA;Raz;giggle;
-GLRA007RA;Raz;Uh-oof.;
-GLRA008RA;Raz;Yuh-uhf.;
-GLRA009RA;Raz;Oah;
-GLRA011RA;Raz;Ohh;
-GLRA012RA;Raz;D'oh;
-GLRA013RA;Raz;D'oh!;
-GLRA030RA;Raz;Who's the man!;
-GLRA031RA;Raz;sigh;
-GLRA035RA;Raz;Here we go again.;
-GLRA036RA;Raz;Oh boy!;
-GLRA037RA;Raz;Sheesh!;
-GLRA038RA;Raz;electrocution reaction;
-GLEB000RA;Raz;This guy needs a Duffle Bag Tag.;
-GLEB001RA;Raz;This Hat Box needs a Hat Box Tag.;
-GLEB002RA;Raz;I need the Purse Tag here.;
-GLEB003RA;Raz;I need the Steamer Trunk Tag for this guy.;
-GLEB004RA;Raz;Suitcase Tag.  That's what I need here.;
+GLRA001RA;Raz;giggle;แหะๆ
+GLRA007RA;Raz;Uh-oof.;Uh-oof.
+GLRA008RA;Raz;Yuh-uhf.;Yuh-uhf.
+GLRA009RA;Raz;Oah;Oah
+GLRA011RA;Raz;Ohh;Ohh
+GLRA012RA;Raz;D'oh;D'oh
+GLRA013RA;Raz;D'oh!;D'oh!
+GLRA030RA;Raz;Who's the man!;ใครน่ะ!
+GLRA031RA;Raz;sigh;เห้อ
+GLRA035RA;Raz;Here we go again.;เรากลับมาอีกแล้ว
+GLRA036RA;Raz;Oh boy!;โธ่ พวก!
+GLRA037RA;Raz;Sheesh!;Sheesh!
+GLRA038RA;Raz;electrocution reaction;ปฏิกิริยาการถูกไฟดูด
+GLEB000RA;Raz;This guy needs a Duffle Bag Tag.;เจ้านี้ต้องมีป้ายติดกระเป๋าเดินทาง
+GLEB001RA;Raz;This Hat Box needs a Hat Box Tag.;กล่องหมวกนี้ต้องมีแท็กกล่องหมวก
+GLEB002RA;Raz;I need the Purse Tag here.;ฉันต้องการป้ายกระเป๋าถือ
+GLEB003RA;Raz;I need the Steamer Trunk Tag for this guy.;ฉันต้องการป้ายติดกระเป๋าเดินทางให้กับเจ้านี่
+GLEB004RA;Raz;Suitcase Tag.  That's what I need here.;ป้ายติดกระเป๋าเดินทาง นั่นแหละสิ่งที่ฉันต้องการ
 ASAH000LF;Linda;What's going on! What's that sound?;เกิดอะไรขึ้น นั่นเสียงอะไรน่ะ?
 ASAH001SH;Sheegor;Oh the insane asylum just blew up. But don't worry. Mr. Pokeylope helped me save all the brains before it fell down.;โอ้ โรงพยาบาลบ้าเพิ่งระเบิดน่ะ แต่ไม่ต้องห่วง มิสเตอร์โพคีโลพช่วยฉันเก็บสมองทั้งหมดก่อนมันจะถล่มลงมา
 ASAH002LF;Linda;Mr. Pokeylope?;มิสเตอร์โพคีโลพ?
@@ -149,15 +149,15 @@ FINI036SA;Sasha;Now how could we do this without our anti-kidnapping specialist?
 FINI039GD;Augustus;I've taught you everything I can, Son. ;พ่อสอนทุกอย่างให้ลูกแล้ว ลูกรัก
 FINI040GD;Augustus;Now you go show them. Show them all.;ตอนนี้ลูกต้องไปแสดงให้พวกเขาได้เห็น แสดงให้ทุกคนได้เห็น
 FINI042RA;Raz;Let's go.;ไปกันเถอะ
-GLZH022TO;System;No merit badges;
+GLZH022TO;System;No merit badges;ไม่มีป้ายทักษะ
 GLZG025TO;System;Good news! You have enough PSI Cards /PsiCard/ to build a new PSI Challenge Marker! /Marker/ Just buy a PSI Core /PsiCore/ at the Camp Store and bring it to Ford Cruller /FordNinja/ so he can make you one!;
 GLZG026TO;System;Congratulations! You found a loose PSI Card! [image of card] Collect nine of these and you can build a PSI Challenge Marker [image of marker] out of them, but you'll need to get a PSI Core [image of core] from the Camp Store, and a little help from Ford Cruller. [image of ninja Ford];
 GLZG027TO;System;You just found a PSI Challenge Marker! /Marker/ Every time you find one of these, your PSI Cadet Rank goes up! Rank up enough and you'll get more PSI powers!;
 GLZH023TO;System;...yet!;
-GLRA000RA;Raz;Hm. I'm not getting anything. I must be out of range or something.;
+GLRA000RA;Raz;Hm. I'm not getting anything. I must be out of range or something.;อืม ฉันไม่ได้อะไรเลย ฉันคงอยู่นอกระยะหรืออะไรสักอย่าง
 CAEM003BZ;Bobby;Ah-ha-ha-ha!;อะฮะฮะฮะ!
-GLAA000RA;Raz;Man, these things smell terrible. Am I sure I want to do this?;
-GLAA001RA;Raz;Yes, I want to go back to the real world that badly.;
+GLAA000RA;Raz;Man, these things smell terrible. Am I sure I want to do this?;โอ้ กลิ่นพวกนี้เหม็นจังเลย ฉันอยากจะทำแบบนี้จริงๆ เหรอ?
+GLAA001RA;Raz;Yes, I want to go back to the real world that badly.;ใช่ ฉันอยากกลับไปยังโลกแห่งความจริงมากๆ
 GLAA002RA;Raz;No, I think I'll stay in this mind for a while longer.;
 GLAA003RA;Raz;I don't want to crack open these Smelling Salts unless I'm in a mental world, and I REALLY want to get out. They smell pretty bad.;
 GLZG028TO;System;Your first figment!;
@@ -165,12 +165,12 @@ GLZG029TO;System;Collect 100 figment points and you'll be promoted! If you get p
 GLZG030TO;System;You can look at all the figments you've collected in your JOURNAL /Journal/;
 GLZG031TO;System;Your first Arrowhead! /Arrowhead/  Arrowheads are made of Psitanium, a rare psychoreactive mineral, which makes them very valuable. You can use Arrowheads to buy items at the camp store and other places you find.;
 GLZB013TO;System;Dream Fluff;
-GLZB014TO;System;PSI Core;
+GLZB014TO;System;PSI Core;PSI Core
 GLZB015TO;System;Cobweb Duster;
 GLZB016TO;System;Dowsing Rod;
-GLZB017TO;System;PSI Energy Colorizer;
-GLZH001TO;System;Oleander's Pride;
-GLZH002TO;System;Oleander's Shame;
+GLZB017TO;System;PSI Energy Colorizer;PSI Energy Colorizer
+GLZH001TO;System;Oleander's Pride;ความภาคภูมิใจของโอลีแอนเดอร์
+GLZH002TO;System;Oleander's Shame;ความอัปยศของโอลีแอนเดอร์
 GLZH003TO;System;Milla's Adventures!;
 GLZH004TO;System;Milla's Children;
 GLZH005TO;System;Sasha's First Loss;
@@ -187,24 +187,24 @@ GLZH015TO;System;Razputin's Getaway;
 GLZH016TO;System;The World Shall Taste my Eggs!;
 GLZH000TO;System;Fred vs. Crispin;
 GLZH017TO;System;Fred vs. Napoleon;
-GLZH018TO;System;The Big Top;
-GLRA044RA;Raz;Ugh!;
-GLGO000VE;Vernon;Hee hee hee!;
-GLGO007MH;Mikhail;Ho ho ho.;
-GLGO010CM;Clem;HEE HEE HEE HEE HEE!;
-GLGO012JT;J.T.;Heh. Tarnation!;
-GLGO013CP;Chops;Ha ha ha.;
-GLGO014CH;Chloe;Hmm. Interesting sensation.;
-GLGO015BZ;Bobby;Ah! Ahhhhh!;
-GLGO016BN;Benny;Hey, quit it!;
-GLGO017EF;Elton;Hee hee.;
-GLGO020SA;Sasha;Razputin, please. Germs. ;
-GLGO021SA;Sasha;Uh... Germs...;
-GLGO023MI;Milla;Uh... heh... Heh heh�;
-GLGO024FO;Ford;Ooh, ha ha ha!;
-GLGO025CO;Coach;Heh. Knock it off.;
-GLGO026GL;Gloria;Ooooh hoo hoo!;
-GLGO029CR;Crispin;Woo hoo ha ha hahaha!;
+GLZH018TO;System;The Big Top;พ่อบิ๊กบึ้ม
+GLRA044RA;Raz;Ugh!;Ugh!
+GLGO000VE;Vernon;Hee hee hee!;Hee hee hee!
+GLGO007MH;Mikhail;Ho ho ho.;Ho ho ho.
+GLGO010CM;Clem;HEE HEE HEE HEE HEE!;HEE HEE HEE HEE HEE!
+GLGO012JT;J.T.;Heh. Tarnation!;เหอะ แม้เจ้าโว้ย
+GLGO013CP;Chops;Ha ha ha.;Ha ha ha.
+GLGO014CH;Chloe;Hmm. Interesting sensation.;อืม ความรู้สึกที่น่าสนใจ
+GLGO015BZ;Bobby;Ah! Ahhhhh!;Ah! Ahhhhh!
+GLGO016BN;Benny;Hey, quit it!;เฮ้ หยุดนะ!
+GLGO017EF;Elton;Hee hee.;Hee hee.
+GLGO020SA;Sasha;Razputin, please. Germs. ;แรซปูติน ได้โปรด มันสกปรก
+GLGO021SA;Sasha;Uh... Germs...;อา... สกปรก...
+GLGO023MI;Milla;Uh... heh... Heh heh�;Uh... heh... Heh heh�
+GLGO024FO;Ford;Ooh, ha ha ha!;Ooh, ha ha ha!
+GLGO025CO;Coach;Heh. Knock it off.;เฮอะ หยุดซะที
+GLGO026GL;Gloria;Ooooh hoo hoo!;Ooooh hoo hoo!
+GLGO029CR;Crispin;Woo hoo ha ha hahaha!;Woo hoo ha ha hahaha!
 GLGO031RA;Raz;Hey, can we talk about this friendship bracelet?;
 GLGO032LI;Lili;No. It's embarrassing enough that I made it. Just put it away and shut up.;
 GLGO033RA;Raz;Hm. I don't think I want to put this bracelet on just yet. I think Lili and I need to talk about our relationship first.;
@@ -534,38 +534,38 @@ GLZG034TO;System;This is a Psychic Arrowhead.  Its raw energy will contribute va
 GLZB018TO;System;Ranger Ford's Scavenger Hunt;
 GLZE036TO;System;Find 8 items, and you'll be promoted 4 Ranks.;
 GLZE037TO;System;Find the other 8, and get promoted 6 more Ranks!;
-GLZB019TO;System;Gold Doubloon;
-GLZD101TO;System;What were Spanish explorers doing in this valley two hundred years ago? How did they get their boats over the hills and into Lake Oblongata which, at that time, did not even exist? Why did they leave their doubloons here, and why has no person found this one though it has been floating in midair all this time? These are just some of the many unanswered riddles held within this mysterious coin.;
-GLZB020TO;System;Eagle Claw;
-GLZD102TO;System;Eagle Claw Soup is surprisingly tangy, and promotes the growth of strong fingernails.;
-GLZB021TO;System;Diver's Helmet;
-GLZD103TO;System;Thick helmets like these have been used to protect those who dive in Lake Oblongata, not from the increase in water pressure, but from the hideous creature that is rumored to live in the lake (but is, of course, just an old legend).;
-GLZB022TO;System;Psychonauts Comic #1;
-GLZD104TO;System;The thrilling Origin Issue in which the Psychonauts get their name and design their first costumes. Also introduces the character of "Clyde the Cautious Cougar" who teaches firestarting safety.;
-GLZB023TO;System;Cherry Wood Pipe;
-GLZD105TO;System;This style of pipe was common among more fashion-conscious loggers in the early part of this century, until a high frequency of logger-initiated forest fires led to a mandatory, industry-wide switch to chewing tobacco, and later, bark-flavored chewing gum.;
-GLZB024TO;System;Turkey Sandwich;
-GLZD106TO;System;Possibly the most famous of all poultry-based sandwiches, second only to its more glamorous sister, the Chicken Salad Sandwich. The Turkey Sandwich holds a special place in the hearts of food lovers everywhere who crave something that's like Chicken, but not.;
-GLZB025TO;System;Voodoo Doll;
-GLZD107TO;System;Years ago someone thought it would be a fun craft project at camp to make voodoo dolls. We would have fired that teacher had they not ended up in the hospital. If you find one of these dolls PLEASE do not remove and reinsert ANY of the pins.;
-GLZB026TO;System;Miner's Skull;
-GLZD108TO;System;In the early days of the Psitanium rush, prospectors and miners came from all over to hunt the mysterious "Whispering Rock" so plentiful in this valley. Some were killed in mining accidents, some in claim disputes, but many were simply driven mad by the powerful mineral, and wandered off into the mines, never to be seen again--except for their creepy, bearded heads.;
-GLZB027TO;System;Pirate Scope;
-GLZD109TO;System;Telescopes like this were once popular among area pirates, until they learned that they could see farther by using Clairvoyance on bird feathers.;
-GLZB028TO;System;Golden Acorn;
-GLZD110TO;System;Adult squirrels will often coat a regular acorn with a mucilaginous secretion that gives it a shiny, "golden" coat. This sparkly trinket is used to attract possible mates. Warning: do not eat.;
-GLZB029TO;System;Glass Eye;
-GLZD111TO;System;I am always losing mine around camp. If you find one please don't scratch it, because I'm running out of spares.;
-GLZB030TO;System;Condor Egg;
-GLZD112TO;System;The rare and beautiful Condor Egg. Condors were once plentiful in this valley, but their numbers have been decimated by modern hazards such as power lines, telekinetic grizzly bears, and poachers stealing the eggs out of their nests.;
-GLZB031TO;System;Fertility Idol;
-GLZD113TO;System;Wasps love fertility idols. Everybody knows it. No one knows why. But it must work because look at how many of them there are!;
-GLZB032TO;System;Dinosaur Bone;
-GLZD114TO;System;Enormous, carnivorous, and Psychically mutated, one thing for sure you can say about the valley's prehistoric inhabitants: we are glad they're dead. Nobody wants to see levitating velociraptors. SCARY.;
-GLZB033TO;System;Fossil;
-GLZD115TO;System;Bringing day old chicken pot pie from the cafeteria doesn't count! I've been fooled twice already, but from now on, you kids better have the real McCoy!;
-GLZB034TO;System;Gold Watch;
-GLZD116TO;System;Time. The enemy of us all. Hold a watch to your ear and listen. Tick tock, tick tock... those are the hoof beats of the Reaper's pale horse. "Half past eight, he's at your gate. Quarter to four, a knock on the door." Unwinding is the mortal coil that drives the gears to tick and toil, until at last, it rests, unwound, and we lay silent in the ground.;
+GLZB019TO;System;Gold Doubloon;ทองดับบลูน
+GLZD101TO;System;What were Spanish explorers doing in this valley two hundred years ago? How did they get their boats over the hills and into Lake Oblongata which, at that time, did not even exist? Why did they leave their doubloons here, and why has no person found this one though it has been floating in midair all this time? These are just some of the many unanswered riddles held within this mysterious coin.;นักสำรวจชาวสเปนกำลังทำอะไรในหุบเขานี้เมื่อสองร้อยปีก่อนกันนะ พวกเขานำเรือของพวกเขาข้ามเนินเขาไปยังทะเลสาบ Oblongata ได้อย่างไรซึ่งในเวลานั้นยังไม่มี? ทำไมพวกเขาถึงทิ้งเหรียญกษาปณ์ไว้ที่นี่ และทำไมไม่มีใครพบเหรียญนี้ถึงแม้จะลอยอยู่กลางอากาศตลอดเวลา? นี่เป็นเพียงบางส่วนของปริศนาที่ยังไม่ได้รับคำตอบซึ่งอยู่ในเหรียญลึกลับนี้
+GLZB020TO;System;Eagle Claw;กรงเล็บนกอินทรี
+GLZD102TO;System;Eagle Claw Soup is surprisingly tangy, and promotes the growth of strong fingernails.;ซุปเล็บนกอินทรี มีรสเปรี้ยวอย่างน่าประหลาด ช่วยส่งเสริมการเจริญเติบโตของเล็บที่แข็งแรง
+GLZB021TO;System;Diver's Helmet;หมวกนักประดาน้ำ
+GLZD103TO;System;Thick helmets like these have been used to protect those who dive in Lake Oblongata, not from the increase in water pressure, but from the hideous creature that is rumored to live in the lake (but is, of course, just an old legend).;หมวกแบบหนา ถูกใช้เพื่อปกป้องผู้ที่ดำน้ำในทะเลสาบ Oblongata ไม่ใช่จากแรงดันน้ำที่เพิ่มขึ้น แต่จากสิ่งมีชีวิตที่น่าสะพรึงกลัวที่มีข่าวลือว่าอาศัยอยู่ในทะเลสาบ (แต่แน่นอนว่าเป็นเพียงแค่ตำนานเก่าแก่)
+GLZB022TO;System;Psychonauts Comic #1;Psychonauts Comic #1
+GLZD104TO;System;The thrilling Origin Issue in which the Psychonauts get their name and design their first costumes. Also introduces the character of "Clyde the Cautious Cougar" who teaches firestarting safety.;ต้นฉบับอันน่าตื่นตาตื่นใจที่ Psychonauts ได้นำชื่อและการออกแบบเครื่องแต่งกายชุดแรกมา นอกจากนี้ยังแนะนำตัวละครอย่าง "ไคลด์ คูการ์นักระวังภัย" ผู้ที่สอนการจุดไฟอย่างปลอดภัย
+GLZB023TO;System;Cherry Wood Pipe;ไปป์ไม้เชอร์รี่
+GLZD105TO;System;This style of pipe was common among more fashion-conscious loggers in the early part of this century, until a high frequency of logger-initiated forest fires led to a mandatory, industry-wide switch to chewing tobacco, and later, bark-flavored chewing gum.;ไปป์ที่เห็นกันได้ทั่วไปในหมู่คนตัดไม้ที่ใส่ใจแฟชั่นมากขึ้นในช่วงต้นศตวรรษนี้ จนกระทั่งเกิดไฟป่าที่มีสาเหตุจากคนตัดไม้เพิ่มสูงขึ้น จนนำไปสู่การเปลี่ยนวิธีบริโภคมาเป็นยาสูบแบบเคี้ยวทั่วอุตสาหกรรมและต่อมาก็เป็นหมากฝรั่งรสเปลือกไม้
+GLZB024TO;System;Turkey Sandwich;แซนวิชไก่งวง
+GLZD106TO;System;Possibly the most famous of all poultry-based sandwiches, second only to its more glamorous sister, the Chicken Salad Sandwich. The Turkey Sandwich holds a special place in the hearts of food lovers everywhere who crave something that's like Chicken, but not.;อาจเป็นแซนวิชที่มีชื่อเสียงที่สุดในบรรดาแซนด์วิชจากสัตว์ปีกทั้งหมด เป็นรองแค่น้องสาวพราวเสน่ห์ “แซนวิชสลัดไก่” เท่านั้น แซนด์วิชไก่งวงเป็นสถานที่พิเศษในหัวใจของคนรักอาหารทุกแห่งที่กระหายบางสิ่งบางอย่างที่เหมือนไก่ แต่ไม่ใช่
+GLZB025TO;System;Voodoo Doll;ตุ๊กตาวูดู
+GLZD107TO;System;Years ago someone thought it would be a fun craft project at camp to make voodoo dolls. We would have fired that teacher had they not ended up in the hospital. If you find one of these dolls PLEASE do not remove and reinsert ANY of the pins.;หลายปีก่อน มีคนคิดว่าการทำตุ๊กตาวูดูในแคมป์น่าจะเป็นโครงการหัตถกรรมที่สนุกสนาน เราจะไล่ครูคนนั้นออก ถ้าเขาไม่ไปโรงพยาบาล หากคุณพบตุ๊กตาตัวใดตัวหนึ่ง โปรดอย่าดึงหรือเสียบหมุดใดๆ กลับเข้าไปใหม่
+GLZB026TO;System;Miner's Skull;กะโหลกคนขุดเหมือง
+GLZD108TO;System;In the early days of the Psitanium rush, prospectors and miners came from all over to hunt the mysterious "Whispering Rock" so plentiful in this valley. Some were killed in mining accidents, some in claim disputes, but many were simply driven mad by the powerful mineral, and wandered off into the mines, never to be seen again--except for their creepy, bearded heads.;ในช่วงต้น ๆของยุคทองแห่งไซทาเนียม นักสำรวจแร่และคนงานเหมืองมาจากทั่วทุกมุมเพื่อตามล่า "หินเสียงกระซิบ" ลึกลับที่อุดมสมบูรณ์ในหุบเขานี้ บางคนเสียชีวิตจากอุบัติเหตุในเหมือง บางคนโต้แย้งเรียกร้องสิทธิ แต่หลายคนก็คลั่งไคล้แร่ทรงพลังนี้อย่างบ้าคลั่ง และเดินเตร็ดเตร่เข้าไปในเหมือง โดยไม่มีใครเห็นอีกเลย–เหลือไว้แต่เพียงหัวที่มีเคราน่าขนลุก
+GLZB027TO;System;Pirate Scope;กล้องส่องทางไกลของโจรสลัด
+GLZD109TO;System;Telescopes like this were once popular among area pirates, until they learned that they could see farther by using Clairvoyance on bird feathers.;กล้องส่องทางไกลแบบนี้เคยเป็นที่นิยมในหมู่โจรสลัด จนกระทั่งพวกเขาได้เรียนรู้ว่าสามารถมองเห็นได้ไกลกว่าโดยใช้ ตาทิพย์กับขนนก
+GLZB028TO;System;Golden Acorn;ลูกโอ๊กทองคำ
+GLZD110TO;System;Adult squirrels will often coat a regular acorn with a mucilaginous secretion that gives it a shiny, "golden" coat. This sparkly trinket is used to attract possible mates. Warning: do not eat.;กระรอกที่โตเต็มวัยมักจะเคลือบลูกโอ๊กด้วยการหลั่งเมือกซึ่งทำให้มีผิว "สีทอง" เป็นประกาย เครื่องประดับแวววาวนี้ ใช้เพื่อดึงดูดคู่ของพวกมัน คำเตือน: ห้ามรับประทาน
+GLZB029TO;System;Glass Eye;ตาปลอม
+GLZD111TO;System;I am always losing mine around camp. If you find one please don't scratch it, because I'm running out of spares.;ฉันมักจะทำมันหายแถวค่ายนี้แหละ หากใครพบมัน โปรดอย่าทำมันเป็นรอยล่ะ เพราะฉันไม่มีอะไหล่สำรอง
+GLZB030TO;System;Condor Egg;ไข่นกแร้งคอนดอร์
+GLZD112TO;System;The rare and beautiful Condor Egg. Condors were once plentiful in this valley, but their numbers have been decimated by modern hazards such as power lines, telekinetic grizzly bears, and poachers stealing the eggs out of their nests.;ไข่แร้งคอนดอร์ที่หายากและสวยงาม เคยมีแร้งอยู่มากมายในหุบเขานี้ แต่จำนวนของพวกมันถูกทำลายโดยภัยจากยุคใหม่ เช่น สายไฟ หมีกริซลี่พลังจิต และนักลักลอบขโมยไข่จากรังของพวกมัน
+GLZB031TO;System;Fertility Idol;รูปปั้นแห่งความอุดมสมบูรณ์
+GLZD113TO;System;Wasps love fertility idols. Everybody knows it. No one knows why. But it must work because look at how many of them there are!;พวกตัวต่อชอบรูปปั้นแห่งความอุดมสมบูรณ์ ทุกคนรู้กันดี ไม่มีใครรู้ว่าทำไม แต่มันต้องสำคัญมากแน่ เพราะ ดูสิว่าพวกมันมากันกี่ตัว!
+GLZB032TO;System;Dinosaur Bone;กระดูกไดโนเสาร์
+GLZD114TO;System;Enormous, carnivorous, and Psychically mutated, one thing for sure you can say about the valley's prehistoric inhabitants: we are glad they're dead. Nobody wants to see levitating velociraptors. SCARY.;มหึมา กินเนื้อ และกลายพันธุ์มีพลังจิต สิ่งหนึ่งที่สามารถพูดได้เต็มปากเกี่ยวกับผู้อยู่อาศัยในยุคก่อนประวัติศาสตร์ที่หุบเขานี้ คือ เราดีใจที่พวกมันตายไปแล้ว ไม่มีใครอยากเห็น Velociraptors ลอยได้กันหรอก ช่างน่ากลัว.
+GLZB033TO;System;Fossil;ฟอสซิล
+GLZD115TO;System;Bringing day old chicken pot pie from the cafeteria doesn't count! I've been fooled twice already, but from now on, you kids better have the real McCoy!;ถ้าไม่นับพายไก่หม้อเก่าค้างคืน ในโรงอาหาร! ฉันเคยโดนหลอกมาแล้ว 2 ครั้ง แต่จากนี้ต่อไป เด็กๆ ของนายควรจะมีของแท้เก็บสะสมไว้ดีกว่า!
+GLZB034TO;System;Gold Watch;นาฬิกาทอง
+GLZD116TO;System;Time. The enemy of us all. Hold a watch to your ear and listen. Tick tock, tick tock... those are the hoof beats of the Reaper's pale horse. "Half past eight, he's at your gate. Quarter to four, a knock on the door." Unwinding is the mortal coil that drives the gears to tick and toil, until at last, it rests, unwound, and we lay silent in the ground.;เวลา. ศัตรูของพวกเราทุกคน ถือนาฬิกาแนบหูแล้วฟังสิ ติ๊กต๊อก ติ๊กต๊อก... นี่คือเสียงกีบม้าสีซีดของยมทูต “แปดโมงครึ่ง เขาอยู่ที่ประตูบ้านนาย ตีสามสี่สิบห้า มีเสียงเคาะประตู” การไขลาน เป็นดั่งขดลวดของมนุษย์ที่ขับเคลื่อนเกียร์ให้ดังติ๊กและต๊อก จนในที่สุดมันก็ตาย คลายตัว และเรานอนแน่นิ่งอยู่บนพื้น
 GLZG017TO;System;Your JOURNAL is a great place to see what you've done so far, and plan what you're going to do next. You can use it to SAVE and LOAD your progress, change your OPTIONS, and there's a helpful MAP in the back! Press /StartButton/ to open your JOURNAL.;
 GLZG018TO;System;Use the LEFT /Joystick/ or /DPad/ to navigate the Journal.;
 GLZG019TO;System;On this page, you can see what you've collected in the current area. Make sure to come back here after you've collected some FIGMENTS, so you can look at them up close with the FIGMENT VIEWER option.;
@@ -867,7 +867,7 @@ GLZD250TO;System;Defeat the Butcher!;
 GLZD251TO;System;Don't drown.;
 GLZD252TO;System;Fight the Butcher!;
 GLZD253TO;System;KILL THE BUTCHER!!!;
-GLZF001TO;System;Press /YButton/ to talk.;
+GLZF001TO;System;Press /YButton/ to talk.;กด /YButton/ เพื่อพูดคุย.
 GLZH024TO;System;Edgar's Lament;
 GLZH025TO;System;Edgar's Love;
 GLZH026TO;System;Sasha's First Loss;
@@ -879,7 +879,7 @@ GLZH031TO;System;Milla's Adventures!;
 GLZH032TO;System;Milla's Children;
 GLZH033TO;System;Gloria's Cruel Training;
 GLZH034TO;System;Gloria's Fallen Star;
-GLZF002TO;System;/YButton/ Teleport Options;
+GLZF002TO;System;/YButton/ Teleport Options;/YButton/ Teleport Options
 GLZF003TO;System;This little guy can teleport you to any previously visited area in the current mental world. Just pick your destination and go!;
 GLTO000TO;System;All figments have a different point value.;
 GLZE010TO;System;Capacity to Confuse Increased! You can store more CONFUSION GRENADES NOW!;
@@ -903,7 +903,7 @@ GLZD261TO;System;Marksmanship;
 GLZD262TO;System;Confusion;
 GLZE014TO;System;Collect markers like /OneUp/ to replace layers, and collect markers like /MaxLivesUp/ to increase how many layers you can maintain at once.;
 GLZG036TO;System;Raz has stowed the item in his backpack. To see what's in Raz's backpack, and what merit badges he has, press the BACK button. /BackButton/;
-GLAY000RA;Raz;Burrrrn!;
+GLAY000RA;Raz;Burrrrn!;ไหม้ไปซะะ!
 GLAY002RA;Raz;No!;
 GLZA038TO;System;No.;
 GLZA039TO;System;No. Not yet.;
@@ -916,37 +916,37 @@ GLZA045TO;System;So what mission are you on down here?;
 GLZA046TO;System;What does all this equipment do?;
 GLZA047TO;System;I'd better go. Lots of work to do.;
 GLZA048TO;System;No, I think I'll stay in this mind for a while longer.;
-GLZD263TO;System;Press /BButton/ to exit.;
-GLZD264TO;System;Creative Director;
-GLZD265TO;System;Lead Programmer;
-GLZD266TO;System;Art Director;
-GLZD267TO;System;Lead Designer;
-GLZD268TO;System;Animation Supervisors;
-GLZD269TO;System;Lead Gameplay Programmer;
-GLZD270TO;System;Executive Producer;
-GLZD271TO;System;Programming;
-GLZD272TO;System;Art;
-GLZD273TO;System;Concept Art;
-GLZD274TO;System;Animation;
-GLZD275TO;System;Environments;
-GLZD276TO;System;Production;
-GLZD277TO;System;Music;
-GLZD278TO;System;Sound Design;
-GLZD279TO;System;Voice Production;
-GLZD280TO;System;Voice Talent;
-GLZD281TO;System;Office Manager/Production Assistant;
-GLZD282TO;System;QA Lead;
-GLZD283TO;System;QA Assistant Leads;
-GLZD284TO;System;Quality Assurance;
+GLZD263TO;System;Press /BButton/ to exit.;Press /BButton/ to exit.
+GLZD264TO;System;Creative Director;Creative Director
+GLZD265TO;System;Lead Programmer;Lead Programmer
+GLZD266TO;System;Art Director;Art Director
+GLZD267TO;System;Lead Designer;Lead Designer
+GLZD268TO;System;Animation Supervisors;Animation Supervisors
+GLZD269TO;System;Lead Gameplay Programmer;Lead Gameplay Programmer
+GLZD270TO;System;Executive Producer;Executive Producer
+GLZD271TO;System;Programming;Programming
+GLZD272TO;System;Art;Art
+GLZD273TO;System;Concept Art;Concept Art
+GLZD274TO;System;Animation;Animation
+GLZD275TO;System;Environments;Environments
+GLZD276TO;System;Production;Production
+GLZD277TO;System;Music;Music
+GLZD278TO;System;Sound Design;Sound Design
+GLZD279TO;System;Voice Production;Voice Production
+GLZD280TO;System;Voice Talent;Voice Talent
+GLZD281TO;System;Office Manager/Production Assistant;Office Manager/Production Assistant
+GLZD282TO;System;QA Lead;QA Lead
+GLZD283TO;System;QA Assistant Leads;QA Assistant Leads
+GLZD284TO;System;Quality Assurance;Quality Assurance
 GLZD285TO;System;View your current PSI POWERS in this Thought Bubble, or press /DPadLeft/ to see what's in your backpack.;
 GLZD286TO;System;Point to a PSI POWER with the LEFT THUMBSTICK /Joystick/ and then press BLACK /BlackButton/, WHITE /WhiteButton/, or RIGHT TRIGGER /RightFlipper/ to map the selected power to that button.;
 GLZD287TO;System;To pull out an item from your backpack, point to it with the LEFT THUMBSTICK /Joystick/ and then press the /AButton/ button. To return it to your backpack later, press /BButton/.;
 GLZD288TO;System;You have too many items to fit on one page! Use the /DPAD/ to see the rest of your items.;
 GLZG037TO;System;You've just absorbed positive MENTAL HEALTH! Maintaining your mental health is important, because if you run out, you will not be able to maintain your astral projection in this mind, and you'll be kicked back into the REAL WORLD.;
-GLZG038TO;System;/YBUTTON/ Buy;
-GLZG039TO;System;/Arrowhead/;
-GLZG040TO;System;Rank:;
-GLZG041TO;System;/BBUTTON/ Exit;
+GLZG038TO;System;/YBUTTON/ Buy;/YBUTTON/ ซื้อ
+GLZG039TO;System;/Arrowhead/;/Arrowhead/
+GLZG040TO;System;Rank:;Rank:
+GLZG041TO;System;/BBUTTON/ Exit;/BBUTTON/ Exit
 GLZF007TO;System;Invisibility upgrade at rank: 80;
 GLZF008TO;System;Shield upgrade at rank: 65;
 GLZB037TO;System;Already at Maximum Projection Depth;
@@ -961,62 +961,62 @@ GLZF014TO;System;New PSI power at rank:;
 GLZF015TO;System;PSI power upgrade at rank:;
 GLZF017TO;System;Sorry, you haven't found any other teleport points yet.;
 GLZF018TO;System;Use PSI BLAST to shut down the valve.;
-GLZJ000TO;System;Press START to begin.;
-GLZJ001TO;System;New;
-GLZJ002TO;System;Continue;
-GLZJ003TO;System;Load;
-GLZJ004TO;System;Options;
-GLZJ005TO;System;Loading;
-GLZD292TO;System;SAVE;
-GLZD293TO;System;Exit;
-GLZD294TO;System;IN THIS AREA;
-GLZD295TO;System;Psi Challenge  Markers;
-GLZD296TO;System;Psi Cards  Recovered;
-GLZD297TO;System;Scavenger  Hunt  Items  Recovered;
-GLZD298TO;System;Kids'  Brains;
-GLZD299TO;System;Figments;
-GLZD300TO;System;OF;
-GLZD301TO;System;Emotional  Baggage Matched;
-GLZD302TO;System;Cobwebs  Recovered;
-GLZD303TO;System;Vaults  Cracked;
-GLZD304TO;System;/AButton/  SHOW  SCAVENGER  HUNT  ITEMS;
-GLZD305TO;System;TOTALS;
-GLZD306TO;System;Psi Cards  Unredeemed;
-GLZD307TO;System;Psi Cores  Unredeemed;
-GLZD308TO;System;Cobwebs  Unredeemed;
-GLZD309TO;System;Depleted  Psitanium  Unredeemed;
-GLZD310TO;System;Figments  Collected;
-GLZD311TO;System;Psi Challenge  Markers  Collected;
-GLZD312TO;System;Emotional  Baggage  Matched;
-GLZD315TO;System;/ABUTTON/  FIGMENT VIEWER;
-GLZD316TO;System;TO-DO;
-GLZD317TO;System;THINGS I GOTTA DO:;
-GLZD318TO;System;MEMORIES;
-GLZD319TO;System;MAP;
-GLZD320TO;System;/LeftFlipper/  ZOOM OUT    /RightFlipper/  ZOOM IN;
-GLZD321TO;System;MOVE RIGHT  /Joystick/  TO NAVIGATE;
-GLZD322TO;System;CAMERA;
-GLZD323TO;System;Invert Camera Horz.;
-GLZD324TO;System;Invert Camera Vert.;
-GLZD325TO;System;OK;
-GLZD326TO;System;SOUND;
-GLZD327TO;System;MASTER;
-GLZD328TO;System;FX;
-GLZD329TO;System;MUSIC;
-GLZD330TO;System;VOICE;
-GLZD333TO;System;ENABLE VIBRATION;
-GLZD334TO;System;LOAD GAME;
-GLZD335TO;System;/abutton/ LOAD;
-GLZD336TO;System;/xbutton/ DELETE;
-GLZD337TO;System;SAVE GAME;
-GLZD338TO;System;/abutton/ SAVE;
-GLZD339TO;System;All current game data will be lost. Do you want to EXIT this game?;
-GLZD340TO;System;Overwrite Profile?;
-GLZD341TO;System;File is corrupted. Delete?;
-GLZD342TO;System;Autosave game cannot be deleted.;
-GLZD343TO;System;Delete saved game? All saved data will be lost.;
-GLZD344TO;System;All current game data will be lost. Do you want to Load this game?;
-GLZD346TO;System;Overwrite Saved Game?;
+GLZJ000TO;System;Press START to begin.;Press START to begin.
+GLZJ001TO;System;New;New
+GLZJ002TO;System;Continue;Continue
+GLZJ003TO;System;Load;Load
+GLZJ004TO;System;Options;Options
+GLZJ005TO;System;Loading;Loading
+GLZD292TO;System;SAVE;SAVE
+GLZD293TO;System;Exit;Exit
+GLZD294TO;System;IN THIS AREA;IN THIS AREA
+GLZD295TO;System;Psi Challenge  Markers;Psi Challenge  Markers
+GLZD296TO;System;Psi Cards  Recovered;Psi Cards  Recovered
+GLZD297TO;System;Scavenger  Hunt  Items  Recovered;Scavenger  Hunt  Items  Recovered
+GLZD298TO;System;Kids'  Brains;สมองเด็กชาวค่าย
+GLZD299TO;System;Figments;Figments
+GLZD300TO;System;OF;OF
+GLZD301TO;System;Emotional  Baggage Matched;Emotional  Baggage Matched
+GLZD302TO;System;Cobwebs  Recovered;Cobwebs  Recovered
+GLZD303TO;System;Vaults  Cracked;Vaults  Cracked
+GLZD304TO;System;/AButton/  SHOW  SCAVENGER  HUNT  ITEMS;/AButton/  SHOW  SCAVENGER  HUNT  ITEMS
+GLZD305TO;System;TOTALS;TOTALS
+GLZD306TO;System;Psi Cards  Unredeemed;Psi Cards  Unredeemed
+GLZD307TO;System;Psi Cores  Unredeemed;Psi Cores  Unredeemed
+GLZD308TO;System;Cobwebs  Unredeemed;Cobwebs  Unredeemed
+GLZD309TO;System;Depleted  Psitanium  Unredeemed;Depleted  Psitanium  Unredeemed
+GLZD310TO;System;Figments  Collected;Figments  Collected
+GLZD311TO;System;Psi Challenge  Markers  Collected;Psi Challenge  Markers  Collected
+GLZD312TO;System;Emotional  Baggage  Matched;Emotional  Baggage  Matched
+GLZD315TO;System;/ABUTTON/  FIGMENT VIEWER;/ABUTTON/  FIGMENT VIEWER
+GLZD316TO;System;TO-DO;TO-DO
+GLZD317TO;System;THINGS I GOTTA DO:;THINGS I GOTTA DO:
+GLZD318TO;System;MEMORIES;MEMORIES
+GLZD319TO;System;MAP;MAP
+GLZD320TO;System;/LeftFlipper/  ZOOM OUT    /RightFlipper/  ZOOM IN;/LeftFlipper/  ZOOM OUT    /RightFlipper/  ZOOM IN
+GLZD321TO;System;MOVE RIGHT  /Joystick/  TO NAVIGATE;MOVE RIGHT  /Joystick/  TO NAVIGATE
+GLZD322TO;System;CAMERA;CAMERA
+GLZD323TO;System;Invert Camera Horz.;Invert Camera Horz.
+GLZD324TO;System;Invert Camera Vert.;Invert Camera Vert.
+GLZD325TO;System;OK;OK
+GLZD326TO;System;SOUND;SOUND
+GLZD327TO;System;MASTER;MASTER
+GLZD328TO;System;FX;FX
+GLZD329TO;System;MUSIC;MUSIC
+GLZD330TO;System;VOICE;VOICE
+GLZD333TO;System;ENABLE VIBRATION;ENABLE VIBRATION
+GLZD334TO;System;LOAD GAME;LOAD GAME
+GLZD335TO;System;/abutton/ LOAD;/abutton/ LOAD
+GLZD336TO;System;/xbutton/ DELETE;/xbutton/ DELETE
+GLZD337TO;System;SAVE GAME;SAVE GAME
+GLZD338TO;System;/abutton/ SAVE;/abutton/ SAVE
+GLZD339TO;System;All current game data will be lost. Do you want to EXIT this game?;ll current game data will be lost. Do you want to EXIT this game?
+GLZD340TO;System;Overwrite Profile?;Overwrite Profile?
+GLZD341TO;System;File is corrupted. Delete?;File is corrupted. Delete?
+GLZD342TO;System;Autosave game cannot be deleted.;Autosave game cannot be deleted.
+GLZD343TO;System;Delete saved game? All saved data will be lost.;Delete saved game? All saved data will be lost.
+GLZD344TO;System;All current game data will be lost. Do you want to Load this game?;All current game data will be lost. Do you want to Load this game?
+GLZD346TO;System;Overwrite Saved Game?;Overwrite Saved Game?
 GLZD347TO;System;Your Xbox doesn't have enough free blocks to save this profile.
 Press /Abutton/ to continue without saving or /Bbutton/ to free more blocks.;
 GLZD348TO;System;Your Xbox doesn't have enough free blocks to save games.
@@ -1024,17 +1024,17 @@ Press /Abutton/ to continue without saving or /Bbutton/ to free more blocks.;
 GLZD349TO;System;Delete Profile? All saved data will be lost.;
 GLZD351TO;System;Please reconnect the controller to controller port;
 GLZD352TO;System;and press START to continue.;
-GLZD353TO;System;/Bbutton/ to Continue.;
-GLZD354TO;System;FIGMENT;
-GLZD355TO;System;YOU HAVE:;
-GLZD356TO;System;L /Joystick/  SCROLL;
-GLZD357TO;System;/ABUTTON/  ZOOM;
-GLZD358TO;System;/BBUTTON/  EXIT;
+GLZD353TO;System;/Bbutton/ to Continue.;/Bbutton/ to Continue.
+GLZD354TO;System;FIGMENT;FIGMENT
+GLZD355TO;System;YOU HAVE:;YOU HAVE:
+GLZD356TO;System;L /Joystick/  SCROLL;L /Joystick/  SCROLL
+GLZD357TO;System;/ABUTTON/  ZOOM;/ABUTTON/  ZOOM
+GLZD358TO;System;/BBUTTON/  EXIT;/BBUTTON/  EXIT
 GLZD360TO;System;Find 8 items, and you'll be promoted 4 Ranks!;
 GLZD361TO;System;Find 8 more, and get promoted another 4 Ranks!;
-GLZD362TO;System;RANK UP!;
-GLZD363TO;System;OPTIONS;
-GLZD364TO;System;LOAD;
+GLZD362TO;System;RANK UP!;RANK UP!
+GLZD363TO;System;OPTIONS;OPTIONS
+GLZD364TO;System;LOAD;LOAD
 GLZA049TO;System;Could you take me back to camp now?;
 GLZA050TO;System;Could you take me back to the Asylum?;
 GLZA051TO;System;Nothing. I just wanted to make sure you're not dead.;
@@ -1069,40 +1069,40 @@ GLAZ008TO;System;Dalmatian Alley;
 GLAZ009TO;System;Matador's Apartment;
 GLAZ010TO;System;The Trenches;
 GLAZ011TO;System;The Cannon;
-GLAA004RA;Raz;I'm ready.;
+GLAA004RA;Raz;I'm ready.;พร้อมแล้ว
 GLZE015TO;System;Control speed with LEFT /Joystick/ or use it to change rails when jumping.;
-GLZF019TO;System;Use Smelling Salts to exit this level.;
+GLZF019TO;System;Use Smelling Salts to exit this level.;ใช้ ยาดม เพื่อออกไปจากที่นี่
 GLZB047TO;System;Oarsman;
 GLZB048TO;System;Basic Braining;
-GLZB049TO;System;RANK;
+GLZB049TO;System;RANK;RANK
 GLZA052TO;System;Hey, if you blow that thing on the beach then our Hulking Lungfish friend is going to come up out of the water and take you to the other side of the lake. You sure you want to do that?;
-GLZA053TO;System;/AButton/ Yes;
-GLZA054TO;System;/BButton/ No;
+GLZA053TO;System;/AButton/ Yes;/AButton/ Yes
+GLZA054TO;System;/BButton/ No;/BButton/ No
 GLZF020TO;System;PALM MEGABOMB! After you start a PALM BOMB, press /XButton/ as many times as you can before you hit the ground.  The more times you press /XButton/ the higher the bonus damage!;
 GLZF021TO;System;WRECKING BALL! Once you've earned this LEVITATION powerup, your Thought Bubble becomes a deadly weapon at full speed!;
 GLZF022TO;System;CHAIN BLAST! Your PSI Blast will bounce from one enemy to the next, damaging up to 3 nearby enemies at once!;
 GLZF023TO;System;THERMAL DETONATION! Your PYROKINESIS power will now invoke a massive explosion around the target, setting fire to anything nearby!;
 GLZF024TO;System;ADVANCED INVISIBILITY! Invisibility lasts twice as long!;
-GLZF026TO;System;PSI BLAST upgrade at rank:;
-GLZF027TO;System;See Ford for details!;
-GLZB051TO;System;Mental Magnet;
+GLZF026TO;System;PSI BLAST upgrade at rank:;PSI BLAST upgrade at rank:
+GLZF027TO;System;See Ford for details!;See Ford for details!
+GLZB051TO;System;Mental Magnet;Mental Magnet
 GLZF028TO;System;Clairvoyance lets you see through the eyes of another. Try it on a person directly, or on a handheld object that bears this special aura: /ClairvoyanceEye/;
-GLZB052TO;System;Musket;
-GLZB053TO;System;Psycho-Portal;
-GLZE016TO;System;Now promoted to Rank:;
-GLZE017TO;System;ALL LEVELS 100% COMPLETE!  CONGRATULATIONS, PSYCHOMASTER;
-GLZD373TO;System;Granted;
-GLZD374TO;System;Denied;
-GLZD375TO;System;Please enter a nickname!;
-GLZD376TO;System;Enter;
-GLZD377TO;System;PSI CARDS REDEEMED;
+GLZB052TO;System;Musket;Musket
+GLZB053TO;System;Psycho-Portal;Psycho-Portal
+GLZE016TO;System;Now promoted to Rank:;Now promoted to Rank:
+GLZE017TO;System;ALL LEVELS 100% COMPLETE!  CONGRATULATIONS, PSYCHOMASTER;ALL LEVELS 100% COMPLETE!  CONGRATULATIONS, PSYCHOMASTER
+GLZD373TO;System;Granted;Denied
+GLZD374TO;System;Denied;Denied
+GLZD375TO;System;Please enter a nickname!;ใส่ชื่อเล่น
+GLZD376TO;System;Enter;ตกลง
+GLZD377TO;System;PSI CARDS REDEEMED;PSI CARDS REDEEMED
 GLZD378TO;System;Empty;
 GLZD379TO;System;Corrupt;
 GLZD380TO;System;/LeftFlipper/ Prev;
 GLZD381TO;System;/RightFlipper/ Start Over;
 GLZD382TO;System;/RightFlipper/ Next;
-GLZD383TO;System;Yes;
-GLZD384TO;System;Cancel;
+GLZD383TO;System;Yes;ใช่
+GLZD384TO;System;Cancel;ยกเลิก
 GLZB054TO;System;Collects MENTAL COBWEBS.;
 GLZB055TO;System;Changes the color of your Levitation Ball.;
 GLZB056TO;System;Attracts MENTAL HEALTH and other useful psychic energies.;
@@ -1111,41 +1111,41 @@ GLZB058TO;System;Used to make PSI CHALLENGE MARKERS.;
 GLZB059TO;System;Locates deep, valuable ARROWHEADS.;
 GLZF029TO;System;From now on, useful psychic energy will automatically be drawn towards you from a distance.;
 GLZF030TO;System;Talk to Ford Cruller when you want to do some colorizing.;
-GLAE011TO;System;/WhiteBall/;
-GLAE012TO;System;/PinkBall/;
-GLAE013TO;System;/YellowBall/;
-GLAE014TO;System;/PurpleBall/;
-GLAE015TO;System;/BlueBall/;
-GLAE016TO;System;/LightPurpleBall/;
-GLAE017TO;System;/CyanBall/;
-GLAE018TO;System;/GreenBall/;
-GLAE019TO;System;/OrangeBall/;
-GLAE020TO;System;/LightGreenBall/;
-GLAE021TO;System;/LightPeachBall/;
-GLAE022TO;System;/RedBall/;
-GLAE023TO;System;/LightPinkBall/;
-GLAE024TO;System;/LightestPinkBall/;
-GLZD385TO;System;Visual Effects;
-GLZD386TO;System;Additional Music;
-GLZD387TO;System;Additional Programming;
-GLZD388TO;System;CAST;
-GLZD389TO;System;Special Thanks (Double Fine Productions);
-GLZD390TO;System;EVP, Creative Director;
-GLZD391TO;System;VP Product Development;
-GLZD392TO;System;Producer;
-GLZD393TO;System;Product Development Manager;
-GLZD394TO;System;EVP Sales and Marketing;
-GLZD395TO;System;VP Marketing;
-GLZD396TO;System;Senior Product Manager;
-GLZD397TO;System;Associate Product Manager;
-GLZD398TO;System;Marketing Assistant;
-GLZD399TO;System;PR Account Director;
-GLZD400TO;System;QA Manager;
-GLZD401TO;System;QA Project Lead;
-GLZD402TO;System;Lead Testers;
-GLZD403TO;System;Testers;
-GLZG045TO;System;/XButton/ Info;
-GLZG046TO;System;Use the LEFT /Joystick/ or /DPad/ to navigate the Journal.;
+GLAE011TO;System;/WhiteBall/;/WhiteBall/
+GLAE012TO;System;/PinkBall/;/PinkBall/
+GLAE013TO;System;/YellowBall/;/YellowBall/
+GLAE014TO;System;/PurpleBall/;/PurpleBall/
+GLAE015TO;System;/BlueBall/;/BlueBall/
+GLAE016TO;System;/LightPurpleBall/;/LightPurpleBall/
+GLAE017TO;System;/CyanBall/;/CyanBall/
+GLAE018TO;System;/GreenBall/;/GreenBall/
+GLAE019TO;System;/OrangeBall/;/OrangeBall/
+GLAE020TO;System;/LightGreenBall/;/LightGreenBall/
+GLAE021TO;System;/LightPeachBall/;/LightPeachBall/
+GLAE022TO;System;/RedBall/;/RedBall/
+GLAE023TO;System;/LightPinkBall/;/LightPinkBall/
+GLAE024TO;System;/LightestPinkBall/;/LightestPinkBall/
+GLZD385TO;System;Visual Effects;Visual Effects
+GLZD386TO;System;Additional Music;Additional Music
+GLZD387TO;System;Additional Programming;Additional Programming
+GLZD388TO;System;CAST;CAST
+GLZD389TO;System;Special Thanks (Double Fine Productions);Special Thanks (Double Fine Productions)
+GLZD390TO;System;EVP, Creative Director;EVP, Creative Director
+GLZD391TO;System;VP Product Development;VP Product Development
+GLZD392TO;System;Producer;Producer
+GLZD393TO;System;Product Development Manager;Product Development Manager
+GLZD394TO;System;EVP Sales and Marketing;EVP Sales and Marketing
+GLZD395TO;System;VP Marketing;VP Marketing
+GLZD396TO;System;Senior Product Manager;Senior Product Manager
+GLZD397TO;System;Associate Product Manager;Associate Product Manager
+GLZD398TO;System;Marketing Assistant;Marketing Assistant
+GLZD399TO;System;PR Account Director;PR Account Director
+GLZD400TO;System;QA Manager;QA Manager
+GLZD401TO;System;QA Project Lead;QA Project Lead
+GLZD402TO;System;Lead Testers;Lead Testers
+GLZD403TO;System;Testers;Testers
+GLZG045TO;System;/XButton/ Info;/XButton/ Info
+GLZG046TO;System;Use the LEFT /Joystick/ or /DPad/ to navigate the Journal.;Use the LEFT /Joystick/ or /DPad/ to navigate the Journal.
 GLZG047TO;System;On this page, you can see what you've collected in the current area. Make sure to come back here after you've collected some FIGMENTS, so you can look at them up close with the FIGMENT VIEWER option.;
 GLZG048TO;System;This page shows you how you're doing in the bigger scheme of things.  Also, once you get your SCAVENGER HUNT LIST, this is where you'll keep it.;
 GLZG049TO;System;This page automatically remembers what tasks you're working on. If you're ever unsure what to do next, come back here to jog your memory.;
@@ -1188,11 +1188,11 @@ GLZD433TO;System;Free the gears and lower the drawbridge to Napoleon's stronghol
 GLZB060TO;System;"Goodbye Hagatha Home";
 GLZB061TO;System;"Knight of Joy";
 GLZB062TO;System;"The Day the Mail Boat Finally Came";
-GLZD434TO;System;Saving preferences.  Please don't turn off your Xbox console.;
-GLAY006RA;Raz;Okay.;
+GLZD434TO;System;Saving preferences.  Please don't turn off your Xbox console.;Saving preferences.  Please don't turn off your Xbox console.
+GLAY006RA;Raz;Okay.;Okay
 GLZD510TO;System;Brain Hunt Checklist;
-GLZD435TO;System;Saving AUTOSAVE: POINT OF NO RETURN. Please don't turn off your Xbox console.;
-GLZD436TO;System;POINT OF NO RETURN;
+GLZD435TO;System;Saving AUTOSAVE: POINT OF NO RETURN. Please don't turn off your Xbox console.;Saving AUTOSAVE: POINT OF NO RETURN. Please don't turn off your Xbox console.
+GLZD436TO;System;POINT OF NO RETURN;POINT OF NO RETURN
 GLZD437TO;System;All Mental Cobwebs Cleared!;
 GLZD438TO;System;All Emotional Baggage Sorted!;
 GLZD439TO;System;All Figments Collected!;
@@ -1270,56 +1270,56 @@ GLZE018TO;System;This save game appears to be damaged and cannot be used. Press 
 GLZD508TO;System;Buy a DOWSING ROD at the camp store.;
 GLZD509TO;System;Find enough DEEP ARROWHEADS with the DOWSING ROD to afford the COBWEB DUSTER.;
 GLZD511TO;System;Bring brains back to Agent Cruller to increase MENTAL HEALTH POTENTIAL!;
-GLZD512TO;System;Brainless!;
-GLZD513TO;System;Brain Found--Must Return to Agent Cruller.;
-GLZD514TO;System;Re-brained!;
-GLZD515TO;System;PSI Challenge Markers;
-GLZD516TO;System;Scavenger Hunt Items;
-GLZD517TO;System;PSI Cards;
-GLZD518TO;System;Brains;
-GLZD519TO;System;Cobwebs;
-GLZD520TO;System;Vaults;
-GLZD521TO;System;PSI Cadet Rank;
-GLZD522TO;System;Arrowheads;
-GLZD523TO;System;Scavenger Hunt Items Found;
-GLZD524TO;System;Emotional Baggage Sorted;
-GLZD525TO;System;Redeem these with Ford!;
-GLZD528TO;System;PSI Cores;
-GLZD530TO;System;Bobby Zilch;
-GLZD531TO;System;Dogen Boole;
-GLZD532TO;System;Benny "The Nose" Fideleo;
-GLZD533TO;System;Elka Doom;
-GLZD534TO;System;Kitty Bubai;
-GLZD535TO;System;Chloe Barge;
-GLZD536TO;System;Franke Athens;
-GLZD537TO;System;J.T. Hoofburger;
-GLZD538TO;System;Quentin Hedgemouse;
-GLZD539TO;System;Vernon Tripe;
-GLZD540TO;System;Milka Phage;
-GLZD541TO;System;Crystal Flowers Snagrash;
-GLZD542TO;System;Clem Foote;
-GLZD543TO;System;Nils Lutefisk;
-GLZD544TO;System;Maloof Canola;
-GLZD545TO;System;Mikhail Bulgakov;
-GLZD546TO;System;Phoebe Love;
-GLZD547TO;System;Elton Fir;
-GLZD548TO;System;Chops Sweetwind;
-GLZD549TO;System;View Reel:;
-GLZD550TO;System;View Movie:;
-GLZD551TO;System;/AButton/ Select;
-GLZD552TO;System;Out of Map Range;
-GLZD553TO;System;Basic Braining Merit Badge viewable in JOURNAL.;
-GLZD554TO;System;Y;
-GLZD555TO;System;N;
-GLZD556TO;System;/Abutton/ Zoom in;
-GLZD557TO;System;/Abutton/ Zoom out;
-GLAZ014TO;System;Stage Entrance;
-GLZD558TO;System;This profile;
-GLZD559TO;System;Not found yet.;
-GLZD560TO;System;Please free;
-GLZD561TO;System;more blocks.;
-GLZD562TO;System;Autosave:;
-GLZD563TO;System;This Profile is damaged;
+GLZD512TO;System;Brainless!;ไม่มีสมอง!
+GLZD513TO;System;Brain Found--Must Return to Agent Cruller.;Brain Found--Must Return to Agent Cruller.
+GLZD514TO;System;Re-brained!;Re-brained!
+GLZD515TO;System;PSI Challenge Markers;PSI Challenge Markers
+GLZD516TO;System;Scavenger Hunt Items;Scavenger Hunt Items
+GLZD517TO;System;PSI Cards;PSI Cards
+GLZD518TO;System;Brains;สมอง
+GLZD519TO;System;Cobwebs;หยากไย่
+GLZD520TO;System;Vaults;ตู้เซฟ
+GLZD521TO;System;PSI Cadet Rank;PSI Cadet Rank
+GLZD522TO;System;Arrowheads;หัวศร
+GLZD523TO;System;Scavenger Hunt Items Found;Scavenger Hunt Items Found
+GLZD524TO;System;Emotional Baggage Sorted;Emotional Baggage Sorted
+GLZD525TO;System;Redeem these with Ford!;Redeem these with Ford!
+GLZD528TO;System;PSI Cores;PSI Cores
+GLZD530TO;System;Bobby Zilch;บ๊อบบี้ ซิลช์
+GLZD531TO;System;Dogen Boole;โดแกน บูล
+GLZD532TO;System;Benny "The Nose" Fideleo;เบนนี่ "เดอะโนส" ฟิเดลิโอ
+GLZD533TO;System;Elka Doom;เอลก้า ดูม
+GLZD534TO;System;Kitty Bubai;คิตตี้ บูไบ
+GLZD535TO;System;Chloe Barge;โคลอี บาร์จ
+GLZD536TO;System;Franke Athens;แฟรงกี้ เอเธนส์
+GLZD537TO;System;J.T. Hoofburger;เจ.ที. ฮูฟเบอร์เกอร์
+GLZD538TO;System;Quentin Hedgemouse;เควนติน เฮดจ์เมาส์
+GLZD539TO;System;Vernon Tripe;เวอร์นอน ไทรป์
+GLZD540TO;System;Milka Phage;มิลก้า เฟจ
+GLZD541TO;System;Crystal Flowers Snagrash;คริสตัล ฟลาวเวอร์ สแนกราช
+GLZD542TO;System;Clem Foote;เคลม ฟูต
+GLZD543TO;System;Nils Lutefisk;นีลส์ ลูตฟิสค์
+GLZD544TO;System;Maloof Canola;มาลูฟ คาโนลา
+GLZD545TO;System;Mikhail Bulgakov;มิคิล บูลดาคอฟ
+GLZD546TO;System;Phoebe Love;ฟีบี้ เลิฟ
+GLZD547TO;System;Elton Fir;เอลตัน เฟอร์
+GLZD548TO;System;Chops Sweetwind;ชอปส์ สวีทไวนด์
+GLZD549TO;System;View Reel:;View Reel:
+GLZD550TO;System;View Movie:;View Movie:
+GLZD551TO;System;/AButton/ Select;/AButton/ Select
+GLZD552TO;System;Out of Map Range;Out of Map Range
+GLZD553TO;System;Basic Braining Merit Badge viewable in JOURNAL.;Basic Braining Merit Badge viewable in JOURNAL.
+GLZD554TO;System;Y;Y
+GLZD555TO;System;N;N
+GLZD556TO;System;/Abutton/ Zoom in;/Abutton/ Zoom in
+GLZD557TO;System;/Abutton/ Zoom out;/Abutton/ Zoom out
+GLAZ014TO;System;Stage Entrance;Stage Entrance
+GLZD558TO;System;This profile;This profile
+GLZD559TO;System;Not found yet.;Not found yet.
+GLZD560TO;System;Please free;Please free
+GLZD561TO;System;more blocks.;more blocks.
+GLZD562TO;System;Autosave:;Autosave:
+GLZD563TO;System;This Profile is damaged;This Profile is damaged
 GLZF035TO;System;Try the PALM MEGABOMB! Start a PALM BOMB, and then smash /MeleeButton/ as fast as you can!;
 GLZF037TO;System;The Collective Unconscious;
 GLZD564TO;System;Character Modeling and Rigging;
@@ -1340,15 +1340,15 @@ GLZF044TO;System;INFINITE AMMO! By tapping into the raw power of the nearby Psit
 GLZD574TO;System;Take log-tunnel to Ford's lab and get a PSI Blast training badge from Ford.;
 GLZD575TO;System;Return to Sasha's Lab with your training badge.;
 GLZD576TO;System;KILL THE TWO-HEADED DAD MONSTER!;
-GLZD577TO;System;A DOUBLE FINE PRODUCTION;
+GLZD577TO;System;A DOUBLE FINE PRODUCTION;A DOUBLE FINE PRODUCTION
 GLZD578TO;System;MAJESCO;
 GLZD579TO;System;Fight the Den Mother.;
 GLZB063TO;System;Candle;
 GLZD580TO;System;Health Low! Dream Fluff Activated!;
 GLZZ000TO;System;Whispering Rock Psychic Summer Camp;
 GLZF046TO;System;INFINITE AMMO upgrade at rank:;
-GLZD581TO;System;Voice Director;
-GLZD582TO;System;Credits;
+GLZD581TO;System;Voice Director;Voice Director
+GLZD582TO;System;Credits;Credits
 GLZC008TO;System;New PSI power earned!;
 GLZF047TO;System;SUPER CHAIN BLAST! Your Chain Blast can now hit up to 6 enemies in a row!;
 GLZD583TO;System;Are you sure you want to;
@@ -1359,71 +1359,71 @@ GLZD584TO;System;Collect reward from Ranger Cruller for completing half of the S
 GLZD585TO;System;Collect reward from Ranger Cruller for completing the Scavenger Hunt!;
 GLAZ015TO;System;Big-Top Entrance;
 GLAZ016TO;System;Butcher's Tent;
-GLZD586TO;System;Go see Agent Cruller to get new PSI power!;
-GLZZ001TO;System;Press /AButton/ to Start a New Game;
-GLZZ002TO;System;Press /AButton/ to Continue;
-GLZZ003TO;System;Press /AButton/ to Load a Saved Game;
-GLZZ004TO;System;Press /AButton/ for Options;
-GLZD587TO;System;Saving autosave. Please don't turn off your Xbox console.;
-GLZF049TO;System;Bonus scene at rank 100!;
-GLZZ005TO;System;Developed by Double Fine Productions, Inc.  (c) 2005 Double Fine Productions, Inc.  All rights reserved.  Published & distributed by Majesco Entertainment Company. (c) 2005 Majesco Entertainment Company.  All Rights Reserved.;
-GLZE020TO;System;This profile appears to be damaged and cannot be used. Press /Abutton/ to continue.;
-GLZE021TO;System;Damaged Save Game;
-GLPC000TO;System;Move Forward;
-GLPC001TO;System;Move Backward;
-GLPC002TO;System;Move Left;
-GLPC003TO;System;Move Right;
-GLPC004TO;System;Jump;
-GLPC005TO;System;Attack;
-GLPC006TO;System;Use;
-GLPC008TO;System;LockOn/Float;
-GLPC009TO;System;PSI Power1;
-GLPC010TO;System;PSI Power2;
-GLPC011TO;System;PSI Power3;
-GLPC012TO;System;Inventory Menu;
-GLPC013TO;System;PSI Powers Menu;
-GLPC014TO;System;First Person View;
-GLPC015TO;System;Journal;
-GLPC016TO;System;Stats;
-GLPC017TO;System;Look Up;
-GLPC018TO;System;Look Down;
-GLPC019TO;System;Look Left;
-GLPC020TO;System;Look Right;
-GLPS000TO;System;Checking for Memory Card (PS2) in MEMORY CARD slot 1.;
-GLPS001TO;System;Please do not remove Memory Card (PS2) from MEMORY CARD slot 1.;
-GLPS002TO;System;Load?;
-GLPS003TO;System;Error loading.;
-GLPS004TO;System;Save?;
-GLPS005TO;System;Error saving.;
-GLPS006TO;System;Overwrite?;
-GLPS007TO;System;Error overwriting.;
-GLPS008TO;System;Delete?;
-GLPS009TO;System;Error deleting.;
-GLPS010TO;System;Memory Card (PS2) in MEMORY CARD slot 1 is unformatted. If you do not format it then you will not be able to save game data. Format?;
-GLPS011TO;System;Error formatting.;
-GLPS012TO;System;Insufficient space on Memory Card (PS2) inserted in MEMORY CARD slot 1. Psychonauts requires 270KB of free space. Retry?;
-GLPS013TO;System;Memory Card (PS2) in MEMORY CARD slot 1 was removed. Autosave has been disabled. Use the save game option to manually save your game and enable autosave.;
-GLPS014TO;System;No Memory Card (PS2) inserted in MEMORY CARD slot 1. Psychonauts requires 270KB of free space. Retry?;
-GLPS015TO;System;Mono;
-GLPS016TO;System;Stereo;
-GLPS017TO;System;Dolby Pro Logic (SM) II;
-GLPS018TO;System;Sound Mode;
+GLZD586TO;System;Go see Agent Cruller to get new PSI power!;ไปพบสายลับครอเลอร์เพื่อรับพลังใหม่
+GLZZ001TO;System;Press /AButton/ to Start a New Game;กด /AButton/ เพื่อ Start New Game
+GLZZ002TO;System;Press /AButton/ to Continue;กด /AButton/ เพื่อเริ่มเล่นต่อไป
+GLZZ003TO;System;Press /AButton/ to Load a Saved Game;กด /AButton/ เพื่อ Load Saved Game
+GLZZ004TO;System;Press /AButton/ for Options;กด /AButton/ เพื่อดู Option
+GLZD587TO;System;Saving autosave. Please don't turn off your Xbox console.;Saving autosave. Please don't turn off your Xbox console.
+GLZF049TO;System;Bonus scene at rank 100!;Bonus scene at rank 100!
+GLZZ005TO;System;Developed by Double Fine Productions, Inc.  (c) 2005 Double Fine Productions, Inc.  All rights reserved.  Published & distributed by Majesco Entertainment Company. (c) 2005 Majesco Entertainment Company.  All Rights Reserved.;Developed by Double Fine Productions, Inc.  (c) 2005 Double Fine Productions, Inc.  All rights reserved.  Published & distributed by Majesco Entertainment Company. (c) 2005 Majesco Entertainment Company.  All Rights Reserved.
+GLZE020TO;System;This profile appears to be damaged and cannot be used. Press /Abutton/ to continue.;This profile appears to be damaged and cannot be used. Press /Abutton/ to continue.
+GLZE021TO;System;Damaged Save Game;Damaged Save Game
+GLPC000TO;System;Move Forward;Move Forward
+GLPC001TO;System;Move Backward;Move Backward
+GLPC002TO;System;Move Left;Move Left
+GLPC003TO;System;Move Right;Move Right
+GLPC004TO;System;Jump;Jump
+GLPC005TO;System;Attack;Attack
+GLPC006TO;System;Use;Use
+GLPC008TO;System;LockOn/Float;LockOn/Float
+GLPC009TO;System;PSI Power1;PSI Power1
+GLPC010TO;System;PSI Power2;PSI Power2
+GLPC011TO;System;PSI Power3;PSI Power3
+GLPC012TO;System;Inventory Menu;Inventory Menu
+GLPC013TO;System;PSI Powers Menu;PSI Powers Menu
+GLPC014TO;System;First Person View;First Person View
+GLPC015TO;System;Journal;Journal
+GLPC016TO;System;Stats;Stats
+GLPC017TO;System;Look Up;Look Up
+GLPC018TO;System;Look Down;Look Down
+GLPC019TO;System;Look Left;Look Left
+GLPC020TO;System;Look Right;Look Right
+GLPS000TO;System;Checking for Memory Card (PS2) in MEMORY CARD slot 1.;Checking for Memory Card (PS2) in MEMORY CARD slot 1.
+GLPS001TO;System;Please do not remove Memory Card (PS2) from MEMORY CARD slot 1.;Please do not remove Memory Card (PS2) from MEMORY CARD slot 1.
+GLPS002TO;System;Load?;Load?
+GLPS003TO;System;Error loading.;Error loading.
+GLPS004TO;System;Save?;Save?
+GLPS005TO;System;Error saving.;Error saving.
+GLPS006TO;System;Overwrite?;Overwrite?
+GLPS007TO;System;Error overwriting.;Error overwriting.
+GLPS008TO;System;Delete?;Delete?
+GLPS009TO;System;Error deleting.;Error deleting.
+GLPS010TO;System;Memory Card (PS2) in MEMORY CARD slot 1 is unformatted. If you do not format it then you will not be able to save game data. Format?;Memory Card (PS2) in MEMORY CARD slot 1 is unformatted. If you do not format it then you will not be able to save game data. Format?
+GLPS011TO;System;Error formatting.;Error formatting.
+GLPS012TO;System;Insufficient space on Memory Card (PS2) inserted in MEMORY CARD slot 1. Psychonauts requires 270KB of free space. Retry?;Insufficient space on Memory Card (PS2) inserted in MEMORY CARD slot 1. Psychonauts requires 270KB of free space. Retry?
+GLPS013TO;System;Memory Card (PS2) in MEMORY CARD slot 1 was removed. Autosave has been disabled. Use the save game option to manually save your game and enable autosave.;Memory Card (PS2) in MEMORY CARD slot 1 was removed. Autosave has been disabled. Use the save game option to manually save your game and enable autosave.
+GLPS014TO;System;No Memory Card (PS2) inserted in MEMORY CARD slot 1. Psychonauts requires 270KB of free space. Retry?;No Memory Card (PS2) inserted in MEMORY CARD slot 1. Psychonauts requires 270KB of free space. Retry?
+GLPS015TO;System;Mono;Mono
+GLPS016TO;System;Stereo;Stereo
+GLPS017TO;System;Dolby Pro Logic (SM) II;Dolby Pro Logic (SM) II
+GLPS018TO;System;Sound Mode;Sound Mode
 GLPC021TO;System;Type your nickname. Only letters and numbers allowed.;
 GLPC022TO;System;Press Enter when done.;
 GLPC023TO;System;Press Escape to cancel.;
 GLZZ006TO;System;World's Smallest Pony;
-GLZZ007TO;System;Careful;
-GLZD588TO;System;Symbols;
-GLZD589TO;System;A-B-C;
-GLZD591TO;System;Psychonauts Comic #1;
-GLZD590TO;System;Localization Testers;
-GLZD592TO;System;Cherry Wood Pipe;
-GLZD593TO;System;Miner's Skull;
-GLZD594TO;System;Pirate Scope;
-GLZD595TO;System;Fertility Idol;
-GLZD596TO;System;Dinosaur Bone;
-GLZB065TO;System;Maximum Projection Depth Increased!;
-GLZD597TO;System;QA Project Lead;
-GLZD598TO;System;QA Manager;
-GLZD599TO;System;Office Manager/Production Assistant;
-GLZD600TO;System;Megaphone;
+GLZZ007TO;System;Careful;ระวัง
+GLZD588TO;System;Symbols;สัญลักษณ์
+GLZD589TO;System;A-B-C;A-B-C
+GLZD591TO;System;Psychonauts Comic #1;Psychonauts Comic #1
+GLZD590TO;System;Localization Testers;Localization Testers
+GLZD592TO;System;Cherry Wood Pipe;ไปป์ไม้เชอร์รี่
+GLZD593TO;System;Miner's Skull;กะโหลกคนขุดเหมือง
+GLZD594TO;System;Pirate Scope;กล้องส่องทางไกลของโจรสลัด
+GLZD595TO;System;Fertility Idol;รูปปั้นแห่งความอุดมสมบูรณ์
+GLZD596TO;System;Dinosaur Bone;กระดูกไดโนเสาร์
+GLZB065TO;System;Maximum Projection Depth Increased!;Maximum Projection Depth Increased!
+GLZD597TO;System;QA Project Lead;QA Project Lead
+GLZD598TO;System;QA Manager;QA Manager
+GLZD599TO;System;Office Manager/Production Assistant;Office Manager/Production Assistant
+GLZD600TO;System;Megaphone;Megaphone
