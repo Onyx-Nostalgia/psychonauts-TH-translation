@@ -69,19 +69,19 @@ CALP011LI;Lili;Oh. I didn't know you could--uh, I gotta go. Bye.;โอ้ ฉ�
 CALP012LI;Lili;So embarrassing!;น่าอายชะมัด!
 CALU002RA;Raz;Gah!;อ้า!
 CALU003RA;Raz;Hey, was that you? Looking at me?;เฮ้ นั่นเธอใช่ไหม? ที่มองฉันอยู่?
-CALU004LI;Lili;Maybe you should try getting over yourself? There were a lot of other people on that stage besides you.;บางทีนายควรจะเลิกคิดถึงแต่ตัวเองได้แล้วนะ? บนเวทีตอนนั้นมีคนอื่นอีกตั้งเยอะนอกจากนาย
+CALU004LI;Lili;Maybe you should try getting over yourself? There were a lot of other people on that stage besides you.;บางทีนายควรจะเลิกหลงตัวเองได้แล้วนะ? บนเวทีตอนนั้นมีคนอื่นอีกตั้งเยอะนอกจากนาย
 CALU005RA;Raz;No, just now. In the woods.;ไม่ หมายถึงตอนนี้ ในป่า
 CALU006RA;Raz;(sniff sniff);(ดมๆ)
 CALU007RA;Raz;No, it must have been something else.;ไม่ใช่แฮะ ต้องเป็นอย่างอื่นแน่เลย
 CALU008RA;Raz;You don't smell like pond scum.;เธอไม่ได้มีกลิ่นเหม็นเหมือนตะไคร่น้ำ
 CALU009LI;Lili;Nice. You should write greeting cards.;เยี่ยม นายน่าจะไปเขียนการ์ดอวยพรนะ
-CALU010LI;Lili;Hey, if you want to cut class later, try these smelling salts.;
-CALU011LI;Lili;They'll pop you out of anyone's mind and back to the real world before you can say, Crud! That hurts my nose!;
-CALU012RA;Raz;Out of anyone's mind?;
-CALU013LI;Lili;You'll find out.;
-CALU014LI;Lili;Now, mush! We don't want you to be late for class!;
-CALU015RA;Raz;Why do you care if I'm late for class?;
-CALU016LI;Lili;Because the late thing is MY thing. Don't copy.;
+CALU010LI;Lili;Hey, if you want to cut class later, try these smelling salts.;เฮ้ ถ้านายอยากโดดเรียน ลองใช้ยาดมดูสิ
+CALU011LI;Lili;They'll pop you out of anyone's mind and back to the real world before you can say, Crud! That hurts my nose!;มันจะพานายออกจากความคิดของใครก็ตามและกลับสู่โลกแห่งความเป็นจริงก่อนที่นายจะเอ่ยว่า "ฮัดชิ่ว"ซะอีก มันทำฉันคัดจมูก!
+CALU012RA;Raz;Out of anyone's mind?;ออกจากความคิดของใครก็ตามเหรอ?
+CALU013LI;Lili;You'll find out.;เดี๋ยวนายก็รู้
+CALU014LI;Lili;Now, mush! We don't want you to be late for class!;ตอนนี้ก็เร็วเข้า เราไม่อยากให้นายไปเรียนสายนะ!
+CALU015RA;Raz;Why do you care if I'm late for class?;ทำไมเธอถึงสนใจว่าฉันจะไปเรียนสายด้วยล่ะ?
+CALU016LI;Lili;Because the late thing is MY thing. Don't copy.;เพราะการไปสายมันเป็นเรื่องของฉัน ห้ามลอกเลียนแบบไงล่ะ
 CALU017RA;Raz;There was some sort of shadowy being out there... lurking... watching...;มีอะไรบางอย่างตะคุ่มๆ อยู่ข้างนอก... แอบซ่อนอยู่... กำลังเฝ้ามอง...
 CALU018LI;Lili;I know of only one creature who fits that description. It likes to hide in dark places, silently watching unsuspecting children from a distance.;ฉันรู้จักสัตว์ประหลาดแค่ตัวเดียวที่ลักษณะตามที่นายเล่าเป๊ะ มันชอบซ่อนตัวในที่มืดๆ เฝ้ามองเด็กๆ ที่ไม่ทันระวังตัวจากระยะไกล
 CALU019RA;Raz;Really? Who?;จริงเหรอ? คัวอะไร?
@@ -103,7 +103,7 @@ CASR015RA;Raz;And now I'm hearing things. Great.;แล้วตอนนี้�
 INBB001RA;Raz;Coach! Out in the woods! I saw--;
 INBB002CO;Coach;You're late, Soldier!;นายมาสายนะ ทหาร!
 INBB003CO;Coach;Get in here and give me twenty!;เข้ามาในนี้และเอามายี่สิบ!
-INBB004RA;Raz;Sir! We need to get a containment team in the area STAT!;ท่านครับ! เราต้องการหน่วยปิดล้อมในพื้นที่ โดยด่วนครับ!
+INBB004RA;Raz;Sir! We need to get a containment team in the area STAT!;ท่านครับ! เราต้องการหน่วยปิดล้อมพื้นที่ โดยด่วนครับ!
 INBB005RA;Raz;I've spotted a U.P.E.;ผมพบพวก U.P.E. ครับ
 INBB006CO;Coach;A U.P.E.?;พวก U.P.E.เรอะ?
 INBB007RA;Raz;Yes, an Unregistered Paranormal Entity, possibly aquatic in nature...;ครับ "สิ่งเหนือธรรมชาติที่ไม่ได้จดทะเบียน" (Unregistered Paranormal Entity) อาจมีอยู่ในแหล่งน้ำตามธรรมชาติ...
@@ -209,7 +209,7 @@ SLIN002RA;Raz;So, what are we going to learn? Bending spoons? Burning stuff?;
 SLIN003RA;Raz;I've been hearing a lot about head explosion and I was wondering--;ผมได้ยินข่าวลือเยอะมากเรื่องการระเบิดหัว ผมก็เลยสงสัยว่า--
 SLIN004SA;Sasha;Science, Razputin. That is what we practice down here. Not parlor tricks.;วิทยาศาสตร์ แรซปูติน นั่นคือสิ่งที่เราจะปฏิบัติกันข้างล่างนี้ ไม่ใช่กลหลอกเด็ก
 SLIN005SA;Sasha;If you are serious about exploring the possibilities of your mind, step up to the Brain Tumbler and we'll begin.;หากเธอจริงจังกับการสำรวจความเป็นไปได้ในจิตใจของเธอ จงไปยัง Brain Tumbler แล้วเราจะได้เริ่มกัน 
-SLIN006RA;Raz;Brain tumbler?;Brain tumbler?
+SLIN006RA;Raz;Brain tumbler?;Brain tumbler เหรอ?
 SLIS001RA;Raz;Okay. Teach me to fight.;
 SLIS002SA;Sasha;Very well. The secret is all up here.;
 SLIS003RA;Raz;It's all in my mind?;
@@ -267,23 +267,23 @@ CAAM026QU;Quentin;And why we should call our band The Levitators.;และน�
 CAAM027PH;Phoebe;Did you say Heavy Taters? Cuz that's what I heard.;นายพูดว่า Heavy Taters ใช่มั้ย? เพราะนั่นแหละที่ฉันได้ยินล่ะ
 CAAM028QU;Quentin;Levitators!;Levitators!
 CAAM029PH;Phoebe;Firestarters!;Firestarters!
-CAAT001MF;Maloof;Thanks. I thought I was stuck in there forever.;
-CAAT002RA;Raz;What is this thing?;
-CAAT003MF;Maloof;It's a GPC, a Geodesic Psychoisolation Chamber.;
-CAAT004RA;Raz;Oh, man, cool!;
-CAAT005MF;Maloof;Cool? Do you have any idea what this does?;
-CAAT006RA;Raz;Something cool?;
-CAAT007MF;Maloof;Uh, no. It's a sixth-sensory deprivation tank. A hermetically sealed metaphysical hotbox.;
-CAAT008MF;Maloof;It's solitary confinement for psychics.;
-CAAT009RA;Raz;Naaaasty. And the Coach locked you inside it?;
-CAAT010MF;Maloof;Nah. The staff hasn't put any kids in the GPC since the 50's.;
-CAAT011MF;Maloof;Bobby threw me in here.;
-CAAT012MH;Mikhail;Bully and dwarf accomplice should assault own size or larger only.;
-CAAT013MH;Mikhail;While in cooler, perhaps noticed gigantic bear with skin where hair should be?;
-CAAT014MF;Maloof;I didn't see anything in there. That's the whole point.;
-CAAT015MH;Mikhail;Ah, just so. Empty now.;
-CAAT016MH;Mikhail;Good luck, small ones.;
-CAAT017MF;Maloof;Hey, wait!;
+CAAT001MF;Maloof;Thanks. I thought I was stuck in there forever.;ขอบใจ ฉันคิดว่าฉันจะติดอยู่นี่ไปตลอดกาลแล้ว
+CAAT002RA;Raz;What is this thing?;เจ้านี้มันคืออะไร
+CAAT003MF;Maloof;It's a GPC, a Geodesic Psychoisolation Chamber.;มันคือ GPC โดมพลังจิตบำบัด
+CAAT004RA;Raz;Oh, man, cool!;โอ้ โคตรเจ๋ง
+CAAT005MF;Maloof;Cool? Do you have any idea what this does?;เจ๋งหรอ? นายรู้หรือเปล่าว่ามันไว้ทำอะไร
+CAAT006RA;Raz;Something cool?;อะไรที่โคตรเจ๋งมั้ง
+CAAT007MF;Maloof;Uh, no. It's a sixth-sensory deprivation tank. A hermetically sealed metaphysical hotbox.;เอ่อ ไม่ มันคือ ห้องที่ปิดกั้นสัมผัสที่ 6 คุกแห่งปรัชญาความจริงที่ถูกปิดผนึกไว้อย่างแน่นหนา
+CAAT008MF;Maloof;It's solitary confinement for psychics.;มันคือห้องขังเดี่ยวสำหรับผู้มีพลังจิต
+CAAT009RA;Raz;Naaaasty. And the Coach locked you inside it?;เลวร้ายจัง แล้วโค้ชขังนายไว้ข้างในเหรอ
+CAAT010MF;Maloof;Nah. The staff hasn't put any kids in the GPC since the 50's.;เปล่า เจ้าหน้าที่เลิกขังเด็กไว้ใน GPC มาตั้งแต่ปี 50 แล้ว
+CAAT011MF;Maloof;Bobby threw me in here.;บ๊อบบี้โยนฉันเข้าไปในนั้น
+CAAT012MH;Mikhail;Bully and dwarf accomplice should assault own size or larger only.;อันธพาลและคนแคระที่สมรู้ร่วมคิด ควรสู้กับคนตัวเท่ากันหรือโตกว่าสิ
+CAAT013MH;Mikhail;While in cooler, perhaps noticed gigantic bear with skin where hair should be?;ตอนที่อยู่ในห้องเย็น พอจะสังเกตเห็นหมียักษ์ที่มีผิวไร้ขนหรือเปล่า
+CAAT014MF;Maloof;I didn't see anything in there. That's the whole point.;ฉันไม่เห็นอะไรเลยในนั้น นั่นแหละประเด็น
+CAAT015MH;Mikhail;Ah, just so. Empty now.;งั้น ตอนนี้คงว่างเปล่าแล้ว
+CAAT016MH;Mikhail;Good luck, small ones.;โชคดี พวกมนุษย์ตัวน้อย
+CAAT017MF;Maloof;Hey, wait!;เฮ้ เดี๋ยว!
 CAAU018MH;Mikhail;You. New boy. Seen bear lurking in woods?;นาย เด็กใหม่ เห็นหมีซุ่มในป่าไหม
 CAAU019RA;Raz;Nope.;ไม่นะ
 CAAU020MH;Mikhail;Positive? Giant, hairless bear?;แน่ใจนะ? ตัวใหญ่ๆ ไร้ขนน่ะ?
@@ -379,97 +379,97 @@ CAQZ033CO;Coach;Save it for the battlefield, soldier!;
 CAQZ034FO;Ford;If I wasn't the one who'd have to clean it up, I'd mash ya into a puddle of goo.;
 CAQZ035MI;Milla;Enough with the rough stuff, darling.;
 CAQZ036SA;Sasha;Yes, ouch.;
-CAAD001EL;Elka;I saw Nils peeking into a hole in the girls' cabin.;
-CAAD002DO;Dogen;I'm hiding!;
-CAAD003EL;Elka;And I thought, "Oh Nils, when will you peek into the hole in my heart?";
-CAAD004EL;Elka;Because you'd just see yourself staring back.;
-CAAD005DO;Dogen;Uh huh. What?;
-CAAD006EL;Elka;I mean, he'd see my new boyfriend James staring back. And he'd be furious at Nils.;
-CAAD007DO;Dogen;Who's Nils?;
-CAAD008EL;Elka;Exactly. And, anyway, there wouldn't even be a hole, because James fills my heart 'til sometimes I think it's gonna explode.;
-CAAD009DO;Dogen;One time, I made someone's head explode.;
-CAAD010EL;Elka;Okay, maybe there's still a little hole.;
-CAAD011DO;Dogen;Actually, it happened four times.;
-CAAD012EL;Elka;But James and I have each other now, and Nils is just gonna have to deal with it.;
-CAAD013DO;Dogen;Now they make me wear this special hat so I don't have any more accidents.;
-CAAD014EL;Elka;Are you even listening to me Dogen?;
-CAAD015DO;Dogen;I hope so.;
-CAAG001EF;Elton;What?;
-CAAG002EF;Elton;What's that?;
-CAAG003EF;Elton;I can barely hear you.;
-CAAG004EF;Elton;But... that doesn't make any sense...;
-CAAG005EF;Elton;What are you talking about?;
-CAAG006EF;Elton;That's crazy.;
-CAAG007EF;Elton;No fish is that big.;
-CAAG008EF;Elton;No regular fish anyway.;
-CAAG009EF;Elton;Hey, did it have enormous, glowing eyes by any chance?;
-CAAG010EF;Elton;And did it have a prehensile lure that it uses to attract and snare its prey?;
-CAAG011EF;Elton;How about flipper claws? Did it have any flipper claws?;
-CAAG013EF;Elton;Yes...;
-CAAG014EF;Elton;Yes, I know it's murky down there.;
-CAAG015EF;Elton;Uh, I know.;
-CAAG016EF;Elton;I'm just asking...;
-CAAG017EF;Elton;I'm just trying to find out...;
-CAAG018EF;Elton;Look who is this?;
-CAAG019EF;Elton;I'm trying to talk to that first guy.;
-CAAG020EF;Elton;Where'd that other guy go?;
-CAAG021EF;Elton;Ghost town? There's no ghost town around here.;
-CAAG022EF;Elton;What are you guys talking about?;
-CAAG023EF;Elton;Hey, shut up. She's not my girlfriend!;
-CAAG024EF;Elton;No, we're just good friends.;
-CAAG025EF;Elton;I mean if something were to happen later... oh, you know... whatever.;
-CAAG026EF;Elton;Shut up! You fish are gross!;
-CAAG027EF;Elton;That's not even technically accurate because humans don't, "spawn.";
-CAAG028EF;Elton;Ick.;
-CAAG029EF;Elton;Can we get back to that weird monster fish please?;
-CAAG030EF;Elton;Uh huh.;
-CAAG031EF;Elton;Hmmm.;
-CAAG032EF;Elton;I see.;
-CAAG033EF;Elton;Whoa.;
-CAAG034EF;Elton;Really?;
-CAAG035EF;Elton;You're kidding me.;
-CAAG036EF;Elton;Tell me everything.;
-CAAG037EF;Elton;What else?;
-CAAG038EF;Elton;Man.;
-CAAG039EF;Elton;Holy mackerel! Oh, sorry. Not you.;
-CAAH040EF;Elton;Shhhh! I'm trying to hear them talk!;
-CAAQ001RA;Raz;Hey are you psychic fishing? I've read about that...;
-CAAQ002EF;Elton;Oh, I could never fish. That would be terrible!;
-CAAQ003EF;Elton;Regular people can be mean to fish, I guess.;
-CAAQ004EF;Elton;But I can't.;
-CAAQ005EF;Elton;I can hear everything the little guys are thinking!;
-CAAQ006RA;Raz;Fish think? About what?;
-CAAQ007EF;Elton;Well, normally, not much. But today they're all kinda freaked.;
-CAAQ008EF;Elton;They're scared of somethin' in the lake.;
-CAAQ009RA;Raz;Me too, now that I know it's full of freaked-out, thinking fish.;
-CAAQ010EF;Elton;There's something big and scary out there, Raz.;
-CAAQ011EF;Elton;I wonder... could the old legends be true?;
-CABA057VE;Vernon;Okay. I'm gonna close my eyes, right? And then I'm gonna start to count to a hundred. Ok? And then you guys hide. Everybody got it?;
-CABA058EL;Elka;It's hide-and-seek, Vernon, not hide-and-calculus. We've all got it.;
-CABA059DO;Dogen;I got it. You start counting and then I go hide in that bush.;
-CABA060VE;Vernon;Great! One...;
-CABA061EL;Elka;Milka, you're a genius. Come on, Dogen.;
-CABA062VE;Vernon;Hold on! This reminds me of a story. It's about counting. Hello?;
-CABA063VE;Vernon;Man, you guys are good.;
-CABC001LI;Lili;Look at those two. Who'd even want a stupid friendship bracelet?;
-CABC002RA;Raz;I don't know. I wouldn't mind one.;
-CABC003LI;Lili;Yeah, well... that's... stupid!;
-CABI023RA;Raz;Hey Maloof.  Um, you want some help getting that off your head?;
-CABI024MF;Maloof;If I take it off, Bobby might just put something worse on it. Like a dirtier pair of underpants or an animal with teeth.;
-CABI025MF;Maloof;I'm just gonna wait here until camp's over and my pop comes back to pick me up.;
-CABI026RA;Raz;Come on, things can't be that bad.  So you've got a jockstrap on your--;
-CABI027MH;Mikhail;Fish tied to head. Very clever. Bear investigates, gets wrestled! Will wait in case bear wins.;
-CABI028MF;Maloof;If any bears show up, feel free to cut right in. Anyway, it is that bad.  First Bobby and Benny locked me in the girls' shower, then they wouldn't let me out of the toilet, now they won't let me in any of the toilets. And in between, there was a lot of punching.;
-CABI029BZ;Bobby;No, then we locked you in the GPC.;
-CABI030MH;Mikhail;Maloof forfeits place in bear wrestling line. As repayment for courtesy, bullying now forbidden. All bullies acknowledge, please.;
-CABI031BZ;Bobby;Get bent, commie. I'm gonna take your--;
-CABI032MH;Mikhail;Call next move "Deadly Nelson."  When screaming starts, eyeball may pop out of bully head. Standing back suggested.;
-CABI033BZ;Bobby;Okay! I won't touch him. Jeez.;
-CABJ034CF;Crystal;Hey, it's the king of the obstacle course!;
-CABJ035CM;Clem;Hey, Raz! You're awesome! You must be a Psychonaut by now!;
-CABJ036CF;Crystal;Yeah! Or even a Double Psychonaut!;
-CABJ037RA;Raz;Ha! Oh no. Not yet. But soon!;
-CABJ038RA;Raz;Wow. Those two are so nice!;
+CAAD001EL;Elka;I saw Nils peeking into a hole in the girls' cabin.;ฉันเห็นนิลส์ กำลังแอบมองผ่านรูที่กระท่อมหญิง
+CAAD002DO;Dogen;I'm hiding!;ฉันกำลังซ่อน
+CAAD003EL;Elka;And I thought, "Oh Nils, when will you peek into the hole in my heart?";และฉันก็คิด “โธ่ นิลส์ เมื่อไหร่นายจะมาแอบมองรูที่หัวใจฉันสักที”
+CAAD004EL;Elka;Because you'd just see yourself staring back.;เพราะนายจะเห็นตัวนายเองมองกลับมา
+CAAD005DO;Dogen;Uh huh. What?;อาฮะ อะไรนะ
+CAAD006EL;Elka;I mean, he'd see my new boyfriend James staring back. And he'd be furious at Nils.;ฉันหมายถึง เขาจะเห็นแฟนใหม่ของฉัน เจมส์ มองกลับมา และเขาคงกำลังโกรธนิลส์อยู่
+CAAD007DO;Dogen;Who's Nils?;นิลส์ไหนอ่ะ 
+CAAD008EL;Elka;Exactly. And, anyway, there wouldn't even be a hole, because James fills my heart 'til sometimes I think it's gonna explode.;ใช่เลยล่ะ. และอย่างไรก็ตาม จะไม่มีรูอะไรด้วยซ้ำ เพราะเจมส์เติมเต็มหัวใจฉันไปหมดแล้ว จนบางครั้งฉันคิดว่ามันแทบจะระเบิดออกมาเลย
+CAAD009DO;Dogen;One time, I made someone's head explode.;ครั้งหนึ่ง ฉันเคยทำหัวคนระเบิด
+CAAD010EL;Elka;Okay, maybe there's still a little hole.;โอเค อาจจะยังมีรูเล็กๆ
+CAAD011DO;Dogen;Actually, it happened four times.;อันที่จริงมันเกิดขึ้นไปแล้ว 4 ครั้ง
+CAAD012EL;Elka;But James and I have each other now, and Nils is just gonna have to deal with it.;แต่ตอนนี้เจมส์กับฉัน เรามีกันและกันแล้ว ส่วนนิลส์ก็แค่ต้องทำใจซะ
+CAAD013DO;Dogen;Now they make me wear this special hat so I don't have any more accidents.;ตอนนี้พวกเขาเลยให้ฉันสวมหมวกพิเศษนี่ ดังนั้นฉันเลยไม่มีอุบัติเหตุอีก
+CAAD014EL;Elka;Are you even listening to me Dogen?;เธอได้ฟังฉันบ้างหรือเปล่าเนี่ย โดแกน
+CAAD015DO;Dogen;I hope so.;หวังว่างั้นนะ
+CAAG001EF;Elton;What?;อะไร?
+CAAG002EF;Elton;What's that?;อะไรนะ?
+CAAG003EF;Elton;I can barely hear you.;ฉันแทบไม่ได้ยินนายเลย
+CAAG004EF;Elton;But... that doesn't make any sense...;แต่... นั่นมันไม่มีเหตุผลเลย...
+CAAG005EF;Elton;What are you talking about?;นายกำลังพูดถึงอะไรอ่ะ
+CAAG006EF;Elton;That's crazy.;บ้าไปแล้ว
+CAAG007EF;Elton;No fish is that big.;ไม่มีปลาตัวไหนใหญ่ขนาดนั้น
+CAAG008EF;Elton;No regular fish anyway.;ไม่มีทางเป็นปลาทั่วไปแน่
+CAAG009EF;Elton;Hey, did it have enormous, glowing eyes by any chance?;เฮ้ มันตัวใหญ่แล้วก็มีตาเรืองแสงหรือเปล่าครับ?
+CAAG010EF;Elton;And did it have a prehensile lure that it uses to attract and snare its prey?;แล้วมันมีเหยื่อล่อที่เอาไว้ใช้ดึงดูดและดักเหยื่อไหม?
+CAAG011EF;Elton;How about flipper claws? Did it have any flipper claws?;ครีบที่มีกรงเล็บล่ะ? มันมีครีบที่มีกรงเล็บไหม?
+CAAG013EF;Elton;Yes...;ใช่...
+CAAG014EF;Elton;Yes, I know it's murky down there.;ใช่… ใช่ฉันรู้ว่าข้างล่างนั่นมันมืดมาก
+CAAG015EF;Elton;Uh, I know.;ใช่ฉันรู้
+CAAG016EF;Elton;I'm just asking...;ฉันแค่มีคำถาม...
+CAAG017EF;Elton;I'm just trying to find out...;ฉันแค่พยายามจะหาทาง...
+CAAG018EF;Elton;Look who is this?;ดูสิใครน่ะ?
+CAAG019EF;Elton;I'm trying to talk to that first guy.;ฉันพยายามที่จะคุยกับตัวแรกอยู่นะ
+CAAG020EF;Elton;Where'd that other guy go?;แล้วคนอื่นไปไหนหมด
+CAAG021EF;Elton;Ghost town? There's no ghost town around here.;เมืองผีสิงหรอ ไม่มีเมืองผีแถวนี้นะ
+CAAG022EF;Elton;What are you guys talking about?;พวกนายพูดถึงอะไรกันน่ะ
+CAAG023EF;Elton;Hey, shut up. She's not my girlfriend!;เฮ้ หุบปากนะ เธอไม่ได้เป็นแฟนฉันนะ
+CAAG024EF;Elton;No, we're just good friends.;ไม่ เราก็แค่เพื่อนกัน
+CAAG025EF;Elton;I mean if something were to happen later... oh, you know... whatever.;ฉันหมายถึง อาจจะเป็นหลังจากนี้ก็ได้ นายว่าไหม ยังไงก็เหอะ
+CAAG026EF;Elton;Shut up! You fish are gross!;หุบปากนะ นายมันปลาเลว
+CAAG027EF;Elton;That's not even technically accurate because humans don't, "spawn.";นั่นไม่แม่นยำในทางเทคนิคด้วยซ้ำ เนื่องจากมนุษย์ไม่ได้ "วางไข่" ซะหน่อย
+CAAG028EF;Elton;Ick.;อี๋
+CAAG029EF;Elton;Can we get back to that weird monster fish please?;เราจะกลับไปหาเจ้าปลาประหลาดตัวนั้นได้ไหม?
+CAAG030EF;Elton;Uh huh.;Uh huh
+CAAG031EF;Elton;Hmmm.;Hmmm
+CAAG032EF;Elton;I see.;เข้าใจละ
+CAAG033EF;Elton;Whoa.;โว้ว
+CAAG034EF;Elton;Really?;จริงดิ?
+CAAG035EF;Elton;You're kidding me.;นายต้องล้อฉันเล่นแน่ๆ
+CAAG036EF;Elton;Tell me everything.;บอกมาให้หมดเลยนะ
+CAAG037EF;Elton;What else?;อะไรอีก?
+CAAG038EF;Elton;Man.;โอ้โห
+CAAG039EF;Elton;Holy mackerel! Oh, sorry. Not you.;โอ้แม่เจ้า โอ้ โทษที ไม่ใช่นายนะ
+CAAH040EF;Elton;    ;    
+CAAQ001RA;Raz;Hey are you psychic fishing? I've read about that...; เฮ้นายกำลังใช้พลังจิตตกปลาอยู่เหรอ ฉันเคยอ่านมาน่ะ
+CAAQ002EF;Elton;Oh, I could never fish. That would be terrible!; ฉันไม่เคยตกปลาเลย มันแย่มาก
+CAAQ003EF;Elton;Regular people can be mean to fish, I guess.;คนทั่วไปมักจะใจร้ายกับปลาได้ มั้งนะ
+CAAQ004EF;Elton;But I can't.;แต่ฉันทำไม่ได้
+CAAQ005EF;Elton;I can hear everything the little guys are thinking!;ฉันได้ยินทุกๆ อย่างที่เจ้าพวกนั้นกำลังคิดอยู่
+CAAQ006RA;Raz;Fish think? About what?;ปลากำลังคิดงั้นเหรอ เรื่องอะไร
+CAAQ007EF;Elton;Well, normally, not much. But today they're all kinda freaked.;ปกติก็ไม่มีอะไร แต่วันนี้พวกมันดู "แปลกๆ"
+CAAQ008EF;Elton;They're scared of somethin' in the lake.;พวกมันกลัวบางอย่างที่อยู่ในทะเลสาบ
+CAAQ009RA;Raz;Me too, now that I know it's full of freaked-out, thinking fish.;ฉันก็ด้วย ตอนนี้ฉันรู้สึกว่ามันเต็มไปด้วยอะไร ”พิลึก ๆ” อย่างเช่น ปลาที่กำลังคิด
+CAAQ010EF;Elton;There's something big and scary out there, Raz.;บางอย่างที่ใหญ่และมีเสึยงคำราม แรซ
+CAAQ011EF;Elton;I wonder... could the old legends be true?;ฉันว่า... ตำนานเก่าแก่นั่นอาจจะเป็นเรื่องจริงแล้วล่ะ
+CABA057VE;Vernon;Okay. I'm gonna close my eyes, right? And then I'm gonna start to count to a hundred. Ok? And then you guys hide. Everybody got it?;โอเค ฉันจะหลับตา แล้วจากนั้น ฉันจะนับหนึ่งถึงร้อย โอเค๊, แล้วจากนั้น พวกนายก็ไปซ่อน ทุกคนเข้าใจนะ
+CABA058EL;Elka;It's hide-and-seek, Vernon, not hide-and-calculus. We've all got it.;มันเรียกว่า “เกม-ซ่อน-หา” เวอร์นอน ไม่ใช่ “เกม-ซ่อน-แคลคูลัส” เราเข้าใจกันหมดแหละ
+CABA059DO;Dogen;I got it. You start counting and then I go hide in that bush.;ฉันเข้าใจ นายเริ่มนับ และฉันก็ต้องไปซ่อนในพุ่ม
+CABA060VE;Vernon;Great! One...;เยี่ยม หนึ่ง...
+CABA061EL;Elka;Milka, you're a genius. Come on, Dogen.;มิลก้า เธอมันอัจฉริยะ มาเร็ว โดแกน
+CABA062VE;Vernon;Hold on! This reminds me of a story. It's about counting. Hello?;เดี๋ยวก่อนนะ! นี่ทำให้ฉันนึกถึงเรื่องเกี่ยวกับการนับ พวก?
+CABA063VE;Vernon;Man, you guys are good.;พวกนายนี่เก่งจัง
+CABC001LI;Lili;Look at those two. Who'd even want a stupid friendship bracelet?;ดูสองคนนั้นสิ ใครมันจะไปอยากได้ สร้อยข้อมือมิตรภาพ โง่ๆ นั่นกัน
+CABC002RA;Raz;I don't know. I wouldn't mind one.;ไม่รู้สิ ฉันไม่สน
+CABC003LI;Lili;Yeah, well... that's... stupid!;ช่าย ก็... มัน... โง่สิ้นดี
+CABI023RA;Raz;Hey Maloof.  Um, you want some help getting that off your head?;เฮ้ มาลูฟ ให้ฉันช่วยเอามันออกจากหัวไหม
+CABI024MF;Maloof;If I take it off, Bobby might just put something worse on it. Like a dirtier pair of underpants or an animal with teeth.;ถ้าฉันเอามันออก บ๊อบบี้อาจเอาอย่างอื่นที่แย่ยิ่งกว่ามาแกล้งฉันอีกก็ได้ อย่างกางเกงในเปื้อนๆ สองตัว หรือสัตว์ที่มีฟัน
+CABI025MF;Maloof;I'm just gonna wait here until camp's over and my pop comes back to pick me up.;ฉันจะรออยู่ตรงนี้ จนกว่าค่ายจะจบ แล้วปะป๊าจะได้มารับตัวฉันกลับไปซะที
+CABI026RA;Raz;Come on, things can't be that bad.  So you've got a jockstrap on your--;ไม่เอาน่า มันก็ไม่ได้แย่ขนาดนั้น อย่างน้อยกางเกงในที่อยู่บนหัวนายก็...
+CABI027MH;Mikhail;Fish tied to head. Very clever. Bear investigates, gets wrestled! Will wait in case bear wins.;มัดปลาไว้บนหัว ฉลาดมาก หลอกล่อหมีมาปล้ำได้! จะรอคิวเผื่อหมีชนะนะ
+CABI028MF;Maloof;If any bears show up, feel free to cut right in. Anyway, it is that bad.  First Bobby and Benny locked me in the girls' shower, then they wouldn't let me out of the toilet, now they won't let me in any of the toilets. And in between, there was a lot of punching.;ถ้ามีหมีโผล่มา นายอยากทำอะไรก็เอาเลย ยังไงซะ ตอนนี้มันก็แย่พออยู่แล้ว ทีแรก บ๊อบบี้กับเบ็นนี่ ก็ขังฉันไว้ในห้องน้ำหญิง ต่อมาก็ไม่ยอมให้ฉันออกจากห้องน้ำ พอตอนนี้พวกนั่นก็ไม่ยอมให้ฉันเข้าห้องน้ำที่ไหนเลย และในระหว่างนั่น ก็อัดฉันซ้ำแล้วซ้ำเล่า
+CABI029BZ;Bobby;No, then we locked you in the GPC.;เปล่าา เรายังขังแกไว้ใน GPC อีกด้วย
+CABI030MH;Mikhail;Maloof forfeits place in bear wrestling line. As repayment for courtesy, bullying now forbidden. All bullies acknowledge, please.;มาลูฟขอแพ้บายในการปล้ำกับหมี เพื่อเป็นการตอบแทนน้ำใจ การกลั่นแกล้งในตอนนี้ถือเป็นเรื่องต้องห้ามแล้ว พวกอันธพาลทั้งหลายโปรดทราบ
+CABI031BZ;Bobby;Get bent, commie. I'm gonna take your--;ไอ้บ้า คอมมิวนิสต์ ฉันจะ--
+CABI032MH;Mikhail;Call next move "Deadly Nelson."  When screaming starts, eyeball may pop out of bully head. Standing back suggested.;ท่าต่อไปเรียกว่า “Deadly Nelson”  เริ่มตะโกนเมื่อไร ลูกตาอาจหลุดออกมาจากหัวเจ้าอันธพาล ขอแนะนำให้ถอยออกไปดีกว่า
+CABI033BZ;Bobby;Okay! I won't touch him. Jeez.;โอเค ฉันจะไม่แตะต้องเจ้านั่น หนอย
+CABJ034CF;Crystal;Hey, it's the king of the obstacle course!;เฮ้ นั่น ราชาแห่งหลักสูตรข้ามสิ่งกีดขวางนี่
+CABJ035CM;Clem;Hey, Raz! You're awesome! You must be a Psychonaut by now!;แรซ นายมันสุดยอด นายต้องเป็นไซโคนอทได้แน่
+CABJ036CF;Crystal;Yeah! Or even a Double Psychonaut!;ใช่ หรืออาจเป็น ดับเบิลไซโคนอท
+CABJ037RA;Raz;Ha! Oh no. Not yet. But soon!;เฮอะ ไม่ ยังหรอก แต่ไม่นานหรอก
+CABJ038RA;Raz;Wow. Those two are so nice!;ว้าวพวกนั้นเป็นมิตรจัง!
 CABK039RA;Raz;Hey, what are you guys doing up here?;เฮ้ พวกนายมาทำไรอยู่นี่?
 CABK040CF;Crystal;Uh...;Uh...
 CABK041CM;Clem;Writing cheers!;คิดเพลงเชียร์
@@ -723,7 +723,7 @@ CANA070CO;Coach;�Heh-heh�;�Heh-heh�
 CANA071CO;Coach;�hmmm�;�hmmm�
 CAPL001RA;Raz;Hey, Elka!;เฮ้ เอลก้า!
 CAPN004EL;Elka;Why don't you and your little goggles go poke around in someone else's private business?;ทำไมนายและแว่นตาน้อยๆ ของนายไม่ไปยุ่งเรื่องส่วนตัวของคนอื่นล่ะ?
-CAPP001RA;Raz;Hey, you guys sound great!;เฮ้ พวกนายดูเยี่ยมมาก!
+CAPP001RA;Raz;Hey, you guys sound great!;เฮ้ พวกนายเล่นได้เยี่ยมมาก!
 CAPP002JT;J.T.;Ha-huh, much obliged, pardner.;ฮ่าฮ่า ขอบใจ เพื่อนฝูง
 CAQQ010NI;Nils;Oh, YEAH.;Oh, YEAH.
 CAQQ011NI;Nils;This is going to be sweet.;ไปได้สวยแน่ ๆ
@@ -732,7 +732,7 @@ CAQR013RA;Raz;You know, a nutcracker might be faster.;รู้ไหม ใช�
 CAQR014NI;Nils;Tonight, when this baby is full of fine ladies, I'm going to see EVERYTHING.;คืนนี้ เมื่อเจ้าหนูนี่เต็มไปด้วยสาว ๆ ฉันก็จะเห็น “ทุกอย่าง”
 CAQR015RA;Raz;How are you going to fill that nut with ladies?;แล้วนายจะเอาสาว ๆ ใส่เข้าไปในไอ้นั่นยังไงล่ะ
 CAQR016NI;Nils;No, dude. The girls' cabin. I've got a man on the inside.;ไม่ พวก กระท่อมสาว ๆ ต่างหาก แล้วฉันก็คือชายที่จะไปอยู่ในนั้น 
-CAQR017RA;Raz;I get it! You're using Clairvoyance! You grabbed one of the squirrel's nuts and now you're using Clairvoyance on it to form a mental link and see what the squirrel sees!;เข้าใจล่ะ นายจะใช้ ตาทิพย์ (clairvoyance)! นายไปเอาไอ้นั่นของเจ้ากระรอกนั่นมา และตอนนี้นายจะใช้ตาทิพย์เพื่อเชื่อมต่อจิต แล้วเห็นในสิ่งที่กระรอกมองเห็น !
+CAQR017RA;Raz;I get it! You're using Clairvoyance! You grabbed one of the squirrel's nuts and now you're using Clairvoyance on it to form a mental link and see what the squirrel sees!;เข้าใจล่ะ นายจะใช้ ตาทิพย์ (clairvoyance)! นายไปเอาไอ้นั่นของเจ้ากระรอกนั่นมา และตอนนี้นายจะใช้ตาทิพย์เพื่อเชื่อมต่อจิต แล้วเห็นในสิ่งที่กระรอกมองเห็น!
 CAQR018NI;Nils;Um, could you say "acorns" instead of "nuts" if you repeat that to anybody else?;อืม ตอนไปเล่าให้ใครฟัง นายช่วยเรียก “ลูกโอ๊ค” แทนคำว่า “ไอ้นั่น” ทีนะ
 CAQR019RA;Raz;Teach me how to do that!;สอนฉันทำบ้างสิ!
 CAQR020NI;Nils;Hey, I paid a LITTLE bit of attention in class, but not THAT much.;เฮ้ ฉันตั้งใจเรียนมาแค่”นิดหน่อย” แต่ก็ไม่ได้ “ขนาดนั้น”
@@ -973,25 +973,25 @@ CAAC003FO;Ford;Yeah, yeah, see ya later;
 CAAF042EL;Elka;Hey nosy, how 'bout pulling your big beak out of our private business?;
 CAAF043EL;Elka;Hey, butt out!;
 CAAL036MH;Mikhail;Can't lurk forever, bear;
-CAJI001FO;Ford;Mmm. An eager one. Eager to learn, I wonder? Or just eager to play?;
-CAJI002RA;Raz;Sir, I am here to learn, sir!;
-CAJI003FO;Ford;You're here to train hard?  Hmmm?;
-CAJI004RA;Raz;Yes sir!;
-CAJI005FO;Ford;Develop a skill?;
-CAJI007FO;Ford;To become part of a noble team?;
-CAJI008RA;Raz;Yes--;
-CAJI009FO;Ford;Yes, to become...;
-CAJI010RA;Raz;Yes!;
-CAJI011FO;Ford;...a janitor!;
-CAJI012RA;Raz;No. What? I'm here to be a Psychonaut!;
-CAJI013FO;Ford;Oh, fft!;
-CAJI014FO;Ford;Oh, the brainy jubjub goes on upstairs.;
-CAJI017FO;Ford;Down here it's pushin' brooms, not bendin' spoons!;
-CAJI018FO;Ford;Heh heh.;
-CAJI019RA;Raz;Hey, Mr. Cruller, do you know where Sasha's Nein's lab is?;
-CAJI020FO;Ford;What? Huh? Secret underground lab? I don't have a secret underground lab! That's hobgoberish!;
-CAJI021FO;Ford;Now beat it! Git!;
-CAJI022FO;Ford;Stop staring at my mops!;
+CAJI001FO;Ford;Mmm. An eager one. Eager to learn, I wonder? Or just eager to play?;อืมม ผู้มีความทะเยอทะยาน มุ่งกระหายในความรู้? หรือแค่เพียงอยากเล่นสนุกกันแน่? ฉันละสงสัย
+CAJI002RA;Raz;Sir, I am here to learn, sir!;ครับผม ผมมาที่นี่เพื่อเรียนรู้ครับ
+CAJI003FO;Ford;You're here to train hard?  Hmmm?;นายมาที่นี่เพื่อฝึกหนักใช่ไหม หืมม?
+CAJI004RA;Raz;Yes sir!;ครับผม!
+CAJI005FO;Ford;Develop a skill?;พัฒนาทักษะ?
+CAJI007FO;Ford;To become part of a noble team?;เพื่อเป็นส่วนหนึ่งของทีมอันทรงเกียรติ
+CAJI008RA;Raz;Yes--;ครับ--
+CAJI009FO;Ford;Yes, to become...;ใช่ เพื่อเป็น...
+CAJI010RA;Raz;Yes!;ครับ!
+CAJI011FO;Ford;...a janitor!;...ภารโรง!
+CAJI012RA;Raz;No. What? I'm here to be a Psychonaut!;เปล่า ไงนะ? ผมมาที่นี่เพื่อเป็น ไซโคนอทต่างหาก!
+CAJI013FO;Ford;Oh, fft!;Oh, ชิ่ว!
+CAJI014FO;Ford;Oh, the brainy jubjub goes on upstairs.;พวกใช้สมองเงาะแงะ จะไปไหนก็ไป
+CAJI017FO;Ford;Down here it's pushin' brooms, not bendin' spoons!;แถวนี้มันถิ่นไม้กวาด ไม่ใช่ที่ของพวกช้อนงอได้!
+CAJI018FO;Ford;Heh heh.;Heh heh.
+CAJI019RA;Raz;Hey, Mr. Cruller, do you know where Sasha's Nein's lab is?;เฮ้ มิสเตอร์ครอลเลอร์ คุณรู้ไหมว่า แล็ปของซาช่า ไนน์ อยู่ที่ไหน
+CAJI020FO;Ford;What? Huh? Secret underground lab? I don't have a secret underground lab! That's hobgoberish!;ไรนะ? ฮะ? แล็ปลับใต้ดินอะไร? ฉันไม่ได้มี แล็ปลับใต้ดินอะไรนะ? ไร้สาระ
+CAJI021FO;Ford;Now beat it! Git!;ไปซะ ชิ๊ว!
+CAJI022FO;Ford;Stop staring at my mops!;หยุดจ้องไม้ถูของฉันนะ!
 CAMD001RA;Raz;Agent Vodello! I have been ordered to report here for Levitation training!;
 CAMD003RA;Raz;I've already done the Coach's obstacle course, and Sasha showed me how to shoot!;
 CAMD005RA;Raz;Agent Nein said you were the most powerful levitator the Psychonauts had.;
@@ -1004,31 +1004,31 @@ CANB074RA;Raz;Basic Braining Today, 0600 hours, Coach Oleander's Classroom.;Basi
 CANB075RA;Raz;Geodesic Psycho-Isolation Chamber. Stay out!;โดมจิตบำบัด ห้ามเข้า!
 CANB076RA;Raz;It looks like it points to the campfire area.;ดูเหมือนมันจะชี้ไปที่ลานตั้งแคมป์
 CANC001RA;Raz;What're you guys doing?;พวกนายทำอะไรกันอยู่?
-CANC002BZ;Bobby;Beat it, new kid.;
-CAND003RA;Raz;What's that round thing up on the dock?;
-CAND004BZ;Bobby;That thing? Oh, man, lemme tell you about that thing. That thing is... none of your stinkin' business.;
-CANE005RA;Raz;Mind if I scoot by?;
-CANE006BZ;Bobby;Not if you don't mind my fist scooting into your neck.;
-CANF007RA;Raz;Do you know where I'm supposed to be?;
-CANF008BZ;Bobby;If you bother us again, you're gonna be on a helicopter getting life-flighted to the hospital.;
-CANG009RA;Raz;I don't think you guys are so tough.;
-CANG010BZ;Bobby;Why don't you try me, Goggle-girl?;
-CAOA001RA;Raz;Hey, Mr. Cruller. Can I take out a canoe?;
-CAOA002FO;Ford;Mr. Who?;
-CAOA003FO;Ford;You WILL call me Admiral, son. And, no, you can't charter a vessel.;
-CAOA004FO;Ford;Not without an Oarsman's Badge!;
-CAOB005RA;Raz;Excuse me, Admiral?;
-CAOB006FO;Ford;Eh?;
-CAOB007RA;Raz;Where can I get an Oarsman's Badge? I'd really like to take out a canoe.;
-CAOB008FO;Ford;Gotta get it from one of the official camp counselors. I can't have just anybody in my fleet.;
-CAOC009RA;Raz;Check it out, Admiral! I'm an Oarsman, First Class!;
-CAOC010FO;Ford;Hey, it looks like all those weeks in the canoe simulator really paid off!;
-CAOC011RA;Raz;Uh, yessir, Admiral, sir!;
-CAOC012FO;Ford;Well, let's get you afloat!;
-CAOD013RA;Raz;Uh, Admiral, where's that canoe again?;
-CAOD014FO;Ford;Can't find the ship, eh? Well, well, you're not off to a promising start, Seaman.;
-CAOD015FO;Ford;It's right outside. You can't miss it. Well, most people couldn't miss it.;
-CAOU003RA;Raz;Excuse me, Mr. Ranger, but I'm looking for Sasha Nein's lab?;
+CANC002BZ;Bobby;Beat it, new kid.;สั่งสอนมันไง เด็กใหม่
+CAND003RA;Raz;What's that round thing up on the dock?;มาทำอะไรแถวท่าเรือกันน่ะ
+CAND004BZ;Bobby;That thing? Oh, man, lemme tell you about that thing. That thing is... none of your stinkin' business.;ทำอะไรเหรอ โอ้ ฉันจะบอกนายให้ว่าฉันทำอะไรนะ ฉันกำลังทำ... เรื่องที่ "ไม่เกี่ยว" กับนายไง
+CANE005RA;Raz;Mind if I scoot by?;จะรังเกียจไหม ถ้าฉันจะขอผ่านทางน่ะ?
+CANE006BZ;Bobby;Not if you don't mind my fist scooting into your neck.;ไม่หรอก ถ้านายไม่รังเกียจหมัดฉันที่จะผ่านหน้านายน่ะ
+CANF007RA;Raz;Do you know where I'm supposed to be?;นายรู้ไหมว่าฉันควรไปไหน?
+CANF008BZ;Bobby;If you bother us again, you're gonna be on a helicopter getting life-flighted to the hospital.;ถ้านายยังจุ้นไม่เลิก นายได้นั่งเฮลิคอปเตอร์ไปโรงพยาบาลแน่
+CANG009RA;Raz;I don't think you guys are so tough.;ฉันไม่คิดว่าพวกนายจะทำได้นะ
+CANG010BZ;Bobby;Why don't you try me, Goggle-girl?;ทำไมไม่ลองดูหน่อยล่ะ ยัยหนู-กูเกิล?
+CAOA001RA;Raz;Hey, Mr. Cruller. Can I take out a canoe?;เฮ้ มิสเตอร์ครอลเลอร์ ผมสามารถเอาเรือแคนูออกไปใช้ได้ไหมครับ
+CAOA002FO;Ford;Mr. Who?;มิสเตอร์ไหน?
+CAOA003FO;Ford;You WILL call me Admiral, son. And, no, you can't charter a vessel.;นายควรเรียกฉันว่า “นายพลเรือ” นะ เจ้าหนู และ “ไม่” นายเช่าเรือไปไม่ได้
+CAOA004FO;Ford;Not without an Oarsman's Badge!;หากไม่มี “ป้ายนักพาย" (Oarsman’s badge)
+CAOB005RA;Raz;Excuse me, Admiral?;โทษนะครับ นายพลเรือ
+CAOB006FO;Ford;Eh?;ฮืม?
+CAOB007RA;Raz;Where can I get an Oarsman's Badge? I'd really like to take out a canoe.;ผมจะไปหาป้ายนักพายได้จากไหนครับ ผมต้องใช้เรือแคนูจริงๆ
+CAOB008FO;Ford;Gotta get it from one of the official camp counselors. I can't have just anybody in my fleet.;ต้องได้รับจากที่ปรึกษาค่ายอย่างเป็นทางการสักคนหนึ่ง แค่ต้องไม่ใช่คนในกองเรือฉัน
+CAOC009RA;Raz;Check it out, Admiral! I'm an Oarsman, First Class!;ได้มาแล้วครับ พลเรือ ผมเป็นนักพายชั้นหนึ่งแล้ว
+CAOC010FO;Ford;Hey, it looks like all those weeks in the canoe simulator really paid off!;เฮ้ ดูเหมือนว่าตลอดสัปดาห์ ในเรือแคนูซิมูเลเตอร์ จะให้ผลลัพธ์ที่ดีจริงๆ!
+CAOC011RA;Raz;Uh, yessir, Admiral, sir!;เอ่อ ครับผม ท่านพลเรือครับ
+CAOC012FO;Ford;Well, let's get you afloat!;เอาล่ะ งั้นนายก็แล่นได้เลย
+CAOD013RA;Raz;Uh, Admiral, where's that canoe again?;เอ่อ ท่านนายพลครับ เรืออยู่ที่ไหนนะครับ
+CAOD014FO;Ford;Can't find the ship, eh? Well, well, you're not off to a promising start, Seaman.;หาเรือไม่เจอใช่ไหม? เอาล่ะ นายคงเริ่มต้นได้ไม่ดีเท่าไรนะ กลาสี
+CAOD015FO;Ford;It's right outside. You can't miss it. Well, most people couldn't miss it.;มันอยู่ข้างนอกเลย นายจำไม่ลืมแน่ แต่คนส่วนใหญ่ก็ลืมมันไม่ได้กันหรอก
+CAOU003RA;Raz;Excuse me, Mr. Ranger, but I'm looking for Sasha Nein's lab?;โทษนะครับ มิสเตอร์ครอลเลอร์ ผมกำลังตามหาแล็ปซาช่า ไนน์อยู่
 CAOU004FO;Ford;Well, now even if I knew where it was, and if it were down here, and even if you were very, very close to it right now, you shouldn't be poking around here!;
 CAOU005FO;Ford;This forest is off limits!;
 CAOU006FO;Ford;Now git!;
@@ -1080,15 +1080,15 @@ CAPS008JT;J.T.;Glad ya like it.;
 CAPT009RA;Raz;Seriously, you guys really sound good.;
 CAPT010JT;J.T.;Doggone it, Raz, we're tryin' to play here.;
 CAPX001RA;Raz;Whatcha doin' there?;
-CAPX002KI;Kitty;We're making friendship bracelets. You know, for our "friends.";
-CAPY003RA;Raz;Hey, is that my name on that one?;
-CAPY004KI;Kitty;Not unless your name is Franke. Or Kitty.;
-CAPZ005RA;Raz;Oh, I guess I saw an "R" and... and an "A"...;
-CAPZ006KI;Kitty;What's your name again, kid? Spaz?;
-CAQA007RA;Raz;My name's Raz.;
-CAQA008KI;Kitty;Well, Spaz, why don't you go bother someone else.;
-CAQB009RA;Raz;Can I ask you guys a question?;
-CAQB010KI;Kitty;Ummmm... hmmmm... no.;
+CAPX002KI;Kitty;We're making friendship bracelets. You know, for our "friends.";เรากำลังทำ สร้อยข้อมือมิตรภาพ เข้าใจมะ สำหรับ “เพื่อน” น่ะ
+CAPY003RA;Raz;Hey, is that my name on that one?;เฮ้ มีชื่อฉันบ้างหรือเปล่า
+CAPY004KI;Kitty;Not unless your name is Franke. Or Kitty.;ไม่ เว้นแต่นายจะชื่อ แฟรงกี้ หรือ คิตตี้
+CAPZ005RA;Raz;Oh, I guess I saw an "R" and... and an "A"...;โอ้ ฉันว่าฉันเห็น “R” และ... และ “A”...
+CAPZ006KI;Kitty;What's your name again, kid? Spaz?;นายชื่อว่าอะไรนะ เด็กใหม่ ใช่ "เจ้างั่ง" หรือเปล่า?
+CAQA007RA;Raz;My name's Raz.;ฉันชื่อ แรซ
+CAQA008KI;Kitty;Well, Spaz, why don't you go bother someone else.;งั้น เจ้างั่ง ทำไมนายไม่ไปกวนคนอื่นบ้างล่ะ
+CAQB009RA;Raz;Can I ask you guys a question?;ฉันถามอะไรพวกเธอหน่อยได้ไหม?
+CAQB010KI;Kitty;Ummmm... hmmmm... no.;อืมมมมม... ไม่
 CAQC001RA;Raz;Hey Maloof, can I join in?;
 CAQC002MF;Maloof;Sorry, Raz. This our thing.;
 CAQD003RA;Raz;Come on, Maloof, give me a chance.;
@@ -1099,32 +1099,32 @@ CAQF007RA;Raz;Hey--;
 CAQF008MF;Maloof;I have a sentimental weakness for you, Raz. But you talk when you should listen.;
 CAQG001RA;Raz;Hey Vernon, what's up?;
 CAQG002VE;Vernon;I'm looking for Dogen, Elka, and Milka.;
-CAQH003RA;Raz;Any luck finding those guys, Vernon?;
-CAQH004VE;Vernon;Nope, not yet.;
-CAQI001RA;Raz;Excuse me--;
-CAQI002FO;Ford;I told you them burgers ain't ready!!!;
-CAQI003RA;Raz;Uh, no you didn't.;
-CAQI004FO;Ford;The coals ain't hot! They're not going to be done for a while. Maybe a week.;
-CAQI005RA;Raz;A week?;
-CAQI006FO;Ford;They're backordered. I'm the only one back here! These things take time.;
-CAQI007RA;Raz;I don't even want a hamburger!;
-CAQI008FO;Ford;Oh, well why didn't you say so?;
-CAQI009FO;Ford;So what DO you want?;
-CAQJ010RA;Raz;Hey, where's my hamburger?;
-CAQJ011FO;Ford;Grrr! I told you--;
-CAQJ012RA;Raz;Just kidding! I just want to buy stuff.;
-CAQJ013FO;Ford;Don't push me, Sonny. I can reach you with this spatula.;
-CAQK014RA;Raz;Hey, anything new in the store?;
-CAQK015FO;Ford;Take a look.;
-CAQL016FO;Ford;Now leave me alone. I'm cooking!;
-CAQM001RA;Raz;Hey, how'd you get out here?;
-CAQM002FO;Ford;I'm supposed to be here! I'm the Ranger!;
+CAQH003RA;Raz;Any luck finding those guys, Vernon?;มีดวงเจอใครบ้างไหม เวอร์นอน?
+CAQH004VE;Vernon;Nope, not yet.;ไม่ ยังเลย
+CAQI001RA;Raz;Excuse me--;โทษทีนะ--
+CAQI002FO;Ford;I told you them burgers ain't ready!!!;ฉันบอกพวกนายไปแล้วไง เบอร์เกอร์ยังไม่เสร็จ!!!
+CAQI003RA;Raz;Uh, no you didn't.;ไม่ใช่ครับ
+CAQI004FO;Ford;The coals ain't hot! They're not going to be done for a while. Maybe a week.;ถ่านยังไม่ร้อนน่ะ และคงไม่ร้อนในอาทิตย์นี้แน่
+CAQI005RA;Raz;A week?;อาทิตย์เลยหรอ?
+CAQI006FO;Ford;They're backordered. I'm the only one back here! These things take time.;เจ้าพวกนั่นสั่งอาหารไว้แล้ว แต่ฉันเป็นคนเดียวที่อยู่ที่นี่ ของพวกนี้มันต้องใช้เวลา
+CAQI007RA;Raz;I don't even want a hamburger!;ผมไม่ได้จะเอาแฮมเบอร์เกอร์!
+CAQI008FO;Ford;Oh, well why didn't you say so?;อ้าว แล้วทำไมไม่รีบบอกล่ะ
+CAQI009FO;Ford;So what DO you want?;งั้นนายจะ”เอาอะไร”?
+CAQJ010RA;Raz;Hey, where's my hamburger?;เฮ้ แฮมเบอร์เกอร์ผมล่ะ?
+CAQJ011FO;Ford;Grrr! I told you--;ฉันบอกแล้วไง--
+CAQJ012RA;Raz;Just kidding! I just want to buy stuff.;ล้อเล่นครับ! ผมอยากซื้ออะไรหน่อย
+CAQJ013FO;Ford;Don't push me, Sonny. I can reach you with this spatula.;อย่ามากดดันฉันนะ เจ้าหนู ฉันเอื้อมถึงนายได้ด้วยไม้พายอันนี้
+CAQK014RA;Raz;Hey, anything new in the store?;เฮ้ มีอะไรใหม่ไหมครับ?
+CAQK015FO;Ford;Take a look.;ลองดูเอาสิ
+CAQL016FO;Ford;Now leave me alone. I'm cooking!;เอาล่ะไปไหนก็ไป ฉันจะทำอาหาร!
+CAQM001RA;Raz;Hey, how'd you get out here?;เฮ้ คุณมาที่นี่ได้ยังไง?
+CAQM002FO;Ford;I'm supposed to be here! I'm the Ranger!;ฉันควรจะอยู่ที่นี่! ฉันคือเจ้าหน้าที่ป่าไม้!
 CAQM003FO;Ford;You're the one who shouldn't be out here, Sonny.;
 CAQM004FO;Ford;This part of the woods is, uh... its not normal, see. Not safe.;
 CAQM005FO;Ford;I've seen some things... ohhh... and I've heard some things...;
 CAQM006FO;Ford;Like that? Ya hear that?;
 CAQM007FO;Ford;Now get yourself up to the main lodge and stay by the fire where it's safe.;
-CAQU001FO;Ford;Finest of the fleet!;
+CAQU001FO;Ford;Finest of the fleet!;ดีที่สุดในกองเรือ
 CAQU002RA;Raz;I'll take good care of her, sir!;
 CAQU003FO;Ford;Now don't take 'er out too far!;
 CAQU004FO;Ford;That lake isn't as peaceful or as harmless as she looks, mm-hmm...;
@@ -1216,18 +1216,18 @@ CACV002NI;Nils;Nope. Just Maloof. And he's crying. I've heard that's what happen
 CACX000RA;Raz;Hey, Dogen! I got a secret for you.;เฮ้ โดแกน! ฉันมีความลับจะบอก
 CACX001RA;Raz;(...whisper-whisper...);(...กระซิบ...)
 CACX002RA;Raz;...Nils...;...นิลส์...
-CACX004EL;Elka;Hey, not fair! Whispering is so rude!;
-CACX005EL;Elka;What did he tell you, Dogen?;
-CACY000RA;Raz;Hey, look at this button I found on Nils' bunk.;
-CACY001RA;Raz;It looks like it came off a girl's dress.;
-CACY003EL;Elka;I don't care.;
-CACY004RA;Raz;Looks like it was just torn off by force!;
-CACY005RA;Raz;It's got little teeth marks on it!;
-CACY006EL;Elka;GET THAT THING OUT OF MY FACE BEFORE I SHOVE IT IN YOUR EYE SOCKET AND SEW IT TO YOUR BRAIN!;
-CACY007DO;Dogen;Nils kisses girls on the mouth and likes it.;
-CACY008EL;Elka;Why don't you just take off your hat and kill me, Dogen?;
-CACY009DO;Dogen;I dunno.;
-CACZ000RA;Raz;But I need to get to Sasha Nein's secret lab!;
+CACX004EL;Elka;Hey, not fair! Whispering is so rude!;เฮ้ ไม่ยุติธรรมนี่ กระซิบกันมันเสียมารยาทนะ
+CACX005EL;Elka;What did he tell you, Dogen?;เขาพูดอะไรกับนาย โดแกน
+CACY000RA;Raz;Hey, look at this button I found on Nils' bunk.;เฮ้ ดูกระดุมนี่สิ ฉันเจอมันบนเตียงของนิลส์ล่ะ
+CACY001RA;Raz;It looks like it came off a girl's dress.;มันดูเหมือนจะหลุดมาจากชุดของผู้หญิงเลย
+CACY003EL;Elka;I don't care.;ฉันไม่สน
+CACY004RA;Raz;Looks like it was just torn off by force!;มันดูเหมือนโดนกระชากอย่างแรงเลย
+CACY005RA;Raz;It's got little teeth marks on it!;มีรอยฟัน เล็ก ๆ อยู่บนนี้ด้วย
+CACY006EL;Elka;GET THAT THING OUT OF MY FACE BEFORE I SHOVE IT IN YOUR EYE SOCKET AND SEW IT TO YOUR BRAIN!;“เอาสิ่งนั้นออกไปให้พ้นหน้าฉัน ก่อนที่ ฉันจะยัดมันเข้าไปในเบ้าตาของนาย และ เย็บมันเข้าไปในสมองนาย”
+CACY007DO;Dogen;Nils kisses girls on the mouth and likes it.;นิลส์ได้จูบปากสาวๆ และก็ชอบด้วย
+CACY008EL;Elka;Why don't you just take off your hat and kill me, Dogen?;ทำไมนายไม่ถอดหมวกนั่นแล้วฆ่าฉันซะเลยล่ะ โดแกน
+CACY009DO;Dogen;I dunno.;ไม่รู้สิ
+CACZ000RA;Raz;But I need to get to Sasha Nein's secret lab!;แต่ฉันต้องไปห้องแล็ปลับของซาชา ไนน์ให้ได้!
 CADA000RA;Raz;Where'd you get your clothes? Because my sister, she's kind of fat and she has so much trouble finding good stuff.;เธอไปเอาชุดนั่นมาจากไหนเหรอ พอดีพี่ฉัน เธอค่อนข้าง"อ้วน" และมักมีปัญหามากๆ ในการหาชุดที่มันพอดีตัวไม่ค่อยจะได้น่ะ
 CADA001KI;Kitty;WHAT?;ไงนะ?
 CADA002RA;Raz;I said, do you know where Sasha's secret lab is?;ฉันพูดว่า เธอรู้ไหมว่า แล็ปลับของซาช่า อยู่ที่ไหนน่ะ?
@@ -1273,30 +1273,30 @@ CADH003CM;Clem;Red button is the best!;
 CADH004CF;Crystal;It fastens up my vest!;
 CADH005CM;Clem;If it breaks like the rest,;
 CADH006CF;Crystal;The boys will see my chest!;
-CADI000JT;J.T.;Hey, you're that new kid, ain't ya?;
-CADI001RA;Raz;Well, I'm doing some advanced training right now as a matter of fact, so I don't think "New Kid" is really a name that you want to get too used to saying.;
-CADI002CP;Chops;Hold on there. You're not doing Sasha Nein's advanced training that he does in his secret, underground lab are you?;
-CADI003CP;Chops;Hidden deep within the iron walls of the GPC where no one can hear you screaming?;
-CADI004RA;Raz;Why, yes I am.;
-CADI005JT;J.T.;Sakes alive!;
-CADI006CP;Chops;Well, nice knowing you.;
+CADI000JT;J.T.;Hey, you're that new kid, ain't ya?;เฮ้ นายมันเด็กใหม่ใช่ไหมเนี่ย
+CADI001RA;Raz;Well, I'm doing some advanced training right now as a matter of fact, so I don't think "New Kid" is really a name that you want to get too used to saying.;ก็ ตอนนี้ฉันกำลังจะไปฝึกหลักสูตรขั้นสูงอยู่อะนะ ดังนั้นฉันไม่คิดว่า “เด็กใหม่” จะเป็นชื่อที่พวกนายควรเรียกซักเท่าไรนะ
+CADI002CP;Chops;Hold on there. You're not doing Sasha Nein's advanced training that he does in his secret, underground lab are you?;ช้าก่อนนะ นายคงจะไม่ได้ไปฝึกหลักสูตรขั้นสูงของ ซาช่า ไนน์ ที่แล็ปลับใต้ดินของเขาหรอกใช่ไหม
+CADI003CP;Chops;Hidden deep within the iron walls of the GPC where no one can hear you screaming?;ที่ซ่อนลึกลงไปใต้ผนังเหล็กของ GPC ที่จะไม่มีใครได้ยินเสียงนายกรีดร้องอะนะ
+CADI004RA;Raz;Why, yes I am.;ทำไมเหรอ ใช่ ฉันจะไปที่นั่นแหละ
+CADI005JT;J.T.;Sakes alive!;โอ้พระเจ้าช่วยกล้วยทอด
+CADI006CP;Chops;Well, nice knowing you.;งั้นก็ ยินดีที่ได้รู้จักนะ
 CADJ000RA;Raz;Hey, I brought you a new guitar pick. Look.;
 CADJ001JT;J.T.;Aw, quit foolin'. That's just a button you took from the GPC across the creek.;
 CADJ002CP;Chops;Probably radioactive.;
 CADJ003JT;J.T.;Dang! Git that outta here!;
-CADL000RA;Raz;Hey, look, Chloe. I found a tiny, red space ship.;
-CADL001CH;Chloe;Nice fake Trynaxian Cruiser, Raz. But if you'd done even the most basic research, you'd know that real Trynaxian Cruisers have SIX viewports on top, not four.;
-CADL002RA;Raz;Well I guess you just haven't seen THIS YEAR'S Trynaxian Cruiser then.;
-CADL003CH;Chloe;The Trynaxian galaxy exploded 400 years ago.;
-CADL004RA;Raz;Oh my god. This must be really valuable then. ;
-CADN000BZ;Bobby;HEY!;
-CADN001BN;Benny;Ay!;
-CADP000RA;Raz;Hey, check out this weird button!;
-CADP001BZ;Bobby;Gah! No! Don't put me back in there! Please! I'll be good!;
-CADP002BN;Benny;Hey, boss! Boss! What's wrong?;
-CADP003BZ;Bobby;Uh, nothing. It's just, that button reminds me of a bad place. That's all. ;
-CADP004BN;Benny;You heard the man. Get that button outta here!;
-CADQ000PH;Phoebe;Why I oughtta...;
+CADL000RA;Raz;Hey, look, Chloe. I found a tiny, red space ship.;เฮ้ ดูสิ โคลอี้ ฉันเจอยานอวกาศลำเล็กสีแดงมาล่ะ
+CADL001CH;Chloe;Nice fake Trynaxian Cruiser, Raz. But if you'd done even the most basic research, you'd know that real Trynaxian Cruisers have SIX viewports on top, not four.;เป็นยานลาดตระเวน Trynaxian ปลอมที่ดีนะแรซ แต่ถ้านายได้วิจัยขั้นพื้นฐานอย่างถ่องแท้แล้ว นายจะรู้ว่า ยานลาดตระเวน Trynaxian ของจริง ต้องมีจุดสังเกตการณ์ 6 จุดอยู่ข้างบน ไม่ใช่ 4
+CADL002RA;Raz;Well I guess you just haven't seen THIS YEAR'S Trynaxian Cruiser then.;เดาว่า เธอคงไม่เคยเห็นยานลาดตระเวน Trynaxian ของ ”ปีนี้” สินะ
+CADL003CH;Chloe;The Trynaxian galaxy exploded 400 years ago.;กาแล็กซี Trynaxian ระเบิดเมื่อ 400 ปีก่อนนะ
+CADL004RA;Raz;Oh my god. This must be really valuable then. ;โอ้พระเจ้า. งั้นเจ้านี่ต้องมีค่ามากแน่
+CADN000BZ;Bobby;HEY!;HEY!
+CADN001BN;Benny;Ay!;Ay!
+CADP000RA;Raz;Hey, check out this weird button!;เฮ้ ลองดูกระดุมแปลกๆ นี่สิ!
+CADP001BZ;Bobby;Gah! No! Don't put me back in there! Please! I'll be good!;อย่าเอาฉันกลับไปไว้ที่นั้นอีกนะ! ได้โปรด! ฉันจะเป็นเด็กดี!
+CADP002BN;Benny;Hey, boss! Boss! What's wrong?;เฮ้ บอส! บอส! เกิดอะไรขึ้น?;
+CADP003BZ;Bobby;Uh, nothing. It's just, that button reminds me of a bad place. That's all. ;เอ่อ ไม่มีอะไรหรอก แค่กระดุมนั้นทำให้ฉันนึกถึงที่แย่ๆ เท่านั้นเอง
+CADP004BN;Benny;You heard the man. Get that button outta here!;ได้ยินที่เขาพูดแล้วนี่ เอากระดุมนั้นออกไปห่างๆ ซะ!
+CADQ000PH;Phoebe;Why I oughtta...;ทำไม ฉันควร...
 CADQ001QU;Quentin;Simmer down there, Phoebe. You promised Milla you wouldn't burn any more kids.;
 CADQ002PH;Phoebe;Grr. Okay.;
 CADR000RA;Raz;Hey, just pretend this is a lighter.;
@@ -1386,7 +1386,7 @@ CAEM008BZ;Bobby;Ah ha ha ha! No brains! Ha ha ha!;
 CAEM009RA;Raz;(Sigh.);
 CAEN000RA;Raz;Whoa, uh, Elton. I hope you're not waiting for me.;
 CAEN001RA;Raz;Oh, jeez. Sorry. Carry on, Sailor.;
-CAEO000RA;Raz;Admiral Cruller... ;
+CAEO000RA;Raz;Admiral Cruller... ;นายพลเรือ ครอลเลอร์ครับ...
 CAEO001RA;Raz;That canoe... are you...;
 CAEO002RA;Raz;...in love with it?;
 CAEO003FO;Ford;What? No! I'm just checking it for psychic residue!;
@@ -1591,73 +1591,73 @@ CAGD021MI;Milla;There are other ways to meet girls, Razputin.;
 CAGD023FO;Ford;I told you them burgers ain't ready!;
 CAGD024FO;Ford;This part of the forest is off limits! Now git!;
 CAGD025FO;Ford;Stop starin' at my mops!;
-CAGD026FO;Ford;You will call me ADMIRAL, Sonny!;
+CAGD026FO;Ford;You will call me ADMIRAL, Sonny!;นายต้องเรียกฉันว่า "นายพลเรือ" เจ้าหนู
 CAGD027CO;Coach;Oooh-ooooh... Mr. Bun, where you going? Ohhhh�;
 CAGE000RA;Raz;Hey can I buy some stuff?;
 CAGE001FO;Ford;Yeah, but hurry up. I don't want to burn my burgers. ;
-GLZB013TO;System;Dream Fluff;
-CAGE003FO;Ford;Mmmm. Dream Fluffs! Delicious, nutritious and cheap!;
-CAGE004FO;Ford;Each one is packed with concentrated mental health!;
-CAGE005FO;Ford;You shouldn't go anywhere without a pocket full of those!;
-GLZB014TO;System;PSI Core;
-CAGE007FO;Ford;Now you take that PSI CORE there...;
-CAGE008FO;Ford;Put it together with nine PSI CARDS, and you'll have yourself a brand new PSI Challenge Marker!;
-CAGE009FO;Ford;Which is worth a whole rank, you know.;
-GLZB015TO;System;Cobweb Duster;
-GLZH019TO;System;Rank requirement: 15;
-CAGE012FO;Ford;Oh that's my last Cobweb Duster.;
-CAGE013FO;Ford;Take that into someone's mind with ya, you can clean up!;
-CAGE014FO;Ford;They're happy to be rid of the webs, and you can turn them in for PSI Cards!;
-GLZB016TO;System;Dowsing Rod;
-GLZH020TO;System;Rank Requirement: 10;
-CAGE017FO;Ford;Now that Dowsing Rod will help you find arrowheads that are buried DEEP.;
-CAGE018FO;Ford;That's where all the really valuable ones are, you know. ;
-CAGE019FO;Ford;Find three or four deep deposits and that baby pays for itself.;
-CAGE020FO;Ford;It costs you money because it MAKES you money!;
-GLZB017TO;System;PSI Energy Colorizer;
-GLZH021TO;System;Rank Requirement: 40;
-CAGE023FO;Ford;Now with that, you can change the color of some of your PSI powers, like your Levitation Ball, and what have you and whatnot.;
-CAGE024FO;Ford;Well. kind of a vanity thing. In my day PSI powers were all gray and we thought that was grand. We were happy just to HAVE PSI powers. Ah, but you know kids these days.;
-CAZB004TO;System;Posters;
-CAGE026FO;Ford;Eh, got some posters here.;
-CAGE027FO;Ford;You can hang 'em in your cabin.;
-CAGE028FO;Ford;Makes it just like home!;
-CAGE029RA;Raz;Hey, can you put that on my tab?;
-CAGE030FO;Ford;Ah, sorry, mac. No can do. We only trade in hard, cold, Psitanium Arrowheads here.;
-CAGE031FO;Ford;If you don't have enough, why don't you run around outside a bit and dig some up?;
-CAGE032FO;Ford;Or crack open some mental vaults. Always something valuable in a vault!;
-CAGE033RA;Raz;I don't have enough arrowheads for that!;
-CAGE034FO;Ford;Well then, quit lookin' at it!;
-CAGE035FO;Ford;Ah, it doesn't look like you've got the rank you need there, kiddo.;
-CAGE036FO;Ford;And there's no excuse for that! Plenty of ways to get promoted around here!;
-CAGE037FO;Ford;Collecting mental figments and cobwebs helps you rank up. So does finding PSI challenge markers, or building them out of PSI cards and cores.;
-CAGE038FO;Ford;You also rank up when you sort people's emotional baggage, and if you want to skip a bunch of ranks at once, well you should talk to the camp Ranger about his Scavenger Hunt contest.;
-CAGE039RA;Raz;I don't have a high enough rank to buy that yet!;
-CAGE040FO;Ford;Not yet. But maybe in a few years.;
-CAGE041RA;Raz;I'll take it!;
-CAGE042FO;Ford;Alrighty then. ;
-CAGE043FO;Ford;Excellent choice!;
-CAGE044FO;Ford;Sold! To the big-headed kid with the gloves!;
-CAGE045FO;Ford;What else can I do you for?;
-CAGE046RA;Raz;That's it for now.;
-CAGE047FO;Ford;Alright. Go get more arrowheads and come on back.;
-CAGE048FO;Ford;Support your local merchants!;
-CAGF000RA;Raz;Oof! Hey...;
-CAGF001BY;Minecart-System;Welcome to the Whispering Rocket Underground Rapid Transit System.;
-CAGF002BY;Minecart-System;Would you like to go back to your private sanctuary now, Agent Cruller? Or... somewhere else?;
-CAGF003BY;Minecart-System;Where would you like me to take you, Agent Cruller?;
-CAGF004RA;Raz;Take me to the Kids' Cabins area.;
-CAGF005BY;Minecart-System;With pleasure.;
-CAGF006RA;Raz;Drop me outside the main lodge.;
-CAGF007BY;Minecart-System;Oh, bring me back a burger this time, will you?;
-CAGF008RA;Raz;I'm headed for the parking lot.;
-CAGF009BY;Minecart-System;I hope you're not leaving us, sir.;
-CAGF010RA;Raz;I want to go to the campfire area.;
-CAGF011BY;Minecart-System;Mmm. You look so cute in that janitor outfit!;
-CAGF012RA;Raz;Let's go to Ford's--I mean, MY sanctuary.;
-CAGF013BY;Minecart-System;Yes, noble Psychomaster.;
-CAGF014RA;Raz;It's time to go to the lake!;
-CAGF015BY;Minecart-System;Yessir, Admiral Sir!;
+GLZB013TO;System;Dream Fluff;ปุ่ยนุ่นแห่งความฝัน
+CAGE003FO;Ford;Mmmm. Dream Fluffs! Delicious, nutritious and cheap!;อืม ขนมปุ่ยนุ่นแห่งฝันแสนอร่อย มีคุณค่าทางโภชนาการและราคาถูก!
+CAGE004FO;Ford;Each one is packed with concentrated mental health!;แต่ละชิ้นอัดแน่นไปด้วยพลังสุขภาพจิตเข้มข้น
+CAGE005FO;Ford;You shouldn't go anywhere without a pocket full of those!;นายไม่ควรไปไหนมาไหนโดยไม่พกเจ้านี้ไว้ให้เต็มกระเป๋า
+GLZB014TO;System;PSI Core;PSI Core
+CAGE007FO;Ford;Now you take that PSI CORE there...;นายเอา PSI Core นี่...
+CAGE008FO;Ford;Put it together with nine PSI CARDS, and you'll have yourself a brand new PSI Challenge Marker!;ไปรวมเข้ากับการ์ดทั้ง 9 และนายก็จะได้เครื่องหมายท้าทาย (PSI challenge Marker) แบรนด์ใหม่ของนายเอง
+CAGE009FO;Ford;Which is worth a whole rank, you know.;มีค่ากับการเลื่อนยศมากเลยนะ นายรู้ไหม
+GLZB015TO;System;Cobweb Duster;Cobweb Duster
+GLZH019TO;System;Rank requirement: 15;Rank requirement: 15
+CAGE012FO;Ford;Oh that's my last Cobweb Duster.;โอ้ นั่นมันเครื่องดูดหยากไย่ เครื่องสุดท้ายของฉัน
+CAGE013FO;Ford;Take that into someone's mind with ya, you can clean up!;เอามันติดตัวไปในจิตใจใครสักคน แล้วนายก็จะสามารถใช้มันทำความสะอาดได้!
+CAGE014FO;Ford;They're happy to be rid of the webs, and you can turn them in for PSI Cards!;พวกเขาคงมีความสุขที่ได้ปัดกวาดหยากไย่ และนายก็สามารถนำหยากไย่พวกนั้นไปแลกเป็น PSI Card ได้ 
+GLZB016TO;System;Dowsing Rod;แท่งดาวซิ่ง
+GLZH020TO;System;Rank Requirement: 10;Rank Requirement: 10
+CAGE017FO;Ford;Now that Dowsing Rod will help you find arrowheads that are buried DEEP.;เจ้าแท่งดาวซิ่งนั่น จะช่วยให้นายตามหาหัวศรที่อยู่ลึกลงไปใต้ดินได้
+CAGE018FO;Ford;That's where all the really valuable ones are, you know. ;ที่ซึ่งของล้ำค่าทั้งหมดอยู่ที่นั่นล่ะ นายรู้มั้ย
+CAGE019FO;Ford;Find three or four deep deposits and that baby pays for itself.;ลงทุนลงแรงไปสัก 3 4 ครั้ง เดี๋ยวเจ้าหนูพวกนั้นจะตอบแทนนายเอง
+CAGE020FO;Ford;It costs you money because it MAKES you money!;ใช้เงินเพื่อผลิดเงินไงล่ะ!
+GLZB017TO;System;PSI Energy Colorizer;เครื่องเปลี่ยนสีพลังจิต
+GLZH021TO;System;Rank Requirement: 40;Rank Requirement: 40
+CAGE023FO;Ford;Now with that, you can change the color of some of your PSI powers, like your Levitation Ball, and what have you and whatnot.;ด้วยเจ้านี่ นายสามารถเปลี่ยนสีพลังจิตของนายได้ อย่างพวกลูกบอลลอยตัวและพลังอื่นๆ ที่นายมีและไม่มี
+CAGE024FO;Ford;Well. kind of a vanity thing. In my day PSI powers were all gray and we thought that was grand. We were happy just to HAVE PSI powers. Ah, but you know kids these days.;ก็นะ อาจจะดูเป็นของไร้สาระ สมัยฉันพลังจิตล้วนเป็นสีเทาและเราคิดว่ามันเป็นสิ่งที่สุดยอด เราทุกคนมีความสุขขอเพียงแค่ ”มี” พลังจิตก็พอ อา แต่นายก็รู้ว่าเด็กสมัยนี้เป็นยังไงอ่ะนะ
+CAZB004TO;System;Posters;โปสเตอร์
+CAGE026FO;Ford;Eh, got some posters here.;เอ่อ มีโปสเตอร์อยู่นะ
+CAGE027FO;Ford;You can hang 'em in your cabin.;นายสามารถแขวนมันไว้ในกระท่อมนายได้นะ
+CAGE028FO;Ford;Makes it just like home!;ทำให้เหมือนเป็นบ้านไง
+CAGE029RA;Raz;Hey, can you put that on my tab?;เฮ้ คุณช่วยใส่สิ่งนั้นลงในแท็บของผมได้ไหม?
+CAGE030FO;Ford;Ah, sorry, mac. No can do. We only trade in hard, cold, Psitanium Arrowheads here.;อ๋อ โทษทีนะ แม็ก เราไม่สามารถทำแบบนั้นได้ เรารับแลกแค่กับหัวศรไซเทเนียมเท่านั้น
+CAGE031FO;Ford;If you don't have enough, why don't you run around outside a bit and dig some up?;ถ้านายมีไม่พอ ทำไมนายไม่ลองออกไปวิ่งเล่นข้างนอกและขุดมันขึ้นมาดูล่ะ?
+CAGE032FO;Ford;Or crack open some mental vaults. Always something valuable in a vault!;หรือเจาะเข้าไปในตู้เซฟแห่งจิตใจ มีของมีค่าในตู้เสมอนั่นล่ะ!
+CAGE033RA;Raz;I don't have enough arrowheads for that!;ผมไม่มีหัวศรพอสำหรับสิ่งนั้น!
+CAGE034FO;Ford;Well then, quit lookin' at it!;ถ้าอย่างนั้นก็ลืมมันไปซะเถอะ!
+CAGE035FO;Ford;Ah, it doesn't look like you've got the rank you need there, kiddo.;อ๋อ ดูเหมือนยศนายจะยังไม่ถึงนะ หนูน้อย
+CAGE036FO;Ford;And there's no excuse for that! Plenty of ways to get promoted around here!;และไม่มีข้อแก้ตัว! มีหลายวิธีในการเลื่อนยศที่นี่!
+CAGE037FO;Ford;Collecting mental figments and cobwebs helps you rank up. So does finding PSI challenge markers, or building them out of PSI cards and cores.;การสะสมเศษจินตภาพและหยากไย่จะช่วยให้คุณเลื่อนอันดับได้ การค้นหาเครื่องหมายความท้าทาย หรือการสร้างมันขึ้นมาจากการ์ดและ PSI Core ก็ช่วยได้เช่นกัน
+CAGE038FO;Ford;You also rank up when you sort people's emotional baggage, and if you want to skip a bunch of ranks at once, well you should talk to the camp Ranger about his Scavenger Hunt contest.;นายยังได้รับอันดับเพิ่มขึ้น เมื่อนายจัดสัมภาระอารมณ์ให้กับผู้คน และหากนายต้องการเลื่อนยศในคราวเดียว นายควรไปคุยกับเจ้าหน้าที่พิทักษ์ป่าประจำค่ายเกี่ยวกับการแข่งขันล่าสมบัติของเขา
+CAGE039RA;Raz;I don't have a high enough rank to buy that yet!;ฉันไม่มีอันดับที่สูงพอที่จะซื้อมันได้นะ!
+CAGE040FO;Ford;Not yet. But maybe in a few years.;ยังไม่มา แต่คงจะมีอีกไม่กี่ปีนี่แหละ
+CAGE041RA;Raz;I'll take it!;ผมจะเอานี่!
+CAGE042FO;Ford;Alrighty then. ;โอเค งั้นก็ได้.
+CAGE043FO;Ford;Excellent choice!;เลือกได้เยี่ยม!
+CAGE044FO;Ford;Sold! To the big-headed kid with the gloves!;ขาย! ให้กับเด็กหัวโตสวมถุงมือนี่!
+CAGE045FO;Ford;What else can I do you for?;มีอะไรให้ช่วยอีกไหม?
+CAGE046RA;Raz;That's it for now.;พอแล้วครับ 
+CAGE047FO;Ford;Alright. Go get more arrowheads and come on back.;ได้เลย ไปเก็บหัวศรและกลับมาอีกล่ะ
+CAGE048FO;Ford;Support your local merchants!;สนับสนุนพ่อค้าท้องถิ่นกันหน่อย!
+CAGF000RA;Raz;Oof! Hey...;Oof! Hey...
+CAGF001BY;Minecart-System;Welcome to the Whispering Rocket Underground Rapid Transit System.;ยินดีต้อนรับสู่ระบบรถรางใต้ดิน Whispering Rocket
+CAGF002BY;Minecart-System;Would you like to go back to your private sanctuary now, Agent Cruller? Or... somewhere else?;คุณต้องการที่จะกลับไปยังที่พักส่วนตัวแล้วหรือยังคะ สายลับครอลเลอร์...หรือต้องการจะไปที่อื่น 
+CAGF003BY;Minecart-System;Where would you like me to take you, Agent Cruller?;คุณอยากให้ฉันพาคุณไปที่ไหนดีคะ สายลับครอลเลอร์?
+CAGF004RA;Raz;Take me to the Kids' Cabins area.;พาฉันไปกระท่อมเด็กๆ
+CAGF005BY;Minecart-System;With pleasure.;ตามบัญชา
+CAGF006RA;Raz;Drop me outside the main lodge.;ไปส่งฉันที่ด้านนอกแถวกระท่อมส่วนกลาง
+CAGF007BY;Minecart-System;Oh, bring me back a burger this time, will you?;โอ้ คราวนี้เอาเบอร์เกอร์มาฝากฉันด้วยไหมคะ?
+CAGF008RA;Raz;I'm headed for the parking lot.;มุ่งหน้าไปที่ลานจอดรถ
+CAGF009BY;Minecart-System;I hope you're not leaving us, sir.;ฉันหวังว่าคุณคงไม่ทิ้งเราไปไหนนะคะ
+CAGF010RA;Raz;I want to go to the campfire area.;ฉันอยากไปแถวที่ก่อกองไฟ
+CAGF011BY;Minecart-System;Mmm. You look so cute in that janitor outfit!;คุณดูน่ารักมากในชุดภารโรงค่ะ
+CAGF012RA;Raz;Let's go to Ford's--I mean, MY sanctuary.;ไปเลย มุ่งสู่ ที่พักของฟอร์... หมายถึง ที่พักของฉัน
+CAGF013BY;Minecart-System;Yes, noble Psychomaster.;รับทราบค่ะ ไซโคนอทผู้ทรงเกียรติ
+CAGF014RA;Raz;It's time to go to the lake!;ได้เวลาไปทะเลสาบ
+CAGF015BY;Minecart-System;Yessir, Admiral Sir!;รับทราบค่ะ ท่านนายพล
 CAGF016RA;Raz;Bring me near the Geodesic Psychoisolation Chamber.;
 CAGF017BY;Minecart-System;Roger that, Ranger Cruller!;
 CAGF018RA;Raz;Nowhere! I just like to come down here to hear your voice.;
@@ -1665,34 +1665,34 @@ CAGF019BY;Minecart-System;Pop in anytime, sir.;
 CAGG000SA;Sasha;Is that the cleaning lady? ;
 CAGG001SA;Sasha;I'll get those files out of your way, just as soon as I'm done with these... tests...;
 CAGG002SA;Sasha;Ah, yes. Thank you Razputin, for helping me clean up.;
-CAGH000RA;Raz;Is this going to hurt?;
-CAGH001RA;Raz;Have you tested this thing out on humans yet?;
-CAGH002RA;Raz;Will I get in trouble with Milla? She told me not to take any paranormal training while I'm here.;
-CAGH003RA;Raz;Could you try it first?;
-CAGH004RA;Raz;Okay, I'm ready to learn how to really fight!;
-CAGH005SA;Sasha;Oh. Really? Hm.;
-CAGH006RA;Raz;What?;
-CAGH007SA;Sasha;Uh, nothing. It's just that I didn't think you'd really take me up on that offer. It usually scares the kids off.;
-CAGH008RA;Raz;Well, not me. I'm ready to kill for my camp!;
-CAGH009SA;Sasha;Listen, I'm sorry, but I can't train you. Agent Vodello would kill me.;
-CAGH010RA;Raz;What's the big deal? What she doesn't know won't hurt her.;
-CAGH011SA;Sasha;You don't even have a Marksmanship Learner's Permit. I could lose my job!;
-CAGH012RA;Raz;I'll get one!;
-CAGH013SA;Sasha;Even if you used that secret passage over there and snuck into his sanctuary...;
-CAGH014SA;Sasha;Agent Cruller would never give you a Marksmanship Learner's permit.;
-CAGH015RA;Raz;Agent Cruller...;
-CAGH016SA;Sasha;Never in a million--;
-CAGH017RA;Raz;I'm off! Be right back after I talk with Agent Cruller!;
-CAGH018SA;Sasha;Did you convince Agent Cruller to give you a Marksmanship Learner's Permit yet?;
-CAGH019RA;Raz;Oh... uh... yes. But I left it in my other pants. Be right back.;
-CAGH020RA;Raz;Okay I got it. Check it out.;
-CAGH021SA;Sasha;Well my ass is covered.;
-CAGH022SA;Sasha;Are you sure you are ready to do this? It could be dangerous.;
-CAGH023RA;Raz;Yes! Are you going to pull me into your mind like the Coach did?;
-CAGH024SA;Sasha;Ha. No offense, but it's time you saw what an organized mind looks like.;
-CAGH025RA;Raz;Almost! I just have to get my affairs in order first.;
-CAGH026RA;Raz;Just in case I die.;
-CAGH027SA;Sasha;Come back when you are ready.;
+CAGH000RA;Raz;Is this going to hurt?;มันจะเจ็บมั้ย?
+CAGH001RA;Raz;Have you tested this thing out on humans yet?;คุณได้ทดลองสิ่งนี้กับมนุษย์แล้วหรือยัง?
+CAGH002RA;Raz;Will I get in trouble with Milla? She told me not to take any paranormal training while I'm here.;ผมจะมีปัญหากับคุณมิลล่าหรือเปล่า เธอบอกผมว่า อย่าไปเรียนหลักสูตรอะไรก็ตามตอนที่ผมอยู่ที่นี่
+CAGH003RA;Raz;Could you try it first?;คุณลองก่อนได้ไหม?
+CAGH004RA;Raz;Okay, I'm ready to learn how to really fight!;โอเค ผมพร้อมที่จะเรียนวิธีการต่อสู้แล้ว
+CAGH005SA;Sasha;Oh. Really? Hm.;โอ้ จริงเหรอ? ฮืมม
+CAGH006RA;Raz;What?;อะไรเหรอ
+CAGH007SA;Sasha;Uh, nothing. It's just that I didn't think you'd really take me up on that offer. It usually scares the kids off.; เอ่อ ปล่าว ก็แค่ฉันไม่คิดว่าเธอจะรับข้อเสนอนั้น เด็กๆ มักจะกลัวกัน
+CAGH008RA;Raz;Well, not me. I'm ready to kill for my camp!;ไม่ใช่ผม ผมพร้อมที่จะฆ่า เพื่อค่ายของผม
+CAGH009SA;Sasha;Listen, I'm sorry, but I can't train you. Agent Vodello would kill me.;ฟังนะ ฉันต้องขอโทษด้วย แต่ฉันไม่สามารถที่จะสอนเธอได้ สายลับโวเดลโล ต้องฆ่าฉันแน่
+CAGH010RA;Raz;What's the big deal? What she doesn't know won't hurt her.;เรื่องใหญ่เหรอครับ ถ้าเธอไม่รู้ก็ไม่เห็นเป็นอะไร
+CAGH011SA;Sasha;You don't even have a Marksmanship Learner's Permit. I could lose my job!;เธอไม่มีแม้แต่ “ใบอนุญาตฝึกยิง” (Marksmanship learner’s permit) ด้วยซ้ำ ฉันอาจถูกไล่ออกได้
+CAGH012RA;Raz;I'll get one!;ผมจะไปเอามา
+CAGH013SA;Sasha;Even if you used that secret passage over there and snuck into his sanctuary...;แม้ว่าเธอจะใช้เส้นทางลับนั่นและเข้าไปในที่พักของเขาได้ก็ตาม...
+CAGH014SA;Sasha;Agent Cruller would never give you a Marksmanship Learner's permit.;สายลับครอลเลอร์ ก็คงไม่มีวันให้ "ใบอนุญาตฝึกยิง" กับเธอแน่
+CAGH015RA;Raz;Agent Cruller...;สายลับครอลเลอร์...
+CAGH016SA;Sasha;Never in a million--;ไม่มีทาง ล้าน--
+CAGH017RA;Raz;I'm off! Be right back after I talk with Agent Cruller!;งั้นได้ ผมจะกลับมาหลังผมคุยกับ สายลับครอลเลอร์แล้ว
+CAGH018SA;Sasha;Did you convince Agent Cruller to give you a Marksmanship Learner's Permit yet?;เธอได้โน้มน้าว สายลับครอลเลอร์ ให้มอบ ใบอนุญาตฝึกยิง ให้กับเธอแล้วหรือยัง?
+CAGH019RA;Raz;Oh... uh... yes. But I left it in my other pants. Be right back.;อ๋อ...เอ่อ...ใช่ แต่ผมลืมมันไว้ในกางเกงอีกตัว เดี๋ยวผมมา
+CAGH020RA;Raz;Okay I got it. Check it out.;โอเค ผมได้มาแล้ว เริ่มกันเลย
+CAGH021SA;Sasha;Well my ass is covered.;เยี่ยม งั้นฉันก็ไม่โดนไล่ออกแล้ว
+CAGH022SA;Sasha;Are you sure you are ready to do this? It could be dangerous.;เธอแน่ใจนะว่าเธอพร้อมที่จะทำสิ่งนี้ มันอาจจะเป็นอันตรายได้นะ
+CAGH023RA;Raz;Yes! Are you going to pull me into your mind like the Coach did?;ครับ คุณจะดึงผมเข้าไปในจิตใจของคุณเหมือนอย่างที่ โค้ชทำใช่ไหมครับ
+CAGH024SA;Sasha;Ha. No offense, but it's time you saw what an organized mind looks like.;ฮืม ก็ไม่ผิด แต่มันคงถึงเวลาที่เธอจะได้เห็นว่าจิตใจที่เป็นระเบียบนั้นเป็นอย่างไร
+CAGH025RA;Raz;Almost! I just have to get my affairs in order first.;เกือบแล้ว! ผมแค่ต้องไปจัดการเรื่องของผมให้เรียบร้อยก่อน
+CAGH026RA;Raz;Just in case I die.;ในกรณีที่ผมไม่ตายนะ
+CAGH027SA;Sasha;Come back when you are ready.;กลับมาอีกที หากเธอพร้อมแล้ว
 CAGH028RA;Raz;Okay, time to face my big, diving-helmet spitting personal demons.;
 CAGH029SA;Sasha;That's the spirit.;
 CAGH030RA;Raz;Okay, I'm a certified levitator now. Ready to roll. ;
@@ -1703,14 +1703,14 @@ CAGH034SA;Sasha;I must call off the experiments until we know more.;
 CAGH035RA;Raz;Sasha, there's no time. I think my vision about Dogen came true. I'm worried it's going to happen to the others if we don't get to the bottom of this quick.;
 CAGH036SA;Sasha;But we don't know where the foreign projections are coming from yet.;
 CAGH037RA;Raz;Is there a faster way to find out than sending me in there to investigate?;
-CAGI000RA;Raz;Wow. Is this what the inside of my mind looks like?;
-CAGI001SA;Sasha;Not yet. You are still traveling through the astral plane.;
-CAGI002SA;Sasha;This is a tiny corner of what we call the Collective Unconscious--a place in which all of our unconscious minds are connected.;
-CAGI003SA;Sasha;You have just begun your training, Razputin, so many of the connections with other minds are still not developed for you, and those doorways remain just out of reach.;
-CAGI004SA;Sasha;But the more you explore the mental world, the more connections you will form.;
-CAGI005SA;Sasha;Right now the only unconscious world you can enter is that one.;
-CAGI006SA;Sasha;Your own.;
-CAGI007SA;Sasha;Step through it and we'll continue.;
+CAGI000RA;Raz;Wow. Is this what the inside of my mind looks like?;ว้าว ภายในจิตผมเป็นแบบนี้เหรอเนี่ย
+CAGI001SA;Sasha;Not yet. You are still traveling through the astral plane.;ยังไม่ใช่ นายยังท่องอยู่ในโลกระหว่างจิตและความจริง
+CAGI002SA;Sasha;This is a tiny corner of what we call the Collective Unconscious--a place in which all of our unconscious minds are connected.;นี่คือมุมเล็กๆ ของสิ่งที่เราเรียกว่า “จิตไร้สำนึกร่วม” ซึ่งเป็นสถานที่ซึ่งจิตไร้สำนึกของเราทุกคนเชื่อมต่อกัน
+CAGI003SA;Sasha;You have just begun your training, Razputin, so many of the connections with other minds are still not developed for you, and those doorways remain just out of reach.;เธอเพิ่งเริ่มต้นการฝึก แรซปูติน การเชื่อมต่อกับจิตใจอื่นๆ มากมาย ยังไม่ได้รับการพัฒนาสำหรับเธอและประตูเหล่านั้นก็อยู่ไกลเกินเอื้อม
+CAGI004SA;Sasha;But the more you explore the mental world, the more connections you will form.;แต่ยิ่งเธอสำรวจโลกแห่งจิตใจมากเท่าไร ความเชื่อมโยงก็จะยิ่งก่อตัวมากขึ้นเท่านั้น
+CAGI005SA;Sasha;Right now the only unconscious world you can enter is that one.;ตอนนี้ โลกไร้สำนึกเพียงโลกเดียวที่เธอสามารถเข้าไปได้คือ โลกนั้น
+CAGI006SA;Sasha;Your own.;ของเธอเอง
+CAGI007SA;Sasha;Step through it and we'll continue.;ก้าวเข้าไปและเราจะดำเนินการขั้นต่อไป
 CAGJ000CO;Coach;Oof!;Oof!
 CAGJ001RA;Raz;Hi. I'm here for Basic Braining?;ไง ฉันมาเรียน Basic Braining?
 CAGK000RA;Raz;They seem to all be in a trance while they astrally project themselves into the Coach's psyche.;ทุกคนเหมือนตกอยู่ในภวังค์ตอนกำลังถอดจิตเข้าไปยังจิตใจของโค้ช
@@ -1761,16 +1761,16 @@ CAGW008DO;Dogen;Ummmmm�;
 CAGW009DO;Dogen;I dunno.;
 CAGW010EL;Elka;Just ignore him, Dogen. He's trying to nose his way into our private conversation.;
 CAGW011DO;Dogen;But...;
-CAGX000MP;Milka;Eep.;
-CAGX001MP;Milka;Eek.;
-CAGX002MP;Milka;Grk.;
+CAGX000MP;Milka;Eep.;Eep.
+CAGX001MP;Milka;Eek.;Eek.
+CAGX002MP;Milka;Grk.;Grk.
 CAGY000KI;Kitty;Just ignore him, Franke.;
-CAHA003MF;Maloof;Hey!;
-CAHA004MF;Maloof;Is anybody out there?;
-CAHA005MF;Maloof;Let me out!;
-CAHA006MF;Maloof;Hellllllp!;
-CAHA007MF;Maloof;Somebody!;
-CAHA008MF;Maloof;There's no bathroom in here!;
+CAHA003MF;Maloof;Hey!;Hey!
+CAHA004MF;Maloof;Is anybody out there?;มีใครอยู่มั้ย?
+CAHA005MF;Maloof;Let me out!;เอาฉันออกไปที
+CAHA006MF;Maloof;Hellllllp!;ช่วยยด้วยยย
+CAHA007MF;Maloof;Somebody!;ใครก็ได้
+CAHA008MF;Maloof;There's no bathroom in here!;ในนี้มันไม่มีห้องน้ำนะ
 CAHB000LI;Lili;Hey, quit it!;
 CAHB001LI;Lili;Ow. You're lucky you're no good at that yet.;
 CAHC000JT;J.T.;Hey! You make me chip a tooth on this mouth harp and there's gonna be a showdown!;
@@ -1838,7 +1838,7 @@ CAHQ007JT;J.T.;Oooh, too bad.;
 CAHQ008JT;J.T.;Steady...;
 CAHQ009JT;J.T.;If that was a rustler, he'd a gotten away!;
 CAHS000RA;Raz;I, uh, haven't told Bobby to lay off the fish torture yet, but I'm going to.;
-CAHS001EF;Elton;Uh-huh.;
+CAHS001EF;Elton;Uh-huh.;Uh-huh.
 CAHS002RA;Raz;Okay, if you guys need me I'm going to be studying Levitation with Milla Vodello.;
 CAHS003RA;Raz;The Mental Minx?;
 CAHT000RA;Raz;Yes, I'd like to practice some more on the Levitation course.;
@@ -1871,7 +1871,7 @@ CAIB000RA;Raz;Hey, J.T. I could use a hired gun on this brain-stealing case I'm 
 CAIB001JT;J.T.;Huh? Oh, sorry Raz. I'm a little preoccupied right now. Got a lot of figurin' to do.;
 CAIC002RA;Raz;You should take advantage of this time to quietly reflect upon your life, Benny.;
 CAIC003BN;Benny;Raz, buddy! You gotta help me!;
-CAID000EF;Elton;Not NOW, Raz!;
+CAID000EF;Elton;Not NOW, Raz!;ไม่ใช่ตอนนี้ แรซ
 CAID001RA;Raz;Hey, you guys want to go do something?;
 CAID002RA;Raz;Watch TV or something?;
 CAID003RA;Raz;Want to help me find Dogen's brains?;
@@ -1921,7 +1921,7 @@ CAII002EL;Elka;Oh, Mr. Pokeylope. I wish I had a hard shell like yours. Around m
 CAIJ000DO;Dogen;Hey, I said I was sorry!;
 CAIJ001DO;Dogen;Well, this could take a while. They're really mad.;
 CAIJ002DO;Dogen;Hi. I like your hat.;
-CAIK000EF;Elton;Ow.;
+CAIK000EF;Elton;Ow.;Ow.
 CAIK001EF;Elton;I'm going to wait for Milka to show up. She always knows what to do.;
 CAIK002EF;Elton;Mmmf. Later. Mmmlf.;
 CAIK003EF;Elton;Mmmf. Hi. Mmmlf.;
@@ -2022,7 +2022,7 @@ CAJC002RA;Raz;I don't want to throw that away!;
 CAJD000RA;Raz;"This way to the Main Lodge.";
 CAJD001RA;Raz;"This way to Lake Oblongata.";
 CAJD002RA;Raz;"To the Campfire Area.";
-CAJD003RA;Raz;"Warning: Geodesic Psychoisolation Chamber this way. Stay out!";
+CAJD003RA;Raz;"Warning: Geodesic Psychoisolation Chamber this way. Stay out!";ระวัง: โดมพลังจิตบำบัด (Geodesic Psychoisolation Chamber) อยู่ทางนี้! โปรดอยู่ให้ห่าง!
 CAJD004RA;Raz;"To the Kids' Cabins.";
 CAJD005RA;Raz;"Coach Oleander's Class.";
 CAJD006FO;Ford;Vandalizing camp property will result in immediate expulsion from the facility.;
@@ -2035,7 +2035,7 @@ CAJE007RA;Raz;I hope Agent Cruller knows where they are.;
 CAJF000FO;Ford;On sale now in the main store, we have a special on Dream Fluffs. You hear me? Dream Fluffs. They're good for ya! Keep a pocketful of these for a quick boost of mental health!;
 CAJF001FO;Ford;Having trouble finding those really deep, valuable arrowheads? Well, I've got a great deal on a slightly-used Dowsing Rod up here in the main store that will practically dig them up for you!;
 CAJF002FO;Ford;Mental cobwebs getting you down? I've got just the device up here in the main lodge store. Why don't you come on up and score yourself a Cobweb Duster before they're all sold out?;
-CAJF003FO;Ford;Okay, call me crazy, but I have just got to sell more PSI Cores today. So yes, these prices are real, here at the camp store. PSI Cores are just that cheap today!;
+CAJF003FO;Ford;Okay, call me crazy, but I have just got to sell more PSI Cores today. So yes, these prices are real, here at the camp store. PSI Cores are just that cheap today!;เอาล่ะ จะว่าฉันบ้าก็ได้ แต่ฉันเพิ่งจะเอา PSI core มาขายในวันนี้ และใช่ มันคือของจริง มีในค่ายแห่งนี้แล้ว PSI core ถูก ๆ วันนี้!
 CAJF004FO;Ford;Remember to keep filling up those Scavenger Hunt forms. We've got a couple of big promotions for the winner!;
 CAJF005MI;Milla;Hello children. I hope you are all having a happy and safe summer day here at Whispering Rock!;
 CAJF006MI;Milla;I just wanted to tell you that we are having a party out here on the floating dock and I'd love for you all to come. It's Levitation training, baby! And it's fun, fun, fun!;
@@ -2054,10 +2054,10 @@ CAJJ002RA;Raz;Why are you looking at, nut rat?;
 CAJJ003RA;Raz;Beat it, fluffy.;
 CAJJ004RA;Raz;Ick. Probably has rabies.;
 CAJJ005RA;Raz;Look out! Flying squirrel!;
-CAJJ006RA;Raz;Sorry.;
-CAJJ007RA;Raz;Whoops.;
+CAJJ006RA;Raz;Sorry.;โทษที
+CAJJ007RA;Raz;Whoops.;อุ๊ป
 CAJJ008RA;Raz;Oh, man. I feel terrible about that.;
-CAJJ009RA;Raz;My bad.;
+CAJJ009RA;Raz;My bad.;ฉันผิดเอง
 CAJJ010RA;Raz;That was a total accident.;
 CAJJ011RA;Raz;Okay, that one, you had coming.;
 CAJJ012RA;Raz;See you in hell!;
@@ -2069,8 +2069,8 @@ CAJK002RA;Raz;Why don't you come alight on my shoulder? Jerk.;
 CAJL000RA;Raz;Hey, seagull. What's up?;
 CAJL001RA;Raz;No offense, but you guys smell like garbage.;
 CAJL002RA;Raz;That a... dead fish you're eating there?;
-CAJM000RA;Raz;Man, I hope the Admiral didn't see that.;
-CAJN000RA;Raz;The human mind.;
+CAJM000RA;Raz;Man, I hope the Admiral didn't see that.;โอโห้ หวังว่านายพลเรือคงไม่มาเห็นมันนะ
+CAJN000RA;Raz;The human mind.;จิตใจของมนุษย์
 CAJN001RA;Raz;Six hundred miles of synaptic fiber, five and a half ounces of cranial fluid, fifteen hundred grams of complex neural matter...;
 CAJN002RA;Raz;A three pound pile of dreams.;
 CAJN003RA;Raz;But I'll tell you what it really is.;
@@ -2116,31 +2116,31 @@ CAJQ005EL;Elka;Um, some of us care about our education?;เอิ่ม ใน�
 CAJQ006CP;Chops;I don't want to get a bad seat.;ฉันไม่ได้อยากได้ที่นั่งห่วย ๆ หรอกนะ
 CAJQ007JT;J.T.;Well, you know what they say about slow-rollin' tumbleweeds--;โอ้ นายเคยได้ยินคำว่า “ชักช้าจนรากงอ..”
 CAJQ008EL;Elka;No time for chit-chat James. We're late for class!;ไม่มีเวลาคุยเจ๊าะแจ๊ะนะเจมส์ เรากำลังไปเรียนสายแล้ว
-CAJR000EF;Elton;You have a water phobia? Me too!;นายเป็นโรคกลัวน้ำเหรอ ฉันก็เป็น!
-CAJR001RA;Raz;Uh... no. Well, yes. I just... my family has this problem with water.;
-CAJR002RA;Raz;It's a bunch of hooey anyway. Some old gypsy curse about how we're all supposed to die in water, if you can believe that.;
-CAJR003EF;Elton;Oh, I thought it was about the whole thing with the brain-eating fish that walks out of the lake at night to hunt for victims.;
-CAJR004EF;Elton;Well, see ya!;
-CAJR005EF;Elton;Um, hey, Raz... I saw you and Lili talking in the Coach's class, and I was wondering�;
-CAJR006EF;Elton;Were you asking her to... "go" with you?;
-CAJR007RA;Raz;WHAT? No! I'm here to train. No distractions.;
-CAJR008EF;Elton;Excellent! Bye!;
-CAJS000RA;Raz;Coach Oleander? I'm reporting for Basic Braining.;
-CAJS001CO;Coach;Son, do you realize that to take my course I will have to pull you into my mind...;
-CAJS002CO;Coach;And you will have to relive every bullet-scarred memory of every battle I have ever faced?;
-CAJS003CO;Coach;It won't be pretty.;
-CAJS004CO;Coach;Are you sure you wouldn't rather run around a bit more in the sunshine first?;
-CAJS005RA;Raz;I'm ready, sir.;
-CAJS006CO;Coach;Well then...;
-CAJS007RA;Raz;Well, maybe I will explore a bit more before, just so I'm prepared for class.;
-CAJS008CO;Coach;No, hurry. No hurry. Enjoy your childhood before it's ripped away from you, son.;
-CAJT000RA;Raz;Rrrr!;
-CAJT001RA;Raz;Man, it's wedged into that little geyser!;
-CAJT002RA;Raz;Nope. Still won't budge.;
-CAZG000TO;System;Raz is holding an object in his hand. To use a handheld object with someone, walk up to them and press /YButton/.;
-CAZF002TO;System;Press /YButton/ to show button to Oleander.;
-CAZG001TO;System;Raz has stowed the item in his backpack. Press /DPadLeft/ to see what's in Raz's backpack. Press /DPadRight/ to see what psychic Merit Badges he has.;
-CAZF003TO;System;Press /YButton/ to talk.;
+CAJR000EF;Elton;You have a water phobia? Me too!;นายเป็นโรคกลัวน้ำเหรอ เหมือนฉันเลย!
+CAJR001RA;Raz;Uh... no. Well, yes. I just... my family has this problem with water.;เปล่า เอ่อ ใช่ ฉันแค่... ครอบครัวฉันมีปัญหากับน้ำน่ะ
+CAJR002RA;Raz;It's a bunch of hooey anyway. Some old gypsy curse about how we're all supposed to die in water, if you can believe that.;แค่เรื่องเหลวไหลน่ะ เกี่ยวกับคำสาปยิปซีเก่าแก่ที่บอกว่า “ตระกูลฉันทุกคนจะต้องตายในน้ำ” ถ้านายเชื่ออะนะ
+CAJR003EF;Elton;Oh, I thought it was about the whole thing with the brain-eating fish that walks out of the lake at night to hunt for victims.;อู้ว ฉันก็นึกว่าเป็นเรื่องที่มี “ปลากินสมอง” ที่ออกมาเพ่นพ่านแถวๆ ทะเลสาบกลางดึกเพื่อล่าเหยื่อซะอีก
+CAJR004EF;Elton;Well, see ya!;งั้นก็ เจอกันนะ
+CAJR005EF;Elton;Um, hey, Raz... I saw you and Lili talking in the Coach's class, and I was wondering�;ฉันเห็นนายกับลิลลี่คุยกันในคลาสของโค้ชน่ะ และฉันก็เลยสงสัยว่า--
+CAJR006EF;Elton;Were you asking her to... "go" with you?;นายขอเธอเป็นแฟนหรอ
+CAJR007RA;Raz;WHAT? No! I'm here to train. No distractions.;อะไรนะ เปล่า ฉันมานี่เพื่อฝึก ไม่ได้มาทำตัวไร้สาระ
+CAJR008EF;Elton;Excellent! Bye!;เยี่ยมไปเลย บาย
+CAJS000RA;Raz;Coach Oleander? I'm reporting for Basic Braining.;โค้ชโอลีแอนเดอร์ ผมมารายงานตัวเพื่อฝึก Basic Braining ครับ
+CAJS001CO;Coach;Son, do you realize that to take my course I will have to pull you into my mind...;เจ้าหนู นายรู้รึเปล่า การจะเรียนหลักสูตรของฉัน ฉันจะดึงแกเข้ามาอยู่ในจิตใจของฉัน...
+CAJS002CO;Coach;And you will have to relive every bullet-scarred memory of every battle I have ever faced?;นายจะได้สัมผัสทุกความทรงจำ ทุกรอยกระสุนจากทุกสมรภูมิที่ฉันเคยเผชิญ?
+CAJS003CO;Coach;It won't be pretty.;มันจบไม่สวยแน่!
+CAJS004CO;Coach;Are you sure you wouldn't rather run around a bit more in the sunshine first?;นายแน่ใจนะว่า ไม่อยากจะไปเดินชมนกชมไม้ รอบๆ นี้ก่อนน่ะ?
+CAJS005RA;Raz;I'm ready, sir.;ผมพร้อมแล้วครับ
+CAJS006CO;Coach;Well then...;ถ้างั้น...
+CAJS007RA;Raz;Well, maybe I will explore a bit more before, just so I'm prepared for class.;โอ้ งั้นบางทีผมอาจจะไปสำรวจอะไรนิดหน่อย เพื่อเตรียมตัวสำหรับคลาสนะครับ
+CAJS008CO;Coach;No, hurry. No hurry. Enjoy your childhood before it's ripped away from you, son.;ไม่ต้องรีบ ไม่ต้องรีบ เพลิดเพลินไปกับวัยเด็กของนายก่อนที่มันจะถูกพรากไป เจ้าหนู
+CAJT000RA;Raz;Rrrr!;Rrrr!
+CAJT001RA;Raz;Man, it's wedged into that little geyser!;โอ้โห มันติดอยู่กับน้ำพุร้อน นั่นนะ!
+CAJT002RA;Raz;Nope. Still won't budge.;จบ ไม่ขย้บสักนิด
+CAZG000TO;System;Raz is holding an object in his hand. To use a handheld object with someone, walk up to them and press /YButton/.;แรซกำลังถือวัตถุอยู่ในมือ หากต้องการใช้วัตถุกับใคร ให้เดินไปหาคนนั้นแล้วกดปุ่ม /YButton/
+CAZF002TO;System;Press /YButton/ to show button to Oleander.;กด /YButton/ เพื่อแสดงกระดุมให้กับโอลีแอนเดอร์
+CAZG001TO;System;Raz has stowed the item in his backpack. Press /DPadLeft/ to see what's in Raz's backpack. Press /DPadRight/ to see what psychic Merit Badges he has.;แรซเก็บไอเทมไว้ในกระเป๋าเป้ของเขาแล้ว กด /DPadLeft/ เพื่อดูว่ามีอะไรอยู่ในกระเป๋าเป้ของ แรซ กด /DPadRight/ เพื่อดูว่าเขามีป้ายทักษะอะไรบ้าง
+CAZF003TO;System;Press /YButton/ to talk.;กด /YButton/ เพื่อพูดคุย.
 CAJY000FO;Ford;Sorry, can't get by without a Basic Braining Merit Badge.;
 CAJY001RA;Raz;Got one!;
 CAJY002FO;Ford;Oh... Well... How about a SCAVENGER HUNT LIST, eh smart guy?;
@@ -2161,12 +2161,12 @@ CAJY018FO;Ford;I don't think anyone's ever done the whole thing before!;
 CAJY019FO;Ford;Well, hold still. This might hurt.;
 CAJY020RA;Raz;That felt good.;
 CAJY021FO;Ford;Congratulations. Now git.;
-CAJZ000FO;Ford;Hm. You finally made it.;
-CAJZ001RA;Raz;It's an honor to finally meet you in person, sir.;
-CAJZ002RA;Raz;I thought I recognized you in my dream, but I couldn't be sure. Now that I see you in your element, there's no doubt.;
-CAJZ003RA;Raz;You're Ford Cruller.;
-CAJZ004RA;Raz;The greatest leader the Psychonauts ever had.;
-CAJZ005FO;Ford;Well, you shouldn't believe everything you read in "True Psychic Tales" magazine.;
+CAJZ000FO;Ford;Hm. You finally made it.;ฮืม ในที่สุดนายก็มาจนได้
+CAJZ001RA;Raz;It's an honor to finally meet you in person, sir.;เป็นเกียรติอย่างยิ่งครับ ในที่สุดก็ได้พบคุณตัวเป็นๆ
+CAJZ002RA;Raz;I thought I recognized you in my dream, but I couldn't be sure. Now that I see you in your element, there's no doubt.;ผมคิดว่า ผมจำคุณได้ในความฝัน แต่ก็ยังไม่แน่ใจ จนได้มาเจอกับคุณ ความสงสัยของผมก็หมดไป
+CAJZ003RA;Raz;You're Ford Cruller.;คุณคือ ฟอร์ด ครอลเลอร์
+CAJZ004RA;Raz;The greatest leader the Psychonauts ever had.;ผู้นำที่ยิ่งใหญ่ที่สุดของเหล่าไซโคนอท
+CAJZ005FO;Ford;Well, you shouldn't believe everything you read in "True Psychic Tales" magazine.;นายไม่ควรจะเชื่อทุกเรื่อง ที่นายอ่านมาจากนิตยสาร “True Psychic Tales” หรอกนะ
 CAKA000FO;Ford;What are you doing here? You said that girl was waiting for you down by the water! That's Lungfish territory, boy! Go and get her!;
 CAKB000FO;Ford;Razputin, come up here. There's something you should see.;
 CAKC000FO;Ford;You're the only one left, son.;
@@ -2194,62 +2194,62 @@ CAKC021FO;Ford;How about now?;
 CAKC022FO;Ford;Good. ;
 CAKC023FO;Ford;You have to find where that monster took the girl, and if you locate any of the other children's brains along the way, bring them back to me for recranialization, understand?;
 CAKC024RA;Raz;Ew. I mean, yes sir!;
-CAKD000RA;Raz;Agent Cruller?;
-CAKD001FO;Ford;So, how goes the training?;
-CAKD002FO;Ford;What is the current situation?;
-CAKE000RA;Raz;I'm ready to go back into the field.;
+CAKD000RA;Raz;Agent Cruller?;สายลับครอลเลอร์ครับ
+CAKD001FO;Ford;So, how goes the training?;แล้วการฝึกเป็นอย่างไรบ้างล่ะ
+CAKD002FO;Ford;What is the current situation?;สถานการณ์ปัจจุบันเป็นอย่างไรบ้าง?
+CAKE000RA;Raz;I'm ready to go back into the field.;ผมพร้อมกลับเข้าสนามแล้ว
 CAKE001FO;Ford;Hey, you wandered off, so I lost the coordinates. What do you think? I got a photographic memory?;
 CAKE002FO;Ford;Okay, let's see if I remember exactly where you were...;
-CAKE003RA;Raz;What are you doing here at Whispering Rock?;
-CAKE004FO;Ford;This training facility is built right smack on top of the largest Psitanium deposit known to man. ;
-CAKE005FO;Ford;It runs under this whole valley and makes this a very critical area for the Psychonauts, so I'm here to look after it.;
-CAKE006FO;Ford;And to make sure you little spoonbenders don't kill each other.;
-CAKE007RA;Raz;What's Psitanium?;
-CAKE008FO;Ford;Psitanium is a very rare, psychoreactive mineral that crashed here on a meteorite hundreds of years ago.;
-CAKE009FO;Ford;It responds to psychic waves. Focuses them, amplifies them.;
-CAKE010FO;Ford;It can make psychics more psychic, but it can also make unstable people more unstable. Not everyone can handle that much activity in that part of their brain. It can drive them completely out of their gourd.;
-CAKE011FO;Ford;Gives this valley an interesting history.;
-CAKE012RA;Raz;Sasha says I need to learn how to fight better.;
-CAKE013FO;Ford;He wants to teach you advanced combat? On your first day?;
-CAKE014RA;Raz;Yeah. I had a vision with a huge monster with yellow eyes and a big mouth full of gnashing teeth...;
-CAKE015FO;Ford;Did it happen to... spit anything at you?;
-CAKE016RA;Raz;Yeah. I think it was like an old diving helmet or something.;
-CAKE017FO;Ford;I see. Hmm. Yes, well, we'd better get you armed.;
-CAKE018RA;Raz;Why? What's happening?;
-CAKE019FO;Ford;Nothing, nothing. "Prepare Your Mind." That's the motto of the Psychonauts.  Here.;
-CAKE020FO;Ford;This is a Marksmanship Learner's Permit. It will only work when you're in Sasha's mind.;
-CAKE021FO;Ford;Once you complete his shooting range, you'll get the real merit badge and you can PSI Blast anywhere you want.;
-CAKE022RA;Raz;Thanks. PSI Blast?;
-CAKE023FO;Ford;Ah, you'll find out. Now get going. We can't have the camp overrun with big-eyed, garbage-spitting monsters, can we?;
-CAKE024RA;Raz;No sir!;
-CAKE025RA;Raz;I saw you raking leaves. Was that a disguise?;
-CAKE026RA;Raz;...and flipping burgers...;
-CAKE027RA;Raz;...and polishing a canoe...;
-CAKE028RA;Raz;...and sweeping a porch...;
-CAKE029FO;Ford;Er, yes. Well, well, I have many disguises. It helps me keep an eye on you kids wherever you go. Heh heh.;
-CAKE030FO;Ford;Now, when I'm in disguise, I may pretend not to recognize you. Don't blow my cover, okay?;
-CAKE031RA;Raz;Say no more. Your secret identity is safe with me.;
-CAKE032RA;Raz;So what mission are you on down here?;
-CAKE033FO;Ford;Well, from here I can monitor world events, look for signs of psychic terrorism, ripples in the astral plane...;
-CAKE034RA;Raz;And then fly out and save the day, right? You've got a jet hidden here somewhere, I'll bet.;
-CAKE035FO;Ford;Well these days I'm really just more of a dispatcher. I spot the trouble and send out a... younger agent. Like Milla or Sasha... or maybe you some day.;
-CAKE036RA;Raz;What does all this equipment do?;
-CAKE037FO;Ford;Well, up here it's all intel. ;
-CAKE038FO;Ford;Down that hallway is the observation room. No tests going on in there right now. Maybe later.;
-CAKE039FO;Ford;And beneath us I have special machines for rebuilding PSI Challenge Markers and detangling Mental Cobwebs. ;
-CAKE040FO;Ford;And beneath us I have special machines for rebuilding PSI Challenge Markers, detangling Mental Cobwebs, and crystallizing DEPLETED PSITANIUM.;
-CAKE041FO;Ford;You should go familiarize yourself with those. They'll come in pretty handy for you.;
-CAKE042RA;Raz;I'd better go. Lots of work to do.;
-CAKE043FO;Ford;Good luck, Razputin!;
-CAKF000RA;Raz;Thanks. I'll need it!;
-CAKF001FO;Ford;Don't worry. I'll be right here with you. Inside your head!;
-CAKF002RA;Raz;My head?;
-CAKF003FO;Ford;Yep. I want to keep my eye on you, son. So I'm going to be a psychic stowaway inside your noggin!;
-CAKF004FO;Ford;If you ever want to make me appear, you can do it with this special device.;
-CAKF005RA;Raz;Is that... a piece of bacon?;
-CAKF006FO;Ford;Ohh yeah. I just love bacon. I smell that stuff and I can't help it! I drop everything and I come running!;
-CAKF007RA;Raz;Okay, do you have, like, a little baggie or something I could put this in?;
-CAKF008FO;Ford;You get a move on or I'll eat that right here!;
+CAKE003RA;Raz;What are you doing here at Whispering Rock?;คุณมาทำอะไรที่หุบเขาหินเสียงกระซิบนี่ครับ
+CAKE004FO;Ford;This training facility is built right smack on top of the largest Psitanium deposit known to man. ;สถานที่ฝึกอบรมแห่งนี้ สร้างขึ้นบนแหล่งแร่ไซเทเนียมที่ใหญ่ที่สุดที่มนุษย์รู้จัก
+CAKE005FO;Ford;It runs under this whole valley and makes this a very critical area for the Psychonauts, so I'm here to look after it.;มันปล่อยพลังงานอยู่ใต้หุบเขานี้และทำให้ที่นี่เป็นพื้นที่ที่สำคัญมากสำหรับเหล่าไซโคนอท ดังนั้นฉันจึงมาที่นี่เพื่อดูแลมัน
+CAKE006FO;Ford;And to make sure you little spoonbenders don't kill each other.;และเพื่อให้แน่ใจว่า นักงอช้อนตัวน้อยจะไม่ฆ่ากันเอง
+CAKE007RA;Raz;What's Psitanium?;ไซเทเนียมคืออะไรครับ?
+CAKE008FO;Ford;Psitanium is a very rare, psychoreactive mineral that crashed here on a meteorite hundreds of years ago.;ไซเทเนียม เป็นแร่ที่หายากมาก มันคือแร่ที่ส่งผลต่อจิต ที่มาจากอุกกาบาตที่ตกลงมาเมื่อหลายร้อยปีก่อน
+CAKE009FO;Ford;It responds to psychic waves. Focuses them, amplifies them.;มันตอบสนองต่อคลื่นพลังจิต เพิ่มความเข้มข้นและขยายตัว
+CAKE010FO;Ford;It can make psychics more psychic, but it can also make unstable people more unstable. Not everyone can handle that much activity in that part of their brain. It can drive them completely out of their gourd.;มันสามารถทำให้ผู้มีพลังจิตมีพลังมากขึ้น แต่ก็สามารถทำให้คนที่ไม่มั่นคง ไม่มั่นคงมากขึ้นได้เช่นกัน ไม่ใช่ทุกคนที่สามารถรับมือกับกิจกกรมมากมายในสมองส่วนนั้นได้ มันอาจกระตุ้นพวกเขาจนเป็นบ้าไปในที่สุด
+CAKE011FO;Ford;Gives this valley an interesting history.;ทำให้หุบเขานี้มีประวัติศาสตร์ที่น่าสนใจ
+CAKE012RA;Raz;Sasha says I need to learn how to fight better.;ซาช่าบอกว่า ผมต้องเรียนรู้วิธีการต่อสู้ให้ดีกว่านี้
+CAKE013FO;Ford;He wants to teach you advanced combat? On your first day?;เขาอยากจะสอนการต่อสู้ขั้นสูงให้นายงั้นเหรอ ตั้งแต่วันแรกของนายเนี่ยนะ
+CAKE014RA;Raz;Yeah. I had a vision with a huge monster with yellow eyes and a big mouth full of gnashing teeth...;ใช่ครับ ผมมีนิมิตเห็นสัตว์ประหลาดตัวใหญ่ที่มีตาสีเหลืองและปากใหญ่ๆ ที่มีฟันอยู่เต็มไปหมด...
+CAKE015FO;Ford;Did it happen to... spit anything at you?;มันได้... พ้นอะไรใส่นายไหม
+CAKE016RA;Raz;Yeah. I think it was like an old diving helmet or something.;ใช่ครับ ผมคิดว่ามันเป็นเหมือนหมวกดำน้ำเก่าๆ หรืออะไรสักอย่าง
+CAKE017FO;Ford;I see. Hmm. Yes, well, we'd better get you armed.;เข้าใจล่ะ ฮืมม ได้ งั้น เราควรติดอาวุธให้นายจะดีกว่า
+CAKE018RA;Raz;Why? What's happening?;ทำไมครับ เกิดอะไรขึ้นเหรอ
+CAKE019FO;Ford;Nothing, nothing. "Prepare Your Mind." That's the motto of the Psychonauts.  Here.;เปล่า เปล่า “เตรียมใจให้พร้อม” เป็นคติประจำใจของเราชาวไซโคนอทน่ะ เอ้านี่
+CAKE020FO;Ford;This is a Marksmanship Learner's Permit. It will only work when you're in Sasha's mind.;นี่เป็น “ใบอนุญาตฝึกยิง”  (Marksmanship learner’s permit) มันจะใช้ได้แค่ในจิตใจของซาช่าเท่านั้น
+CAKE021FO;Ford;Once you complete his shooting range, you'll get the real merit badge and you can PSI Blast anywhere you want.;เมื่อนายผ่านสนามซ้อมยิงของเขาแล้ว นายจะได้ใบอนุญาตของจริง และนายก็จะสามารถใช้ “PSI Blast“ ที่ไหนก็ได้ที่นายต้องการ
+CAKE022RA;Raz;Thanks. PSI Blast?;ขอบคุณครับ “PSI Blast“ เหรอ?
+CAKE023FO;Ford;Ah, you'll find out. Now get going. We can't have the camp overrun with big-eyed, garbage-spitting monsters, can we?;อ่า เดี๋ยวนายก็จะรู้เอง ตอนนี้ไปเถอะ เราต้องไม่ปล่อยให้ค่ายโดนรุกรานจากเจ้าสัตว์ประหลาดตาโตที่พ่นขยะออกมาเด็ดขาด ใช่ไหม
+CAKE024RA;Raz;No sir!;ใช่ครับผม
+CAKE025RA;Raz;I saw you raking leaves. Was that a disguise?;ผมเห็นคุณกวาดใบไม้อยู่ นั่นเป็นการปลอมตัวเหรอครับ
+CAKE026RA;Raz;...and flipping burgers...;...และก็ทอดเบอร์เกอร์...
+CAKE027RA;Raz;...and polishing a canoe...;...และก็เช็ดถูเรือแคนู...
+CAKE028RA;Raz;...and sweeping a porch...;...และก็กวาดระเบียง...
+CAKE029FO;Ford;Er, yes. Well, well, I have many disguises. It helps me keep an eye on you kids wherever you go. Heh heh.;เอ่อ ใช่ ๆ ฉันต้องปลอมตัวหลายๆ หน้าที่ มันช่วยให้ฉันคอยจับตาดูเด็กๆ อย่างพวกนายได้ไม่ว่าพวกนายจะอยู่ที่ไหน เหอะๆ
+CAKE030FO;Ford;Now, when I'm in disguise, I may pretend not to recognize you. Don't blow my cover, okay?;เอาล่ะ เมื่อฉันปลอมตัว ฉันอาจแสร้งทำเป็นไม่รู้จักนาย นายอย่าเผยตัวจริงฉันนะ โอเค๊
+CAKE031RA;Raz;Say no more. Your secret identity is safe with me.;จัดให้ครับ ตัวตนลับของคุณ ปลอดภัยแน่นอน
+CAKE032RA;Raz;So what mission are you on down here?;แล้วคุณทำภารกิจอะไร ข้างใต้นี้ครับ
+CAKE033FO;Ford;Well, from here I can monitor world events, look for signs of psychic terrorism, ripples in the astral plane...;ก็ จากที่นี่ ฉันสามารถเฝ้าสังเกตการณ์ เหตุการณ์ต่างๆ บนโลกได้ มองหาสัญญาณการก่อการร้ายจากพลังจิต หรืออาจจะเป็นคลื่นระลอกเล็กๆ ภายในโลกระหว่างจิตใจ
+CAKE034RA;Raz;And then fly out and save the day, right? You've got a jet hidden here somewhere, I'll bet.;แล้วคุณก็จะบินออกไปเพื่อช่วยโลกใช่ไหมครับ คุณจะต้องมีเจ็ทซ่อนอยู่ที่ไหนสักแห่งแถวนี้แน่ พนันได้เลย
+CAKE035FO;Ford;Well these days I'm really just more of a dispatcher. I spot the trouble and send out a... younger agent. Like Milla or Sasha... or maybe you some day.;ทุกวันนี้ ฉันเป็นแค่ผู้มอบหมายงานมากกว่า เมื่อพบปัญหา ฉันก็จะส่ง... สายลับหนุ่มสาวออกไป อย่าง มิลล่า หรือ ซาช่า... หรืออาจเป็นนายในสักวันนึง
+CAKE036RA;Raz;What does all this equipment do?;อุปกรณ์ทั้งหมดที่นี่ไว้ใช้ทำอะไรบ้างครับ
+CAKE037FO;Ford;Well, up here it's all intel. ;ก็ ข้างบนนี่ จะเป็นข้อมูลทั้งหมด
+CAKE038FO;Ford;Down that hallway is the observation room. No tests going on in there right now. Maybe later.;ข้างๆ นั่น เป็นโถงทางเดินไปยังห้องสังเกตุการณ์ ยังไม่มีการทดลองอะไรในตอนนี้ แต่อาจจะมีในภายหลัง
+CAKE039FO;Ford;And beneath us I have special machines for rebuilding PSI Challenge Markers and detangling Mental Cobwebs. ;และข้างใต้เรา ฉันมีเครื่องพิเศษสำหรับ สร้างเครื่องหมายท้าทายขึ้นมาใหม่ และ เครื่องแยกหยากไย่จิตใจ
+CAKE040FO;Ford;And beneath us I have special machines for rebuilding PSI Challenge Markers, detangling Mental Cobwebs, and crystallizing DEPLETED PSITANIUM.;และข้างใต้เรา ฉันมีเครื่องพิเศษสำหรับ สร้างเครื่องหมายท้าทายขึ้นมาใหม่ และ เครื่องแยกหยากไย่จิตใจ และสกัดแร่ไซเทเนียม
+CAKE041FO;Ford;You should go familiarize yourself with those. They'll come in pretty handy for you.;นายควรไปทำความคุ้นเคยกับเครื่องพวกนั้นนะ มันค่อนข้างมีประโยชน์สำหรับนาย
+CAKE042RA;Raz;I'd better go. Lots of work to do.;ผมไปก่อนดีกว่า มีเรื่องหลายอย่างต้องทำ
+CAKE043FO;Ford;Good luck, Razputin!;ขอให้โชคดี แรซปูติน!
+CAKF000RA;Raz;Thanks. I'll need it!;ขอบคุณครับผมก็หวังว่างั้น
+CAKF001FO;Ford;Don't worry. I'll be right here with you. Inside your head!;ไม่ต้องห่วง ฉันจะอยู่ข้างนาย ในหัวนายเลยไง
+CAKF002RA;Raz;My head?;หัวผมเหรอ
+CAKF003FO;Ford;Yep. I want to keep my eye on you, son. So I'm going to be a psychic stowaway inside your noggin!;ใช่ ฉันอยากคอยดูนาย เจ้าหนู ฉันจะเป็น "คนแอบโดยสาร" อยู่ในหัวของนาย
+CAKF004FO;Ford;If you ever want to make me appear, you can do it with this special device.;หากนายอยากเจอฉัน นายต้องใช้ใช้อุปกรณ์พิเศษนี่
+CAKF005RA;Raz;Is that... a piece of bacon?;นั่น... เบคอนเหรอ? 
+CAKF006FO;Ford;Ohh yeah. I just love bacon. I smell that stuff and I can't help it! I drop everything and I come running!;ใช่ ฉันก็แค่รักเบคอน ฉันได้กลิ่นมัน ฉันก็อดใจไม่ไหว ฉันจะทิ้งทุกอย่างแล้วฉันก็จะรีบไปหามันทันที
+CAKF007RA;Raz;Okay, do you have, like, a little baggie or something I could put this in?;โอเค คุณพอจะมีกระเป๋าเล็กๆ หรืออะไรสักอย่างเอาไว้เก็บมันไหมครับ
+CAKF008FO;Ford;You get a move on or I'll eat that right here!;นายจะเอามันไป หรือ จะให้ฉันกินมันเลยซะตอนนี้ล่ะ!
 CAKG000FO;Ford;Hey, that white room--;
 CAKG001RA;Raz;I know! It's from Oleander's mind!;
 CAKG002RA;Raz;I think I was in the Coach's dream that whole time! Ever since I stepped through the static in the caravan, it felt funny. I knew I wasn't obsessed with meat!;
@@ -2265,8 +2265,8 @@ CAKH005FO;Ford;And how can you not know how to operate a bathysphere? Haven't yo
 CAKH006FO;Ford;Now get a move on, before that girl gets overly digested.;
 CAKI000FO;Ford;Now before you go electrocuting yourself, let me tell you how these babies work.;
 CAKI001FO;Ford;Now this beauty here is a Mental Cobweb Detangler.;
-CAKI002RA;Raz;Ooh, I know what those are. Mental cobwebs are--;
-CAKI003FO;Ford;You see, when an area of your psyche is neglected for too long, mental cobwebs form. ;
+CAKI002RA;Raz;Ooh, I know what those are. Mental cobwebs are--;อ๋อ ฉันรู้ว่านั่นคืออะไร หยากไย่จิตใจคือ--
+CAKI003FO;Ford;You see, when an area of your psyche is neglected for too long, mental cobwebs form. ;นายจะเห็นว่าเมื่อพื้นที่ภายในจิตของนายถูกปล่อยปะละเลยไว้เป็นเวลานาน หยากไย่จิตใจก็จะก่อตัวขึ้น
 CAKI004FO;Ford;Now up in the camp store, they sell a very special device known as a Mental Cobweb Duster.;
 CAKI005FO;Ford;You can take a projection of it into the mental world with you and use it to extract any cobwebs you find.  ;
 CAKI006FO;Ford;The duster stores the cobweb's psychic energy on the real world side, so you can take what you collect back here...;
@@ -2438,7 +2438,7 @@ CAGF020RA;Raz;Agent Nein's Lab, please.;
 CAJY022FO;Ford;Whoa there, you. C'mere you!;
 CAJY027FO;Ford;Report back to me when you have enough items for your first promotion. Now git.;
 CAJY028RA;Raz;Ta da! I'm done. I completed the whole Scavenger Hunt.;
-INTR078EF;Elton;Aaaaaaaah!;
+INTR078EF;Elton;Aaaaaaaah!;Aaaaaaaah!
 CAKZ000RA;Raz;Hey, how can you be over there and in my ear at the same time?;
 CAKZ001FO;Ford;Shhh! You'll blow my cover!;
 CAKZ002FO;Ford;That part of my mind is running an under cover operation.;
@@ -2446,9 +2446,9 @@ CAKZ003FO;Ford;While another part of my mind is projecting itself into your head
 CAKZ004RA;Raz;Wow. You can do all that stuff at once?;
 CAKZ005FO;Ford;Well, you could say my brain is... um, multifaceted.;
 CAKZ006FO;Ford;Now then...;
-CALA000RA;Raz;Hey! There's a hole at the bottom of this stump!;
-CALA001RA;Raz;Wow! It's a tunnel that opens onto a system of catacombs!;
-CALA002RA;Raz;I think I can squeeze through--;
+CALA000RA;Raz;Hey! There's a hole at the bottom of this stump!; เฮ้ มีรูตรงตอไม้
+CALA001RA;Raz;Wow! It's a tunnel that opens onto a system of catacombs!;ว้าว มันเป็นอุโมงค์ไปสู่ระบบทางใต้ดิน
+CALA002RA;Raz;I think I can squeeze through--;ฉันว่า ฉันพอมุดไปได้นะ
 CALE000FO;Ford;Ooh, that's a good 'un!;
 CALE001FO;Ford;Yep, I've had a lot of offers on this baby already.;
 CALE002FO;Ford;Can't have too many of these!;
