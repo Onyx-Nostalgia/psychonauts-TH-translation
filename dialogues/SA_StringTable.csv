@@ -2,7 +2,7 @@ id;character;origin_dialogue;translated_dialogue
 SACO001RA;Raz;Oh, yeah. Come to poppa!;โอ้ เยี่ยม มาหาป๊ะป๋ามา!
 SACO002SA;Sasha;Raz, what have you done? This is not control! This is chaos!;แรซ เธอทำอะไรลงไป? นี่มันเกินควบคุมแล้ว! นี่มันคือความวุ่นวาย!
 SACO003SA;Sasha;I'll try to fix it. You stay here and keep their numbers under control.;ฉันจะพยายามแก้ไขมัน ส่วนนายอยู่นี่และลดจำนวนพวกมันลงให้อยู่ภายใต้การควบคุมซะ
-SAFB004SA;Sasha;This is a censor.;
+SAFB004SA;Sasha;This is a censor.;เจ้านี่คือ Censor
 SAIN001SA;Sasha;Welcome to my mind.;ยินดีต้อนรับสู่จิตใจของฉัน
 SAIN002RA;Raz;Huh. It's so empty.;หืม ว่างเปล่า
 SAIN003RA;Raz;Uh, I mean--;เอ่อ ผมหมายถึง--
@@ -33,7 +33,7 @@ SAMC005RA;Raz;Yes. One's thoughts must be 100% controlled at all times!;คร�
 SAMC006SA;Sasha;Well, no. Actually, if you try to completely suppress your undesirable feelings, they'll build and build and eventually explode.;เอ่อ ไม่เชิง อันที่จริงถ้าเธอพยายามระงับความรู้สึกที่ไม่ดีของเธอเอาไว้ ความรู้สึกเหล่านั้นจะเพิ่มพูนขึ้นเรื่อยๆ และในที่สุดก็จะระเบิดออกมา
 SAMC007RA;Raz;Oh. So, uh, what would happen if you were to, say, completely block off all your censor outlets?;โอ้ งั้น เอิ่ม จะเป็นยังไง ถ้าคุณดันไปปิดท่อระบาย Censor "ทั้งหมด" ล่ะ?
 SAMC008SA;Sasha;Well, there would be a buildup of censor energy within, that would... uh� eventually�;อืม มันจะมีพลังงานของ Censor สะสมอยู่ภายใน แล้วก็จะ... เอ่อ ในที่สุดก็จะ...
-SAMC009SA;Sasha;Run, Razputin. Very fast.;วิ่ง แรซปูติน วิ่งเร็วเข้า
+SAMC009SA;Sasha;Run, Razputin. Very fast.;วิ่ง แรซปูติน ให้ไวเลย
 SAMC010SA;Sasha;You are my own creation. I command you to stop!;แกเป็นสิ่งที่ฉันสร้างขึ้น ฉันขอสั่งให้แกหยุด!
 SAMC012SA;Sasha;Ahhhhhhh!;Ahhhhhhh!
 SAMC013SA;Sasha;Razputin, it's time to earn your merit badge!;แรซปูติน ถึงเวลาที่เธอจะได้รับป้ายทักษะแล้ว!
@@ -81,34 +81,34 @@ SAFB012SA;Sasha;That's the spirit.;นั่นคือ “Spirit"
 SAFB013RA;Raz;I killed it.;ผมฆ่ามันไปแล้ว
 SAFB014SA;Sasha;It was just a thought I was having. And it's not dead. It has just returned to its basic form--raw psychic energy. Go absorb it. It's good for your mental health.; มันเป็นเพียงความคิดที่ฉันมี และมันยังไม่ตาย มันแค่กลับไปสู่ร่างพื้นฐาน “พลังงานดิบ” ดูดซับมันมา มันดีต่อสุขภาพจิตของเธอ
 SAFB015SA;Sasha;Now I'll leave the machine on for you, so you can practice. You have to blast 1000 censors to earn your Marksmanship Merit Badge.;ตอนนี้ ฉันจะทิ้งเครื่องจักรนั่นไว้สำหรับเธอ เพื่อให้เธอสามารถฝึกซ้อมได้ เธอต้องยิงพวก Censor 1000 ตัว เพื่อให้ได้รับ “ป้ายทักษะนักยิง” (Marksmanship Merit Badge)
-SAFB016SA;Sasha;Come back every day for practice, and you should have enough in as little as three weeks!;
-SAFB017RA;Raz;Three weeks! I only have a few days to earn ALL my merit badges and become a Psychonaut.;
-SAFB018SA;Sasha;Slow and steady wins the race, my eager young friend. Now practice. Slowly and carefully.;
-SAFB019RA;Raz;Oh man...;
-SAFD001RA;Raz;I need to stop whatever's shooting out these censors!;
-SAFE001RA;Raz;Those little censors are re-energizing the big one somehow.;
-SAFF001RA;Raz;This should stop any more censors from coming out of here.;
-SAFG001SA;Sasha;Destroy them all!;
-SAFH002SA;Sasha;Well done, Raz. Keep shooting!;
-SAFH003SA;Sasha;Good. Again!;
-SAFI004SA;Sasha;Razputin! You must blast the emergency shut-down valves!;
-SAFI005SA;Sasha;It's the only way to close off the leak!;
-SAFI006SA;Sasha;Shut down all the valves on this face to get it under control!;
-SAFI007SA;Sasha;Hurry, Razputin!;
-SAAA000SA;Sasha;Yes, yes. We all know you can punch things.;
-SAAA001SA;Sasha;But you're supposed to be learning how to use your PSI Blast now.;
-SAAA002SA;Sasha;Try it without punching.;
-SAAF000RA;Raz;That's it! I've completely blocked off all of Sasha's censor outlets!  I can't wait to tell him.;
-SAAG000SA;Sasha;Enough horseplay, Razputin! Destroy him!;
-SAAG001SA;Sasha;The small censors are feeding into his strength. You must stop them!;
-SAAG002SA;Sasha;Destroy the valves that are emitting the small censors, Razputin!;
-SAAG003SA;Sasha;Raz! Shoot the valves! It's no use shooting the monster until you've destroyed every valve!;
-SAAG004SA;Sasha;Don't forget to use your mental focus to lock on the valves as a target, and then blast them!;
-SAZE004TO;System;Use /LeftFlipper/ to lock mental focus.;
-SAAG006SA;Sasha;Say, Razputin. Do you think you could reach in my pocket and hand me my cigarettes? ;
-SAAG007SA;Sasha;Excellent! You've shut down the valves so he cannot be rejuvenated. Now destroy him!;
-SAAG008SA;Sasha;Use your mental focus Razputin! It will help you shoot accurately, and also help you with your evasive maneuvers!;
-SAAG009SA;Sasha;When focused, you can tumble to the side, avoid his stamp, and circle around behind the monster!;
+SAFB016SA;Sasha;Come back every day for practice, and you should have enough in as little as three weeks!;กลับมาได้ทุกวันเพื่อฝึกฝน และเธอคงต้องใช้เวลาอย่างน้อย... สามอาทิตย์!
+SAFB017RA;Raz;Three weeks! I only have a few days to earn ALL my merit badges and become a Psychonaut.;สามอาทิตย์! ผมมีเวลาแค่สามวัน เพื่อให้ได้ป้ายทักษะ ”ทั้งหมด” และกลายเป็นไซโคนอทนะ
+SAFB018SA;Sasha;Slow and steady wins the race, my eager young friend. Now practice. Slowly and carefully.;ช้าๆ ได้พร้าเล่มงาม, สหายน้อยไฟแรงของฉัน ตอนนี้ฝึกฝน อย่างช้าๆ และระมัดระวังก็พอ
+SAFB019RA;Raz;Oh man...;โห่ ไม่เอาน่า
+SAFD001RA;Raz;I need to stop whatever's shooting out these censors!;ฉันต้องหยุดอะไรก็ตามที่มันพ่น Censor พวกนี้ออกมา!
+SAFE001RA;Raz;Those little censors are re-energizing the big one somehow.;Censor ตัวเล็กๆ เหล่านั้นกำลัง ฟื้นพลัง ให้กับตัวใหญ่ขึ้นมาอีกครั้ง
+SAFF001RA;Raz;This should stop any more censors from coming out of here.;นี่น่าจะหยุดไม่ให้พวก Censor ออกมาอีก
+SAFG001SA;Sasha;Destroy them all!;ทำลายให้สิ้น!
+SAFH002SA;Sasha;Well done, Raz. Keep shooting!;ทำได้ดี แรซ ยิงต่อไป
+SAFH003SA;Sasha;Good. Again!;ดี อีกครั้ง!
+SAFI004SA;Sasha;Razputin! You must blast the emergency shut-down valves!;แรซปูติน! เธอต้องใช้ลำแสงปิดวาล์วพกวนั้น
+SAFI005SA;Sasha;It's the only way to close off the leak!;นี่เป็นทางเดียวที่จะปิดการรั่วไหลได้!
+SAFI006SA;Sasha;Shut down all the valves on this face to get it under control!;ปิดทุกวาล์วที่อยู่ตรงหน้าให้อยู่ใต้การควบคุมซะ
+SAFI007SA;Sasha;Hurry, Razputin!;เร็วเข้า แรซปูติน
+SAAA000SA;Sasha;Yes, yes. We all know you can punch things.;ใช่ ใช่ เราทุกคนรู้ว่าเธอสามารถซัดนู่นนี่ได้
+SAAA001SA;Sasha;But you're supposed to be learning how to use your PSI Blast now.;แต่เธอควรจะเรียนรู้วิธีใช้ PSI Blast ของเธอได้แล้ว
+SAAA002SA;Sasha;Try it without punching.;พยายามอย่าใช้การต่อย
+SAAF000RA;Raz;That's it! I've completely blocked off all of Sasha's censor outlets!  I can't wait to tell him.;นั่นแหละ! ฉันปิดกั้นช่องทาง Censor ของซาช่าจนหมดแล้ว! แทบรอบอกเขาไม่ไหว
+SAAG000SA;Sasha;Enough horseplay, Razputin! Destroy him!;หยุดเล่นตลกได้แล้ว แรซปูติน! ทำลายมันซะ!
+SAAG001SA;Sasha;The small censors are feeding into his strength. You must stop them!;พวก Censor ตัวเล็กๆ กำลังเข้ามาเพิ่มพลังให้มัน เธอต้องหยุดพวกมันให้ได้!
+SAAG002SA;Sasha;Destroy the valves that are emitting the small censors, Razputin!;ทำลายวาล์วที่กำลังปล่อย Censor ขนาดเล็กออกไปซะ แรซปูติน!
+SAAG003SA;Sasha;Raz! Shoot the valves! It's no use shooting the monster until you've destroyed every valve!;แรซ ยิงวาล์ว! การยิงสัตว์ประหลาดนั้นไม่มีประโยชน์จนกว่าเธอจะทำลายวาล์วทั้งหมด!
+SAAG004SA;Sasha;Don't forget to use your mental focus to lock on the valves as a target, and then blast them!;อย่าลืมล็อกเป้าหมายและใช้ลำแสงยิงมันซะ
+SAZE004TO;System;Use /LeftFlipper/ to lock mental focus.;ใช้ /LeftFlipper/ เพื่อทำการล็อกเป้า
+SAAG006SA;Sasha;Say, Razputin. Do you think you could reach in my pocket and hand me my cigarettes? ;นี่ แรซปูติน เธอคิดว่าเธอสามารถล้วงกระเป๋าฉันแล้วหยิบบุหรี่ให้ฉันทีได้ไหม
+SAAG007SA;Sasha;Excellent! You've shut down the valves so he cannot be rejuvenated. Now destroy him!;ยอดเยี่ยมมาก! เธอปิดวาล์วแล้ว ดังนั้นมันจึงไม่สามารถฟื้นฟูตัวเองได้ ตอนนี้ ทำลายมันซะ!
+SAAG008SA;Sasha;Use your mental focus Razputin! It will help you shoot accurately, and also help you with your evasive maneuvers!;ใช้ความมุ่งมั่นของเธอ แรซปูติน! มันจะช่วยเธอยิงได้แม่นยำ และยังช่วยเธอในการหลบหลีกได้ด้วย!
+SAAG009SA;Sasha;When focused, you can tumble to the side, avoid his stamp, and circle around behind the monster!;เมื่อเธอมุ่งมั่น และเธอสามารถหลบไปด้านข้างได้ หลีกเลี่ยงการถูกโจมตี และวนไปด้านหลังของเจ้าสัตว์ประหลาด!
 SAAG010SA;Sasha;Watch out for those tumbling boils he's throwing at you. They're full of censors!;
 SAAG011SA;Sasha;You can kill many small censors in one blow, if you jump up in the air above them and then smash the ground with your psychic fist.;
 SAZE005TO;System;Press /XButton/ while airborne to execute a Palm Bomb.;
