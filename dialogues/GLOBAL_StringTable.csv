@@ -41,7 +41,7 @@ ASLV002RA;Raz;Lili!;ลิลี่!
 ASLV003LI;Lili;Grrrr!;Grrrr!
 ASLV004LI;Lili;(Gasp!);(หายใจหอบ)
 ASLV005LO;Dr.Loboto;Well, I've reviewed your chart, little girl.;อืม ฉันได้ตรวจดูประวัติของเธอแล้วนะ แม่สาวน้อย
-ASLV006LO;Dr.Loboto;And the bad news is, we're gonna have to remove your brain�;และข่าวร้ายก็คือ เราจะต้องเอาสมองเธอออก...
+ASLV006LO;Dr.Loboto;And the bad news is, we're gonna have to remove your brain;และข่าวร้ายก็คือ เราจะต้องเอาสมองเธอออก...
 ASLV007LO;Dr.Loboto;...strap it into an armored battle tank and make it shoot down innocent civilians with its concentrated psychic death beam!;...แล้วเอาไปใส่ในรถถังหุ้มเกราะ แล้วทำให้มันยิงใส่ชาวบ้านที่ไม่รู้อิโหน่อิเหน่ด้วยลำแสงจิตสังหาร!
 ASLV008LI;Lili;I'm gonna kill you so much.;ฉันจะฆ่าแกให้ตายเลย
 ASLV009LO;Dr.Loboto;The good news is that your insurance is going to cover the whole thing, so--;ข่าวดีก็คือ ประกันของเธอครอบคลุมค่าใช้จ่ายทั้งหมด ดังนั้น--
@@ -59,14 +59,14 @@ ASLV020LO;Dr.Loboto;A tune in the key of... BRAINS! Ha ha ha!;เสียงท
 BBVI005CO;Coach;HOLD IT RIGHT THERE, SON!;หยุดอยู่ตรงนั้นแหละ ไอ้หนู!
 BBVI006CO;Coach;Now just what in the sam hill do you thing you're doing in there?;นายคิดว่าตัวเองกำลังไปทำอะไรอยู่ในนั้น หา?
 BBVI007RA;Raz;I was just looking for a way out.;ผมก็แค่หาทางออก
-BBVI008CO;Coach;Oh�;โอ้ï¿½
+BBVI008CO;Coach;Oh;โอ้ï¿½
 BBVI011CO;Coach;Sorry about that.;ขอโทษทีนะ
 BBVI012CO;Coach;Didn't think you'd get to the end so fast.;ไม่คิดว่านายจะมาถึงเส้นชัยได้เร็วขนาดนี้
 BBVI013CO;Coach;Dang! I didn't think you'd get to the end at all!;ให้ตายสิ! ฉันไม่คิดว่านายจะมาถึงเส้นชัยได้ด้วยซ้ำ!
 BBVI014CO;Coach;But I'm always glad to see a soldier come back from the field alive.;แต่ฉันก็ดีใจเสมอที่ได้เห็นทหารกลับมาจากสนามรบอย่างปลอดภัย
 BBVI015CO;Coach;You surprised me out there, kid.;นายทำให้ฉันประหลาดใจมาก เจ้าหนู
 BBVI016CO;Coach;Here. You've earned this.;นี่ นายสมควรได้รับ
-BBVI017CO;Coach;Your first PSYCHONAUT MERIT BADGE!;"ป้ายทักษะไซโคนอท" อันแรกของนาย
+BBVI017CO;Coach;Your first PSYCHONAUT MERIT BADGE!;ป้ายทักษะไซโคนอท อันแรกของนาย
 BBVI018CO;Coach;Now if you'll excuse me, I gotta go back in.;งั้นขอตัวก่อนนะ ฉันต้องกลับไปข้างใน
 BBVI019CO;Coach;I left some good men back there!;ฉันทิ้งมือดีไว้ข้างในนั้น!
 LLLV001LF;Linda;Human child.;เด็กมนุษย์
@@ -81,7 +81,7 @@ LLLV009LF;Linda;By the drowned spirit of Oblongata, it is done!;แด่ดว�
 LLLV010RA;Raz;Ah--;Ah--
 MMDD008BO;Boyd;GRAAAAAA!;GRAAAAAA!
 SAIN008SA;Sasha;No, as firepower!;ไม่ใช่ เป็นอาวุธ!
-SAIN010SA;Sasha;Ahhh, oh, so tacky... I� can't... look... directly at it!;โอ้ ไร้รสนิยมสิ้นดี! มอง... ตรง ๆ... ไม่ได้เลย!
+SAIN010SA;Sasha;Ahhh, oh, so tacky... I can't... look... directly at it!;โอ้ ไร้รสนิยมสิ้นดี! มอง... ตรง ๆ... ไม่ได้เลย!
 GLRA001RA;Raz;giggle;แหะๆ
 GLRA007RA;Raz;Uh-oof.;Uh-oof.
 GLRA008RA;Raz;Yuh-uhf.;Yuh-uhf.
@@ -121,7 +121,7 @@ FINI008FO;Ford;But it's a special quality of your heart, not your mind, that tru
 FINI009FO;Ford;This young man has it.;เด็กหนุ่มคนนี้มีมัน
 FINI010FO;Ford;We did not give it to him. ;เราไม่ได้ให้มันแก่เขา
 FINI011FO;Ford;He got it from someone else, long before he came here.;เขาได้รับมันมาจากคนอื่นเมื่อนานมาแล้ว ก่อนจะมาที่นี่ด้วยซ้ำ
-FINI012FO;Ford;But we CAN give him this, to honor his mind, his courage, and his heart.;แต่เรา "สามารถ" ให้สิ่งนี้แก่เขาได้ เพื่อเป็นเกียรติแก่จิตใจ ความกล้าหาญ และหัวใจของเขา
+FINI012FO;Ford;But we CAN give him this, to honor his mind, his courage, and his heart.;"แต่เรา ""สามารถ"" ให้สิ่งนี้แก่เขาได้ เพื่อเป็นเกียรติแก่จิตใจ ความกล้าหาญ และหัวใจของเขา"
 FINI013FO;Ford;Son, we do not normally ask this of someone so young, but it is obvious to us all that you are not average.;เจ้าหนู ปกติเราไม่เคยถามเด็กอายุเท่าเธอแบบนี้มาก่อน แต่เห็นได้ชัดว่าเธอไม่ธรรมดา
 FINI014FO;Ford;Will you join us, Razputin?;เธอจะมาร่วมกับพวกเราไหม แรซปูติน?
 FINI015FO;Ford;Will you be... a Psychonaut?;เธอจะเป็น... ไซโคนอทไหม?
@@ -200,7 +200,7 @@ GLGO016BN;Benny;Hey, quit it!;เฮ้ หยุดนะ!
 GLGO017EF;Elton;Hee hee.;Hee hee.
 GLGO020SA;Sasha;Razputin, please. Germs. ;แรซปูติน ได้โปรด มันสกปรก
 GLGO021SA;Sasha;Uh... Germs...;อา... สกปรก...
-GLGO023MI;Milla;Uh... heh... Heh heh�;Uh... heh... Heh heh�
+GLGO023MI;Milla;Uh... heh... Heh heh;Uh... heh... Heh heh�
 GLGO024FO;Ford;Ooh, ha ha ha!;Ooh, ha ha ha!
 GLGO025CO;Coach;Heh. Knock it off.;เฮอะ หยุดซะที
 GLGO026GL;Gloria;Ooooh hoo hoo!;Ooooh hoo hoo!
@@ -233,7 +233,7 @@ GLGO055RA;Raz;Got it!;
 GLGO056RA;Raz;I can't wait to use Sasha's Psychic Portal Door and jump inside someone's head!;
 GLGO057RA;Raz;...for the good of the mission I mean.;
 GLGO058RA;Raz;No brain there to enter!;
-GLZG024TO;System;In accordance with Section 3, Paragraph 1 of the "Young Minds Protection Act," any device created for the purpose of invasive psychic procedure must have built-in safeguards which make its use upon anyone under the age of eighteen (18) impossible.;
+GLZG024TO;System;"In accordance with Section 3, Paragraph 1 of the ""Young Minds Protection Act,"" any device created for the purpose of invasive psychic procedure must have built-in safeguards which make its use upon anyone under the age of eighteen (18) impossible.";
 GLGO060RA;Raz;Darn.;
 GLAB000RA;Raz;Ohhh-oooh...;
 GLAC000FO;Ford;Now don't pull that out while I'm physically near by, or I'm telling you I'm gonna eat it!;
@@ -306,7 +306,7 @@ GLAF048RA;Raz;I've got these little thistle girls attacking me.;
 GLAF049FO;Ford;They're only invulnerable when they're spinning, but if you can't wait, try fire.;
 GLAF050RA;Raz;These hell-hounds keep setting me on fire.;
 GLAF051FO;Ford;Now, if a dog did that to me, I'd shoot it. From a distance. With my PSI Blast.;
-GLAF052RA;Raz;There are these mean little Harpies in Gloria's mind�;
+GLAF052RA;Raz;There are these mean little Harpies in Gloria's mind;
 GLAF053FO;Ford;Shoot! Shoot 'em. Blast them in the head. We're trying to save the world here, not start an aviary!;
 GLAF054RA;Raz;How would you kill a really big walking snail with a cannon?;
 GLAF055FO;Ford;Well, remember you can tumble fast when you're using your mental focus...;
@@ -541,7 +541,7 @@ GLZD102TO;System;Eagle Claw Soup is surprisingly tangy, and promotes the growth 
 GLZB021TO;System;Diver's Helmet;หมวกนักประดาน้ำ
 GLZD103TO;System;Thick helmets like these have been used to protect those who dive in Lake Oblongata, not from the increase in water pressure, but from the hideous creature that is rumored to live in the lake (but is, of course, just an old legend).;หมวกแบบหนา ถูกใช้เพื่อปกป้องผู้ที่ดำน้ำในทะเลสาบ Oblongata ไม่ใช่จากแรงดันน้ำที่เพิ่มขึ้น แต่จากสิ่งมีชีวิตที่น่าสะพรึงกลัวที่มีข่าวลือว่าอาศัยอยู่ในทะเลสาบ (แต่แน่นอนว่าเป็นเพียงแค่ตำนานเก่าแก่)
 GLZB022TO;System;Psychonauts Comic #1;Psychonauts Comic #1
-GLZD104TO;System;The thrilling Origin Issue in which the Psychonauts get their name and design their first costumes. Also introduces the character of "Clyde the Cautious Cougar" who teaches firestarting safety.;ต้นฉบับอันน่าตื่นตาตื่นใจที่ Psychonauts ได้นำชื่อและการออกแบบเครื่องแต่งกายชุดแรกมา นอกจากนี้ยังแนะนำตัวละครอย่าง "ไคลด์ คูการ์นักระวังภัย" ผู้ที่สอนการจุดไฟอย่างปลอดภัย
+GLZD104TO;System;"The thrilling Origin Issue in which the Psychonauts get their name and design their first costumes. Also introduces the character of ""Clyde the Cautious Cougar"" who teaches firestarting safety.";"ต้นฉบับอันน่าตื่นตาตื่นใจที่ Psychonauts ได้นำชื่อและการออกแบบเครื่องแต่งกายชุดแรกมา นอกจากนี้ยังแนะนำตัวละครอย่าง ""ไคลด์ คูการ์นักระวังภัย"" ผู้ที่สอนการจุดไฟอย่างปลอดภัย"
 GLZB023TO;System;Cherry Wood Pipe;ไปป์ไม้เชอร์รี่
 GLZD105TO;System;This style of pipe was common among more fashion-conscious loggers in the early part of this century, until a high frequency of logger-initiated forest fires led to a mandatory, industry-wide switch to chewing tobacco, and later, bark-flavored chewing gum.;ไปป์ที่เห็นกันได้ทั่วไปในหมู่คนตัดไม้ที่ใส่ใจแฟชั่นมากขึ้นในช่วงต้นศตวรรษนี้ จนกระทั่งเกิดไฟป่าที่มีสาเหตุจากคนตัดไม้เพิ่มสูงขึ้น จนนำไปสู่การเปลี่ยนวิธีบริโภคมาเป็นยาสูบแบบเคี้ยวทั่วอุตสาหกรรมและต่อมาก็เป็นหมากฝรั่งรสเปลือกไม้
 GLZB024TO;System;Turkey Sandwich;แซนวิชไก่งวง
@@ -549,11 +549,11 @@ GLZD106TO;System;Possibly the most famous of all poultry-based sandwiches, secon
 GLZB025TO;System;Voodoo Doll;ตุ๊กตาวูดู
 GLZD107TO;System;Years ago someone thought it would be a fun craft project at camp to make voodoo dolls. We would have fired that teacher had they not ended up in the hospital. If you find one of these dolls PLEASE do not remove and reinsert ANY of the pins.;หลายปีก่อน มีคนคิดว่าการทำตุ๊กตาวูดูในแคมป์น่าจะเป็นโครงการหัตถกรรมที่สนุกสนาน เราจะไล่ครูคนนั้นออก ถ้าเขาไม่ไปโรงพยาบาล หากคุณพบตุ๊กตาตัวใดตัวหนึ่ง โปรดอย่าดึงหรือเสียบหมุดใดๆ กลับเข้าไปใหม่
 GLZB026TO;System;Miner's Skull;กะโหลกคนขุดเหมือง
-GLZD108TO;System;In the early days of the Psitanium rush, prospectors and miners came from all over to hunt the mysterious "Whispering Rock" so plentiful in this valley. Some were killed in mining accidents, some in claim disputes, but many were simply driven mad by the powerful mineral, and wandered off into the mines, never to be seen again--except for their creepy, bearded heads.;ในช่วงต้น ๆของยุคทองแห่งไซทาเนียม นักสำรวจแร่และคนงานเหมืองมาจากทั่วทุกมุมเพื่อตามล่า "หินเสียงกระซิบ" ลึกลับที่อุดมสมบูรณ์ในหุบเขานี้ บางคนเสียชีวิตจากอุบัติเหตุในเหมือง บางคนโต้แย้งเรียกร้องสิทธิ แต่หลายคนก็คลั่งไคล้แร่ทรงพลังนี้อย่างบ้าคลั่ง และเดินเตร็ดเตร่เข้าไปในเหมือง โดยไม่มีใครเห็นอีกเลย–เหลือไว้แต่เพียงหัวที่มีเคราน่าขนลุก
+GLZD108TO;System;"In the early days of the Psitanium rush, prospectors and miners came from all over to hunt the mysterious ""Whispering Rock"" so plentiful in this valley. Some were killed in mining accidents, some in claim disputes, but many were simply driven mad by the powerful mineral, and wandered off into the mines, never to be seen again--except for their creepy, bearded heads.";"ในช่วงต้น ๆของยุคทองแห่งไซทาเนียม นักสำรวจแร่และคนงานเหมืองมาจากทั่วทุกมุมเพื่อตามล่า ""หินเสียงกระซิบ"" ลึกลับที่อุดมสมบูรณ์ในหุบเขานี้ บางคนเสียชีวิตจากอุบัติเหตุในเหมือง บางคนโต้แย้งเรียกร้องสิทธิ แต่หลายคนก็คลั่งไคล้แร่ทรงพลังนี้อย่างบ้าคลั่ง และเดินเตร็ดเตร่เข้าไปในเหมือง โดยไม่มีใครเห็นอีกเลย–เหลือไว้แต่เพียงหัวที่มีเคราน่าขนลุก"
 GLZB027TO;System;Pirate Scope;กล้องส่องทางไกลของโจรสลัด
 GLZD109TO;System;Telescopes like this were once popular among area pirates, until they learned that they could see farther by using Clairvoyance on bird feathers.;กล้องส่องทางไกลแบบนี้เคยเป็นที่นิยมในหมู่โจรสลัด จนกระทั่งพวกเขาได้เรียนรู้ว่าสามารถมองเห็นได้ไกลกว่าโดยใช้ ตาทิพย์กับขนนก
 GLZB028TO;System;Golden Acorn;ลูกโอ๊กทองคำ
-GLZD110TO;System;Adult squirrels will often coat a regular acorn with a mucilaginous secretion that gives it a shiny, "golden" coat. This sparkly trinket is used to attract possible mates. Warning: do not eat.;กระรอกที่โตเต็มวัยมักจะเคลือบลูกโอ๊กด้วยการหลั่งเมือกซึ่งทำให้มีผิว "สีทอง" เป็นประกาย เครื่องประดับแวววาวนี้ ใช้เพื่อดึงดูดคู่ของพวกมัน คำเตือน: ห้ามรับประทาน
+GLZD110TO;System;"Adult squirrels will often coat a regular acorn with a mucilaginous secretion that gives it a shiny, ""golden"" coat. This sparkly trinket is used to attract possible mates. Warning: do not eat.";"กระรอกที่โตเต็มวัยมักจะเคลือบลูกโอ๊กด้วยการหลั่งเมือกซึ่งทำให้มีผิว ""สีทอง"" เป็นประกาย เครื่องประดับแวววาวนี้ ใช้เพื่อดึงดูดคู่ของพวกมัน คำเตือน: ห้ามรับประทาน"
 GLZB029TO;System;Glass Eye;ตาปลอม
 GLZD111TO;System;I am always losing mine around camp. If you find one please don't scratch it, because I'm running out of spares.;ฉันมักจะทำมันหายแถวค่ายนี้แหละ หากใครพบมัน โปรดอย่าทำมันเป็นรอยล่ะ เพราะฉันไม่มีอะไหล่สำรอง
 GLZB030TO;System;Condor Egg;ไข่นกแร้งคอนดอร์
@@ -565,7 +565,7 @@ GLZD114TO;System;Enormous, carnivorous, and Psychically mutated, one thing for s
 GLZB033TO;System;Fossil;ฟอสซิล
 GLZD115TO;System;Bringing day old chicken pot pie from the cafeteria doesn't count! I've been fooled twice already, but from now on, you kids better have the real McCoy!;ถ้าไม่นับพายไก่หม้อเก่าค้างคืน ในโรงอาหาร! ฉันเคยโดนหลอกมาแล้ว 2 ครั้ง แต่จากนี้ต่อไป เด็กๆ ของนายควรจะมีของแท้เก็บสะสมไว้ดีกว่า!
 GLZB034TO;System;Gold Watch;นาฬิกาทอง
-GLZD116TO;System;Time. The enemy of us all. Hold a watch to your ear and listen. Tick tock, tick tock... those are the hoof beats of the Reaper's pale horse. "Half past eight, he's at your gate. Quarter to four, a knock on the door." Unwinding is the mortal coil that drives the gears to tick and toil, until at last, it rests, unwound, and we lay silent in the ground.;เวลา. ศัตรูของพวกเราทุกคน ถือนาฬิกาแนบหูแล้วฟังสิ ติ๊กต๊อก ติ๊กต๊อก... นี่คือเสียงกีบม้าสีซีดของยมทูต “แปดโมงครึ่ง เขาอยู่ที่ประตูบ้านนาย ตีสามสี่สิบห้า มีเสียงเคาะประตู” การไขลาน เป็นดั่งขดลวดของมนุษย์ที่ขับเคลื่อนเกียร์ให้ดังติ๊กและต๊อก จนในที่สุดมันก็ตาย คลายตัว และเรานอนแน่นิ่งอยู่บนพื้น
+GLZD116TO;System;"Time. The enemy of us all. Hold a watch to your ear and listen. Tick tock, tick tock... those are the hoof beats of the Reaper's pale horse. ""Half past eight, he's at your gate. Quarter to four, a knock on the door."" Unwinding is the mortal coil that drives the gears to tick and toil, until at last, it rests, unwound, and we lay silent in the ground.";เวลา. ศัตรูของพวกเราทุกคน ถือนาฬิกาแนบหูแล้วฟังสิ ติ๊กต๊อก ติ๊กต๊อก... นี่คือเสียงกีบม้าสีซีดของยมทูต “แปดโมงครึ่ง เขาอยู่ที่ประตูบ้านนาย ตีสามสี่สิบห้า มีเสียงเคาะประตู” การไขลาน เป็นดั่งขดลวดของมนุษย์ที่ขับเคลื่อนเกียร์ให้ดังติ๊กและต๊อก จนในที่สุดมันก็ตาย คลายตัว และเรานอนแน่นิ่งอยู่บนพื้น
 GLZG017TO;System;Your JOURNAL is a great place to see what you've done so far, and plan what you're going to do next. You can use it to SAVE and LOAD your progress, change your OPTIONS, and there's a helpful MAP in the back! Press /StartButton/ to open your JOURNAL.;
 GLZG018TO;System;Use the LEFT /Joystick/ or /DPad/ to navigate the Journal.;
 GLZG019TO;System;On this page, you can see what you've collected in the current area. Make sure to come back here after you've collected some FIGMENTS, so you can look at them up close with the FIGMENT VIEWER option.;
@@ -595,7 +595,7 @@ GLZA022TO;System;That Cobra wrestler resists attacks.;
 GLZA023TO;System;That Tiger wrestler's got a mean pounce.;
 GLZA024TO;System;The Dragon wrester has this roar that glues me to the floor.;
 GLZA025TO;System;The crayfish in the lake are bigger than what we got back home.;
-GLZA026TO;System;There are these mean little Harpies in Gloria's mind�;
+GLZA026TO;System;There are these mean little Harpies in Gloria's mind;
 GLZA027TO;System;These hell-hounds keep setting me on fire.;
 GLZA028TO;System;Two words: Ca-caw.;
 GLZA029TO;System;Were you watching those Electro Trucks?;
@@ -761,7 +761,7 @@ GLZD119TO;System;Judging by his face, Coach Oleander's been through a lot. I'm s
 GLZD120TO;System;Complete Sasha Nein's advanced training.;
 GLZD121TO;System;If I complete Sasha's advance training, he'll show me how to astrally project myself into people's minds at will, and that's something I'll have to learn if I want to be a Psychonaut.;
 GLZD122TO;System;Find Sasha's lab.;
-GLZD123TO;System;What did he mean, "Isolation can be a good thing?" What's that have to do with the location of his secret lab? Hmmm�;
+GLZD123TO;System;"What did he mean, ""Isolation can be a good thing?"" What's that have to do with the location of his secret lab? Hmmm";
 GLZD124TO;System;I wish that stupid bunny would hold still so I could catch him. What's he doing here anyway?;
 GLZD125TO;System;Okay, I don't know what that big scary thing was, but it has no business being in my mind. I think it's gonna have to die.;
 GLZD126TO;System;Sasha said he'd teach me how to really fight when I'm ready. And I'm ready!;
@@ -825,13 +825,13 @@ GLZD200TO;System;Get inside the Milkman's Hideout.;
 GLZD201TO;System;Kids' brains returned.;
 GLZD202TO;System;Get to the top of the tower, like I did in my vision.;
 GLZD203TO;System;Trick the orderly into letting me on the elevator.;
-GLZD204TO;System;Find a "claw" for Loboto costume.;
+GLZD204TO;System;"Find a ""claw"" for Loboto costume.";
 GLZD205TO;System;Help Gloria control her mood swings.;
 GLZD206TO;System;Fight the Phantom!;
 GLZD207TO;System;Get Bonita to take the stage.;
 GLZD208TO;System;Light the theater spotlight.;
-GLZD209TO;System;Get Jasper's "Knock 'em Dead" play.;
-GLZD210TO;System;Get "Knight of Joy" script from Jasper.;
+GLZD209TO;System;"Get Jasper's ""Knock 'em Dead"" play.";
+GLZD210TO;System;"Get ""Knight of Joy"" script from Jasper.";
 GLZD213TO;System;Ride the balloon up to the catwalks.;
 GLZD215TO;System;Defeat Jasper.;
 GLZD217TO;System;Help Fred win the battle in his mind.;
@@ -846,7 +846,7 @@ GLZD227TO;System;Recruit a Hearty Knight to take Napoleon's stronghold.;
 GLZD228TO;System;Recruit some escargot for the Hearty Knight.;
 GLZD229TO;System;Take snails to the restaurant so the Hearty Knight can have a decent meal.;
 GLZD230TO;System;Move the Hearty Knight into Napoleon's stronghold.;
-GLZD231TO;System;Find a "face" for Loboto costume.;
+GLZD231TO;System;"Find a ""face"" for Loboto costume.";
 GLZD232TO;System;Help Edgar conquer his obsession with bullfights.;
 GLZD234TO;System;Get the Queen of Clubs back to Edgar.;
 GLZD235TO;System;Get the Queen of Hearts back to Edgar.;
@@ -950,7 +950,7 @@ GLZG041TO;System;/BBUTTON/ Exit;/BBUTTON/ Exit
 GLZF007TO;System;Invisibility upgrade at rank: 80;
 GLZF008TO;System;Shield upgrade at rank: 65;
 GLZB037TO;System;Already at Maximum Projection Depth;
-GLZD289TO;System;Find a "lab coat" for Loboto costume.;
+GLZD289TO;System;"Find a ""lab coat"" for Loboto costume.";
 GLZD290TO;System;Recruit the Carpenter to repair the bridges.;
 GLZD291TO;System;Find a way onto the Carpenter's roof.;
 GLZG042TO;System;Hey, you've finished half of the Scavenger Hunt, so you've qualified for the first half of your prize! Go see Ranger Ford for your big promotion!;
@@ -1017,10 +1017,10 @@ GLZD342TO;System;Autosave game cannot be deleted.;Autosave game cannot be delete
 GLZD343TO;System;Delete saved game? All saved data will be lost.;Delete saved game? All saved data will be lost.
 GLZD344TO;System;All current game data will be lost. Do you want to Load this game?;All current game data will be lost. Do you want to Load this game?
 GLZD346TO;System;Overwrite Saved Game?;Overwrite Saved Game?
-GLZD347TO;System;Your Xbox doesn't have enough free blocks to save this profile.
-Press /Abutton/ to continue without saving or /Bbutton/ to free more blocks.;
-GLZD348TO;System;Your Xbox doesn't have enough free blocks to save games.
-Press /Abutton/ to continue without saving or /Bbutton/ to free more blocks.;
+GLZD347TO;System;"Your Xbox doesn't have enough free blocks to save this profile.
+Press /Abutton/ to continue without saving or /Bbutton/ to free more blocks.";
+GLZD348TO;System;"Your Xbox doesn't have enough free blocks to save games.
+Press /Abutton/ to continue without saving or /Bbutton/ to free more blocks.";
 GLZD349TO;System;Delete Profile? All saved data will be lost.;
 GLZD351TO;System;Please reconnect the controller to controller port;
 GLZD352TO;System;and press START to continue.;
@@ -1167,7 +1167,7 @@ GLZD415TO;System;Find the Milkman.;
 GLZD416TO;System;Find the Clairvoyance badge in Boyd's house.;
 GLZD417TO;System;Practice Clairvoyance on living subject.;
 GLZD418TO;System;Go to the Graveyard and search the Milkman's Grave.;
-GLZD419TO;System;Get past the "Road Crew.";
+GLZD419TO;System;"Get past the ""Road Crew.""";
 GLZD420TO;System;Find disguise to pass as sewer worker.;
 GLZD421TO;System;Back;
 GLAY004RA;Raz;Ahh! Confusion... grenade...;
@@ -1181,13 +1181,13 @@ GLZD426TO;System;Find the candle in the old prop room.;
 GLZD427TO;System;Use candle to light the big spotlight.;
 GLZD428TO;System;Find a way up to the catwalks.;
 GLZD429TO;System;Find the right script and play it on the right set to get access to the catwalks.;
-GLZD430TO;System;Get rid of any "burglars" scampering on the Carpenter's roof.;
+GLZD430TO;System;"Get rid of any ""burglars"" scampering on the Carpenter's roof.";
 GLZD431TO;System;Recruit another peasant to fight the new soldier.;
 GLZD432TO;System;Move the Snail piece to the restaurant so the Hearty Knight can have a decent meal.;
 GLZD433TO;System;Free the gears and lower the drawbridge to Napoleon's stronghold!;
-GLZB060TO;System;"Goodbye Hagatha Home";
-GLZB061TO;System;"Knight of Joy";
-GLZB062TO;System;"The Day the Mail Boat Finally Came";
+GLZB060TO;System;"""Goodbye Hagatha Home""";
+GLZB061TO;System;"""Knight of Joy""";
+GLZB062TO;System;"""The Day the Mail Boat Finally Came""";
 GLZD434TO;System;Saving preferences.  Please don't turn off your Xbox console.;Saving preferences.  Please don't turn off your Xbox console.
 GLAY006RA;Raz;Okay.;Okay
 GLZD510TO;System;Brain Hunt Checklist;
@@ -1287,7 +1287,7 @@ GLZD525TO;System;Redeem these with Ford!;Redeem these with Ford!
 GLZD528TO;System;PSI Cores;PSI Cores
 GLZD530TO;System;Bobby Zilch;บ๊อบบี้ ซิลช์
 GLZD531TO;System;Dogen Boole;โดแกน บูล
-GLZD532TO;System;Benny "The Nose" Fideleo;เบนนี่ "เดอะโนส" ฟิเดลิโอ
+GLZD532TO;System;"Benny ""The Nose"" Fideleo";"เบนนี่ ""เดอะโนส"" ฟิเดลิโอ"
 GLZD533TO;System;Elka Doom;เอลก้า ดูม
 GLZD534TO;System;Kitty Bubai;คิตตี้ บูไบ
 GLZD535TO;System;Chloe Barge;โคลอี บาร์จ

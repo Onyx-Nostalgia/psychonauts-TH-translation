@@ -1,12 +1,12 @@
 id;character;origin_dialogue;translated_dialogue
 CABD001RA;Raz;Dogen! Are you okay? I had the strangest machine-induced dream about you!;โดแกน! นายไม่เป็นไรนะ? ฉันฝันแปลก ๆ เกี่ยวกับนายแล้วก็เครื่องจักร 
 CABD002DO;Dogen;TV?;ทีวี?
-CABD003RA;Raz;Well, first of all, Sasha Nein invited me down to his SECRET LAB and--;ก็ ตอนแรก ซาช่า ไนน์ เชิญฉันไปที่ "ห้องทดลองลับ" ของเขาและ--
+CABD003RA;Raz;Well, first of all, Sasha Nein invited me down to his SECRET LAB and--;"ก็ ตอนแรก ซาช่า ไนน์ เชิญฉันไปที่ ""ห้องทดลองลับ"" ของเขาและ--"
 CABD005RA;Raz;He's completely brainless!;เขาสมองกลวงไปแล้ว!
 CABD006RA;Raz;The dream was true!;ความฝันเป็นจริง!
 CABD007RA;Raz;Dogen, don't worry. I know where your brains are. They're in... like, this crazy, dream-thorn-bush-straight-jacket-tower place.;โดแกน ไม่ต้องห่วง ฉันรู้ว่าสมองนายอยู่ที่ไหน มันอยู่ที่...ที่เหมือนหอคอย-มีหนาม-ปกคลุม-ในฝัน โครตจะบ้า
 CABD008DO;Dogen;Hackey sack?;ก้อนไหมพรม?
-CABD009RA;Raz;You go to the TV lounge. I'm on the case. I just need a little more advanced training to prepare�;นายไปห้องทีวีก่อนนะ ฉันจัดการเอง ฉันแค่ต้องฝึกขั้นสูงเพิ่มเติมอีกนิดหน่อยเพื่อเตรียมตัว
+CABD009RA;Raz;You go to the TV lounge. I'm on the case. I just need a little more advanced training to prepare;นายไปห้องทีวีก่อนนะ ฉันจัดการเอง ฉันแค่ต้องฝึกขั้นสูงเพิ่มเติมอีกนิดหน่อยเพื่อเตรียมตัว
 CAJI015FO;Ford;You'd better hurry on up there. Morry's already started in on those kids. Can't you hear 'em screaming?;
 CAJI016FO;Ford;Nothing like the sound of kids screamin' bloody murder on a hot summer day, eh?;
 CALD001RA;Raz;Lili!;ลิลี่!
@@ -16,14 +16,14 @@ CALD004RA;Raz;They stole Dogen's brains!;พวกนั้นขโมยสม
 CALD005LI;Lili;No, he's just like that.;ไม่อ่ะ หมอนั่นก็เป็นแบบนั้นอยู่แล้ว
 CALD006RA;Raz;I had a nightmare where this mad scientist guy said he was going to take them out and--;ฉันฝันร้าย เห็นนักวิทยาศาสตร์บ้าบอกว่ากำลังจะเอาสมองไปและ--
 CALD007LI;Lili;Was it a creepy-looking freak with a shower cap and a stainless steel, three pronged claw?;เขาเหมือนตัวประหลาดน่าขนลุกสวมหมวกอาบน้ำและมีมือกรงเล็บสแตนเลสสามแฉกหรือเปล่า?
-CALD008RA;Raz;Hey! That's MY nightmare!;เฮ้ นั่นฝันร้ายของ "ฉัน" นี่
-CALD009LI;Lili;So it's not just me�;งั้นก็ไม่ได้มีแค่ฉัน
+CALD008RA;Raz;Hey! That's MY nightmare!;"เฮ้ นั่นฝันร้ายของ ""ฉัน"" นี่"
+CALD009LI;Lili;So it's not just me;งั้นก็ไม่ได้มีแค่ฉัน
 CALD010RA;Raz;But how? And why all the meat?;แต่ ได้ไง? และทำไมถึงมีแต่เนื้อ?
 CALD011LI;Lili;I don't know, but I think it's time I find out where this is coming from.;ฉันไม่รู้ แต่ฉันคิดว่ามันถึงเวลาที่ฉันต้องไปหาสาเหตุแล้ว
 CALD012RA;Raz;Once I get trained in Levitation I'll be able to see the rest of the nightmare and get more information.; หากฉันฝึกการลอยตัวเสร็จเมื่อไร ฉันจะกลับไปดูฝันร้ายที่เหลือเผื่อจะได้ข้อมูลอะไรมากขึ้น
 CALD013LI;Lili;Let's rendezvous tonight at the old boathouse for debriefing.;พบกันคืนนี้ที่โรงเรือเก่าเพื่อแลกเปลี่ยนข้อมูลกัน
 CALD014RA;Raz;This is so cool.;นี่มันโคตรเจ๋ง 
-CALD015LI;Lili;Yeah, it feels like that time in "True Psychic Tales" 314 where--;ใช่ เหมือนกับใน “True Psychic Tales” เล่มที่ 314 ตอนที่--
+CALD015LI;Lili;"Yeah, it feels like that time in ""True Psychic Tales"" 314 where--";ใช่ เหมือนกับใน “True Psychic Tales” เล่มที่ 314 ตอนที่--
 CALD016RA;Raz;What did you just say?;เธอว่าไงนะ?
 CALD017LI;Lili;Shut up!;หุบปากไปเลย!
 CALK001RA;Raz;Bobby! Uh-oh. Look, I can explain--;บ๊อบบี้! เอ่อ ฟังนะ ฉันอธิบายได้--
@@ -36,8 +36,8 @@ CALK008LI;Lili;He's been broadcasting his insane plot all over camp in his sleep
 CALK009RA;Raz;So he's really kidnapping children and stealing their brains to make weapons!;แล้วก็เป็นเขาจริง ๆ ที่ลักพาตัวเด็ก ๆ และขโมยสมองพวกนั้นไปสร้างอาวุธ
 CALK010LI;Lili;Yes! Isn't that great?;ใช่ เยี่ยมไปเลยใช่ไหม?
 CALK011RA;Raz;What? How is that great?;อะไรนะ? เยี่ยมตรงไหน?
-CALK012LI;Lili;Because this is an honest-to-goodness psychic emergency!;เพราะว่านี้คือเหตุฉุกเฉินด้านพลังจิต"ของจริง" เลยไงล่ะ!
-CALK013RA;Raz;And Sasha's not here! He left on some "official Psychonauts business.";และซาช่าก็ไม่อยู่ เขาออกไปทำ “ธุระทางการของไซโคนอท” อะไรสักอย่าง
+CALK012LI;Lili;Because this is an honest-to-goodness psychic emergency!;"เพราะว่านี้คือเหตุฉุกเฉินด้านพลังจิต""ของจริง"" เลยไงล่ะ!"
+CALK013RA;Raz;"And Sasha's not here! He left on some ""official Psychonauts business.""";และซาช่าก็ไม่อยู่ เขาออกไปทำ “ธุระทางการของไซโคนอท” อะไรสักอย่าง
 CALK014LI;Lili;Milla left a note saying the same thing!;มิลล่าก็ทิ้งโน๊ตที่บอกแบบนั้นเหมือนกัน
 CALK015RA;Raz;Lili, a deranged madman is building an army of psychic death tanks to take over the world, and there's no one who can stop him except for you and me!;ลิลี่ มีคนบ้าวิกลจริตกำลังจะสร้างกองทัพรถถังพลังจิตมรณะเพื่อยึดครองโลก และไม่มีใครจะหยุดเขาได้นอกจากเธอกับฉัน
 CALK016LI;Lili;Oh my god!;โอ้พระเจ้า!
@@ -93,7 +93,7 @@ CASR004LI;Lili;Hey, brainiacs. Settle down.;เฮ้ พวกทึ่ม เ�
 CASR005BZ;Bobby;Why? You worried I'm gonna hurt your boyfriend?;ทำไม? กลัวว่าฉันจะทำร้ายแฟนเธอเหรอ?
 CASR006LI;Lili;No. Because Sasha Nein is standing right behind you.;เปล่า เพราะซาช่า ไนน์ กำลังยืนอยู่หลังนายน่ะสิ
 CASR007SA;Sasha;Your performance, young cadet, was outstanding. I'd like you to report to my lab for some advanced training.;ทักษะของเธอน่าทึ่งมาก นักเรียนน้อย ฉันอยากให้เธอมารายงานตัวที่ห้องแล็บของฉันเพื่อการฝึกขั้นสูง
-CASR008BZ;Bobby;Oooh! Raz the Spaz is gonna be in the "special" class. Benny, remind me to give him a "special" beating later, okay?;โอ้! ไอ้บ้าแรซ จะได้เข้าคลาส "พิเศษ" แล้ว. เบนนี่ เตือนฉันเรื่องจัดหนัก"พิเศษ" มันทีหลังด้วยนะ
+CASR008BZ;Bobby;"Oooh! Raz the Spaz is gonna be in the ""special"" class. Benny, remind me to give him a ""special"" beating later, okay?";"โอ้! ไอ้บ้าแรซ จะได้เข้าคลาส ""พิเศษ"" แล้ว. เบนนี่ เตือนฉันเรื่องจัดหนัก""พิเศษ"" มันทีหลังด้วยนะ"
 CASR009SA;Sasha;These tests are unauthorized, though, so I can't actually ask you to come. But if you happened to drop in, well, what could I do? Let me just give you this...;แต่การทดสอบนี้ไม่ได้รับอนุญาต ดังนั้นฉันจึงไม่สามารถขอให้เธอมาได้ แต่ถ้าเธออยากจะแวะมาเอง ฉันจะทำอะไรได้ล่ะ? ฉันขอให้สิ่งนี้กับเธอ...
 CASR010SA;Sasha;Remember:;จำไว้นะ
 CASR011SA;Sasha;Your talent will always set you apart, Razputin.;พรสวรรค์ของเธอจะทำให้เธอโดดเด่นเสมอ แรซปูติน
@@ -106,9 +106,9 @@ INBB003CO;Coach;Get in here and give me twenty!;เข้ามาในนี�
 INBB004RA;Raz;Sir! We need to get a containment team in the area STAT!;ท่านครับ! เราต้องการหน่วยปิดล้อมในพื้นที่ โดยด่วนครับ!
 INBB005RA;Raz;I've spotted a U.P.E.;ผมพบพวก U.P.E. ครับ
 INBB006CO;Coach;A U.P.E.?;พวก U.P.E.เรอะ?
-INBB007RA;Raz;Yes, an Unregistered Paranormal Entity, possibly aquatic in nature...;ครับ "สิ่งเหนือธรรมชาติที่ไม่ได้จดทะเบียน" (Unregistered Paranormal Entity) อาจมีอยู่ในแหล่งน้ำตามธรรมชาติ...
+INBB007RA;Raz;Yes, an Unregistered Paranormal Entity, possibly aquatic in nature...;"ครับ ""สิ่งเหนือธรรมชาติที่ไม่ได้จดทะเบียน"" (Unregistered Paranormal Entity) อาจมีอยู่ในแหล่งน้ำตามธรรมชาติ..."
 INBB008CO;Coach;I know what a U.P.E. is, son. I just don't know how YOU know.;ฉันรู้ว่า U.P.E. คืออะไร ไอ้หนู! ฉันแค่ไม่รู้ว่า นายไปรู้มาได้ยังไง
-INBB009RA;Raz;From "True Psychic Tales" Issue 424, sir!;จาก "True Psychic Tales" เล่มที่ 424 ครับท่าน!
+INBB009RA;Raz;"From ""True Psychic Tales"" Issue 424, sir!";"จาก ""True Psychic Tales"" เล่มที่ 424 ครับท่าน!"
 INBB010RA;Raz;Where Sasha Nein fought that clairvoyant grizzly bear?;ตอนที่ ซาช่า ไนน์ ต่อสู้กับหมีกริซลี่ที่มีตาทิพย์?
 INBB011CO;Coach;Pah! Comic books!;เฮอะ! หนังสือการ์ตูน!
 INBB012RA;Raz;This thing was real, and huge, and--and it smelled all smelly!;เรื่องจริงนะครับ มันตัวใหญ่ และ--และมันก็มีกลิ่นเหม็นเต็มไปหมด!
@@ -149,7 +149,7 @@ INTR035MI;Milla;It's just a little boy! What's your name, darling?;ก็แค�
 INTR036CO;Coach;I'll find out!;ฉันจะสืบเอง!
 INTR037CO;Coach;Can't... get... in... ach!;เจาะ... เข้า... ไป... ไม่ได้!
 INTR038RA;Raz;My name...;ฉันมีชื่อ...
-INTR039CO;Coach;...starts with a "D"�;... เริ่มด้วยตัว "ด"
+INTR039CO;Coach;"...starts with a ""D""";"... เริ่มด้วยตัว ""ด"""
 INTR040RA;Raz;...is Razputin.;...ว่า แรซปูติน.
 INTR041CO;Coach;Grr.;Grr.
 INTR042RA;Raz;But everybody calls me Raz.;แต่คนเรียกฉันว่า แรซ.
@@ -171,14 +171,14 @@ INTR057RA;Raz;To soar across the astral plane?;ทะยานไปสู่พ
 INTR058RA;Raz;To wage psychic warfare against the enemies of free thought?;เพื่อทำสงครามพลังจิตกับศัตรูแห่งความคิดเสรี?
 INTR059CO;Coach;That is what I wrote on the front of the pamphlet...;นั่น คือสิ่งที่ฉันเขียนไว้บนแผ่นพับ...
 INTR060RA;Raz;Those words are why I'm here, Coach Oleander. Do you remember what you wrote on the inside of that pamphlet?;คำพูดนั่นคือเหตุผลที่ผมมาที่นี่ โค้ชโอลีแอนเดอร์ คุณจำได้ไหมว่าคุณเขียนอะไรไว้ข้างในแผ่นพับนั่น?
-INTR061RA;Raz;"You were born with a special gift. But the people around you treat it like a curse. Your mother is afraid of you, and your father looks at you with shame in his eyes. Come to Whispering Rock Psychic Summer Camp, and you can show them all! Back home, your powers make you a loner, an outcast, a circus freak. But in this dojo, in this Psychic dojo, they make you a hero.";"คุณเกิดมาพร้อมพลังพิเศษ แต่คนรอบข้างกลับมองว่ามันเป็นคำสาป แม่ของคุณหวาดกลัว พ่อของคุณจ้องมองด้วยความละอายใจ มาที่ค่ายฝึกพลังจิต Whispering Rock สิ แล้วพิสูจน์ให้พวกเขาทั้งหมดได้เห็น! ที่บ้าน คุณเป็นเพียงคนโดดเดี่ยว นอกคอก ตัวประหลาด แต่ที่โดโจแห่งนี้ ที่โดโจพลังจิตแห่งนี้ พวกเขาจะทำให้คุณเป็น วีรบุรุษ"
+INTR061RA;Raz;"""You were born with a special gift. But the people around you treat it like a curse. Your mother is afraid of you, and your father looks at you with shame in his eyes. Come to Whispering Rock Psychic Summer Camp, and you can show them all! Back home, your powers make you a loner, an outcast, a circus freak. But in this dojo, in this Psychic dojo, they make you a hero.""";คุณเกิดมาพร้อมพลังพิเศษ แต่คนรอบข้างกลับมองว่ามันเป็นคำสาป แม่ของคุณหวาดกลัว พ่อของคุณจ้องมองด้วยความละอายใจ มาที่ค่ายฝึกพลังจิต Whispering Rock สิ แล้วพิสูจน์ให้พวกเขาทั้งหมดได้เห็น! ที่บ้าน คุณเป็นเพียงคนโดดเดี่ยว นอกคอก ตัวประหลาด แต่ที่โดโจแห่งนี้ ที่โดโจพลังจิตแห่งนี้ พวกเขาจะทำให้คุณเป็น วีรบุรุษ
 INTR062CO;Coach;Get that soldier a bunk!;เตรียมที่นอนให้พลทหารนั่นซะ!
 INTR063MI;Milla;Now, darling. You can stay here for a few days until your parents come for you. But we can't let you participate in any paranormal training without your parents' consent. I'm sorry.;เอาล่ะ ที่รัก หนูพักอยู่ที่นี่ได้สองสามวันจนกว่าพ่อแม่จะมารับนะ แต่เราไม่สามารถให้หนูเข้าร่วมการฝึกพลังจิตใด ๆ ได้ หากไม่ได้ความยินยอมจากพ่อแม่ ขอโทษด้วยนะจ๊ะ 
 INTR064DO;Dogen;Wowee. You're so lucky. You get to go home soon.;ว้าว. นายโชคดีจัง นายจะได้กลับบ้านแล้ว.
 INTR065RA;Raz;Home? Back there I was just like you were Dogen--punished by my own family for having powers I never asked for.;บ้านเหรอ? กลับไปที่นั่นฉันก็เหมือนกับนาย โดแกน ถูกลงโทษจากครอบครัวเพราะมีพลังที่ฉันก็ไม่เคยขอ.
 INTR066RA;Raz;But here, I have a chance to be something. To make a difference.;แต่ที่นี่ ฉันมีโอกาสที่จะเป็นอะไรบางอย่างที่ต่างออกไป
-INTR067RA;Raz;They may come for me, Dogen, but they'll be looking for Raz, the boy. What they're going to find�;พวกเขาอาจตามหาฉัน โดแกน ตามหา "แรซ" เด็กคนนึง. แต่สิ่งที่พวกเขาจะได้พบ
-INTR068RA;Raz;�What they don't expect, is Raz, the Psychonaut.;สิ่งที่พวกเขาไม่คาดคิด คือ "แรซแห่งไซโคนอท".  
+INTR067RA;Raz;They may come for me, Dogen, but they'll be looking for Raz, the boy. What they're going to find;"พวกเขาอาจตามหาฉัน โดแกน ตามหา ""แรซ"" เด็กคนนึง. แต่สิ่งที่พวกเขาจะได้พบ"
+INTR068RA;Raz;What they don't expect, is Raz, the Psychonaut.;"สิ่งที่พวกเขาไม่คาดคิด คือ ""แรซแห่งไซโคนอท"".  "
 INTR069DO;Dogen;And--and--and then you'll make their heads explode?;และ--แล้ว--แล้วนายก็จะระเบิดหัวพวกเขา?
 INTR070RA;Raz;No! Do you do that?;ไม่! นายทำงั้นเหรอ?
 INTR071DO;Dogen;No!;
@@ -192,7 +192,7 @@ SLAC001RA;Raz;Ahhh!;Ahhh!
 SLAC002SA;Sasha;Hmm. That should not have happened. We need to try that again.;ฮืมม. นั่นมันไม่ควรจะเกิดนขึ้น เราต้องลองกันอีกครั้ง
 SLAC003RA;Raz;Oh, I don't think I need to be in the Tumbler with the glowy eye guys anymore.;โอ้ ผมไม่คิดว่าผมจะอยากเข้าไปในเครื่องที่มีไอ้เจ้าตาเรืองแสงนั่นอีกแล้ว
 SLAC004SA;Sasha;Suit yourself.;ตามใจเธอ
-SLAC005SA;Sasha;You know, in many tribal societies, learning to defeat the monsters you see in your dreams is considered a rite of passage.;เธอรู้ไหมว่า ในสังคมชนเผ่ามากมาย การเรียนรู้ที่จะเอาชนะสัตว์ประหลาดที่พบในความฝันถือเป็น "พิธีกรรมการเปลี่ยนผ่าน" รูปแบบหนึ่ง
+SLAC005SA;Sasha;You know, in many tribal societies, learning to defeat the monsters you see in your dreams is considered a rite of passage.;"เธอรู้ไหมว่า ในสังคมชนเผ่ามากมาย การเรียนรู้ที่จะเอาชนะสัตว์ประหลาดที่พบในความฝันถือเป็น ""พิธีกรรมการเปลี่ยนผ่าน"" รูปแบบหนึ่ง"
 SLAC006SA;Sasha;I can train you to fight. Come see me when you're ready.;ฉันสอนเธอต่อสู้ได้ มาพบฉัน เมื่อเธอพร้อม
 SLAM001SA;Sasha;Okay, okay. Enough about my mind. Let's stay out of my mind for a while. Let's just go back into yours, huh?;
 SLAM002SA;Sasha;Step up to the Brain Tumbler when you're ready.;
@@ -233,15 +233,15 @@ CAQZ038CH;Chloe;Ak!;
 CAQZ039CH;Chloe;Ug!;
 CAQZ040CH;Chloe;Ay!;
 CAQZ041CH;Chloe;Ow!;
-CALG001CO;Coach;Alright, settle down in here! BIG DAY tomorrow!;เอาล่ะ, นอนพักกันที่นี่แหละ พรุ่งนี้มี "งานใหญ่"
+CALG001CO;Coach;Alright, settle down in here! BIG DAY tomorrow!;"เอาล่ะ, นอนพักกันที่นี่แหละ พรุ่งนี้มี ""งานใหญ่"""
 CALG002CO;Coach;I want to see each and every one of you runts in my classroom at oh-six-hundred hours on the dot!;ฉันอยากจะเห็นพวกนายทุกคนที่คลาส 6 โมงตรง!
 CALG003CO;Coach;I'm the early bird and you're the worms, got it?;ฉันเป็นนกที่ตื่นเช้าส่วนนายก็เป็นหนอน เข้าใจ๊
 CALG004CO;Coach;Now...;ที่นี้...
 CALG005CO;Coach;LIGHTS OUT!;ปิดไฟ!
 CAAM001PH;Phoebe;Uhhg! That has got to be the worst band name I have ever heard, in the history of ever, of all time, ever.;เอ่อ! นั่นต้องเป็นชื่อวงที่แย่ที่สุด ที่ฉันเคยได้ยินมาในประวัติศาสตร์ทั้งหมดเลยล่ะ
-CAAM002QU;Quentin;And by "worst" did you possibly mean, "The best?" Because that's what I was thinking.;คำว่า "แย่ที่สุด" ของเธอหมายถึง “ดีที่สุด” หรือเปล่า? นั่นคือสิ่งที่ฉันคิดล่ะ
+CAAM002QU;Quentin;"And by ""worst"" did you possibly mean, ""The best?"" Because that's what I was thinking.";"คำว่า ""แย่ที่สุด"" ของเธอหมายถึง “ดีที่สุด” หรือเปล่า? นั่นคือสิ่งที่ฉันคิดล่ะ"
 CAAM003PH;Phoebe;No I meant worst, as in I can't even believe we're friends it's so bad.;เปล่า ฉันหมายถึงแย่ที่สุดแบบว่า ฉันไม่อยากเชื่อเลยว่าเราเป็นเพื่อนกันได้ยังไง มันแย่มาก
-CAAM004QU;Quentin;Look deeply into your heart, Phoebe, and I think you'll find that even you believe "The Levitators" is pretty much the dopest name a band could ever have.;มองให้ลึกลงไปในหัวใจเธอสิฟีบี้ ฉันเชื่อว่าแม้แต่เธอก็จะรับรู้ได้ว่า “The Levitators” เป็นชื่อที่เจ๋งที่สุดเท่าที่วงดนตรีไหนจะเคยมีมา
+CAAM004QU;Quentin;"Look deeply into your heart, Phoebe, and I think you'll find that even you believe ""The Levitators"" is pretty much the dopest name a band could ever have.";มองให้ลึกลงไปในหัวใจเธอสิฟีบี้ ฉันเชื่อว่าแม้แต่เธอก็จะรับรู้ได้ว่า “The Levitators” เป็นชื่อที่เจ๋งที่สุดเท่าที่วงดนตรีไหนจะเคยมีมา
 CAAM005PH;Phoebe;The Levitators? Are we some sort of cover band that only plays graduation ceremonies for motivational seminars?;The Levitators? เราจะไปเป็นวงดนตรีคัฟเวอร์ที่เล่นในงานจบการศึกษาหรือสัมมนาเพื่อสร้างแรงบันดาลใจกันเหรอ?
 CAAM006QU;Quentin;I've been practicing, and I think I could levitate us both during our gigs. For real now.;ฉันฝึกมาแล้วนะ และฉันคิดว่าฉันจะทำให้พวกเราทั้งคู่ลอยได้ในระหว่างแสดงจริง ๆ น่ะ
 CAAM007PH;Phoebe;No way. Last year, you dropped me and I broke my drums.;ไม่มีทาง ปีที่แล้วนายก็ทำฉันตกจนกลองฉันแตก
@@ -255,9 +255,9 @@ CAAM014QU;Quentin;No...;ไม่...
 CAAM015PH;Phoebe;THE FIRESTARTERS.;THE FIRESTARTERS.
 CAAM016QU;Quentin;Oh, man.;โหว่ พวก
 CAAM017PH;Phoebe;Raaaaa!;ว๊ากกก!
-CAAM018QU;Quentin;If we're gonna call it that, we might as well call it, "Burning Itch."; ถ้าเราจะตั้งชื่อแบบนั้น เรียกว่า “คันยุบยิ๊บ” ไปเลยก็ได้
+CAAM018QU;Quentin;"If we're gonna call it that, we might as well call it, ""Burning Itch."""; ถ้าเราจะตั้งชื่อแบบนั้น เรียกว่า “คันยุบยิ๊บ” ไปเลยก็ได้
 CAAM019PH;Phoebe;WHAT?! OOooooh! Rrrrr!;อะไรนะ?! อู้ววว อร๊าย!
-CAAM020QU;Quentin;Hey, how's everybody tonight? You feelin' Itchy? I said, YOU FEELIN' ITCHY?;เฮ้ ทุกคนเป็นไงบ้างคืนนี้ รู้สึกคันๆ กันไหม? ฉันถามว่า "คุณรู้สึกคันๆ กันไหม?"
+CAAM020QU;Quentin;Hey, how's everybody tonight? You feelin' Itchy? I said, YOU FEELIN' ITCHY?;"เฮ้ ทุกคนเป็นไงบ้างคืนนี้ รู้สึกคันๆ กันไหม? ฉันถามว่า ""คุณรู้สึกคันๆ กันไหม?"""
 CAAM021PH;Phoebe;Watch it Quentin!;ระวังตัวไว้ เควนติน!
 CAAM022QU;Quentin;Or what. You'll burn me? You know you can't burn me. You got a block. That's why we're friends.;อะไรล่ะ เธอจะเผาฉันเหรอ? เธอก็รู้ว่าเธอเผาฉันไม่ได้ เธอโดนบล็อกอยู่ไง นั่นแหละเหตุผลที่เราเป็นเพื่อนกันได้ไงล่ะ
 CAAM023PH;Phoebe;Aw you're right.;อ๋อ จริงด้วย
@@ -354,7 +354,7 @@ CAMK022RA;Raz;Whoa. How does it work?;ว้าว ทำได้ยังไ�
 CAMK023CH;Chloe;I don't have time to explain the technology to you.;ฉันไม่มีเวลามาอธิบายเรื่องเทคโนโลยีให้นายฟังหรอกนะ
 CAML024RA;Raz;Hey, uh, Chloe?;เฮ้ เอ่อ โคลอี้?
 CAML025CH;Chloe;Go away, Raz, I'm working.;ไปให้พ้นนะ แรซ ฉันยุ่งอยู่
-CAQN001NI;Nils;Ahh! Can't see anything.;อ๊ะ! มองไม่เห็นอะไรเลย.;
+CAQN001NI;Nils;Ahh! Can't see anything.;อ๊ะ! มองไม่เห็นอะไรเลย.
 CAQN002NI;Nils;Stupid lame peephole.;ไอ้รูโง่ไร้ประโยชน์เอ้ย
 CAQN003NI;Nils;I am definitely going to need audio.;ฉันต้องการได้ยินเสียงด้วย
 CAQO004RA;Raz;You know that cabin is empty, right?;นายรู้ใช่ไหมว่ากระท่อมนั่นไม่มีใครอยู่น่ะ?
@@ -381,7 +381,7 @@ CAQZ035MI;Milla;Enough with the rough stuff, darling.;
 CAQZ036SA;Sasha;Yes, ouch.;
 CAAD001EL;Elka;I saw Nils peeking into a hole in the girls' cabin.;
 CAAD002DO;Dogen;I'm hiding!;
-CAAD003EL;Elka;And I thought, "Oh Nils, when will you peek into the hole in my heart?";
+CAAD003EL;Elka;"And I thought, ""Oh Nils, when will you peek into the hole in my heart?""";
 CAAD004EL;Elka;Because you'd just see yourself staring back.;
 CAAD005DO;Dogen;Uh huh. What?;
 CAAD006EL;Elka;I mean, he'd see my new boyfriend James staring back. And he'd be furious at Nils.;
@@ -419,7 +419,7 @@ CAAG023EF;Elton;Hey, shut up. She's not my girlfriend!;
 CAAG024EF;Elton;No, we're just good friends.;
 CAAG025EF;Elton;I mean if something were to happen later... oh, you know... whatever.;
 CAAG026EF;Elton;Shut up! You fish are gross!;
-CAAG027EF;Elton;That's not even technically accurate because humans don't, "spawn.";
+CAAG027EF;Elton;"That's not even technically accurate because humans don't, ""spawn.""";
 CAAG028EF;Elton;Ick.;
 CAAG029EF;Elton;Can we get back to that weird monster fish please?;
 CAAG030EF;Elton;Uh huh.;
@@ -463,7 +463,7 @@ CABI028MF;Maloof;If any bears show up, feel free to cut right in. Anyway, it is 
 CABI029BZ;Bobby;No, then we locked you in the GPC.;
 CABI030MH;Mikhail;Maloof forfeits place in bear wrestling line. As repayment for courtesy, bullying now forbidden. All bullies acknowledge, please.;
 CABI031BZ;Bobby;Get bent, commie. I'm gonna take your--;
-CABI032MH;Mikhail;Call next move "Deadly Nelson."  When screaming starts, eyeball may pop out of bully head. Standing back suggested.;
+CABI032MH;Mikhail;"Call next move ""Deadly Nelson.""  When screaming starts, eyeball may pop out of bully head. Standing back suggested.";
 CABI033BZ;Bobby;Okay! I won't touch him. Jeez.;
 CABJ034CF;Crystal;Hey, it's the king of the obstacle course!;
 CABJ035CM;Clem;Hey, Raz! You're awesome! You must be a Psychonaut by now!;
@@ -526,7 +526,7 @@ CABS021PH;Phoebe;Uhh, okay, let's go.;อ้าา โอเค ไปต่อ
 CABT022QU;Quentin;You know what?;เธอรู้อะไรไหม
 CABT023PH;Phoebe;You hated that part?;นายเกลียดท่อนนั้น
 CABT024QU;Quentin;Hmm, it's like you're reading my mind.;เธอนี่เหมือนอ่านใจฉันเลย
-CABT025QU;Quentin;Hey, you're not are you� you're not supposed to--;เฮ้ย นี่เธอไม่ได้อ่านใจฉันใช่ไหม เธอคงไม่--
+CABT025QU;Quentin;Hey, you're not are you you're not supposed to--;เฮ้ย นี่เธอไม่ได้อ่านใจฉันใช่ไหม เธอคงไม่--
 CABT026PH;Phoebe;Relax! There's nothing in there I don't already know.;ใจเย็น ไม่มีอะไรในหัวนายที่ฉันไม่รู้ 
 CABU027QU;Quentin;Whoa. That was good.;ว้าว ฟังดูดีนี่
 CABU028PH;Phoebe;It's like we're the best band ever.;
@@ -566,7 +566,7 @@ CABZ062QU;Quentin;Oh, so your dog's better than my dog?;
 CABZ063PH;Phoebe;No, I--what?;
 CABZ064QU;Quentin;That's it! I quit the band!;
 CABZ065PH;Phoebe;What!?!?;
-CABZ066QU;Quentin;Come on. Let's play "band fight." Just for a bit?;
+CABZ066QU;Quentin;"Come on. Let's play ""band fight."" Just for a bit?";
 CABZ067PH;Phoebe;Oh, not that again. No!;
 CACA068QU;Quentin;Hey, do you think Kitty likes me?;
 CACA069PH;Phoebe;Quentin, EVERBODY likes you. Can we just play?;
@@ -577,7 +577,7 @@ CACA073PH;Phoebe;No. Can we play?;
 CACA074QU;Quentin;Okay, well think about it. I'm going to ask you again later.;
 CACB075QU;Quentin;Well, I think we nailed it. Wanna lay off for the day?;
 CACB076PH;Phoebe;Sure... if you think it's ready to play in front of people.;
-CACB077PH;Phoebe;Like, uh� Kitty, for example?;
+CACB077PH;Phoebe;Like, uh Kitty, for example?;
 CACB078QU;Quentin;Okay, one more time!;
 CACC079PH;Phoebe;Okay, wait, wait, wait. I have to ask now because this has been bugging me for a while.;
 CACC080QU;Quentin;Shoot, bro.;
@@ -605,7 +605,7 @@ CACH103PH;Phoebe;Woooo-hoooo!;
 CACI104QU;Quentin;Oh, you know what would be good?;
 CACI106QU;Quentin;Like if we stopped right there--;
 CACI107PH;Phoebe;Like we just did?;
-CACI108QU;Quentin;Yeah, but if right when we stopped I went, "Woo-hoo!";
+CACI108QU;Quentin;"Yeah, but if right when we stopped I went, ""Woo-hoo!""";
 CACI109QU;Quentin;Like that.;
 CACI110QU;Quentin;Woo-hoo!;
 CACI111QU;Quentin;You know like Woo-hoo!;
@@ -618,7 +618,7 @@ CACI117QU;Quentin;LET'S DO IT YOUR WAY BOSS LADY THAT'S FINE!;
 CACJ118RA;Raz;Hey, you guys are good.;
 CACJ119QU;Quentin;Thanks, man. Hey, do you have a lighter? Cuz if you lit it and held it up right now, that would be rad.;
 CACJ120PH;Phoebe;And completely insensitive to me and my issues.;
-CACJ121QU;Quentin;Oh, right! Right! Uh, never mind. I forgot about the whole "fire bad" thing for a moment.;
+CACJ121QU;Quentin;"Oh, right! Right! Uh, never mind. I forgot about the whole ""fire bad"" thing for a moment.";
 CACK122RA;Raz;Drum solo! Wooo!;
 CACK123QU;Quentin;You heard the man.;
 CACL124RA;Raz;Hey, what's the name of the band?;
@@ -682,58 +682,58 @@ CAMX025CO;Coach;I told you, Private! I've got a lot of scheming to do here. You'
 CAMY026RA;Raz;Hey, coach! I need to learn Levitation quick!;เฮ้ โค้ช! ผมต้องเรียนรู้การลอยตัวโดยด่วนเลย!
 CAMY027CO;Coach;Do I look like a floater to you?;ฉันดูเหมือนคนลอยไปลอยมา ในสายตานายหรือเปล่า?
 CAMY028CO;Coach;Vodello gives the Levitation drills out on the docks.;โวเดลโล่ กำลังให้แบบฝึกหัดการลอยตัวอยู่ที่ท่าเรือ
-CAMY029CO;Coach;Now, DISMISSED!;ทีนี้ "เลิกแถว"!
+CAMY029CO;Coach;Now, DISMISSED!;"ทีนี้ ""เลิกแถว""!"
 CAMZ030RA;Raz;Coach! You'll never believe the stuff I've been doing!;โค้ช! คุณต้องไม่เชื่อแน่ว่าผมทำอะไร!
 CAMZ031CO;Coach;Ahhh!;Ahhh!
 CAMZ032CO;Coach;Listen, Private!;ฟังนะ พลหทาร!
-CAMZ033CO;Coach;I am at a VERY CRITICAL point in my lesson plan.;ฉันเป็นส่วน "โครตสำคัญ" ในแผนการสอนของฉันเอง
+CAMZ033CO;Coach;I am at a VERY CRITICAL point in my lesson plan.;"ฉันเป็นส่วน ""โครตสำคัญ"" ในแผนการสอนของฉันเอง"
 CAMZ034CO;Coach;I've almost got it all put together. I can't be taken off-mission right now, UNDERSTAND?;ฉันเกือบจะจัดการทุกอย่างเสร็จแล้ว ตอนนี้ฉันออกจากภารกิจไม่ได้ เข้าใจไหม?
 CAMZ035RA;Raz;Yes, Sir.;ครับผม
 CAMZ036CO;Coach;I promise that I'll come for you when I'm ready to really unlock your brain's full potential!;ฉันสัญญาว่าฉันจะเรียกหานาย เมื่อฉันพร้อมที่จะปลดล็อกศักยภาพสมองของนายจริงๆ !
 CAMZ037CO;Coach;Now, for the last time, you are DISMISSED, Private!;ตอนนี้ ครั้งสุดท้ายนะ เลิก-แถว พลทหาร!
-CANA038CO;Coach;(...mumble�);(...พึมพำ)
+CANA038CO;Coach;(...mumble);(...พึมพำ)
 CANA043CO;Coach;Charge!;ลุย!
 CANA044CO;Coach;...C rations...;...สเบียง...
-CANA045CO;Coach;�Short? Who you calling short?...;สั้นเรอะ? นายเรียกใครสั้น?
-CANA046CO;Coach;�Aw... little bunnies�;อู้...กระต่ายน้อย
-CANA047CO;Coach;�Not with my troop!;ไม่ใช่กองฉัน!
-CANA048CO;Coach;�Get up soldier! Walk it off!;ลุกทหาร! เดินไป!
-CANA049CO;Coach;�Got to find... the eggs�;ตามหา...ไข่
-CANA050CO;Coach;�Careful with the eggs�;ระวัง...ไข่
-CANA051CO;Coach;�Go Easter bunny�;ไปเลยกระต่ายอีสเตอร์
-CANA052CO;Coach;�Be careful on the way home�;ระวังตอนกลับบ้าน
-CANA053CO;Coach;�Don't drop the eggs, under the water�;อย่าปาไข่ลงน้ำ
-CANA054CO;Coach;�Give the eggs to you know who�;เอาไข่ไปให้คนที่นายรู้
-CANA055CO;Coach;�Can't decorate a cracked egg!;ตกแต่งไข่แตกไม่ได้!
-CANA056CO;Coach;�Good bunny�;กระต่ายดี
-CANA057CO;Coach;�When we�;-เมื่อเรา-
-CANA058CO;Coach;�Put those eggs in their holders�;-ใส่ไข่ลงในภาชนะ-
-CANA059CO;Coach;�Then they'll see. They'll all see�;-แล้วพวกเขาจะได้เห็น ทุกคนจะได้เห็น-
-CANA060CO;Coach;�See how pretty my eggs are.;-ว่าไข่ของฉันสวยแค่ไหน
-CANA061CO;Coach;�Little baby bunny. Run little bunny! Run!;-เจ้าลูกต่ายน้อย วิ่งต่ายน้อย! วิ่งไป!
+CANA045CO;Coach;Short? Who you calling short?...;สั้นเรอะ? นายเรียกใครสั้น?
+CANA046CO;Coach;Aw... little bunnies;อู้...กระต่ายน้อย
+CANA047CO;Coach;Not with my troop!;ไม่ใช่กองฉัน!
+CANA048CO;Coach;Get up soldier! Walk it off!;ลุกทหาร! เดินไป!
+CANA049CO;Coach;Got to find... the eggs;ตามหา...ไข่
+CANA050CO;Coach;Careful with the eggs;ระวัง...ไข่
+CANA051CO;Coach;Go Easter bunny;ไปเลยกระต่ายอีสเตอร์
+CANA052CO;Coach;Be careful on the way home;ระวังตอนกลับบ้าน
+CANA053CO;Coach;Don't drop the eggs, under the water;อย่าปาไข่ลงน้ำ
+CANA054CO;Coach;Give the eggs to you know who;เอาไข่ไปให้คนที่นายรู้
+CANA055CO;Coach;Can't decorate a cracked egg!;ตกแต่งไข่แตกไม่ได้!
+CANA056CO;Coach;Good bunny;กระต่ายดี
+CANA057CO;Coach;When we;-เมื่อเรา-
+CANA058CO;Coach;Put those eggs in their holders;-ใส่ไข่ลงในภาชนะ-
+CANA059CO;Coach;Then they'll see. They'll all see;-แล้วพวกเขาจะได้เห็น ทุกคนจะได้เห็น-
+CANA060CO;Coach;See how pretty my eggs are.;-ว่าไข่ของฉันสวยแค่ไหน
+CANA061CO;Coach;Little baby bunny. Run little bunny! Run!;-เจ้าลูกต่ายน้อย วิ่งต่ายน้อย! วิ่งไป!
 CANA062CO;Coach;...Papa! No!;...ป๊ะป๊า! ไม่!
-CANA063CO;Coach;...Noooooo�;...ไม่
-CANA064CO;Coach;�Ohhhh Papa�;โอ้ ป๊ะป็า
-CANA065CO;Coach;�Ohhh, Mr. Bunny!;โอ้ มิสเตอร์บันนี่
-CANA066CO;Coach;�When my eggs break�;เมื่อไข่ฉันแตก
-CANA067CO;Coach;�They'll spread all over the world�;-พวกมันจะแพร่กระจายไปทั่วโลก
-CANA068CO;Coach;�Sunny side up�;รุ่งอรุณจะมาถึง
-CANA069CO;Coach;�Haha�;�Haha�
-CANA070CO;Coach;�Heh-heh�;�Heh-heh�
-CANA071CO;Coach;�hmmm�;�hmmm�
+CANA063CO;Coach;...Noooooo;...ไม่
+CANA064CO;Coach;Ohhhh Papa;โอ้ ป๊ะป็า
+CANA065CO;Coach;Ohhh, Mr. Bunny!;โอ้ มิสเตอร์บันนี่
+CANA066CO;Coach;When my eggs break;เมื่อไข่ฉันแตก
+CANA067CO;Coach;They'll spread all over the world;-พวกมันจะแพร่กระจายไปทั่วโลก
+CANA068CO;Coach;Sunny side up;รุ่งอรุณจะมาถึง
+CANA069CO;Coach;Haha;�Haha�
+CANA070CO;Coach;Heh-heh;�Heh-heh�
+CANA071CO;Coach;hmmm;�hmmm�
 CAPL001RA;Raz;Hey, Elka!;เฮ้ เอลก้า!
 CAPN004EL;Elka;Why don't you and your little goggles go poke around in someone else's private business?;ทำไมนายและแว่นตาน้อยๆ ของนายไม่ไปยุ่งเรื่องส่วนตัวของคนอื่นล่ะ?
 CAPP001RA;Raz;Hey, you guys sound great!;เฮ้ พวกนายดูเยี่ยมมาก!
 CAPP002JT;J.T.;Ha-huh, much obliged, pardner.;ฮ่าฮ่า ขอบใจ เพื่อนฝูง
 CAQQ010NI;Nils;Oh, YEAH.;Oh, YEAH.
 CAQQ011NI;Nils;This is going to be sweet.;ไปได้สวยแน่ ๆ
-CAQQ012NI;Nils;Man, I can see EVERYTHING.;พวก ฉันจะเห็น "ทุก ๆ อย่าง"
+CAQQ012NI;Nils;Man, I can see EVERYTHING.;"พวก ฉันจะเห็น ""ทุก ๆ อย่าง"""
 CAQR013RA;Raz;You know, a nutcracker might be faster.;รู้ไหม ใช้คีมกระเทาะเปลือก น่าจะเร็วกว่านะ
 CAQR014NI;Nils;Tonight, when this baby is full of fine ladies, I'm going to see EVERYTHING.;คืนนี้ เมื่อเจ้าหนูนี่เต็มไปด้วยสาว ๆ ฉันก็จะเห็น “ทุกอย่าง”
 CAQR015RA;Raz;How are you going to fill that nut with ladies?;แล้วนายจะเอาสาว ๆ ใส่เข้าไปในไอ้นั่นยังไงล่ะ
 CAQR016NI;Nils;No, dude. The girls' cabin. I've got a man on the inside.;ไม่ พวก กระท่อมสาว ๆ ต่างหาก แล้วฉันก็คือชายที่จะไปอยู่ในนั้น 
 CAQR017RA;Raz;I get it! You're using Clairvoyance! You grabbed one of the squirrel's nuts and now you're using Clairvoyance on it to form a mental link and see what the squirrel sees!;เข้าใจล่ะ นายจะใช้ ตาทิพย์ (clairvoyance)! นายไปเอาไอ้นั่นของเจ้ากระรอกนั่นมา และตอนนี้นายจะใช้ตาทิพย์เพื่อเชื่อมต่อจิต แล้วเห็นในสิ่งที่กระรอกมองเห็น !
-CAQR018NI;Nils;Um, could you say "acorns" instead of "nuts" if you repeat that to anybody else?;อืม ตอนไปเล่าให้ใครฟัง นายช่วยเรียก “ลูกโอ๊ค” แทนคำว่า “ไอ้นั่น” ทีนะ
+CAQR018NI;Nils;"Um, could you say ""acorns"" instead of ""nuts"" if you repeat that to anybody else?";อืม ตอนไปเล่าให้ใครฟัง นายช่วยเรียก “ลูกโอ๊ค” แทนคำว่า “ไอ้นั่น” ทีนะ
 CAQR019RA;Raz;Teach me how to do that!;สอนฉันทำบ้างสิ!
 CAQR020NI;Nils;Hey, I paid a LITTLE bit of attention in class, but not THAT much.;เฮ้ ฉันตั้งใจเรียนมาแค่”นิดหน่อย” แต่ก็ไม่ได้ “ขนาดนั้น”
 CAQR021NI;Nils;What you need is an expert in Clairvoyance, where I am merely an expert in the ladies.;ที่นายต้องการคือ  ผู้เชี่ยวชาญเรื่องตาทิพย์ ส่วนฉันน่ะ เก่งแต่เรื่องสาวๆ เท่านั้น
@@ -743,14 +743,14 @@ CAQS024NI;Nils;Now beat it. You're breaking my focus.;ไปให้พ้น �
 CAAE016EL;Elka;Do you want to hear something that James--you know, my new boyfriend James--something funny he said?;
 CAAE017NI;Nils;No.;
 CAAE018EL;Elka;He said--;
-CAAE019NI;Nils;I said, "no.";
+CAAE019NI;Nils;"I said, ""no.""";
 CAAE020EL;Elka;Oh. Anyway, we were talking to Lili and she's all het up about a monster she thinks she saw in the woods.;
 CAAE021NI;Nils;Het up?;
-CAAE022EL;Elka;It's Wild West for "excited.";
+CAAE022EL;Elka;"It's Wild West for ""excited.""";
 CAAE023EL;Elka;James and I spend so much time together, I guess I'm starting to sound like him.;
 CAAE024NI;Nils;Funny, I talked to Lili last night and she didn't mention anything about a monster.;
 CAAE025EL;Elka;Nothing?;
-CAAE026NI;Nils;Well, she mostly said "mmm mmm mmm" because we were letting our mouths do the talking, if you know what I mean.;
+CAAE026NI;Nils;"Well, she mostly said ""mmm mmm mmm"" because we were letting our mouths do the talking, if you know what I mean.";
 CAAE027EL;Elka;I sure don't. What do you mean?;
 CAAE028NI;Nils;I mean we were making out because we're involved. Romantically.;
 CAAE029EL;Elka;WHAT? YOU--Wait--She doesn't like you that way.;
@@ -758,7 +758,7 @@ CAAE030EL;Elka;In fact, that's just one of the many ways she doesn't like you.;
 CAAE031EL;Elka;In fact, she doesn't like you, period.;
 CAAE032EL;Elka;You're lying about this whole thing, aren't you?;
 CAAE033NI;Nils;No way. Lili's my new girlfriend.;
-CAAE034NI;Nils;Don't ask her though, because it's a secret.  Because... well, the "because" is a secret too.;
+CAAE034NI;Nils;"Don't ask her though, because it's a secret.  Because... well, the ""because"" is a secret too.";
 CAAE035EL;Elka;Oh Nils. I know it hurts, but I have a new boy in my life.;
 CAAE036EL;Elka;A new cowboy. And he's not just a new cowboy, he's a cowman.;
 CAAE037NI;Nils;I think you have me confused with you.;
@@ -782,7 +782,7 @@ CACO002KI;Kitty;Did you hear something Franke?;ได้ยินอะไรไ
 CACO003FA;Franke;Nope.;ไม่
 CACO004VE;Vernon;Guys, hey! Hey! It's Vernon. I'm right next to you. Hey!;
 CACO006FA;Franke;What is it, Vernon?;
-CACO007VE;Vernon;Have you guys seen Dogen or Elka or Milka? We were playing hide-and-seek and--it's actually a funny story... I said, "I'll count to a hundred." and then--;
+CACO007VE;Vernon;"Have you guys seen Dogen or Elka or Milka? We were playing hide-and-seek and--it's actually a funny story... I said, ""I'll count to a hundred."" and then--";
 CACO008KI;Kitty;Stop! We saw them. We saw all of them. Just like five seconds ago.;
 CACO009FA;Franke;They were headed towards that place, the one that's so far away.;
 CACO010VE;Vernon;The beach?;
@@ -806,12 +806,12 @@ CAMU009MH;Mikhail;Okay. Joke is over.;
 CAMU010RA;Raz;Hey, Mikhail, what's up?;
 CAMU011MH;Mikhail;Nothing. Busy now.;
 CAPU011RA;Raz;Great shot!;
-CAPU012JT;J.T.;Well, pardner, it weren't "great." But t'weren't bad, neither.;
+CAPU012JT;J.T.;"Well, pardner, it weren't ""great."" But t'weren't bad, neither.";
 CAPV013RA;Raz;Wow, that's awesome!;
 CAPV014JT;J.T.;Stand back, greenhorn, or yer gonna git a nasty hotfoot.;
 CAAJ001BN;Benny;RRRRR! Lemme go!;
 CAAJ002MH;Mikhail;What to do with small bully assistant?;
-CAAJ003MF;Maloof;Jeez, I don't know. Could you put him in that "Deadly Nelson" you were talking about?;
+CAAJ003MF;Maloof;"Jeez, I don't know. Could you put him in that ""Deadly Nelson"" you were talking about?";
 CAAJ004MH;Mikhail;Could. On such tiny opponent, all blood might drain out earholes.;
 CAAJ005BN;Benny;AHHHHH!;
 CAAJ006MF;Maloof;Shut up, Benny!;
@@ -869,7 +869,7 @@ CAAO024VE;Vernon;The scariest thing...;
 CAAO025VE;Vernon;The absolute scariest thing...;
 CAAO026VE;Vernon;And the thing that still makes the old timers' blood turn to ice and vice versa...;
 CAAO027VE;Vernon;Is the part I said first about how he had hooks for gills.;
-CAAO028VE;Vernon;Oh� Brrrrrr.;
+CAAO028VE;Vernon;Oh Brrrrrr.;
 CAAO029VE;Vernon;Uh, anybody need a hug?;
 CAAO030VE;Vernon;Anybody?;
 CAAO031VE;Vernon;No?;
@@ -892,7 +892,7 @@ CABB012VE;Vernon;Kitty even agreed to go on a date with me more or less--we're g
 CABB013RA;Raz;Keep an eye on them Vernon.;
 CABB014RA;Raz;I'm gonna go figure out what's causing this!;
 CABB015VE;Vernon;Roger that, Raz.;
-CABE001EL;Elka;I don't care how long you two have been "pardners." James is my boyfriend now. Do you know what that means?;
+CABE001EL;Elka;"I don't care how long you two have been ""pardners."" James is my boyfriend now. Do you know what that means?";
 CABE002CP;Chops;Uh, well, he wears his good parade chaps a lot more.;
 CABE003EL;Elka;Yes, he's less filthy. That's part of it.;
 CABE004EL;Elka;But the biggest change is that he can't possibly waste as much time as he used to hanging out with his loser friends.;
@@ -1080,10 +1080,10 @@ CAPS008JT;J.T.;Glad ya like it.;
 CAPT009RA;Raz;Seriously, you guys really sound good.;
 CAPT010JT;J.T.;Doggone it, Raz, we're tryin' to play here.;
 CAPX001RA;Raz;Whatcha doin' there?;
-CAPX002KI;Kitty;We're making friendship bracelets. You know, for our "friends.";
+CAPX002KI;Kitty;"We're making friendship bracelets. You know, for our ""friends.""";
 CAPY003RA;Raz;Hey, is that my name on that one?;
 CAPY004KI;Kitty;Not unless your name is Franke. Or Kitty.;
-CAPZ005RA;Raz;Oh, I guess I saw an "R" and... and an "A"...;
+CAPZ005RA;Raz;"Oh, I guess I saw an ""R"" and... and an ""A""...";
 CAPZ006KI;Kitty;What's your name again, kid? Spaz?;
 CAQA007RA;Raz;My name's Raz.;
 CAQA008KI;Kitty;Well, Spaz, why don't you go bother someone else.;
@@ -1162,7 +1162,7 @@ CACE096PH;Phoebe;(Sigh) Dude.;(ถอนหายใจ) พวก
 CABY047QU;Quentin;No way, you're the best.  That was good.;ไม่มีทาง เธอเยี่ยมที่สุด นั่นดีแล้ว
 CAAW000DO;Dogen;I'm telling you for the last time, no!;ฉันจะพูดเป็นครั้งสุดท้ายนะ ไม่!
 CAAW001DO;Dogen;I would never do that. I could never...;ฉันจะไม่มีวันทำแบบนั้น ฉันจะไม่มีวัน...
-CAAW002DO;Dogen;...KILL EVERYONE.;..."ฆ่าทุกคน"
+CAAW002DO;Dogen;...KILL EVERYONE.;"...""ฆ่าทุกคน"""
 CAAW003DO;Dogen;Oh... hi Raz!;โอ้... ไง แรซ!
 CAAW004RA;Raz;Squirrel trouble?;กระรอกกวนใจเหรอ?
 CAAW005DO;Dogen;They're liars is all. Whatever they tell you, it's a lie.;พวกมันล้วนแต่โกหก ยังไงก็ตาม ถ้ามันไปคุยกับนายนะ มันกำลังโกหกอยู่ 
@@ -1184,7 +1184,7 @@ CACQ008BN;Benny;Cough it up, Ma-loser, or you'll be coughing up bloody tears.;�
 CACQ009RA;Raz;Hey, leave him alone.;เฮ้ อย่ายุ่งกับเขา
 CACQ010BZ;Bobby;I heard a rumor that you were raised in the circus. Well, let me put this in terms you'll understand. I'm the Strong Man around here.;ฉันได้ยินมาว่าแกโตมาในคณะละครสัตว์ งั้นเอางี้นะ ฉันจะพูดให้แกเข้าใจง่ายๆ ฉันคือ พี่เบิ้มในย่านนี้
 CACQ011RA;Raz;Really? Because you look more like the cotton candy.;จริงดิ? เพราะนายดูเหมือนสายไหมมากกว่านะ
-CACQ012BZ;Bobby;(Gasp!);(สะสาย!);
+CACQ012BZ;Bobby;(Gasp!);(สะสาย!)
 CACQ013BZ;Bobby;Benny, put this kid's death on my to-do list.;เบ็นนี่ จดชื่อเด็กนี่ไว้ในลิสต์คนที่ฉันต้องจัดการ
 CACQ014BN;Benny;Come on, we'll see him in class.;มาเหอะ เราไปเจอกันในคลาส
 CACQ015BZ;Bobby;Yeah, we'll settle this on the battlefield.;ช่าย เราจะไปเคลียร์กันในสนามรบ
@@ -1228,7 +1228,7 @@ CACY007DO;Dogen;Nils kisses girls on the mouth and likes it.;
 CACY008EL;Elka;Why don't you just take off your hat and kill me, Dogen?;
 CACY009DO;Dogen;I dunno.;
 CACZ000RA;Raz;But I need to get to Sasha Nein's secret lab!;
-CADA000RA;Raz;Where'd you get your clothes? Because my sister, she's kind of fat and she has so much trouble finding good stuff.;เธอไปเอาชุดนั่นมาจากไหนเหรอ พอดีพี่ฉัน เธอค่อนข้าง"อ้วน" และมักมีปัญหามากๆ ในการหาชุดที่มันพอดีตัวไม่ค่อยจะได้น่ะ
+CADA000RA;Raz;Where'd you get your clothes? Because my sister, she's kind of fat and she has so much trouble finding good stuff.;"เธอไปเอาชุดนั่นมาจากไหนเหรอ พอดีพี่ฉัน เธอค่อนข้าง""อ้วน"" และมักมีปัญหามากๆ ในการหาชุดที่มันพอดีตัวไม่ค่อยจะได้น่ะ"
 CADA001KI;Kitty;WHAT?;ไงนะ?
 CADA002RA;Raz;I said, do you know where Sasha's secret lab is?;ฉันพูดว่า เธอรู้ไหมว่า แล็ปลับของซาช่า อยู่ที่ไหนน่ะ?
 CADA003FA;Franke;Why don't you go talk to someone who likes you, and leave us alone?;ทำไมนายไม่ลองไปถามคนแบบพวกนายดูล่ะ และเลิกยุ่งกับเราซะที
@@ -1274,7 +1274,7 @@ CADH004CF;Crystal;It fastens up my vest!;
 CADH005CM;Clem;If it breaks like the rest,;
 CADH006CF;Crystal;The boys will see my chest!;
 CADI000JT;J.T.;Hey, you're that new kid, ain't ya?;
-CADI001RA;Raz;Well, I'm doing some advanced training right now as a matter of fact, so I don't think "New Kid" is really a name that you want to get too used to saying.;
+CADI001RA;Raz;"Well, I'm doing some advanced training right now as a matter of fact, so I don't think ""New Kid"" is really a name that you want to get too used to saying.";
 CADI002CP;Chops;Hold on there. You're not doing Sasha Nein's advanced training that he does in his secret, underground lab are you?;
 CADI003CP;Chops;Hidden deep within the iron walls of the GPC where no one can hear you screaming?;
 CADI004RA;Raz;Why, yes I am.;
@@ -1509,7 +1509,7 @@ CAFY001FO;Ford;Well, now you see what happens when you go to parts of the forest
 CAFY002FO;Ford;I'm a Ranger. I've got enough problems wrangling these leaves! Now git!;
 CAFZ000DO;Dogen;Wow, I guess that's what those squirrels were trying to tell me.;
 CAFZ001RA;Raz;Huh?;
-CAFZ002DO;Dogen;They kept saying, "The tiny man is going to kill everyone.";
+CAFZ002DO;Dogen;"They kept saying, ""The tiny man is going to kill everyone.""";
 CAFZ003DO;Dogen;I thought they were talking about me!;
 CAFZ004DO;Dogen;Oh man. I have to go apologize.;
 CADD005RA;Raz;Hmm. Looks like one of the buttons is missing.;
@@ -1530,7 +1530,7 @@ CAZE006TO;System;Move right thumbstick [vertical joystick icon] to look up.;
 CAGA013FO;Ford;Up. Up there.;
 CAGA014FO;Ford;Come on.;
 CAGA015FO;Ford;You see where I'm pointing?;
-CAGA016RA;Raz;Hmmm�;
+CAGA016RA;Raz;Hmmm;
 CAGA017FO;Ford;Some of the old markers have fallen apart. You'll find bits of 'em flapping around loose.;
 CAGA018FO;Ford;If you find enough of these PSI CARDS, you can put 'em together to make a brand new Challenge Marker...;
 CAGA019FO;Ford;...But you have to buy a PSI CORE at the camp store to hold them together.;
@@ -1592,7 +1592,7 @@ CAGD023FO;Ford;I told you them burgers ain't ready!;
 CAGD024FO;Ford;This part of the forest is off limits! Now git!;
 CAGD025FO;Ford;Stop starin' at my mops!;
 CAGD026FO;Ford;You will call me ADMIRAL, Sonny!;
-CAGD027CO;Coach;Oooh-ooooh... Mr. Bun, where you going? Ohhhh�;
+CAGD027CO;Coach;Oooh-ooooh... Mr. Bun, where you going? Ohhhh;
 CAGE000RA;Raz;Hey can I buy some stuff?;
 CAGE001FO;Ford;Yeah, but hurry up. I don't want to burn my burgers. ;
 GLZB013TO;System;Dream Fluff;
@@ -1756,8 +1756,8 @@ CAGW000EL;Elka;(...mutter...);
 CAGW003EL;Elka;Nils?;
 CAGW004EL;Elka;Nils!;
 CAGW005EL;Elka;Nils...;
-CAGW007DO;Dogen;Uh�;
-CAGW008DO;Dogen;Ummmmm�;
+CAGW007DO;Dogen;Uh;
+CAGW008DO;Dogen;Ummmmm;
 CAGW009DO;Dogen;I dunno.;
 CAGW010EL;Elka;Just ignore him, Dogen. He's trying to nose his way into our private conversation.;
 CAGW011DO;Dogen;But...;
@@ -1893,7 +1893,7 @@ CAIF006RA;Raz;...and that's how the Coach is planning to take over the world.;
 CAIF007RA;Raz;...so that's who's been kidnapping all the kids.;
 CAIF008RA;Raz;...and that's why we have to find Lili right away.;
 CAIF009RA;Raz;...so, any questions?;
-CAIF010RA;Raz;...and so that's why, even though she is a girl, and we are good friends, she is not, technically, my "girlfriend.";
+CAIF010RA;Raz;"...and so that's why, even though she is a girl, and we are good friends, she is not, technically, my ""girlfriend.""";
 CAIF011RA;Raz;...and that is how I beat the Hideous, Hulking Lungfish of Lake Oblongata.;
 CAIF012RA;Raz;...and then the Lungfish ate me and we became best friends.;
 CAIF013RA;Raz;...and that's why finding your brain in particular was my highest priority.;
@@ -1903,7 +1903,7 @@ CAIF016RA;Raz;...and that's why we need your help more than anybody's.;
 CAIF017RA;Raz;...and so--long story short--we're hoping for the best, but preparing for the worst.;
 CAIF018RA;Raz;...and that's how I earned all my merit badges.;
 CAIF019RA;Raz;Scared? You'd better believe I was scared. You'd have to be a fool not to be. But the trick is to never let them see you sweat!;
-CAIF020RA;Raz;...so I said, "Brainer? I don't even know her!" Ha ha!;
+CAIF020RA;Raz;"...so I said, ""Brainer? I don't even know her!"" Ha ha!";
 CAIF021RA;Raz;...no, you can't have the bracelet. She made it for me.;
 CAIF022RA;Raz;...no, I promise you. You didn't drool at all.;
 CAIF023RA;Raz;...The end!;
@@ -1929,7 +1929,7 @@ CAIL000KI;Kitty;Quit it! This polish isn't dry yet!;
 CAIL001KI;Kitty;HMM... nope.;
 CAIL002KI;Kitty;Pff. My dad bought me a bigger turtle than that for my birthday.;
 CAIN000FA;Franke;Ahhh!;
-CAIN001FA;Franke;HMM� nope.;
+CAIN001FA;Franke;HMM nope.;
 CAIN002FA;Franke;Glad you finally got a friend.;
 CAIP000MH;Mikhail;Shall I come out and hurt people?;
 CAIP001MF;Maloof;No, keep working.;
@@ -1971,60 +1971,60 @@ CAIZ000FO;Ford;Mr. Pokeylope. Stay away from the canoes, and we won't have any p
 CAJA000FO;Ford;Git that thing away from me!;
 CAJA001FO;Ford;Hello, Mr. Pokeylope. ;
 CAJA002FO;Ford;Could you please tell your friend that these woods are off limits?;
-CAJB000RA;Raz;"If you're reading this then you're late for class! Report for Basic Braining immediately to avoid detention in the Geodesic Psychoisolation Chamber. --Coach Oleander.";
-CAJB001RA;Raz;"Attention: everyone. You should all be aware that Nils Lutfisk and I have BROKEN UP forever. He is a pig, a child, and a loser, and I don't even care because James Hoofburger is my new boyfriend, and he is a MAN. Sincerely, Elka Doom.";
-CAJB002RA;Raz;"Children, we all like to tell ghost stories at camp, but please, the horrible stories about the monster that ALLEGEDLY lives in the lake and eats children's brains are getting a little out of hand. Some of the younger children are terrified. So please, keep the stories happy, okay? Love, Milla Vodello.";
-CAJB003RA;Raz;"Hey Maloof. Message to you from Bobby Zilch: You're dead. Regards, Benny 'The Nose' Fidelio.";
-CAJB004RA;Raz;"OFFICIAL NOTICE: Any children caught burning, shooting, tossing, or in anyway harming the squirrels or birds of Whispering Rock will immediately be put in Psychoisolation.";
-CAJB005RA;Raz;"Levitation Class today, 1:00pm on the floating dock. Instructor: Milla Vodello.";
-CAJB006RA;Raz;"Subjects wanted for experimentation. Must have above-average tolerance for psychic duress. Permanent damage is not expected, but all participants will be expected to sign a standard waiver of liability. Contact Sasha Nein for details.";
-CAJB007RA;Raz;"Dear Visitors from Other Galaxies, this is Chloe Barge. I have been receiving your psychic transmissions and am attempting to return communication. I have found a psychic radio and am attempting to retune to transmit to your galaxy. Stand by.";
-CAJB008RA;Raz;"Goodbye cruel camp. I'm tired of being picked on by Bobby and all the mean kids at camp. If I just had one friend here who was nice then I would stay but you're all mean and no one stands up for me so I'm going home. I'll be in the parking lot, waiting for my dad, so if you want to pick on me one last time, you'd better hurry. --Maloof.";
-CAJB009RA;Raz;"Just an update for everyone. Nils and I are STILL broken up, and no matter how much he begs, I am not taking him back. Also, you should know that my new boyfriend doesn't like being called J.T. anymore. His real name is James. Sincerely, Elka.";
-CAJB010RA;Raz;"If anyone talks to the squirrels, they shouldn't listen because the squirrels are a bunch of stupid liars. --Dogen.";
-CAJB011RA;Raz;"Great Deals in the Main Lodge Store! Drop by for great prices on Dream Fluffs, PSI Cores, and more! All available for just a few pieces of Psitanium!";
-CAJB012RA;Raz;"BAND PRACTICE TODAY: In the main lodge, the Levitators will be jamming this afternoon. Please come by if you'd like to try out for the band!";
-CAJB013RA;Raz;"Warning: If I find out who's been biting holes in the bottom of these canoes, someone is going to get paddled. --Admiral Cruller.";
-CAJB014RA;Raz;"UPDATE: The Levitators have broken up. However there will be a practice session of the Firestarters today in the main lodge. We are looking for someone who can play rock flute. Come on by and try out!";
-CAJB015RA;Raz;"Lili, if you're looking for me, I'll be down by the lake today. The fish seem a little upset, and I'm going to go see what's wrong. But don't worry, I'll still do your homework for tomorrow, if you want. --Elton Fir.";
-CAJB016RA;Raz;"Security cameras have been installed and the next kid who jumps on my car is going to be very, very sorry. --Coach Oleander.";
-CAJB017RA;Raz;"Hey, Clem and I just wanted to say that everyone did great in Basic Braining today! Give yourselves a hand! Woooo! Love, Crystal!" Man, she dotted every "I" with a puffy heart.;
-CAJB018RA;Raz;"And I just wanted to say Ditto to that! Double Ditto, in fact. Your friend, Clem.";
-CAJB019RA;Raz;"And I just wanted to point out, in case you didn't know, that Crystal's last name was Snagrash. Crystal Flowers Snagrash! No joke! --Bobby Z.";
-CAJB020RA;Raz;"Vernon, Franke totally has a crush on you. She is warm for your form. Signed, Anonymous.";
-CAJB021RA;Raz;"Warning: The abandoned mental institution across the lake is not Psychonauts property, and not safe for children. Canoe access has been blocked off, but please for your own safety, children, do not try to find another route. Love, Milla." ;
-CAJB022RA;Raz;"Hey, if anyone sees Franke could you please tell her I'll be waiting for her by Make Out Cave. --Vernon.";
-CAJB023RA;Raz;"Greetings, pan-galactic travelers. I am currently developing a new vehicle for intergalactic travel. Flight tests are being performed at a remote location in the woods. Hope to soon be visiting you in person. Thanks for the messages. --Chloe.";
-CAJB024RA;Raz;"Has anyone seen Dogen Boole? He didn't show up for band practice, and I'm a little worried about him. --Phoebe.";
-CAJB025RA;Raz;"LEVITATION CLASS STARTING NOW! Please report to the floating dock immediately! Don't be late for the party, children. Love, Milla.";
-CAJB026RA;Raz;"NOTICE: I have retained the services of Mikhail Bulgakov as my personal bodyguard. Anyone wishing to do harm to my person is requested to speak to Mikhail first, so he can pummel you into the ground. Sincerely, Maloof.";
-CAJB027RA;Raz;"Hey, if anyone sees Vernon waiting for me down by Make Out Cave, could you make out with him yourself, because I'm not interested. --Franke.";
-CAJB028RA;Raz;"Dear Alien voices, space ship flight tests were fruitful, but I need more data on triple-light-speed travel. I am building a super antenna to receive data, and placing it as high as possible. Please transmit data in T-minus two hours. --Chloe.";
-CAJB029RA;Raz;"Shootin' lessons today at the ol' target range by the main lodge. Come on by and let ol' J.T. show you a thing or two.";
-CAJB030RA;Raz;"Lili, I'm sorry if this hurts you, but you should know. Milka and I have fallen in love. I don't know how it happened. Does anyone ever really know? The heart wants what it wants. Friends, Elton. P.S. I have your last homework assignment if you want to meet me some time I can give it to you.";
-CAJB031RA;Raz;"Lili, if you want your last homework assignment you can find it at the bottom of Lake Oblongata, where I put it. Which is where I'll put you, Franke and Kitty, if you ever mess with Elton again. Understood? --Milka.";
-CAJB032RA;Raz;"Hey, has anyone seen Kitty? She went down to the beach for a swim and hasn't come back. If you see her, please tell her I'm down in the woods by the lake looking for her. --Franke.";
-CAJB033RA;Raz;"Alien visitors, please be advised that I have discovered bizarre alien life on home planet and need to investigate before traveling to your galaxy. The subject has grotesque calcium protrusions in the mouth area, and a pronounced hair-like tumor on top of his head. Definitely an ambassador from another galaxy. Will resume communication once the subject has been isolated. --Chloe.";
-CAJB034RA;Raz;"Story Time this afternoon! Gifted storyteller Vernon Tripe will be thrilling audiences in the TV lounge this afternoon with his gripping tales. Come early to make sure you get a good seat!";
-CAJB035RA;Raz;"My Russian associate and I our pleased to announce that our protection services are now available to the public on a contractual basis. So if you're getting grief from a bully or a thug, come see Maloof and Mikhail. Protection is our business.";
-CAJB036RA;Raz;"Okay, we tried to spread our cheer all over camp, but once again this year we were met with meanness and cruelty. So I'm sorry to say this is the end. Crystal and I are taking measures to make sure we never get teased again. You will all be very, very sorry. Goodbye. --Clem Foote.";
-CAJB037RA;Raz;"And P.S., do not come by the roof of the main lodge anytime soon because our plan is secret and you can't stop us anyway. --Crystal." Still with the hearts, though.;
-CAJB038RA;Raz;"Children, Sasha and I must leave immediately on official Psychonauts business. Please talk to Coach Oleander if you have any problems. We should be back very soon. Do not be afraid. --Milla.";
-CAJB039RA;Raz;"Hey, has anyone seen Franke? We were hanging out in the TV lounge and I got up to go to the bathroom and when I came back everybody was gone. I know they wouldn't normally leave in the middle of a story so I'm a little worried. Tell them I'm out looking for them if you see them, okay? --Vernon.";
-CAJB040RA;Raz;"Chops, buddy, if you read this I just wanted to say I'm sorry for letting my head get all turned around by a fast-talkin' filly who, when it comes down to it, is duller than ditch water and half as deep. So, I'm at the regular practice spot in the woods if you still want to be friends. Your ol' pal, J.T.";
-CAJB041RA;Raz;"Nils! Oh, Nils. I was such a fool. You know that you and I are meant to be together. I mean, I can see the future, so I've known it all along. I'm coming to find you, little Honey Bear! Then we can be together again! --Elka.";
-CAJB042RA;Raz;"J.T., I checked at the usual spot but couldn't find ya! I'm going to try the back woods next, hombre. --Chops.";
-CAJB043RA;Raz;"Anyone seen Milka, who I am totally dating now? I know she's invisible most of the time, but this time she's really gone. Please let her know I'm looking for her. --Elton.";
-CAJB044RA;Raz;"Okay, that does it. I've been looking for people to bully for HOURS and I can't find ANYONE. Is this some kind of practical joke you guys? NOT FUNNY. Where did everybody go? --Benny.";
-CAJC000RA;Raz;"Keep Your Mind and Campgrounds Clean.";
-CAJC001RA;Raz;"Or else get a rake in your ear. --Ranger Cruller.";
+CAJB000RA;Raz;"""If you're reading this then you're late for class! Report for Basic Braining immediately to avoid detention in the Geodesic Psychoisolation Chamber. --Coach Oleander.""";
+CAJB001RA;Raz;"""Attention: everyone. You should all be aware that Nils Lutfisk and I have BROKEN UP forever. He is a pig, a child, and a loser, and I don't even care because James Hoofburger is my new boyfriend, and he is a MAN. Sincerely, Elka Doom.""";
+CAJB002RA;Raz;"""Children, we all like to tell ghost stories at camp, but please, the horrible stories about the monster that ALLEGEDLY lives in the lake and eats children's brains are getting a little out of hand. Some of the younger children are terrified. So please, keep the stories happy, okay? Love, Milla Vodello.""";
+CAJB003RA;Raz;"""Hey Maloof. Message to you from Bobby Zilch: You're dead. Regards, Benny 'The Nose' Fidelio.""";
+CAJB004RA;Raz;"""OFFICIAL NOTICE: Any children caught burning, shooting, tossing, or in anyway harming the squirrels or birds of Whispering Rock will immediately be put in Psychoisolation.""";
+CAJB005RA;Raz;"""Levitation Class today, 1:00pm on the floating dock. Instructor: Milla Vodello.""";
+CAJB006RA;Raz;"""Subjects wanted for experimentation. Must have above-average tolerance for psychic duress. Permanent damage is not expected, but all participants will be expected to sign a standard waiver of liability. Contact Sasha Nein for details.""";
+CAJB007RA;Raz;"""Dear Visitors from Other Galaxies, this is Chloe Barge. I have been receiving your psychic transmissions and am attempting to return communication. I have found a psychic radio and am attempting to retune to transmit to your galaxy. Stand by.""";
+CAJB008RA;Raz;"""Goodbye cruel camp. I'm tired of being picked on by Bobby and all the mean kids at camp. If I just had one friend here who was nice then I would stay but you're all mean and no one stands up for me so I'm going home. I'll be in the parking lot, waiting for my dad, so if you want to pick on me one last time, you'd better hurry. --Maloof.""";
+CAJB009RA;Raz;"""Just an update for everyone. Nils and I are STILL broken up, and no matter how much he begs, I am not taking him back. Also, you should know that my new boyfriend doesn't like being called J.T. anymore. His real name is James. Sincerely, Elka.""";
+CAJB010RA;Raz;"""If anyone talks to the squirrels, they shouldn't listen because the squirrels are a bunch of stupid liars. --Dogen.""";
+CAJB011RA;Raz;"""Great Deals in the Main Lodge Store! Drop by for great prices on Dream Fluffs, PSI Cores, and more! All available for just a few pieces of Psitanium!""";
+CAJB012RA;Raz;"""BAND PRACTICE TODAY: In the main lodge, the Levitators will be jamming this afternoon. Please come by if you'd like to try out for the band!""";
+CAJB013RA;Raz;"""Warning: If I find out who's been biting holes in the bottom of these canoes, someone is going to get paddled. --Admiral Cruller.""";
+CAJB014RA;Raz;"""UPDATE: The Levitators have broken up. However there will be a practice session of the Firestarters today in the main lodge. We are looking for someone who can play rock flute. Come on by and try out!""";
+CAJB015RA;Raz;"""Lili, if you're looking for me, I'll be down by the lake today. The fish seem a little upset, and I'm going to go see what's wrong. But don't worry, I'll still do your homework for tomorrow, if you want. --Elton Fir.""";
+CAJB016RA;Raz;"""Security cameras have been installed and the next kid who jumps on my car is going to be very, very sorry. --Coach Oleander.""";
+CAJB017RA;Raz;"""Hey, Clem and I just wanted to say that everyone did great in Basic Braining today! Give yourselves a hand! Woooo! Love, Crystal!"" Man, she dotted every ""I"" with a puffy heart.";
+CAJB018RA;Raz;"""And I just wanted to say Ditto to that! Double Ditto, in fact. Your friend, Clem.""";
+CAJB019RA;Raz;"""And I just wanted to point out, in case you didn't know, that Crystal's last name was Snagrash. Crystal Flowers Snagrash! No joke! --Bobby Z.""";
+CAJB020RA;Raz;"""Vernon, Franke totally has a crush on you. She is warm for your form. Signed, Anonymous.""";
+CAJB021RA;Raz;"""Warning: The abandoned mental institution across the lake is not Psychonauts property, and not safe for children. Canoe access has been blocked off, but please for your own safety, children, do not try to find another route. Love, Milla."" ";
+CAJB022RA;Raz;"""Hey, if anyone sees Franke could you please tell her I'll be waiting for her by Make Out Cave. --Vernon.""";
+CAJB023RA;Raz;"""Greetings, pan-galactic travelers. I am currently developing a new vehicle for intergalactic travel. Flight tests are being performed at a remote location in the woods. Hope to soon be visiting you in person. Thanks for the messages. --Chloe.""";
+CAJB024RA;Raz;"""Has anyone seen Dogen Boole? He didn't show up for band practice, and I'm a little worried about him. --Phoebe.""";
+CAJB025RA;Raz;"""LEVITATION CLASS STARTING NOW! Please report to the floating dock immediately! Don't be late for the party, children. Love, Milla.""";
+CAJB026RA;Raz;"""NOTICE: I have retained the services of Mikhail Bulgakov as my personal bodyguard. Anyone wishing to do harm to my person is requested to speak to Mikhail first, so he can pummel you into the ground. Sincerely, Maloof.""";
+CAJB027RA;Raz;"""Hey, if anyone sees Vernon waiting for me down by Make Out Cave, could you make out with him yourself, because I'm not interested. --Franke.""";
+CAJB028RA;Raz;"""Dear Alien voices, space ship flight tests were fruitful, but I need more data on triple-light-speed travel. I am building a super antenna to receive data, and placing it as high as possible. Please transmit data in T-minus two hours. --Chloe.""";
+CAJB029RA;Raz;"""Shootin' lessons today at the ol' target range by the main lodge. Come on by and let ol' J.T. show you a thing or two.""";
+CAJB030RA;Raz;"""Lili, I'm sorry if this hurts you, but you should know. Milka and I have fallen in love. I don't know how it happened. Does anyone ever really know? The heart wants what it wants. Friends, Elton. P.S. I have your last homework assignment if you want to meet me some time I can give it to you.""";
+CAJB031RA;Raz;"""Lili, if you want your last homework assignment you can find it at the bottom of Lake Oblongata, where I put it. Which is where I'll put you, Franke and Kitty, if you ever mess with Elton again. Understood? --Milka.""";
+CAJB032RA;Raz;"""Hey, has anyone seen Kitty? She went down to the beach for a swim and hasn't come back. If you see her, please tell her I'm down in the woods by the lake looking for her. --Franke.""";
+CAJB033RA;Raz;"""Alien visitors, please be advised that I have discovered bizarre alien life on home planet and need to investigate before traveling to your galaxy. The subject has grotesque calcium protrusions in the mouth area, and a pronounced hair-like tumor on top of his head. Definitely an ambassador from another galaxy. Will resume communication once the subject has been isolated. --Chloe.""";
+CAJB034RA;Raz;"""Story Time this afternoon! Gifted storyteller Vernon Tripe will be thrilling audiences in the TV lounge this afternoon with his gripping tales. Come early to make sure you get a good seat!""";
+CAJB035RA;Raz;"""My Russian associate and I our pleased to announce that our protection services are now available to the public on a contractual basis. So if you're getting grief from a bully or a thug, come see Maloof and Mikhail. Protection is our business.""";
+CAJB036RA;Raz;"""Okay, we tried to spread our cheer all over camp, but once again this year we were met with meanness and cruelty. So I'm sorry to say this is the end. Crystal and I are taking measures to make sure we never get teased again. You will all be very, very sorry. Goodbye. --Clem Foote.""";
+CAJB037RA;Raz;"""And P.S., do not come by the roof of the main lodge anytime soon because our plan is secret and you can't stop us anyway. --Crystal."" Still with the hearts, though.";
+CAJB038RA;Raz;"""Children, Sasha and I must leave immediately on official Psychonauts business. Please talk to Coach Oleander if you have any problems. We should be back very soon. Do not be afraid. --Milla.""";
+CAJB039RA;Raz;"""Hey, has anyone seen Franke? We were hanging out in the TV lounge and I got up to go to the bathroom and when I came back everybody was gone. I know they wouldn't normally leave in the middle of a story so I'm a little worried. Tell them I'm out looking for them if you see them, okay? --Vernon.""";
+CAJB040RA;Raz;"""Chops, buddy, if you read this I just wanted to say I'm sorry for letting my head get all turned around by a fast-talkin' filly who, when it comes down to it, is duller than ditch water and half as deep. So, I'm at the regular practice spot in the woods if you still want to be friends. Your ol' pal, J.T.""";
+CAJB041RA;Raz;"""Nils! Oh, Nils. I was such a fool. You know that you and I are meant to be together. I mean, I can see the future, so I've known it all along. I'm coming to find you, little Honey Bear! Then we can be together again! --Elka.""";
+CAJB042RA;Raz;"""J.T., I checked at the usual spot but couldn't find ya! I'm going to try the back woods next, hombre. --Chops.""";
+CAJB043RA;Raz;"""Anyone seen Milka, who I am totally dating now? I know she's invisible most of the time, but this time she's really gone. Please let her know I'm looking for her. --Elton.""";
+CAJB044RA;Raz;"""Okay, that does it. I've been looking for people to bully for HOURS and I can't find ANYONE. Is this some kind of practical joke you guys? NOT FUNNY. Where did everybody go? --Benny.""";
+CAJC000RA;Raz;"""Keep Your Mind and Campgrounds Clean.""";
+CAJC001RA;Raz;"""Or else get a rake in your ear. --Ranger Cruller.""";
 CAJC002RA;Raz;I don't want to throw that away!;
-CAJD000RA;Raz;"This way to the Main Lodge.";
-CAJD001RA;Raz;"This way to Lake Oblongata.";
-CAJD002RA;Raz;"To the Campfire Area.";
-CAJD003RA;Raz;"Warning: Geodesic Psychoisolation Chamber this way. Stay out!";
-CAJD004RA;Raz;"To the Kids' Cabins.";
-CAJD005RA;Raz;"Coach Oleander's Class.";
+CAJD000RA;Raz;"""This way to the Main Lodge.""";
+CAJD001RA;Raz;"""This way to Lake Oblongata.""";
+CAJD002RA;Raz;"""To the Campfire Area.""";
+CAJD003RA;Raz;"""Warning: Geodesic Psychoisolation Chamber this way. Stay out!""";
+CAJD004RA;Raz;"""To the Kids' Cabins.""";
+CAJD005RA;Raz;"""Coach Oleander's Class.""";
 CAJD006FO;Ford;Vandalizing camp property will result in immediate expulsion from the facility.;
 CAJE000KI;Kitty;Teeee Veee.;
 CAJE003RA;Raz;Nah, that's not making the reception any better.;
@@ -2091,15 +2091,15 @@ CAJO001RA;Raz;Just as well. She would have killed me.;
 CAJO002RA;Raz;I wonder if the Coach has a little jet pack or something to help him get in and out of this thing.;
 CAJO003RA;Raz;Well, I don't think that would have solved anything anyway.;
 CAJO004RA;Raz;Man, this thing was old when they chopped it down. Let's see...;
-CAJO005RA;Raz;"500 years ago: Enormous, Psitanium-bearing meteorite strikes the Earth, leaving a giant crater.";
-CAJO006RA;Raz;"200 years ago: Native inhabitants begin making arrowheads out of the Psitanium, which they call by the name 'Whispering Rock'. This is a rough English translation.";
-CAJO007RA;Raz;"100 Years Ago: Prospectors and settlers take over the area, naming their boom town, 'Shaky Claim.'";
-CAJO008RA;Raz;"99 Years Ago: First case of 'Paranormal Hysteria' diagnosed in Shaky Claim.";
-CAJO009RA;Raz;"75 Years Ago: Houston Thorney builds his Home for the Demented to deal with the insanity epidemic.";
-CAJO010RA;Raz;"60 Years Ago: More residents in Asylum than in the town. Houston Thorney commits suicide by leaping from tower.";
-CAJO011RA;Raz;"55 Years Ago: Asylum closes. Last valley residents paid to leave by the federal government, who flood the crater to prevent further habitation. Lake Oblongata is created.";
-CAJO012RA;Raz;"5 Years Ago: Whispering Rock Psychic Summer Camp founded to nurture and train future Psychonauts.";
-CAJO013RA;Raz;"Last Summer: I got to first base with Elka Doom, signed Nils Lutefisk.";
+CAJO005RA;Raz;"""500 years ago: Enormous, Psitanium-bearing meteorite strikes the Earth, leaving a giant crater.""";
+CAJO006RA;Raz;"""200 years ago: Native inhabitants begin making arrowheads out of the Psitanium, which they call by the name 'Whispering Rock'. This is a rough English translation.""";
+CAJO007RA;Raz;"""100 Years Ago: Prospectors and settlers take over the area, naming their boom town, 'Shaky Claim.'""";
+CAJO008RA;Raz;"""99 Years Ago: First case of 'Paranormal Hysteria' diagnosed in Shaky Claim.""";
+CAJO009RA;Raz;"""75 Years Ago: Houston Thorney builds his Home for the Demented to deal with the insanity epidemic.""";
+CAJO010RA;Raz;"""60 Years Ago: More residents in Asylum than in the town. Houston Thorney commits suicide by leaping from tower.""";
+CAJO011RA;Raz;"""55 Years Ago: Asylum closes. Last valley residents paid to leave by the federal government, who flood the crater to prevent further habitation. Lake Oblongata is created.""";
+CAJO012RA;Raz;"""5 Years Ago: Whispering Rock Psychic Summer Camp founded to nurture and train future Psychonauts.""";
+CAJO013RA;Raz;"""Last Summer: I got to first base with Elka Doom, signed Nils Lutefisk.""";
 CAJO014RA;Raz;That's in case you were thinking about getting back up again, tree!;
 CAJO015RA;Raz;They must have fireproofed this thing.;
 CAJO016RA;Raz;Man. Why don't they trust us kids?;
@@ -2121,8 +2121,8 @@ CAJR001RA;Raz;Uh... no. Well, yes. I just... my family has this problem with wat
 CAJR002RA;Raz;It's a bunch of hooey anyway. Some old gypsy curse about how we're all supposed to die in water, if you can believe that.;
 CAJR003EF;Elton;Oh, I thought it was about the whole thing with the brain-eating fish that walks out of the lake at night to hunt for victims.;
 CAJR004EF;Elton;Well, see ya!;
-CAJR005EF;Elton;Um, hey, Raz... I saw you and Lili talking in the Coach's class, and I was wondering�;
-CAJR006EF;Elton;Were you asking her to... "go" with you?;
+CAJR005EF;Elton;Um, hey, Raz... I saw you and Lili talking in the Coach's class, and I was wondering;
+CAJR006EF;Elton;"Were you asking her to... ""go"" with you?";
 CAJR007RA;Raz;WHAT? No! I'm here to train. No distractions.;
 CAJR008EF;Elton;Excellent! Bye!;
 CAJS000RA;Raz;Coach Oleander? I'm reporting for Basic Braining.;
@@ -2166,7 +2166,7 @@ CAJZ001RA;Raz;It's an honor to finally meet you in person, sir.;
 CAJZ002RA;Raz;I thought I recognized you in my dream, but I couldn't be sure. Now that I see you in your element, there's no doubt.;
 CAJZ003RA;Raz;You're Ford Cruller.;
 CAJZ004RA;Raz;The greatest leader the Psychonauts ever had.;
-CAJZ005FO;Ford;Well, you shouldn't believe everything you read in "True Psychic Tales" magazine.;
+CAJZ005FO;Ford;"Well, you shouldn't believe everything you read in ""True Psychic Tales"" magazine.";
 CAKA000FO;Ford;What are you doing here? You said that girl was waiting for you down by the water! That's Lungfish territory, boy! Go and get her!;
 CAKB000FO;Ford;Razputin, come up here. There's something you should see.;
 CAKC000FO;Ford;You're the only one left, son.;
@@ -2216,7 +2216,7 @@ CAKE015FO;Ford;Did it happen to... spit anything at you?;
 CAKE016RA;Raz;Yeah. I think it was like an old diving helmet or something.;
 CAKE017FO;Ford;I see. Hmm. Yes, well, we'd better get you armed.;
 CAKE018RA;Raz;Why? What's happening?;
-CAKE019FO;Ford;Nothing, nothing. "Prepare Your Mind." That's the motto of the Psychonauts.  Here.;
+CAKE019FO;Ford;"Nothing, nothing. ""Prepare Your Mind."" That's the motto of the Psychonauts.  Here.";
 CAKE020FO;Ford;This is a Marksmanship Learner's Permit. It will only work when you're in Sasha's mind.;
 CAKE021FO;Ford;Once you complete his shooting range, you'll get the real merit badge and you can PSI Blast anywhere you want.;
 CAKE022RA;Raz;Thanks. PSI Blast?;
@@ -2260,7 +2260,7 @@ CAKH000FO;Ford;Let's get 'em!;
 CAKH001RA;Raz;I... can't. I can't swim.;
 CAKH002FO;Ford;Well then use the bathysphere at the end of the dock! Quick, while the flipper prints are still glowin'!;
 CAKH003RA;Raz;Are you coming? I don't know how to drive that thing.;
-CAKH004FO;Ford;Uh... I can't. I have to uh.. check on the other children! Yes, yes! If their brains are out they'll need supervision. And possibly refrigeration�;
+CAKH004FO;Ford;Uh... I can't. I have to uh.. check on the other children! Yes, yes! If their brains are out they'll need supervision. And possibly refrigeration;
 CAKH005FO;Ford;And how can you not know how to operate a bathysphere? Haven't you ever been to summer camp before?;
 CAKH006FO;Ford;Now get a move on, before that girl gets overly digested.;
 CAKI000FO;Ford;Now before you go electrocuting yourself, let me tell you how these babies work.;
@@ -2297,7 +2297,7 @@ CAKK001FO;Ford;I said it turns Mental Cobwebs into PSI Cards!;
 CAKK002RA;Raz;Just testing your hearing!;
 CAKK003FO;Ford;But you gotta buy a cobweb duster at the camp store first!;
 CAKK004RA;Raz;Yeah, yeah.;
-CAKK005FO;Ford;Ah, don't you "yeah, yeah" me!;
+CAKK005FO;Ford;"Ah, don't you ""yeah, yeah"" me!";
 CAKK006RA;Raz;Man, he's like a little bat.;
 CAKK007FO;Ford;Bat your head in, punk.;
 CAKK008RA;Raz;Before I use this machine I have to go to the camp store and buy some delicious taffy.;
@@ -2312,7 +2312,7 @@ CAKL001RA;Raz;I don't have enough PSI Cards to make a new PSI Challenge Marker.;
 CAKL002FO;Ford;Hey, you only put PSI Cards, and PSI Cores in there, nothing else, understand? ;
 CAKL003RA;Raz;Sorry!;
 SLAM000RA;Raz;I want to shoot more things.;
-CAKM000FO;Ford;In recognition of your hard work, dedication, and mental agility, I'm proud to bestow upon you the official merit badge for�;
+CAKM000FO;Ford;In recognition of your hard work, dedication, and mental agility, I'm proud to bestow upon you the official merit badge for;
 CAKM001FO;Ford;Pyrokinesis!;
 CAKM002RA;Raz;Cool! I can't wait to burn--hey, what are we doing here?;
 CAKM003FO;Ford;Inside your mind. Well, I thought you'd like to be in a familiar place for your first Pyrokinesis lesson.;
@@ -2361,7 +2361,7 @@ CAZE010TO;System;Use LEFT /Joystick/ to aim your toss.;
 CAKQ008FO;Ford;Yes... now when you've chosen your destination, throw it!;
 CAZE011TO;System;Press /AButton/ to throw.;
 CAKQ010FO;Ford;You, um, sure you want to do that?;
-CAKQ011FO;Ford;"I love working with kids," I said.  "Send me to work at the camp," I said.;
+CAKQ011FO;Ford;"""I love working with kids,"" I said.  ""Send me to work at the camp,"" I said.";
 CAKQ012FO;Ford;Well at least you threw it.;
 CAKQ013FO;Ford;Yes, you're very good at Telekinesis. Not so good at following directions. Both are important skills, Razputin.;
 CAKR000FO;Ford;Woo! Good throw!;
@@ -2423,7 +2423,7 @@ CAKW003FO;Ford;Don't make a sound.;
 CAKW004FO;Ford;Hey, where'd he go?;
 CAKX000FO;Ford;Okay, let me repeat myself...;
 CAKX001FO;Ford;Ah, well done! Now that's the power of Invisibility!;
-CAKX002FO;Ford;I think I've heard the kids around camp refer to this technique as "Silent, but deadly.";
+CAKX002FO;Ford;"I think I've heard the kids around camp refer to this technique as ""Silent, but deadly.""";
 CAKX003RA;Raz;Uh...;
 CAKY000FO;Ford;Hey, it looks like you're ready to take on a new psychic power!;
 CAKY001FO;Ford;Ready to come back and get your new merit badge?;

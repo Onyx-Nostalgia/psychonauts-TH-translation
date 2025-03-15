@@ -8,10 +8,10 @@ GLZD321TO;System;Drag /FullMouse/ or use Right /Joystick/ TO NAVIGATE.;
 GLZD335TO;System;/AButton/ LOAD;
 GLZD336TO;System;/XButton/ DELETE;
 GLZD338TO;System;/AButton/ SAVE;
-GLZD347TO;System;You don't have enough free space to save this profile.
-Press /Abutton/ to continue without saving or /Bbutton/ to free more space.;
-GLZD348TO;System;You don't have enough free space to save games.
-Press /Abutton/ to continue without saving or /Bbutton/ to free more space.;
+GLZD347TO;System;"You don't have enough free space to save this profile.
+Press /Abutton/ to continue without saving or /Bbutton/ to free more space.";
+GLZD348TO;System;"You don't have enough free space to save games.
+Press /Abutton/ to continue without saving or /Bbutton/ to free more space.";
 GLZD356TO;System;/MovementControls/ to SCROLL.;
 GLZD358TO;System;/BButton/ BACK;
 GLZD434TO;System;Saving preferences.;
