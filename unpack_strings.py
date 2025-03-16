@@ -157,6 +157,9 @@ class LUBParser:
         if dest_folder:
             filename = path.split("/")[-1]
             path = os.path.join(dest_folder, filename)
+        if len(self.str) == 0:
+            print("No Dialogue Content.")
+            return 
         self.save_csv(path)
         self.show_result()
 
