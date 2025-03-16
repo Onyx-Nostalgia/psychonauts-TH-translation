@@ -1,19 +1,15 @@
 import argparse
+import csv
 import os
 import re
 import struct
 
 import constants
+from character import get_character_names
 from utils.file_util import get_filenames, read_binary, save_binary
 
-# """
-#  Convert *.LUB files (compiled lua4) to *.CSV (plain text) files
-
-#  Based on "lua_src_4\src\luac\dump.c" & "lua_src_4\src\luac\lobject.h"
-
-#  Example: python unpack_strings.py AS_StringTable.lub
-# """
-
+# ENCODING = 'iso8859-11'
+ENCODING = 'utf-8'
 
 class FileReader:
 
@@ -148,6 +144,7 @@ class LUBParser:
     def __init__(self):
         self.str = []
         self.re_str_id = re.compile("[0-9A-Z]{9}")
+        self.character_names = get_character_names()
 
     def show_result(self):
         print("Parsed {} string(s)".format(len(self.str)))
@@ -185,9 +182,11 @@ class LUBParser:
         for ffnc in func.const.func:
             self.parse_func(ffnc)
 
-    def parse_func_str(self, func):
+    def parse_func_str(
+        self,
+        func,
+    ):
         last_id = None
-
         for fstr in func.const.str:
             fstr = str(fstr)
             if last_id is None:
@@ -196,7 +195,7 @@ class LUBParser:
             else:
                 if not self.is_lua_str_id(fstr):
                     # fstr.replace('\r', '') ?
-                    character = last_id[-2:]
+                    character = self.character_names[last_id[-2:]]["EN"]
                     final_str = "{};{};{};{}".format(last_id, character, fstr, "")
                     self.str.append(final_str)
                     last_id = None
@@ -205,10 +204,51 @@ class LUBParser:
 
     def save_csv(self, path):
         header = "id;character;origin_dialogue;translated_dialogue"
-        rows = [header] + self.str
-        str_data = "\r\n".join(rows)
         new_path = path[:-4] + ".csv"
-        save_binary(new_path, str_data,encode="latin-1")
+        # save_binary(new_path, str_data,encode="latin-1")
+
+        # Check if the CSV file already exists and read its content
+        if os.path.exists(new_path):
+            with open(new_path, "r", newline="", encoding=ENCODING,errors='ignore') as csvfile:
+                reader = csv.reader(
+                    csvfile,
+                    quoting=csv.QUOTE_MINIMAL,
+                    quotechar='"',
+                    escapechar="\\",
+                    delimiter=";",
+                )
+                try:
+                    existing_rows = {row[0]: row for row in reader}
+                except UnicodeDecodeError:
+                    print(existing_rows)
+                    raise UnicodeDecodeError
+        else:
+            existing_rows = {}
+
+        # Update rows with existing translations if available
+        updated_rows = [header]
+        for line in self.str:
+            row = line.split(";")
+            if row[0] in existing_rows:
+                existing_row = existing_rows[row[0]]
+                try:
+                    row[3] = existing_row[3]  # Preserve the translated dialogue
+                except IndexError:
+                    print(existing_row)
+                    raise IndexError
+            updated_rows.append(";".join(row))
+
+        with open(new_path, "w", newline="",encoding=ENCODING,errors='ignore') as csvfile:
+            writer = csv.writer(
+                csvfile,
+                quoting=csv.QUOTE_MINIMAL,
+                quotechar='"',
+                escapechar="\\",
+                delimiter=";",
+            )
+            for line in updated_rows:
+                row = line.split(";")
+                writer.writerow(row)
 
 
 ##############################################################
