@@ -20,7 +20,7 @@ LLLV008RA;Raz;Oh, uh... great! Well okay, show me what you did to my friend Lili
 LLLV009LF;Linda;By the drowned spirit of Oblongata, it is done!;แด่ดวงวิญญาณที่จมน้ำแห่งออบลองกาตา มันจบแล้ว!
 LLLV010RA;Raz;Ah--;Ah--
 LLAA000RA;Raz;Man, that must be full of sharp nails. Hate to swallow that!;
-LLAA001RA;Raz;"Shaky Claim Day Care Center.";
+LLAA001RA;Raz;"""Shaky Claim Day Care Center.""";
 LLAA002RA;Raz;Wow, this must have been a pretty advanced ghost town down here if they had lawn gnomes.;
 LLAA003RA;Raz;Hey, that helmet got spit at me in the Brain Tumbler vision!;
 LLAA004RA;Raz;I must have been fighting the Coach's idea of this monster.;
@@ -31,7 +31,7 @@ LLAA008RA;Raz;Hey, I think I see a piece of teriyaki salmon jerky over there in 
 LLAA009RA;Raz;This freshwater lake coral is so pretty I just want to smash it.;
 LLAA010RA;Raz;The creature's prints are still glowing! This must be where he brought Lili!;
 LLAB000FO;Ford;Ah, poor little thing.;
-LLAB001RA;Raz;That "poor little thing" just tried to kill me about eight different ways.;
+LLAB001RA;Raz;"That ""poor little thing"" just tried to kill me about eight different ways.";
 LLAB002FO;Ford;Well, that's not its fault.;
 LLAB003FO;Ford;This was once just a normal-sized lungfish, minding its own business in a mucus-lined air bubble beneath a semi-dry lake bed.;
 LLAB004FO;Ford;But judging by the work done on it, I suspect Morry has mutated it, accelerated its growth, and has placed an implant in its brain to make it do his evil bidding.;

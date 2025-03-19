@@ -10,7 +10,7 @@ THSD041BE;Becky;You'd better be right. She'd better show this time!;
 THSD042BE;Becky;Alright, people, let's go in Five! Four! Three!;
 THSD026BE;Becky;Okay we need the sun out here, pronto! Cue the sun! Cue the sun!;
 THSD027BE;Becky;Bonita Soleil, on stage right now!;
-THSD028BE;Becky;Soleil's a no-show AGAIN. Okay, you know what that means! Time to swap plays! Strike the stage! "Sunshine Shenanigans" is a wrap. Let's set it up for "The Horror of Hagatha Home" on the double! Let's go go go!;
+THSD028BE;Becky;"Soleil's a no-show AGAIN. Okay, you know what that means! Time to swap plays! Strike the stage! ""Sunshine Shenanigans"" is a wrap. Let's set it up for ""The Horror of Hagatha Home"" on the double! Let's go go go!";
 THSD029HF;Yellow-Actor;Ahhhhh!;
 THSD030HF;Yellow-Actor;Hey, there hi there ho there, little buddy! Wwwwwwwwhat makes you want to go in a dark ol' place like that?;
 THSD031SF;Pink-Flower;There's nothing in there but a bunch of frowny-downy, mopey-dopey, sad-face memories!;
@@ -108,7 +108,7 @@ THSD116HT;Hound-Actor;Sigh. Woe is me. Always, snow.;
 THSD117SF;Pink-Flower;You--you--;
 THSD118FF;Orange-Flower;You shot him!;
 THSD119SF;Pink-Flower;He's dead!;
-THSD120HF;Yellow-Actor;I... was just... trying to... entertain� Glllllk!;
+THSD120HF;Yellow-Actor;I... was just... trying to... entertain Glllllk!;
 THSD121RA;Raz;I... I didn't mean to... I...;
 THSD123RA;Raz;Hey, can I have a ride up to the balcony please?;
 THSD124HF;Yellow-Actor;Gee, why would you want to go there? That's not a happy place!;
@@ -180,7 +180,7 @@ THSD021JA;Jasper;Isn't it time for you to set?;
 THSD022JA;Jasper;I can see why they say not to stare at the sun too long or you'll go blind.;
 THSD023JA;Jasper;My kid puts on better plays in the backyard!;
 THSD024JA;Jasper;Are you going to try to sing? Hold on. Where's my pen? I need to jam it into my ears.;
-THSD025JA;Jasper;You've got less talent than this piece of--no, wait� than THIS piece of popcorn. That first one was too big!;
+THSD025JA;Jasper;You've got less talent than this piece of--no, wait than THIS piece of popcorn. That first one was too big!;
 THAC000RA;Raz;Excuse me, Miss Soleil? I heard you were feeling bad, so I just wanted to say that...;
 THAC001RA;Raz;...whatever you're going through, you're not alone. ;
 THAC002RA;Raz;I used to be a performer myself and I know how hard it is when--;
@@ -288,7 +288,7 @@ THBF009JA;Jasper;Oh, you've got fat arms, you hear me? Big fat arms like a wrest
 THBF010JA;Jasper;And a little turkey gobble hanging from your neck!;และมีไก่งวงตัวน้อยห้อยอยู่ที่คอเธอด้วย!
 THBF011JA;Jasper;Oh, your knees are ugly, and you snort when you laugh!;โอ้ เข่าเธอมันน่าเกลียดมาก แถมเธอยังกรนตอนหัวเราะอีก!
 THBI000RA;Raz;Okay Phantom, it's time to find out who--;โอเค แฟนทอม ถึงเวลาที่เราจะรู้แล้วว่า...
-THBI001RA;Raz;...you� really are.;...ตัวจริงของแกคือใคร
+THBI001RA;Raz;...you really are.;...ตัวจริงของแกคือใคร
 THBI002RA;Raz;What?;อะไรนะ?
 THBI003RA;Raz;I totally guessed that!;เป็นอย่างที่ฉันคิด!
 THBI004FF;Orange-Flower;Nuh-uh. You said it was Becky!;ไม่ใช่หรอก นายบอกว่าเป็นเบ็คกี้!
@@ -306,19 +306,19 @@ THFP000BE;Becky;Look alive, people! Bonita Soleil is about to take the stage!;�
 THFP001BE;Becky;Flower girls in position one. And... ACTION!;สาวๆดอกไม้ ประจำที่ และ...ACTION!
 THFP002SF;Pink-Flower;Tonight I will be playing the part of Gloria Von Gouton, the famous actress!;คืนนี้ ฉันจะรับบทเป็น กลอเรีย ฟอน กูตัน นักแสดงชื่อดัง!
 THFP003HF;Yellow-Actor;In this nostalgic memory of her breakthrough role in the smash hit musical...;ในความทรงจำอันแสนอบอุ่นของบทบาทที่ทำให้เธอโด่งดังจากละครเพลงที่ประสบความสำเร็จอย่าง...
-THFP004FF;Orange-Flower;"Sunshine Shenanigans!";"Sunshine Shenanigans!"
+THFP004FF;Orange-Flower;"""Sunshine Shenanigans!""";Sunshine Shenanigans!
 THFP005SF;Pink-Flower;Yay! Wooo!;เย้! วู้!
 THFP008PT;Phantom;Heh heh heh.;
 THFP009SF;Pink-Flower;Oh, I do so hope that my mother is proud of me!;โอ้ ฉันหวังเหลือเกินว่าแม่ของฉันจะภูมิใจในตัวฉัน!
 THFP010BE;Becky;Not again!;ไม่เอาอีกแล้วนะ!
 THFP011FF;Orange-Flower;The Phantom!;แฟนทอม!
-THFP012JA;Jasper;I've seen some bad plays in my day, but this one's an actual menace. And it's all HER fault.;ฉันเคยดูละครแย่ๆ มาเยอะ แต่เรื่องนี้มันแย่ที่สุดแล้ว และทั้งหมดเป็นความผิดของ"เธอ"คนเดียว
+THFP012JA;Jasper;I've seen some bad plays in my day, but this one's an actual menace. And it's all HER fault.;"ฉันเคยดูละครแย่ๆ มาเยอะ แต่เรื่องนี้มันแย่ที่สุดแล้ว และทั้งหมดเป็นความผิดของ""เธอ""คนเดียว"
 THFP013JA;Jasper;It's her bad acting that makes the Phantom strike!;การแสดงแย่ๆ ของเธอทำให้แฟนทอมโผล่ออกมา!
 THFP015BT;Bonita;Boo hoo hoo!;ฮือๆๆ
 THFP016JA;Jasper;This time, I'm going to file a formal complaint and get this theater shut down! ;คราวนี้ฉันจะยื่นเรื่องร้องเรียนอย่างเป็นทางการและให้ปิดโรงละครนี้ซะ!
 THFP017BE;Becky;Great. Well, I'm off to go kill myself. ;เยี่ยม ฉันขอลาออกไปฆ่าตัวตายดีกว่า
 THFP018RA;Raz;You know, you could be a more constructive critic.;รู้ไหม นายควรวิจารณ์อย่างสร้างสรรค์กว่านี้หน่อยนะ
-THFP019JA;Jasper;Kid, if you want to see a GOOD play, come talk to me. I've got a script here that will knock 'em dead, I promise.;เด็กน้อย ถ้านายอยากดูละคร"ดีๆ" มาคุยกับฉันสิ ฉันมีบทละครที่รับรองว่าจะทำให้ทุกคนต้องทึ่ง
+THFP019JA;Jasper;Kid, if you want to see a GOOD play, come talk to me. I've got a script here that will knock 'em dead, I promise.;"เด็กน้อย ถ้านายอยากดูละคร""ดีๆ"" มาคุยกับฉันสิ ฉันมีบทละครที่รับรองว่าจะทำให้ทุกคนต้องทึ่ง"
 THAA000BE;Becky;CUT! ;
 THAA001BE;Becky;Hey! Kid! Can't you see I'm trying to produce a play here?;
 THAA002RA;Raz;Uh... no.;
@@ -328,14 +328,14 @@ THAA005BE;Becky;Okay, Becky, get a grip...;
 THAA006RA;Raz;Child? ;
 THAA007BE;Becky;Look, kid, it wasn't always like this! We used to have a hit show on our hands! Everybody loved us!;
 THAA008BE;Becky;But then our big star, Bonita Soleil, got stage fright and locked herself in her dressing room!;
-THAA009BE;Becky;So now we're stuck flipping between "Sunshine Shenanigans" and "The Horror of Hagatha Home!";
+THAA009BE;Becky;"So now we're stuck flipping between ""Sunshine Shenanigans"" and ""The Horror of Hagatha Home!""";
 THAA010JA;Jasper;Which is like flipping between a root canal and a sharp stick in the eye!;
 THAA011BE;Becky;Just ignore Jasper. He's just a critic, who happens to be right.;
 THAA012RA;Raz;I'll go talk to Bonita. I'm sure all she needs is a little pep talk. ;
 THAA013JA;Jasper;That, and acting lessons.;
 THAA014BE;Becky;If you can get Bonita to take the stage again, then you're the star of my show, kid.;
 THAD000BE;Becky;Hey, what's this? A new script?;
-THAD001BE;Becky;"Knight of Joy?";
+THAD001BE;Becky;"""Knight of Joy?""";
 THAD002BE;Becky;Weird. It smells like popcorn. And it doesn't say which set to play it on...;
 THAD003BE;Becky;Oh well. We'll just play it on whatever's on stage. I mean, what could POSSIBLY go wrong?;
 THAD004BE;Becky;Here. You can be my first A.D.;
@@ -343,11 +343,11 @@ THAD005BE;Becky;Use the megaphone if you want to run the play again.;
 THAD006BE;Becky;Okay! New script everybody! Let's practice!;
 THAD007BE;Becky;Aaaand action!;
 THAD008BE;Becky;Oh, another script!;
-THAD009BE;Becky;"The Day the Mail Boat Finally Came.";
+THAD009BE;Becky;"""The Day the Mail Boat Finally Came.""";
 THAD010BE;Becky;Uh-oh.;
 THAD011BE;Becky;Prop department? I'm going to need a boat on stage right away.;
 THAD012BE;Becky;Okay, people! Places everyone!;
-THAD013BE;Becky;"Goodbye Hagatha Home.";
+THAD013BE;Becky;"""Goodbye Hagatha Home.""";
 THAD014BE;Becky;Hey, I--I think this is the one with the--;
 THAD015BE;Becky;Hey, props. Is that hot air balloon still working?;
 THAD016BE;Becky;Let's hustle people! It's show time!;
@@ -379,15 +379,15 @@ THAB024BE;Becky;...if you play it on the right set.;
 THAB025RA;Raz;Those catwalks sucked. Why did I ever want to go up there?;
 THAB026BE;Becky;To fight the Phantom and save the theater?;
 THAB027RA;Raz;Oh yeah!;
-THAE000RA;Raz;Becky, can we see the "Knight of Joy" again?;
+THAE000RA;Raz;"Becky, can we see the ""Knight of Joy"" again?";
 THAE001BE;Becky;Yeah, that one could use a little work.;
-THAE002RA;Raz;"The Day the Mail Boat Finally Came" needs another run-through, I think.;
-THAE003RA;Raz;Let's do "Goodbye Hagatha Home" once more, okay?;
+THAE002RA;Raz;"""The Day the Mail Boat Finally Came"" needs another run-through, I think.";
+THAE003RA;Raz;"Let's do ""Goodbye Hagatha Home"" once more, okay?";
 THAE004RA;Raz;Doing a great job, Becky!;
 THAE005BE;Becky;Aw!;
 THAF000BE;Becky;Hey, whoa, whoa, whoa, whoa, CAREFUL!;
 THAF001BE;Becky;That's the manual mood override. That's how we set the right mood for the play. ;
-THAF002BE;Becky;Mess with that, we'll have happy plays on sad sets, sad plays on happy sets�;
+THAF002BE;Becky;Mess with that, we'll have happy plays on sad sets, sad plays on happy sets;
 THAF003BE;Becky;Total chaos. Or worse--IMPROV.;
 THAF004BE;Becky;So whatever you do...;
 THAF005BE;Becky;Don't mess with the manual mood override unless you want to see some strange stuff happen!;
@@ -401,7 +401,7 @@ THAH004SF;Pink-Flower;I love sharing my wealth and fame with you dear mother.;
 THAH005FF;Orange-Flower;Yes. And I am so glad that you remember that you owe it all to me.;
 THAI000SF;Pink-Flower;Goodbye my previously dear mother! I flee now to Europe to escape your insane jealousy over my amazing career.;
 THAI001FF;Orange-Flower;Please do not leave me, Gloria my daughter! Go now and I shall do something unto myself both drastic and traumatizing to you emotionally!;
-THAI002SF;Pink-Flower;Care, I do not, for you sicken me with disgust. Adieu, ma m�re. Adieu.;
+THAI002SF;Pink-Flower;Care, I do not, for you sicken me with disgust. Adieu, ma mère. Adieu.;
 THAI003FF;Orange-Flower;Daughter please do not run off to Europe to escape my jealous wrath, or I will surely kill unto myself to the death.;
 THAI004SF;Pink-Flower;Break a leg, mother!;
 THAJ000HT;Hound-Actor;Bwah-ha-ha! Welcome to Hagatha Home School for Girls, where you will begin your long and painful training in the theatrical disciplines. Bwah-ha-ha.;
@@ -777,9 +777,9 @@ THZA005TO;System;Now you see, that performance is exactly why we need to practic
 THZA006TO;System;The show must go on!;
 THZA007TO;System;Hey, why do you have to be so hard on Bonita?;
 THZA008TO;System;Alright, later, you old gas bag.;
-THZA009TO;System;Becky, can we see the "Knight of Joy" again?;
-THZA010TO;System;"The Day the Mail Boat Finally Came" needs another run-through, I think.;
-THZA011TO;System;Let's do "Goodbye Hagatha Home" once more, okay?;
+THZA009TO;System;"Becky, can we see the ""Knight of Joy"" again?";
+THZA010TO;System;"""The Day the Mail Boat Finally Came"" needs another run-through, I think.";
+THZA011TO;System;"Let's do ""Goodbye Hagatha Home"" once more, okay?";
 THZA012TO;System;I haven't seen any plays. How do I see a play?;
 THZA013TO;System;You're not scared of that Phantom are you?;
 THZA014TO;System;So, you're not going out on stage?;

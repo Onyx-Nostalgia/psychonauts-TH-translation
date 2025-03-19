@@ -1,16 +1,11 @@
 import argparse
+import csv
 import struct
 
 from utils.file_util import read_binary, save_binary
 
-"""
-Replaces old lines inside a *.LUB file with new ones from a *.CSV file
-
-Example: python replace_strings.py AS_StringTable.lub AS_StringTable.csv AS_StringTable_new.lub
-"""
-
-
 ##############################################################
+ENCODING = "iso8859-11"
 
 
 class LUBPatcher:
@@ -31,11 +26,27 @@ class LUBPatcher:
         self.show_result()
 
     def read_csv(self, csv_path):
-        data = read_binary(csv_path)
-        for str in data.split(b"\r\n"):
-            if not str:
-                continue
-            self.csv_list.append([str[:9], str[10:]])
+        try:
+            with open(csv_path, "r", newline="", encoding=ENCODING,errors='ignore') as csvfile:
+                reader = csv.reader(
+                    csvfile,
+                    quoting=csv.QUOTE_MINIMAL,
+                    quotechar='"',
+                    escapechar="\\",
+                    delimiter=";",
+                )
+                next(reader)  # skip header
+                for row in reader:
+                    # data.append(row)
+                    try:
+                        self.csv_list.append(
+                            [row[0].encode(ENCODING), row[3].encode(ENCODING)]
+                        )
+                    except IndexError:
+                        print(row)
+                        raise IndexError
+        except FileNotFoundError:
+            print(f"File not Found: {csv_path}")
 
     def read_lub(self, lub_path):
         self.lub_data = read_binary(lub_path)

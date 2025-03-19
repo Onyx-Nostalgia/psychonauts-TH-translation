@@ -33,7 +33,7 @@ BVDO008ED;Edgar;Wha--;อะไรนะ
 BVDO009RA;Raz;That is your romanticized memory of your ex-girlfriend Lana Panzoni, who dumped you for Dean LaGrante way back in high school!;
 BVDO010RA;Raz;They were both cheerleaders for crying out loud!;
 BVDO011RA;Raz;You can't let the junior varsity pep squad ruin your life!;นายจะปล่อยให้พวกกองเชียร์ตัวประกอบมาทำลายชีวิตนายไม่ได้นะ!
-BVDO012DI;Dingo;Um, what's up with the "Junior?";อืม ทำไมต้อง "ตัวประกอบ" ด้วยล่ะ?
+BVDO012DI;Dingo;"Um, what's up with the ""Junior?""";"อืม ทำไมต้อง ""ตัวประกอบ"" ด้วยล่ะ?"
 BVDO013LA;Lampita;Yeah, we were full-on varsity.;ใช่ พวกเราเป็นตัวจริงต่างหาก
 BVDO014DI;Dingo;Gimme a G!;ขอเสียง G!
 BVDO015LA;Lampita;G!;G!
@@ -54,7 +54,7 @@ BVDO031RA;Raz;Edgar, listen. It's your rage that imprisons you, not them.;
 BVDO032ED;Edgar;They stole my happiness, my life, the state semi finals, everything!;
 BVDO033ED;Edgar;Ahhhhhh!;Ahhhhhh!
 BVDO034RA;Raz;No, wait! Edgar!;ไม่ เดี๋ยว! เอ็ดการ์
-BVDO035LA;Lampita;Ol�!;Olï¿½!
+BVDO035LA;Lampita;Olé!;Olï¿½!
 BVDO036DI;Dingo;Ha ha ha! He never learns!;ฮ่าๆๆ มันไม่เคยจำเลย!
 BVDO037RA;Raz;I guess I have to take this Matador out myself before he does too much damage.;
 BVIN001RA;Raz;That's an impressive house of cards you're building there.;หอคอยไพ่ที่นายกำลังสร้างนี่มันน่าประทับใจมาก
@@ -67,7 +67,7 @@ BVIN007ED;Edgar;And it will not stand against the bull.;และมันคง
 BVIN008RA;Raz;What bull?;กระทิงอะไร?
 BVIN009ED;Edgar;El Odio.;เอล โอดีโอ
 BVIN010RA;Raz;Okay, don't take this the wrong way, but I don't think you're working with a full deck here.;
-BVIN011ED;Edgar;Somewhere along the way I feel that I lost something important, but I do not know�;ระหว่างทาง ฉันรู้สึกว่าฉันทำอะไรบางอย่างที่สำคัญหายไป แต่ฉันไม่รู้ว่า...
+BVIN011ED;Edgar;Somewhere along the way I feel that I lost something important, but I do not know;ระหว่างทาง ฉันรู้สึกว่าฉันทำอะไรบางอย่างที่สำคัญหายไป แต่ฉันไม่รู้ว่า...
 BVIN012RA;Raz;I think it's your queens. You want me to go look for them?;ฉันว่ามันคือควีนของนายน่ะ นายอยากให้ฉันไปหาไพ่พวกนั้นมาให้ไหม?
 BVIN013ED;Edgar;Bring me any cards you find! I must complete this tower!;เอาไพ่ใบไหนมาให้ฉันก็ได้! ฉันต้องสร้างหอคอยนี้ให้เสร็จ!
 BVOS001ED;Edgar;Snort.;
@@ -84,10 +84,10 @@ BVVI001DI;Dingo;Ooof!;อุ๊ฟ!
 BVVI002LA;Lampita;Ah-hoo hoo!;Ah-hoo hoo!
 BVVI003RA;Raz;Wait!;
 BVVI004LA;Lampita;It's... all right... it's okay.;มัน...จะไม่เป็นไร...ทุกอย่างจะโอเค
-BVVI005LA;Lampita;We'll win the game... some... other... day� oooh hooo hoo!;เราจะต้องชนะ...ใน...สักวันï¿½ oooh hooo hoo!
+BVVI005LA;Lampita;We'll win the game... some... other... day oooh hooo hoo!;เราจะต้องชนะ...ใน...สักวันï¿½ oooh hooo hoo!
 BVVI006RA;Raz;Ug, please. Edgar, look at them. They're too pathetic to hurt you any more.;ขอเถอะ เอ็ดการ์ ดูพวกนั้นสิ พวกเขาอ่อนแอเกินกว่าจะมาทำร้ายนายได้อีกแล้วนะ
 BVVI007RA;Raz;Can't you just let it go?;นายจะปล่อยพวกเขาไปไม่ได้เหรอ?
-BVVI008ED;Edgar;How embarrassing. I can't believe I was hung up for so long over these losers.;น่าอับอายจริง ๆ ฉันไม่อยากจะเชื่อว่าตัวเองมัวแต่สนใจขี้แพ้พวกนี้มานานขนาดนี้"
+BVVI008ED;Edgar;How embarrassing. I can't believe I was hung up for so long over these losers.;"น่าอับอายจริง ๆ ฉันไม่อยากจะเชื่อว่าตัวเองมัวแต่สนใจขี้แพ้พวกนี้มานานขนาดนี้"""
 BVVI009LA;Lampita;Um... uh... I--I always loved you more?;เอ่อ... เอิ่ม... ฉะ--ฉันรักนายมากกว่าเสมอนะ?
 BVVI010LA;Lampita;Ahhhhhhhhhhhhhhhhh!;Ahhhhhhhhhhhhhhhhh!
 BVVI012LA;Lampita;(quiet sobbing);
@@ -101,13 +101,13 @@ BVAH004AN;Announcer;Avoiding the Tiger Pounce requires some serious tumbling ski
 BVAJ001RA;Raz;I don't want to use that card here. A card laid is a card played.;
 BVAL001RA;Raz;OW!;
 BVAM003RA;Raz;Hey, uh, we really gotta get that billboard painted.;
-BVAM000BD;Bulldog;Okay, man, here's the plan. Step one: I quit "we." Step two: "We"--which is now just you--runs out there and gets killed painting the billboard.;
+BVAM000BD;Bulldog;"Okay, man, here's the plan. Step one: I quit ""we."" Step two: ""We""--which is now just you--runs out there and gets killed painting the billboard.";
 BVAM004RA;Raz;Maybe I can distract the bull while you paint. It's so crazy it just might work.;
 BVAM001BD;Bulldog;Or maybe it's so crazy that it's just extra crazy. There's absolutely no way I'm going out there, man.;
 BVAM005RA;Raz;C'mon, you're a bulldog! Show some backbone. Plus, who wants to go for a walk? Who wants to go for a walk?;
 BVAM002BD;Bulldog;Stupid. Dog. Brain. RRRRRR. ACK. Alright, let's go!;
-BVAM006RA;Raz;Great! When I say "Go boy!" get moving!;
-BVAN001AN;Announcer;Next up: Junior King "Kong" Cobra!;
+BVAM006RA;Raz;"Great! When I say ""Go boy!"" get moving!";
+BVAN001AN;Announcer;"Next up: Junior King ""Kong"" Cobra!";
 BVAN003AN;Announcer;Introducing--fresh from the Thrilla in Manilla, Iowa--;
 BVAN004AN;Announcer;Introducing--fresh from an astonishing victory at the Killings in Billings--;
 BVAN005AN;Announcer;Introducing--back from a crushing victory at Someone Might Lose a Tooth in Duluth--;
@@ -191,7 +191,7 @@ BVCO035CL;Collie;Nothing you want to know about.;
 BVCO036CL;Collie;Listen, I deal in truth and beauty, not dirt.;
 BVCO037CL;Collie;But...;
 BVCO038CL;Collie;Maybe if you had bought some art...;
-BVCO039CL;Collie;...then I'd have to come up with some small talk while we're making change, and, you know�;
+BVCO039CL;Collie;...then I'd have to come up with some small talk while we're making change, and, you know;
 BVCO040CL;Collie;Mmmm...hmmhmmm...;
 BVCO041CL;Collie;Okay, here's how I heard it.;
 BVCO042CL;Collie;Years ago, when Edgar was a world-renowned painter, he was commissioned by Dingo to immortalize him in black velvet.;
@@ -224,7 +224,7 @@ BVCO068CL;Collie;No offense, but you are not good enough for this piece. Please,
 BVCO069CL;Collie;I was playing with spatial relationships here.;
 BVCO070CL;Collie;Well, I 'played' in the same way that Beethoven 'played' with dissonance in the 'Eroica Symphony, if you follow me.;
 BVCO071CL;Collie;This one is... well... more of a tone poem.;
-BVCO072CL;Collie;What's important in this piece is not what I painted, but what I did NOT paint. Know what I mean?;สิ่งที่สำคัญในงานชิ้นนี้ไม่ใช่สิ่งที่ฉันวาด แต่เป็นสิ่งที่ฉัน "ไม่ได้วาด" รู้ไหมว่าฉันหมายถึงอะไร?
+BVCO072CL;Collie;What's important in this piece is not what I painted, but what I did NOT paint. Know what I mean?;"สิ่งที่สำคัญในงานชิ้นนี้ไม่ใช่สิ่งที่ฉันวาด แต่เป็นสิ่งที่ฉัน ""ไม่ได้วาด"" รู้ไหมว่าฉันหมายถึงอะไร?"
 BVCO073CL;Collie;Well, I guess I COULD let this one go...;
 BVCO074CL;Collie;Try to handle it only by the edges.;
 BVCO076CL;Collie;Step into my world of beauty.;
@@ -268,7 +268,7 @@ BVDA015RA;Raz;See ya.;
 BVDA044DA;Dalmatian;No you don't.;
 BVDA045DA;Dalmatian;Came to the wrong place then. All we got here is junk.;
 BVDA046DA;Dalmatian;Hm. Your argument has many strong points.;
-BVDA047DA;Dalmatian;Especially around that area where you said the word� paying�;
+BVDA047DA;Dalmatian;Especially around that area where you said the word paying;
 BVDA048DA;Dalmatian;I liked that.;
 BVDA050DA;Dalmatian;Well, I guess it might cheer up the joint to get rid of some of these eyesores outta here.;
 BVDA051DA;Dalmatian;Come on, I'll give you a tour of the atrocities. I just hope you got a strong stomach.;
@@ -317,7 +317,7 @@ BVDA067DA;Dalmatian;This one is so bad, someone should take a rolled-up newspape
 BVDA068DA;Dalmatian;Seriously. What a load.;
 BVDA069DA;Dalmatian;This looks like electric clown barf in space.;
 BVDA070DA;Dalmatian;Terrible!;
-BVDA071DA;Dalmatian;Uhhh, uhhh� I'm sorry you had to see this.;
+BVDA071DA;Dalmatian;Uhhh, uhhh I'm sorry you had to see this.;
 BVDA072DA;Dalmatian;Ug.;
 BVDA073DA;Dalmatian;I deserve to get my nose rubbed in this one.;
 BVDA074DA;Dalmatian;This painting reminds me of my grandpa's last year alive...;
@@ -352,8 +352,8 @@ BVEQ002ED;Edgar;Thank you! I'll take any other cards you have as well.;
 BVHO000RA;Raz;Now that looks like a good place to hang a painting!;
 BVMB000BD;Bulldog;Oh my god, I'm deaf!;
 BVMB012RA;Raz;Can you hear me? You're getting sleepy.  But not too sleepy to go paint the billboard.;
-BVMB002BD;Bulldog;What? Oh my god. Hey, "god" is "dog" spelled backwards!;
-BVMB003BD;Bulldog;Whoa, whoa wait a minute. "God" is "cat" spelled backwards! Oh no. No no no no no.;
+BVMB002BD;Bulldog;"What? Oh my god. Hey, ""god"" is ""dog"" spelled backwards!";
+BVMB003BD;Bulldog;"Whoa, whoa wait a minute. ""God"" is ""cat"" spelled backwards! Oh no. No no no no no.";
 BVMB004BD;Bulldog;I'm shaving just like daddy!;
 BVMB013RA;Raz;I think I solved your problem. Watch this.;
 BVMB000MA;Matador;I had my doubts, but--;
@@ -406,8 +406,8 @@ BVST007RA;Raz;Those are exactly the cards I need! Where are they?;
 BVST011RA;Raz;Where did you say those cards were again?;
 BVST008RA;Raz;What do you mean trapped? Are you a prisoner of art just like Edgar?;
 BVST009RA;Raz;Okay, promise me you won't take this the wrong way, but you ARE a dog.;
-BVST021SB;St.Bernard;Oh, man. I wish.  That would solve� that would solve a lot of my problems.;
-BVST022SB;St.Bernard;But no� this is everything I know how to paint right here.;
+BVST021SB;St.Bernard;Oh, man. I wish.  That would solve that would solve a lot of my problems.;
+BVST022SB;St.Bernard;But no this is everything I know how to paint right here.;
 BVST023SB;St.Bernard;Man, that's embarrassing...;
 BVST024SB;St.Bernard;Now that takes me back. Poker night with the guys... Man, I miss those dogs.;
 BVST025SB;St.Bernard;Oh, right. Well, I do know about these four lost queens...;
@@ -426,8 +426,8 @@ BVST037SB;St.Bernard;Which is all for sale by the way.;
 BVST038SB;St.Bernard;Well, see ya. Keep off the street now.;
 BVST039SB;St.Bernard;Ahem.;
 BVST040SB;St.Bernard;Ah, the guitar. Mysterious and musical and...;
-BVST041SB;St.Bernard;...blue. Look at it there, with it's�;
-BVST042SB;St.Bernard;With it's strings. Uh�;
+BVST041SB;St.Bernard;...blue. Look at it there, with it's;
+BVST042SB;St.Bernard;With it's strings. Uh;
 BVST043SB;St.Bernard;Nothing woos the ladies quite like a guitar, am I right?;
 BVST044SB;St.Bernard;(Am I? I really can't remember. Been in this alley a long time.);
 BVST045SB;St.Bernard;Anyway, how about it? Eh? Guitar? Yeah?;
@@ -471,7 +471,7 @@ BVWP003RA;Raz;Hmmm. The Queen of Spades. I should get rid of this card quickly. 
 BVWP004RA;Raz;All right. That's all four cards. Once I give the last one to Edgar he should be able to fix his tower.;
 BVWP005RA;Raz;Ha! Sleep tight, kitty.;
 BVWP006RA;Raz;Man, I can STILL smell that guy!;
-BVWP007RA;Raz;No more "ca-caws" out of you, fatty.;
+BVWP007RA;Raz;"No more ""ca-caws"" out of you, fatty.";
 BVWP008RA;Raz;I beat you just like I did in high school, loser!;
 BVWP009RA;Raz;Wait... who am I?;
 BVWP010RA;Raz;Aaaaaaaaa-hfff!;
@@ -494,7 +494,7 @@ BVWT029RA;Raz;That's strange.;
 BVWT030RA;Raz;I'm starting to feel like I'm back in high school.;
 BVWT031RA;Raz;Which is weird, because I'm only ten.;
 BVWT033RA;Raz;Ca-caw.;
-BVWT035RA;Raz;Soon they'll be "Dragon" your ass outta here! Ha ha.;
+BVWT035RA;Raz;"Soon they'll be ""Dragon"" your ass outta here! Ha ha.";
 BVWT036RA;Raz;Hey, are you awake? Did you hear that?;
 BVWU002CB;Cobra;Where'd you go, Smeglee?;
 BVWU003DR;Dragon;Ohh-hoh-hoh... you can run, coward, but you cannot hide!;
@@ -590,7 +590,7 @@ BVWX046DA;Dalmatian;Careful! Don't touch it! Ooo... you might catch a disease!;
 BVTI008RA;Raz;Shut Up;
 BVTI009RA;Raz;No, you shut up;
 BVTR004TI;Tiger;No, you shut up.;
-BVWW053RA;Raz;Hey Bull! Do you want a� hey!;
+BVWW053RA;Raz;Hey Bull! Do you want a hey!;
 BVDA033RA;Raz;Cause you gotta hold your breath during those.;
 BVED006ED;Edgar;With this card, I can almost reach her.  You must hurry back with the last queen!;
 BVMP000MA;Matador;Here's a better one: you go get that billboard painted, and I'll reward you handsomely.;
@@ -637,11 +637,11 @@ BVAF003RA;Raz;Well, now you can finish your tower.;
 BVAF004ED;Edgar;Yes, now this can all end, once and for all.;
 BVAG000MA;Matador;El Odio is a fierce, magical creature. He can only be harmed by the traditional bullfighting weapons.;
 BVAG001RA;Raz;Oh no. I can't believe I stuck four of those barbed poles in his back!;
-BVAG002MA;Matador;They're called "Banderillas!";
+BVAG002MA;Matador;"They're called ""Banderillas!""";
 BVAG003RA;Raz;I gotta get those out of there and protect Edgar. If something happens to him while I'm in his mind, I'll get the boot!;
 BVAG004MA;Matador;Silly boy. I do not think I am a bull. Do you?;
 BVAG005MA;Matador;These magic weapons cannot hurt me.;
-BVAG006MA;Matador;Ohhhoo ohhh�;
+BVAG006MA;Matador;Ohhhoo ohhh;
 BVAG007MA;Matador;I am the mighty EL ODIO!;
 BVAG008MA;Matador;I have all the power OF THE BULL!;
 BVAG009RA;Raz;Hm... And all the weaknesses I'll bet...;
@@ -659,7 +659,7 @@ BVAK000RA;Raz;Hey, great to see you guys all together!;
 BVAK001ED;Edgar;Shhh! ;
 BVAK002ED;Edgar;Not now, Razputin. There is a lot of money on the table.;
 BVAK003RA;Raz;Oh, okay, I was just gonna hang out for a bit. Is that bull--;
-BVAK004ED;Edgar;Long gone, my friend. The place is yours. If you'll excuse me�;
+BVAK004ED;Edgar;Long gone, my friend. The place is yours. If you'll excuse me;
 BVAK005RA;Raz;Okay. Hey, great hand. Good thing we found all those queens, eh?;
 BVAK006ED;Edgar;Ahhhh!;
 BVAC001CB;Cobra;(grunt);
@@ -725,8 +725,8 @@ BVZB000TO;System;Guitar Painting;
 BVZB001TO;System;Rose;
 BVZF006TO;System;Press /YButton/ to hang painting.;
 BVZF008TO;System;You can cloud the minds of others using the power of CONFUSION. But if you use it too much, you will need to pick up more CONFUSION GRENADES to energize the confusing aspect of your mind. /ConfusionAmmo/;
-BVZF009TO;System;/AButton/ Try again
-/BButton/ Try Later;
+BVZF009TO;System;"/AButton/ Try again
+/BButton/ Try Later";
 BVZA044TO;System;Why don't you guys just make a run for it.;
 BVZA045TO;System;Hey, can you fight bulls? I have a bull problem.;
 BVZA046TO;System;Okay, I bought some art. Now give me the dirt on Dingo.;

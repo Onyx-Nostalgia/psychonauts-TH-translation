@@ -4,7 +4,7 @@ ASBR002BO;Boyd;...those little green cops...;
 ASBR003BO;Boyd;...the military-industrial complex...;
 ASBR004BO;Boyd;...the suits...;
 ASBR005BO;Boyd;...the analyticals, man...;
-ASBR006BO;Boyd;...those Bermuda Triangle sharks�;
+ASBR006BO;Boyd;...those Bermuda Triangle sharks;
 ASBR007BO;Boyd;...all them haters...;
 ASBR008BO;Boyd;...Hernando...;
 ASBR009BO;Boyd;...that little fat kid with the bunny...;
@@ -28,7 +28,7 @@ ASBR026BO;Boyd;...the media...;
 ASBR027BO;Boyd;...the cows...;
 ASBR028BO;Boyd;...foreign toy makers...;
 ASBR030BO;Boyd;...the intelligencia...;
-ASBR031BO;Boyd;...the fluoride producers�;
+ASBR031BO;Boyd;...the fluoride producers;
 ASBR032BO;Boyd;...a secret doomsday cult...;
 ASBR033BO;Boyd;...the president's brother...;
 ASBR034BO;Boyd;...my first cat Seymour...;
@@ -146,12 +146,12 @@ ASBR145BO;Boyd;What's that on your head? That's no hat. Maybe you could tell you
 ASBR146BO;Boyd;I wonder if I'm on camera right now. Ha! What, am I crazy? Of course I am!;
 ASBR147BO;Boyd;Hi mom! Look at me! I'm tangled in a web of deception! How's uncle G?;
 ASBR148BO;Boyd;G-man, who are you working for? Who is G?;
-ASBR149BO;Boyd;G-Man, Go-man, Goat Man� I thought you worked for me?;
+ASBR149BO;Boyd;G-Man, Go-man, Goat Man I thought you worked for me?;
 ASBR150BO;Boyd;My father, he was a good man, but he served a cruel master.;
 ASBR151BO;Boyd;Mom, are you sure these are your children?;
 ASBR152BO;Boyd;These are not my dot to dots. These are not my babies.;
 ASBR153BO;Boyd;...but of course you know all this because you're Australian...;
-ASBR154BO;Boyd;...and then it comes out of those wires over there, and goes straight into my head, with all its little audio tricks�;
+ASBR154BO;Boyd;...and then it comes out of those wires over there, and goes straight into my head, with all its little audio tricks;
 ASBR155BO;Boyd;I don't want to be a lead weight on the table.;
 ASBR156BO;Boyd;I see myself more as a turtle with a rocket strapped to its back!;
 ASBR157BO;Boyd;...and he waits and he waits...;
@@ -197,13 +197,13 @@ ASBR196BO;Boyd;...ha!...;
 ASBR197BO;Boyd;...yeah, yeah, yeah...;
 ASBR198BO;Boyd;...what?...;
 ASBR199BO;Boyd;...no, no, no, no...;
-ASBR200BO;Boyd;...okay, okay, but�;
+ASBR200BO;Boyd;...okay, okay, but;
 ASBR201BO;Boyd;...huh...;
 ASBR202BO;Boyd;...riiiiiiight...;
 MMDD001DM;Den-Mother;What have you done?;แกทำอะไรลงไป?
 MMDD002DM;Den-Mother;He wakes!;เขาตื่นแล้ว!
 MMDD003BO;Boyd;I am the Milkman. My milk is delicious.;ฉันคือคนส่งนม นมของฉันอร่อย
-MMDD004DM;Den-Mother;And the sea shall run white (cough cough) with his rage�;และท้องทะเลจะต้องขาวโพลน (ไอ ไอ) ด้วยความโกรธเกรี้ยวของเขา
+MMDD004DM;Den-Mother;And the sea shall run white (cough cough) with his rage;และท้องทะเลจะต้องขาวโพลน (ไอ ไอ) ด้วยความโกรธเกรี้ยวของเขา
 MMDD005RS;Rainbow-Squirt;Ooooh ohhhh.;Ooooh ohhhh.
 MMDD007BO;Boyd;Special delivery today.;วันนี้จัดส่งแบบพิเศษ
 MMDD008BO;Boyd;GRAAAAAA!;GRAAAAAA!
@@ -237,7 +237,7 @@ MMDS007DM;Den-Mother;Eat yarn!;
 MMDS012DM;Den-Mother;To Protect the Milkman at all Costs.;
 MMTW002BO;Boyd;Must make... final... delivery.;
 MMTW003BO;Boyd;My milk... is... delicious.;
-MMTW004BO;Boyd;People... gotta... have� their� milk.;
+MMTW004BO;Boyd;People... gotta... have their milk.;
 MMTW005BO;Boyd;Milk will get warm. Milk is a drink best served cold!;
 MMTW006BO;Boyd;Rrrrr!;
 MMTW007BO;Boyd;Grrrr!;
@@ -263,7 +263,7 @@ MMAC011BO;Boyd;Everywhere.;
 MMAC012BO;Boyd;Be careful! They're watching. All the time.;
 MMAC013RA;Raz;Kay...;
 MMAC014RA;Raz;Now, how am I going to find some creepy graveyard in this... nice, normal, neighborhood?;
-MMAC015RA;Raz;You know, I think instead of Boyd, I'm gonna call you "Roid," because your such a big pain in my butt.;
+MMAC015RA;Raz;"You know, I think instead of Boyd, I'm gonna call you ""Roid,"" because your such a big pain in my butt.";
 MMAC004BO;Boyd;At least that's what the media would have you believe.;
 MMAC006BO;Boyd;Go to the graveyard! Dig him up! Oh, you'll find something all right, but it's neither man nor milk.;
 MMAA000RA;Raz;Hey, uh... where's the door?;
@@ -486,7 +486,7 @@ MMAJ006RA;Raz;It's fake. I'm worried the other assassins are going to make fun o
 MMAJ007RA;Raz;I'm watering!;
 MMAK000BO;Boyd;Ah! I'm telling you! I don't know where the Milkman is!;
 MMAK001BO;Boyd;Ah! They've come for me! They are taking me away!;
-MMAK002BO;Boyd;Wait a minute. I think there might not be a conspiracy after all. It's possible I am suffering from paranoid delusions, linked to an entity I call "the Milkman" who is, in actuality...;
+MMAK002BO;Boyd;"Wait a minute. I think there might not be a conspiracy after all. It's possible I am suffering from paranoid delusions, linked to an entity I call ""the Milkman"" who is, in actuality...";
 MMAK003BO;Boyd;...the mummified remains of Abraham Lincoln!;
 MMAK004BO;Boyd;Oh, no! It's happening again!;
 MMAK005BO;Boyd;Spontaneous combustion! From the government LSD tests!;
@@ -558,7 +558,7 @@ MMAL046GM;G-Man;Who does the Crow work for?;
 MMAL047GM;G-Man;What is the mission of the Crow?;
 MMAM000RS;Rainbow-Squirt;Ow! I'm only trying to make money for our organization, sir!;
 MMAM001RS;Rainbow-Squirt;Let me down or I'll scream for the police!;
-MMAM002RS;Rainbow-Squirt;Ohhhhh� Ohhhhhhhh... Ohhhhhh�;
+MMAM002RS;Rainbow-Squirt;Ohhhhh Ohhhhhhhh... Ohhhhhh;
 MMAM003RS;Rainbow-Squirt;Ahhhh! I'm on fire! Owwwwwww!;
 MMAM004RS;Rainbow-Squirt;That's nice... creep.;
 MMAM005RS;Rainbow-Squirt;Hee hee hee!;
@@ -622,7 +622,7 @@ MMAP027DM;Den-Mother;Must have heard me breathing.;
 MMAP028DM;Den-Mother;How can he see in the dark?;
 MMAP029RA;Raz;Hey, how about your Milkman friend just opens the gates to the asylum for me, then he could crawl right back in the fridge afterwards!;
 MMAP030DM;Den-Mother;When he wakes there will be no afterwards!;
-MMAP031DM;Den-Mother;Ohhhh... oh�;
+MMAP031DM;Den-Mother;Ohhhh... oh;
 MMAP032DM;Den-Mother;I know you're in here somewhere!;
 MMAP033DM;Den-Mother;Ha ha ha! Nice try!;
 MMAP034RA;Raz;I bought you these as a peace offering!;
@@ -668,7 +668,7 @@ MMAQ023RA;Raz;What the heck is that sound?;
 MMAQ024RA;Raz;Hello?;
 MMAQ026RA;Raz;Boyd? Is this you? I think I found the Milkman!;
 MMAQ027BO;Boyd;I have no idea what you're talking about. Who is this?;
-MMAQ028RA;Raz;Okay, from now on your name isn't Boyd. It's "Roid." Because you're such a big pain in my butt.;
+MMAQ028RA;Raz;"Okay, from now on your name isn't Boyd. It's ""Roid."" Because you're such a big pain in my butt.";
 MMAQ029BO;Boyd;If you see a lady tossing her cookies, run away!;
 MMAS000RA;Raz;I don't want to hurt the cameras. They're my only chance of seeing how to get through this basement.;
 MMAT000RA;Raz;Hey, you're alive! Why did you jump out that window?;
