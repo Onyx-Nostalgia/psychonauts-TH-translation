@@ -1,17 +1,17 @@
 id;character;origin_dialogue;translated_dialogue
-MCAB001RA;Raz;Coach Oleander?;
-MCAB003OL;Oly;He runs a butcher shop. He wants to make food out of them.;
-MCAB004FO;Ford;That's right. Morry's old man was a butcher! It looks like your childhood memories of the circus got all mixed up with his childhood memories of his dad's butcher shop.;
-MCAB005RA;Raz;My memories were bad enough. This is just gross.;
-MCAB006RA;Raz;Uh oh.;
-MCAB007FO;Ford;You'd better keep that kid out of trouble.;
-MCAB008FO;Ford;With your brains all scrambled like this, what happens to him, happens to you!;
-MCAB009OL;Oly;Ahhh! Help!;
-MCAC002OL;Oly;Come here, little bunny!;
-MCAC005OL;Oly;Don't run or else Daddy's gonna kill you.;
-MCAC006OL;Oly;Buuuuuunnnneeeeee!;
-MCAC007OL;Oly;Bun-bun-bun!;
-MCAC008OL;Oly;Please, Mr. Bun!;
+MCAB001RA;Raz;Coach Oleander?;โค้ชโอลีแอนเดอร์?
+MCAB003OL;Oly;He runs a butcher shop. He wants to make food out of them.;เขาเปิดร้านขายเนื้อ เขาอยากจะเอาพวกมันไปทำอาหาร
+MCAB004FO;Ford;That's right. Morry's old man was a butcher! It looks like your childhood memories of the circus got all mixed up with his childhood memories of his dad's butcher shop.;ใช่แล้ว พ่อของมอร์รี่เป็นคนขายเนื้อ! ดูเหมือนว่าความทรงจำวัยเด็กของนายเกี่ยวกับคณะละครสัตว์จะผสมปนเปกับความทรงจำวัยเด็กของเขาเกี่ยวกับร้านขายเนื้อของพ่อ
+MCAB005RA;Raz;My memories were bad enough. This is just gross.;แค่ความทรงจำของผมก็แย่พอแล้ว นี่มันน่าขยะแขยง
+MCAB006RA;Raz;Uh oh.;เอ่อ โอ
+MCAB007FO;Ford;You'd better keep that kid out of trouble.;นายต้องดูแลไม่ให้เด็กคนนั้นก่อเรื่องนะ
+MCAB008FO;Ford;With your brains all scrambled like this, what happens to him, happens to you!;ถ้านายสมองปั่นป่วนแบบนี้ เกิดอะไรขึ้นกับเขา ก็จะเกิดกับนายด้วย!
+MCAB009OL;Oly;Ahhh! Help!;อ๊าก! ช่วยด้วย!
+MCAC002OL;Oly;Come here, little bunny!;มานี่สิ กระต่ายน้อย!
+MCAC005OL;Oly;Don't run or else Daddy's gonna kill you.;อย่าหนีนะ ไม่งั้นพ่อจะฆ่านาย
+MCAC006OL;Oly;Buuuuuunnnneeeeee!;กระต่ายยยยย!
+MCAC007OL;Oly;Bun-bun-bun!;กระต่าย กระต่าย กระต่าย!
+MCAC008OL;Oly;Please, Mr. Bun!;ได้โปรด มิสเตอร์บัน!
 MCBI004RA;Raz;Hey, hey. Little Oly!;เฮ้ ๆ โอลี้น้อย!
 MCBI005RA;Raz;It's okay, those monsters are gone now.;ไม่เป็นไร สัตว์ประหลาดพวกนั้นหายไปแล้ว
 MCBI009RA;Raz;Who's coming?;ใครกำลังมา?
@@ -20,40 +20,40 @@ MCBI012OL;Oly;He says little bunnies are good for nothing.;พ่อบอกว
 MCBI013OL;Oly;Nothing but food!;เป็นได้แค่อาหาร!
 MCBI015OL;Oly;Ahhhhhhhhhhhh!;อ้าาาาาาาา!
 MCBI016BU;Butcher;DON'T RUN OR ELSE DADDY'S GONNA KILL YA!!!;อย่าหนี ไม่งั้นพ่อจะฆ่าแก!!!
-MCAE000BU;Butcher;Here bunny, bunny, bunny!;
-MCAE002BU;Butcher;I'm not gonna hurt you!;
-MCAE003BU;Butcher;COME HERE BUNNY!;
-MCAE004BU;Butcher;Don't run or else Daddy's gonna kill ya!;
-MCAE008BU;Butcher;Ah-ha-ha-ha!;
-MCAJ006EV;Evil;Rrrarggrmble-grmble!;
-MCAJ007EV;Evil;What's going on here? What have you done to our circus?;
-MCAJ008RA;Raz;Dad!;
-MCAJ009EV;Evil;Polluted! Perverted! This looks like the work of MENTALISTS!;
-MCAJ010RA;Raz;I can explain!;
-MCAJ011EV;Evil;Have you been associating with PSYCHICS?;
-MCAJ012RA;Raz;Dad, I--;
-MCAJ013EV;Evil;Psychics! Fortune tellers! They killed your grandfather! They cursed our entire family to die in water!;
-MCAJ014RA;Raz;Yes, but--;
-MCAJ015EV;Evil;Including you, Razputin, and me. But I'm going to live, you know why? Because I'm still an acrobat. ;
-MCAJ016EV;Evil;Let's see if you are!;
-MCAK000EV;Evil;What's it going to be, son? Die in the water? Or show me what you got?;
-MCAL001EV;Evil;Let's see if you remember your training!;
-MCAL002EV;Evil;Quick! Up here! Before the cold clammy hand of fear pulls you under!;
-MCAL003EV;Evil;Razputin!;
-MCAL004EV;Evil;Up here!;
-MCAL007EV;Evil;Maybe if you spent more time practicing your acrobatics and less time reading those comic books you'd be up here by now!;
-MCAL009EV;Evil;Finally!;
-MCAL011EV;Evil;Mmm. Pretty good. BUT NOT GOOD ENOUGH.;
-MCAL013EV;Evil;Hey, son. Catch!;
-MCAL016EV;Evil;Think fast!;
-MCAL017EV;Evil;Here you go!;
-MCAL018EV;Evil;You used to LIKE to play catch with me!;
-MCAL019EV;Evil;Incoming!;
-MCAL020EV;Evil;Little help?;
-MCAL021EV;Evil;Well, just as well. One fewer psychic in the world!;
-MCAM000RA;Raz;Dad! I made it!;
-MCAM002RA;Raz;No, I used the acrobatics you taught me!;
-MCAM011BU;Butcher;Make that GROUND. Ha ha ha.;
+MCAE000BU;Butcher;Here bunny, bunny, bunny!;มานี่ กระต่าย กระต่าย กระต่าย!
+MCAE002BU;Butcher;I'm not gonna hurt you!;ฉันไม่ทำร้ายแกหรอก!
+MCAE003BU;Butcher;COME HERE BUNNY!;มานี่สิ กระต่าย!
+MCAE004BU;Butcher;Don't run or else Daddy's gonna kill ya!;อย่าหนี ไม่งั้นพ่อจะฆ่าแก!
+MCAE008BU;Butcher;Ah-ha-ha-ha!;อาฮ่าๆๆๆ!
+MCAJ006EV;Evil;Rrrarggrmble-grmble!;อ๊ากกกกก!
+MCAJ007EV;Evil;What's going on here? What have you done to our circus?;เกิดอะไรขึ้นที่นี่? แกทำอะไรกับคณะละครสัตว์ของเรา?
+MCAJ008RA;Raz;Dad!;พ่อ!
+MCAJ009EV;Evil;Polluted! Perverted! This looks like the work of MENTALISTS!;แปดเปื้อน! วิปริต! นี่มันฝีมือพวกพลังจิต!
+MCAJ010RA;Raz;I can explain!;ผมอธิบายได้นะ!
+MCAJ011EV;Evil;Have you been associating with PSYCHICS?;แกไปคบกับพวกมีพลังจิตมาเหรอ?
+MCAJ012RA;Raz;Dad, I--;พ่อครับ ผม...
+MCAJ013EV;Evil;Psychics! Fortune tellers! They killed your grandfather! They cursed our entire family to die in water!;พวกมีพลังจิต! พวกหมอดู! พวกมันฆ่าปู่ของแก! พวกมันสาปแช่งให้ทั้งตระกูลเราต้องตายในน้ำ!
+MCAJ014RA;Raz;Yes, but--;ครับ แต่ว่า...
+MCAJ015EV;Evil;Including you, Razputin, and me. But I'm going to live, you know why? Because I'm still an acrobat. ;รวมถึงแกด้วย แรซปูติน และก็ฉัน แต่ฉันจะรอด เพราะฉันยังเป็นนักกายกรรมอยู่
+MCAJ016EV;Evil;Let's see if you are!;มาดูกันสิว่าแกเป็นรึเปล่า!
+MCAK000EV;Evil;What's it going to be, son? Die in the water? Or show me what you got?;แกจะเอายังไง ลูกชาย? ตายในน้ำ? หรือจะแสดงให้ฉันเห็นว่าแกมีดีอะไร?
+MCAL001EV;Evil;Let's see if you remember your training!;มาดูกันสิว่าแกยังจำสิ่งที่ฉันสอนได้รึเปล่า!
+MCAL002EV;Evil;Quick! Up here! Before the cold clammy hand of fear pulls you under!;เร็ว! ขึ้นมา! ก่อนที่มือเย็นเฉียบของความกลัวจะดึงแกจมลงไป!
+MCAL003EV;Evil;Razputin!;แรซปูติน!
+MCAL004EV;Evil;Up here!;ขึ้นมา!
+MCAL007EV;Evil;Maybe if you spent more time practicing your acrobatics and less time reading those comic books you'd be up here by now!;ถ้าแกเอาเวลาไปฝึกกายกรรมมากกว่าอ่านหนังสือการ์ตูน ป่านนี้คงขึ้นมาถึงแล้ว!
+MCAL009EV;Evil;Finally!;ในที่สุด!
+MCAL011EV;Evil;Mmm. Pretty good. BUT NOT GOOD ENOUGH.;อืมมม ก็ดี แต่ยังไม่ดีพอ
+MCAL013EV;Evil;Hey, son. Catch!;เฮ้ ลูกชาย รับนี่ไป!
+MCAL016EV;Evil;Think fast!;คิดเร็วๆ!
+MCAL017EV;Evil;Here you go!;เอ้า!
+MCAL018EV;Evil;You used to LIKE to play catch with me!;เมื่อก่อนแกชอบเล่นรับลูกกับฉันนะ!
+MCAL019EV;Evil;Incoming!;กำลังไป!
+MCAL020EV;Evil;Little help?;ช่วยหน่อยได้ไหม?
+MCAL021EV;Evil;Well, just as well. One fewer psychic in the world!;ช่างมันเถอะ อย่างน้อยก็มีพวกมีพลังจิตน้อยลงไปคนนึง!
+MCAM000RA;Raz;Dad! I made it!;พ่อ! ผมทำได้!
+MCAM002RA;Raz;No, I used the acrobatics you taught me!;เปล่า ผมใช้กายกรรมที่พ่อสอนผม!
+MCAM011BU;Butcher;Make that GROUND. Ha ha ha.;เรียกว่า โดนเชือดดีกว่า ฮ่าๆๆ
 MCAN000GD;Augustus;Razputin...;แรซปูติน...
 MCFU003GD;Augustus;What is your brain doing out here in this tank with this other brain?;สมองลูกมาทำอะไรอยู่นี่ในรถถังกับสมองคนอื่นกัน?
 MCFU004GD;Augustus;And who are all these unconscious people? ;แล้วคนพวกนั้นที่สลบอยู่เป็นใคร?
@@ -73,63 +73,63 @@ MCFU025GD;Augustus;This is your mind, so YOU are the strong one here.;นี่�
 MCFU026GD;Augustus;What I'm about to give you, my son--you must take care of it. Because it's everything I've got.;สิ่งที่พ่อจะมอบให้ลูก ลูกพ่อ--ลูกต้องดูแลมันให้ดี เพราะมันคือทุกสิ่งที่พ่อมี
 MCVI009GD;Augustus;Let's go inside.;ไปข้างในกันเถอะ
 MCVI011GD;Augustus;Oh, I know a lot of it. While you were out I... poked around a bit. ;อ๋อ พ่อรู้อะไรมาเยอะเลยล่ะ ในช่วงที่ลูกไม่อยู่ พ่อ... ตามสืบนิดหน่อย
-MCVI012RA;Raz;You what?;
+MCVI012RA;Raz;You what?;พ่อทำอะไรนะ?
 MCVI014RA;Raz;Hey!;เฮ้!
-MCAC003OL;Oly;I'm not going to hurt you!;
-MCAD000OL;Oly;Ow!;
-MCAD001OL;Oly;Ahh!;
-MCAD002OL;Oly;My face!;
-MCAD003OL;Oly;Hey, that hurts!;
-MCAD004OL;Oly;Hellllp!;
+MCAC003OL;Oly;I'm not going to hurt you!;ฉันจะไม่ทำร้ายนาย!
+MCAD000OL;Oly;Ow!;โอ๊ย!
+MCAD001OL;Oly;Ahh!;อ๊า!
+MCAD002OL;Oly;My face!;หน้าฉัน!
+MCAD003OL;Oly;Hey, that hurts!;เฮ้ มันเจ็บนะ!
+MCAD004OL;Oly;Hellllp!;ช่ววยด้ววย!
 MCBI001OL;Oly;Help!;ช่วยด้วย!
 MCBI003OL;Oly;You gotta help me protect the bunnies!;นายต้องช่วยฉันปกป้องพวกกระต่ายนะ!
 MCBI006RA;Raz;The bunnies are safe. We're all safe!;พวกกระต่ายปลอดภัย เราทุกคนปลอดภัย!
 MCBI007OL;Oly;No, it's not safe!;ไม่ มันยังไม่ปลอดภัย!
 MCBI008OL;Oly;He's coming!;เขากำลังมา!
 MCBI010OL;Oly;My dad!;พ่อฉัน!
-MCAF000BU;Butcher;Hnnnnnnng!;
-MCAF001BU;Butcher;Grrrrrrrk!;
-MCAF002BU;Butcher;Rrrrrrrrrrng!;
-MCAG000BU;Butcher;Hnnnnnn-ah!;
-MCAH000BU;Butcher;Gahhhhh!;
-MCAH001BU;Butcher;Ahhhhh!;
-MCAH002BU;Butcher;Oooof!;
-MCAI000BU;Butcher;Ahhh! Gahhh!;
-MCAI001BU;Butcher;Man, those things hurt!;
-MCAI002BU;Butcher;Stupid, spikey, flaming, juggling pins! Who invented those?;
-MCAI003BU;Butcher;Ahhh! Puncture wound. Flaming puncture wound. Grr.;
-MCAI004BU;Butcher;Oh, jeez. Not again!;
-MCAJ001BU;Butcher;Ahhh!;
-MCAJ003BU;Butcher;Hyyyyy-up!;
-MCAJ004BU;Butcher;Ha!;
-MCAJ005BU;Butcher;Ha ha ha ha!;
-MCAL000EV;Evil;Here comes the water, boy!;
-MCAL005EV;Evil;Come on, son!;
-MCAL006EV;Evil;You always were the slow one!;
-MCAL008EV;Evil;Hm. Come on, we're not done yet.;
-MCAL010EV;Evil;Don't stop now. The water's still rising!;
-MCAL012EV;Evil;Pretty good, pretty good.;
-MCAL014EV;Evil;Ha ha ha.;
-MCAL015EV;Evil;No, you can't really catch those. I was just testing ya.;
-MCAM001EV;Evil;You cheated!;
-MCAM003EV;Evil;Don't lie to me, cheater! You crystal ball readers always cheat!;
-MCAM004EV;Evil;You're no son of mine.;
-MCAM005EV;Evil;Raah!;
-MCAM006RA;Raz;Oly! Are you okay? Where's your dad?;
-MCAM007OL;Oly;He's over there. Talking to your dad.;
-MCAM008EV;Evil;He did WHAT?;
-MCAM009RA;Raz;Uh-oh.;
-MCAM010EV;Evil;Somebody's gonna get GROUNDED.;
-MCAM012EV;Evil;Hahaha!;
-MCFU001GD;Augustus;Razputin! I see your skull is as hard to penetrate as ever!;แรซปูติน! กะโหลกของลูกนี่ยังแข็งเหมือนเดิมเลยนะ!
+MCAF000BU;Butcher;Hnnnnnnng!;ฮึ่มมมมม!
+MCAF001BU;Butcher;Grrrrrrrk!;กร๊ากกกกก!
+MCAF002BU;Butcher;Rrrrrrrrrrng!;โฮกกกกกก!
+MCAG000BU;Butcher;Hnnnnnn-ah!;ฮึ่มมมมม-อ้า!
+MCAH000BU;Butcher;Gahhhhh!;อ้ากกกกก!
+MCAH001BU;Butcher;Ahhhhh!;อ้าาาาาา!
+MCAH002BU;Butcher;Oooof!;อู๊ฟ!
+MCAI000BU;Butcher;Ahhh! Gahhh!;อ้า! ก้า!
+MCAI001BU;Butcher;Man, those things hurt!;ให้ตายสิ พวกนั้นมันเจ็บนะ!
+MCAI002BU;Butcher;Stupid, spikey, flaming, juggling pins! Who invented those?;โง่เง่า หนามแหลม ไฟลุก ลูกบอลปาหี่! ใครมันคิดค้นเนี่ย?
+MCAI003BU;Butcher;Ahhh! Puncture wound. Flaming puncture wound. Grr.;อ้า! แผลฉกรรจ์ แผลฉกรรจ์ไฟลุก โฮกกก
+MCAI004BU;Butcher;Oh, jeez. Not again!;โอ้ ให้ตาย ไม่เอาน่า!
+MCAJ001BU;Butcher;Ahhh!;อ้า!
+MCAJ003BU;Butcher;Hyyyyy-up!;เฮ้!
+MCAJ004BU;Butcher;Ha!;ฮ่า!
+MCAJ005BU;Butcher;Ha ha ha ha!;ฮ่าๆๆๆๆ!
+MCAL000EV;Evil;Here comes the water, boy!;น้ำกำลังมาแล้ว ไอ้หนู!
+MCAL005EV;Evil;Come on, son!;เร็วเข้าสิ ลูกชาย!
+MCAL006EV;Evil;You always were the slow one!;แกมันก็ช้าอย่างนี้แหละ!
+MCAL008EV;Evil;Hm. Come on, we're not done yet.;หืม เร็วเข้าสิ เรายังไม่จบแค่นี้หรอก
+MCAL010EV;Evil;Don't stop now. The water's still rising!;อย่าเพิ่งหยุด น้ำยังขึ้นมาอีก!
+MCAL012EV;Evil;Pretty good, pretty good.;ก็ดีๆ
+MCAL014EV;Evil;Ha ha ha.;ฮ่าๆๆ
+MCAL015EV;Evil;No, you can't really catch those. I was just testing ya.;เปล่า แกรับพวกนั้นไม่ได้หรอก ฉันแค่ทดสอบแก
+MCAM001EV;Evil;You cheated!;แกโกง!
+MCAM003EV;Evil;Don't lie to me, cheater! You crystal ball readers always cheat!;อย่ามาโกหกฉัน ไอ้คนขี้โกง! พวกอ่านลูกแก้วคริสตัลมันโกงกันทั้งนั้น!
+MCAM004EV;Evil;You're no son of mine.;แกไม่ใช่ลูกฉัน!
+MCAM005EV;Evil;Raah!;อ๊าก!
+MCAM006RA;Raz;Oly! Are you okay? Where's your dad?;โอลี้! นายโอเคไหม? พ่อนายอยู่ไหน?
+MCAM007OL;Oly;He's over there. Talking to your dad.;เขาอยู่ตรงนั้น คุยกับพ่อนายอยู่
+MCAM008EV;Evil;He did WHAT?;เขาทำอะไรนะ?
+MCAM009RA;Raz;Uh-oh.;เอ่อ โอ
+MCAM010EV;Evil;Somebody's gonna get GROUNDED.;ใครบางคนจะต้องโดนลงโทษ
+MCAM012EV;Evil;Hahaha!;ฮ่าๆๆๆ!
+MCFU001GD;Augustus;Razputin! I see your skull is as hard to penetrate as ever!;แรซปูติน! กะโหลกลูกนี่เจาะยากเหมือนเคยเลยนะ!
 MCFU006EV;Evil;Psychics! He's been cavorting with filthy, cheating psychics!;พวกพลังจิต! มันไปคบค้ากับพวกพลังจิตขี้โกงพวกนั้น!
 MCFU009EV;Evil;Man, do I hate psychics, and seeing my son happy!;บ้าเอ้ย ฉันเกลียดพวกมีพลังจิตและเกลียดการได้เห็นลูกมีความสุข!
 MCFU011RA;Raz;But how can you hate me for being psychic, if you're psychic too?;แต่พ่อจะมาเกลียดผมที่ผมมีพลังจิตได้ยังไง ในเมื่อพ่อเองก็มีพลังจิตเหมือนกัน?
-MCFU014EV;Evil;Ahhhhhh!;อาาาา!
-MCFU015EV;Evil;Ayeeeee!;Ayeeeee!
+MCFU014EV;Evil;Ahhhhhh!;อ๊ากกกกก!
+MCFU015EV;Evil;Ayeeeee!;อ๊ายยยยย!
 MCFU019EV;Evil;Unweave? Detangle?;คลายเรอะ? แก้ปมเรอะ?
 MCFU021EV;Evil;I like it this way. I mean, look at how huge I am!;พ่อชอบแบบนี้มากกว่า พ่อหมายถึง ดูสิ พ่อตัวใหญ่ขนาดไหน!
-MCVI000RA;Raz;Ah! Ah! Bunnies! No! No meat! Ah!;Ah! Ah! พวกกระต่าย! ไม่นะ ไม่เอาเนื้อ! Ah!
+MCVI000RA;Raz;Ah! Ah! Bunnies! No! No meat! Ah!;อ๊ะ! อ๊ะ! กระต่าย! ไม่นะ! ไม่เอาเนื้อ! อ๊ะ!
 MCVI001GD;Augustus;Shhh. No more. No more meat. Look.;ชู่วว ไม่มีแล้ว ไม่มีเนื้อแล้ว ดูสิ
 MCVI002OL;Oly;There you go. Goooood little bunny. Ha ha!;อยู่นี่เอง เจ้าต่ายน้อยยย Ha ha!
 MCVI003OL;Oly;Hey, thanks for helping me save the bunnies. And for talking to my dad.;เฮ้ ขอบคุณที่ช่วยฉันกับพวกต่ายนะและเรื่องคุยกับพ่อฉันด้วย
@@ -140,50 +140,50 @@ MCVI007GD;Augustus;We're separating the brains now Razputin.;ตอนนี้�
 MCVI008GD;Augustus;He'll be fine.;เขาจะไม่เป็นไร
 MCVI010RA;Raz;Man, I can't wait to tell you about all the messed up stuff that happened.;ให้ตายสิ ผมแทบจะรอไม่ไหวแล้วที่จะได้เล่าเรื่องบ้า ๆ ทั้งหมดที่เกิดขึ้นให้พ่อฟัง
 MCVI013GD;Augustus;Tell me about this Lili person.;ไหนบอกพ่อสิ เรื่อง ลิลี่คนนี้น่ะ
-MCAO000OL;Oly;No, not me! Grab the bunny! I'm not a bunny! I'm not!;
-MCAP000OL;Oly;Haha. Thanks!;
-MCAQ000OL;Oly;Oh, I got you, Mr. Bunny!;
-MCAQ001OL;Oly;Now, let's get you to safety!;
-MCAR000OL;Oly;Weeee!;
-MCAB011OL;Oly;You gotta help me save the bunny!;
-MCAB012OL;Oly;If he'd just hold still I could catch him and hide him from my dad.;
-MCCA000OL;Oly;Oh, hi. My name is Morceau Oleander. But you can call me Morry. Or Oly.;
-MCCA001RA;Raz;What are you doing in my mind?;
-MCCA002OL;Oly;How did you get in my happy meadow? Nobody's supposed to know about it.;
-MCCA003OL;Oly;You didn't tell my dad about it, did you?;
-MCCA004BU;Butcher;(evil laughter);
-MCCA005OL;Oly;(frightened gasp);
-MCCA006OL;Oly;That's him! Oh no! Come on, little bunny. We'll be safe in here!;
-MCIN000RA;Raz;Okay, the circus I remember from my childhood was definitely not made of meat--the last time I checked.;
-MCIN001OL;Oly;No! No! Little bunny don't go in there!;
-MCIN002OL;Oly;That's a bad place! That's a bad place for bunnies!;
-MCAA000OL;Oly;We did it! We saved all the bunnies!;
-MCAA001OL;Oly;Now it's time for the main event!;
-MCAA002OL;Oly;Come on!;
-MCAS000OL;Oly;Come on! This is my favorite ride!;
-MCAS001OL;Oly;Yeeeee-haw!  Ha-ha!;
-MCAT000RA;Raz;(emotional sobs);
-MCAC009OL;Oly;(clicking noise, calling bunny)...that's it...(more clicking)...come here!;
-MCAE009BU;Butcher;(clicking sounds, calling the bunny);
-MCAG001BU;Butcher;Ahhh-ugh!;
-MCZE000TO;System;One brain redeemed for health.;
-MCZE001TO;System;Brains redeemed for health:;
-MCZE002TO;System;One cobweb turned in for a card.;
-MCZE003TO;System;Cobwebs turned in for cards:;
-MCZE004TO;System;Cards turned in:;
-MCZE005TO;System;Rank gained:;
-MCZE006TO;System;Bonus rank up for finding 8 Scavenger Hunt items!;
-MCZE007TO;System;Bonus rank up for finding all 16 Scavenger Hunt items!;
-MCZE008TO;System;You have no PSI CARDS, SCAVENGER HUNT ITEMS, MENTAL COBWEBS, or reclaimed BRAINS to redeem!;
-MCZG000TO;System;Razputin, your journey has made you much wiser, so why do you still hoard your goods like a miser?  The items you've scavenged, the webs, the cards, and brains--just to redeem them is all that remains!;
-MCZG001TO;System;Cards redeemed:;
-MCZF000TO;System;Press /YButton/ for Redemption.;
-MCAU000FO;Ford;Next time his cleaver gets stuck in the ground, run up his arm and punch him in his fat head.;
-MCZG002TO;System;One brain redeemed for health;
-MCZG004TO;System;One cobweb turned in for a card;
-MCZZ000TO;System;World's Skinniest Guy DEAD;
-MCZZ001TO;System;Bunnies ALIVE;
-MCZZ002TO;System;Kid Lasagna DEAD;
-MCZZ003TO;System;Alligator Boy DEAD;
-MCZZ004TO;System;Meat ALIVE;
-MCZF001TO;System;Press /YButton/ to pick up.;
+MCAO000OL;Oly;No, not me! Grab the bunny! I'm not a bunny! I'm not!;ไม่ ไม่ใช่ฉัน! จับกระต่าย! ฉันไม่ใช่กระต่าย! ไม่ใช่!
+MCAP000OL;Oly;Haha. Thanks!;ฮ่าๆ ขอบคุณ!
+MCAQ000OL;Oly;Oh, I got you, Mr. Bunny!;โอ้ จับได้แล้ว มิสเตอร์บัน!
+MCAQ001OL;Oly;Now, let's get you to safety!;ต่อไป เราจะพาพวกนายไปที่ที่ปลอดภัยนะ!
+MCAR000OL;Oly;Weeee!;วี๊!
+MCAB011OL;Oly;You gotta help me save the bunny!;นายต้องช่วยฉันช่วยกระต่ายนะ!
+MCAB012OL;Oly;If he'd just hold still I could catch him and hide him from my dad.;ถ้าเขานิ่งๆ ฉันจะจับเขาและซ่อนเขาจากพ่อได้
+MCCA000OL;Oly;Oh, hi. My name is Morceau Oleander. But you can call me Morry. Or Oly.;โอ้ สวัสดี ผมชื่อ มอร์โซ โอลีแอนเดอร์ แต่นายเรียกผมว่า มอร์รี่ หรือ โอลี้ก็ได้นะ
+MCCA001RA;Raz;What are you doing in my mind?;นายมาทำอะไรในจิตใจของฉัน?
+MCCA002OL;Oly;How did you get in my happy meadow? Nobody's supposed to know about it.;นายเข้ามาในทุ่งหญ้าแห่งความสุขของฉันได้ยังไง? ไม่ควรมีใครรู้เรื่องนี้นี่นา
+MCCA003OL;Oly;You didn't tell my dad about it, did you?;นายไม่ได้บอกเรื่องนี้กับพ่อฉันใช่ไหม?
+MCCA004BU;Butcher;(evil laughter);(เสียงหัวเราะชั่วร้าย)
+MCCA005OL;Oly;(frightened gasp);(เสียงสูดหายใจด้วยความกลัว)
+MCCA006OL;Oly;That's him! Oh no! Come on, little bunny. We'll be safe in here!;นั่นเขา! โอ้ ไม่นะ! มาเร็วเข้า กระต่ายน้อย เราจะปลอดภัยในนี้!
+MCIN000RA;Raz;Okay, the circus I remember from my childhood was definitely not made of meat--the last time I checked.;โอเค คณะละครสัตว์ที่ผมจำได้จากวัยเด็กไม่ได้ทำจากเนื้อแน่นอน เท่าที่ผมจำได้นะ
+MCIN001OL;Oly;No! No! Little bunny don't go in there!;ไม่นะ! ไม่นะ! กระต่ายน้อยอย่าเข้าไปในนั้น!
+MCIN002OL;Oly;That's a bad place! That's a bad place for bunnies!;ที่นั่นมันไม่ดี! ที่นั่นมันไม่ดีสำหรับกระต่าย!
+MCAA000OL;Oly;We did it! We saved all the bunnies!;เราทำได้! เราช่วยกระต่ายได้หมดแล้ว!
+MCAA001OL;Oly;Now it's time for the main event!;ตอนนี้ถึงเวลาสำหรับกิจกรรมหลักแล้ว!
+MCAA002OL;Oly;Come on!;มาเร็ว!
+MCAS000OL;Oly;Come on! This is my favorite ride!;มาเร็ว! นี่คือเครื่องเล่นที่ฉันชอบที่สุด!
+MCAS001OL;Oly;Yeeeee-haw!  Ha-ha!;ยีฮ่า! ฮ่าๆ!
+MCAT000RA;Raz;(emotional sobs);(เสียงสะอื้น)
+MCAC009OL;Oly;(clicking noise, calling bunny)...that's it...(more clicking)...come here!;(เสียงคลิก เรียกกระต่าย)...นั่นแหละ...(เสียงคลิกอีก)...มานี่สิ!
+MCAE009BU;Butcher;(clicking sounds, calling the bunny);(เสียงคลิก เรียกกระต่าย)
+MCAG001BU;Butcher;Ahhh-ugh!;อ้า-อุ๊ก!
+MCZE000TO;System;One brain redeemed for health.;แลกสมอง 1 ชิ้นเพื่อฟื้นฟูพลังชีวิต
+MCZE001TO;System;Brains redeemed for health:;สมองที่แลกเพื่อฟื้นฟูพลังชีวิต:
+MCZE002TO;System;One cobweb turned in for a card.;แลก หยากไย่ 1 อัน เป็น PSI Card 1 ใบ
+MCZE003TO;System;Cobwebs turned in for cards:;หยากไย่ที่แลกเป็น PSI Card:
+MCZE004TO;System;Cards turned in:;PSI Card ที่แลก:
+MCZE005TO;System;Rank gained:;Rank ที่ได้รับ:
+MCZE006TO;System;Bonus rank up for finding 8 Scavenger Hunt items!;ได้รับ Rank เพิ่มเติมจากการค้นหาของจาก เกมล่าสมบัติ 8 ชิ้น!
+MCZE007TO;System;Bonus rank up for finding all 16 Scavenger Hunt items!;ได้รับ Rank เพิ่มเติมจากการค้นหาของจาก เกมล่าสมบัติ ครบทั้ง 16 ชิ้น!
+MCZE008TO;System;You have no PSI CARDS, SCAVENGER HUNT ITEMS, MENTAL COBWEBS, or reclaimed BRAINS to redeem!;คุณไม่มี PSI Card, ของจากเกมล่าสมบัติ, หยากไย่จิตใจ หรือ สมอง ที่จะสามารถแลกได้!
+MCZG000TO;System;Razputin, your journey has made you much wiser, so why do you still hoard your goods like a miser?  The items you've scavenged, the webs, the cards, and brains--just to redeem them is all that remains!;แรซปูติน การเดินทางของท่านทำให้ท่านฉลาดขึ้นมาก เหตุใดท่านจึงยังคงกักตุนสิ่งของไว้เหมือนคนขี้เหนียว? ไอเทมที่ท่านได้ค้นหา หยากไย่ การ์ด และสมอง เพียงแค่แลกพวกมันก็เท่านั้น!
+MCZG001TO;System;Cards redeemed:;PSI Card ที่แลก:
+MCZF000TO;System;Press /YButton/ for Redemption.;กด /YButton/ เพื่อทำการแลก
+MCAU000FO;Ford;Next time his cleaver gets stuck in the ground, run up his arm and punch him in his fat head.;คราวหน้าถ้ามีดสับของเขาติดพื้นเมื่อไหร่ วิ่งขึ้นไปบนแขนเขาแล้วต่อยเข้าไปที่หัวอ้วนๆ ของเขาเลย
+MCZG002TO;System;One brain redeemed for health;แลกสมอง 1 ชิ้นเพื่อฟื้นฟูพลังชีวิต
+MCZG004TO;System;One cobweb turned in for a card;แลก หยากไย่ 1 อัน เป็น PSI Card 1 ใบ
+MCZZ000TO;System;World's Skinniest Guy DEAD;ชายที่ผอมที่สุดในโลก ตายแล้ว
+MCZZ001TO;System;Bunnies ALIVE;กระต่าย รอดชีวิต
+MCZZ002TO;System;Kid Lasagna DEAD;คิด ลาซานญ่า ตายแล้ว
+MCZZ003TO;System;Alligator Boy DEAD;เด็กจระเข้ ตายแล้ว
+MCZZ004TO;System;Meat ALIVE;เนื้อ รอดชีวิต
+MCZF001TO;System;Press /YButton/ to pick up.;กด /YButton/ เพื่อเก็บของ
