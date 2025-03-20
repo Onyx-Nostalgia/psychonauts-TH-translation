@@ -20,33 +20,32 @@ The extraction code and replacement code are originally from [TrupSteam/psychona
 - Extract dialogues from game file (`.lub` file) to csv
 - [dialogues/](/dialogues) to store csv file of dialogues that are being translated or have been translated
 - [cutscenes/](/cutscenes) to store dialogue files according to cutscenes for easy translation
-- ⚠️Develop⚠️ Replace dialogues from csv into game file (`.lub` file)
-  - ❌💥 Do not use at this time because the game font does not support Thai language.
+- Replace dialogues from csv into game file (`.lub` file)
 
 # 🪴 Translated Progress
 <!--trans-progress-st-->
-**Total**: 6/19 ![](https://geps.dev/progress/45)
-|                                                                          |           |                                    |
-| ------------------------------------------------------------------------ | --------- | ---------------------------------- |
-| [dialogues/AS_StringTable.csv](dialogues/AS_StringTable.csv)             | 196/1002  | ![](https://geps.dev/progress/19)  |
-| [dialogues/BB_StringTable.csv](dialogues/BB_StringTable.csv)             | 333/333   | ![](https://geps.dev/progress/100) |
-| [dialogues/BB_StringTablePC.csv](dialogues/BB_StringTablePC.csv)         | 6/6       | ![](https://geps.dev/progress/100) |
-| [dialogues/BV_StringTable.csv](dialogues/BV_StringTable.csv)             | 54/749    | ![](https://geps.dev/progress/7)   |
-| [dialogues/CA_StringTable.csv](dialogues/CA_StringTable.csv)             | 2519/2533 | ![](https://geps.dev/progress/99)  |
-| [dialogues/CA_StringTablePC.csv](dialogues/CA_StringTablePC.csv)         | 12/12     | ![](https://geps.dev/progress/100) |
-| [dialogues/GLOBAL_StringTable.csv](dialogues/GLOBAL_StringTable.csv)     | 478/1426  | ![](https://geps.dev/progress/33)  |
-| [dialogues/GLOBAL_StringTablePC.csv](dialogues/GLOBAL_StringTablePC.csv) | 0/114     | ![](https://geps.dev/progress/0)   |
-| [dialogues/LL_StringTable.csv](dialogues/LL_StringTable.csv)             | 12/57     | ![](https://geps.dev/progress/21)  |
-| [dialogues/LO_StringTable.csv](dialogues/LO_StringTable.csv)             | 51/245    | ![](https://geps.dev/progress/20)  |
-| [dialogues/MC_StringTable.csv](dialogues/MC_StringTable.csv)             | 53/188    | ![](https://geps.dev/progress/28)  |
-| [dialogues/MI_StringTable.csv](dialogues/MI_StringTable.csv)             | 1/322     | ![](https://geps.dev/progress/0)   |
-| [dialogues/MI_StringTablePC.csv](dialogues/MI_StringTablePC.csv)         | 1/1       | ![](https://geps.dev/progress/100) |
-| [dialogues/MM_StringTable.csv](dialogues/MM_StringTable.csv)             | 29/707    | ![](https://geps.dev/progress/4)   |
-| [dialogues/NI_StringTable.csv](dialogues/NI_StringTable.csv)             | 116/116   | ![](https://geps.dev/progress/100) |
-| [dialogues/SA_StringTable.csv](dialogues/SA_StringTable.csv)             | 37/171    | ![](https://geps.dev/progress/21)  |
-| [dialogues/SA_StringTablePC.csv](dialogues/SA_StringTablePC.csv)         | 2/2       | ![](https://geps.dev/progress/100) |
-| [dialogues/TH_StringTable.csv](dialogues/TH_StringTable.csv)             | 41/803    | ![](https://geps.dev/progress/5)   |
-| [dialogues/WW_StringTable.csv](dialogues/WW_StringTable.csv)             | 0/399     | ![](https://geps.dev/progress/0)   |
+**Total**: 16/19 ![](https://geps.dev/progress/99)
+|                                                                           |           |                                    |
+| ------------------------------------------------------------------------- | --------- | ---------------------------------- |
+| [dialogues/AS_StringTable.csv](/dialogues/AS_StringTable.csv)             | 1002/1002 | ![](https://geps.dev/progress/100) |
+| [dialogues/BB_StringTable.csv](/dialogues/BB_StringTable.csv)             | 333/333   | ![](https://geps.dev/progress/100) |
+| [dialogues/BB_StringTablePC.csv](/dialogues/BB_StringTablePC.csv)         | 6/6       | ![](https://geps.dev/progress/100) |
+| [dialogues/BV_StringTable.csv](/dialogues/BV_StringTable.csv)             | 744/749   | ![](https://geps.dev/progress/99)  |
+| [dialogues/CA_StringTable.csv](/dialogues/CA_StringTable.csv)             | 2519/2533 | ![](https://geps.dev/progress/99)  |
+| [dialogues/CA_StringTablePC.csv](/dialogues/CA_StringTablePC.csv)         | 12/12     | ![](https://geps.dev/progress/100) |
+| [dialogues/GLOBAL_StringTable.csv](/dialogues/GLOBAL_StringTable.csv)     | 1237/1237 | ![](https://geps.dev/progress/100) |
+| [dialogues/GLOBAL_StringTablePC.csv](/dialogues/GLOBAL_StringTablePC.csv) | 114/114   | ![](https://geps.dev/progress/100) |
+| [dialogues/LL_StringTable.csv](/dialogues/LL_StringTable.csv)             | 56/57     | ![](https://geps.dev/progress/98)  |
+| [dialogues/LO_StringTable.csv](/dialogues/LO_StringTable.csv)             | 245/245   | ![](https://geps.dev/progress/100) |
+| [dialogues/MC_StringTable.csv](/dialogues/MC_StringTable.csv)             | 188/188   | ![](https://geps.dev/progress/100) |
+| [dialogues/MI_StringTable.csv](/dialogues/MI_StringTable.csv)             | 322/322   | ![](https://geps.dev/progress/100) |
+| [dialogues/MI_StringTablePC.csv](/dialogues/MI_StringTablePC.csv)         | 1/1       | ![](https://geps.dev/progress/100) |
+| [dialogues/MM_StringTable.csv](/dialogues/MM_StringTable.csv)             | 707/707   | ![](https://geps.dev/progress/100) |
+| [dialogues/NI_StringTable.csv](/dialogues/NI_StringTable.csv)             | 116/116   | ![](https://geps.dev/progress/100) |
+| [dialogues/SA_StringTable.csv](/dialogues/SA_StringTable.csv)             | 171/171   | ![](https://geps.dev/progress/100) |
+| [dialogues/SA_StringTablePC.csv](/dialogues/SA_StringTablePC.csv)         | 2/2       | ![](https://geps.dev/progress/100) |
+| [dialogues/TH_StringTable.csv](/dialogues/TH_StringTable.csv)             | 803/803   | ![](https://geps.dev/progress/100) |
+| [dialogues/WW_StringTable.csv](/dialogues/WW_StringTable.csv)             | 399/399   | ![](https://geps.dev/progress/100) |
 <!--trans-progress-en-->
 
 # 🧠 Sample Dialogues csv file
