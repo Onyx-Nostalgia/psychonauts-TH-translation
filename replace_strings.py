@@ -27,7 +27,7 @@ class LUBPatcher:
 
     def read_csv(self, csv_path):
         try:
-            with open(csv_path, "r", newline="", encoding=ENCODING,errors='ignore') as csvfile:
+            with open(csv_path, "r", newline="") as csvfile: # errors='ignore'
                 reader = csv.reader(
                     csvfile,
                     quoting=csv.QUOTE_MINIMAL,
