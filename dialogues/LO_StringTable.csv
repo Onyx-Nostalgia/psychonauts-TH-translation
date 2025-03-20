@@ -1,246 +1,246 @@
 id;character;origin_dialogue;translated_dialogue
 LOIN001LP;Lungfish-Police;Ah, top of the mornin' to ya, ma'am.;อ้า สวัสดียามเช้าครับคุณนาย
-LOIN002LY;Lungfish-Madam;And good day to you, Officer O'Lungfish. How are you today?;สวัสดี คุณเจ้าหน้าที่โอลุงฟิช วันนี้คุณสบายดีไหม
-LOIN003LP;Lungfish-Police;Oh, damp and happy. Can't complain! And what are you and the wee one up to on this lovely day?;โอ้ สดชื่นและสุขสันต์ครับ ไม่ต้องสงสัยเลย! แล้วคุณกับเจ้าตัวเล็กกำลังทำอะไรกันอยู่ในวันดี ๆ แบบนี้ครับ
-LOIN004LY;Lungfish-Madam;Oh, just obeying the law as always. All posted directives followed to the letter.;โอ้ แค่ทำตามกฎระเบียบตามปกติน่ะค่ะ ปฏิบัติตามคำสั่งทุกอย่างอย่างเคร่งครัด 
-LOIN005LP;Lungfish-Police;Ah, good to hear! Not a one of us want any trouble that's for sure!;ดีแล้วครับ! แน่นอนว่าไม่มีใครอยากมีปัญหากันหรอก!
+LOIN002LY;Lungfish-Madam;And good day to you, Officer O'Lungfish. How are you today?;สวัสดีค่ะ คุณเจ้าหน้าที่โอลุงฟิช วันนี้สบายดีไหมคะ?
+LOIN003LP;Lungfish-Police;Oh, damp and happy. Can't complain! And what are you and the wee one up to on this lovely day?;โอ้ สดชื่นสบายดีครับ ไม่ต้องสงสัยเลย! แล้วคุณกับลูกตัวน้อย ทำอะไรกันเหรอครับ วันนี้?
+LOIN004LY;Lungfish-Madam;Oh, just obeying the law as always. All posted directives followed to the letter.;โอ้ ก็แค่ทำตามกฎหมายเหมือนเคยค่ะ ปฏิบัติตามคำสั่งทุกข้อ อย่างเคร่งครัด
+LOIN005LP;Lungfish-Police;Ah, good to hear! Not a one of us want any trouble that's for sure!;ดีเลยครับ! ไม่มีใครอยากมีปัญหาแน่นอน!
 LOIN006LY;Lungfish-Madam;Aaaaahhhhh!!!!;Aaaaahhhhh!!!!
 LOIN007LP;Lungfish-Police;Aaaaaahhhh!!!!;Aaaaaahhhh!!!!
 LOIN008LR;Lungfish-Resistance;Oh, Goggalor!!!!;โอ้ กอกกาลอร์!!!!
 LOVE001CO;Coach;Agggghhh!;Agggghhh!
-LOVE002CO;Coach;Fine! Take control of this freaky toad! I don't need him to nab children for me anymore!;ได้! เอาไอ้เจ้าคางคกประหลาดนี่ไปเลย! ฉันไม่ต้องการให้มันจับเด็กๆ มาให้ฉันอีกแล้ว!
-LOVE003CO;Coach;I've got the brain of a little girl back in my lab that's strong enough to power a whole army of Psychoblaster Death Tanks!;ในห้องทดลองของฉันมีสมองของเด็กผู้หญิงตัวน้อย ที่แข็งแกร่งพอที่จะสร้างพลังให้กับกองทัพรถถังมรณะ Psychoblaster ได้ทั้งหมด!
-LOVE004RA;Raz;Why you--heh heh!;
+LOVE002CO;Coach;Fine! Take control of this freaky toad! I don't need him to nab children for me anymore!;เออ! เอาไอ้คางคกประหลาดนี่ไปเลย! ฉันไม่ต้องการให้มันจับเด็กๆ มาให้อีกแล้ว!
+LOVE003CO;Coach;I've got the brain of a little girl back in my lab that's strong enough to power a whole army of Psychoblaster Death Tanks!;ในแลปของฉันมีสมองของ เด็กสาวตัวน้อย แข็งแกร่งพอ ที่จะสร้างพลังให้กับ กองทัพรถถังพิฆาต ไซโคบลาสเตอร์ ได้ทั้งกองทัพ!
+LOVE004RA;Raz;Why you--heh heh!;ทำไมนาย...เหอะๆ!
 LOVE005CO;Coach;Wha--;อะ--
 LOVE006RA;Raz;Ha ha ha!;ฮ่า ฮ่า ฮ่า!
 LOVE007CO;Coach;What?;อะไร?
-LOVE008RA;Raz;You've got the brain of a little girl! Ha ha ha!;นายมีสมองของเด็กผู้หญิงตัวน้อยเลยเหรอ ฮ่าๆๆ!
-LOVE009CO;Coach;I said in my lab!;ฉันบอกว่าในห้องทดลองของฉันไง!
-LOVE010RA;Raz;I think you've got the muscles of a little girl, too.;ฉันคิดว่านายก็มีกล้ามเหมือนเด็กผู้หญิงตัวน้อยเหมือนกันล่ะ
+LOVE008RA;Raz;You've got the brain of a little girl! Ha ha ha!;นายมีสมองของ เด็กสาวตัวน้อยเลยเหรอ! ฮ่าๆๆ!
+LOVE009CO;Coach;I said in my lab!;ฉันบอกว่าอยู่ในแลปของฉันไง!
+LOVE010RA;Raz;I think you've got the muscles of a little girl, too.;ฉันว่านายคง มีแรงเท่าเด็กสาวด้วยนะ
 LOVE012CO;Coach;Ahhhh! Grrrrr!;Ahhhh! Grrrrr!
-LOVE013CO;Coach;Good one!;เก่งมาก!
-LOAB005Z1;Zealots-1;Freedom!;
-LOAB014Z1;Zealots-1;WOOOOO!;
-LOAB015Z1;Zealots-1;FREEDO--;
-LOAB109Z1;Zealots-1;FREEDOM!;
-LOCP001LC;Lungfish-Citizen;Ahhhhhhhhh!;
-LOCP002LC;Lungfish-Citizen;Kochamara, save us!;
-LOCP003LC;Lungfish-Citizen;Where is Kochamara?;
-LOCP004LC;Lungfish-Citizen;Ah, my house!;
-LOCP005LC;Lungfish-Citizen;That's my school! ... Hooray!;
-LOCP006LC;Lungfish-Citizen;Heeeeelllllllp!;
-LOCP007LC;Lungfish-Citizen;It's Goggalor! Run!;
-LOCP008LC;Lungfish-Citizen;Please don't kill me, Goggalor!;
-LOCP009LC;Lungfish-Citizen;It's Goggalor! He hates children!;
-LOCP010LC;Lungfish-Citizen;Hey everyone, here comes Kochamara! No, wait, it's Goggalor. RUN!;
-LOCP011LC;Lungfish-Citizen;Bullets don't hurt him!;
-LOCP012LC;Lungfish-Citizen;Why, Goggalor, why?;
-LOCP013LC;Lungfish-Citizen;Nothing can stop him!;
-LOCP014LC;Lungfish-Citizen;Where are the police?;
-LOCP015LC;Lungfish-Citizen;Go back to your watery hell, Goggalor!;
-LOCP017LC;Lungfish-Citizen;I hate you, Goggalor!;
-LOCP018LC;Lungfish-Citizen;Nooooooooooo! Not the natural history museum!;
-LOCP019LC;Lungfish-Citizen;Oh no, Goggalor's heading for the orphanage!;
-LOCP020LC;Lungfish-Citizen;It's okay everyone. Goggalor missed the orphanage!;
-LOCP021LC;Lungfish-Citizen;No wait he's still heading for the orphanage!;
-LOCP022LC;Lungfish-Citizen;Oh my god, the orphanage!;
-LOCP023LC;Lungfish-Citizen;Hold on--that wasn't the orphanage.;
-LOCP024LC;Lungfish-Citizen;Oh no, it was the orphanage--for dogs. It was the puppy orphanage everyone!;
-LOCP025LC;Lungfish-Citizen;No wait--I spoke too fast.;
-LOCP026LC;Lungfish-Citizen;It was just a mattress factory.;
-LOCP027LC;Lungfish-Citizen;Okay, that's not too bad.;
-LOCP028LC;Lungfish-Citizen;Ahhhhh, my mattress factory! I'm ruined!;
-LOCP029LC;Lungfish-Citizen;I love you Goggalor!;
-LOCP030LC;Lungfish-Citizen;Good lord, he's impervious to bullets and love!;
-LOCP031LC;Lungfish-Citizen;Why doesn't the Navy electrocute him?;
-LOCP032LC;Lungfish-Citizen;I don't want to complain, but Kochamara should do something.;
-LOCP033LC;Lungfish-Citizen;Holy smokes, those goggles are five thousand meters tall!;
-LOCP034LC;Lungfish-Citizen;Oh no. Ohhhhh no. Noooooooo!;
-LOCP035LC;Lungfish-Citizen;You're lucky we can't own guns, Goggalor!;
-LOCP036LC;Lungfish-Citizen;We've faced monsters like you before, Goggalor, only much smaller.;
-LOCP037LC;Lungfish-Citizen;My car!;
-LOCP038LC;Lungfish-Citizen;My bait shop!;
-LOCP039LC;Lungfish-Citizen;My tank!;
-LOCP040LC;Lungfish-Citizen;My cheese shop!;
-LOCP041LC;Lungfish-Citizen;My outlet store!;
-LOCP042LC;Lungfish-Citizen;Gahhhhhhhhh!;
-LOZI001Z1;Zealots-1;Hey! Goggalor! Down here!;เฮ้! กอกกาลอร์! ข้างล่างนี่!
+LOVE013CO;Coach;Good one!;เยี่ยม!
+LOAB005Z1;Zealots-1;Freedom!;อิสรภาพ!
+LOAB014Z1;Zealots-1;WOOOOO!;WOOOOO!
+LOAB015Z1;Zealots-1;FREEDO--;อิสระ--
+LOAB109Z1;Zealots-1;FREEDOM!;อิสรภาพ!
+LOCP001LC;Lungfish-Citizen;Ahhhhhhhhh!;Ahhhhhhhhh!
+LOCP002LC;Lungfish-Citizen;Kochamara, save us!;โคชามารา ช่วยพวกเราด้วย!
+LOCP003LC;Lungfish-Citizen;Where is Kochamara?;โคชามาราอยู่ไหน?
+LOCP004LC;Lungfish-Citizen;Ah, my house!;อ๊ะ บ้านของฉัน!
+LOCP005LC;Lungfish-Citizen;That's my school! ... Hooray!;นั่นโรงเรียนฉัน! ... เย้!
+LOCP006LC;Lungfish-Citizen;Heeeeelllllllp!;ช่วยด้วยยยยย!
+LOCP007LC;Lungfish-Citizen;It's Goggalor! Run!;กอกกาลอร์ มาแล้ว! หนีเร็ว!
+LOCP008LC;Lungfish-Citizen;Please don't kill me, Goggalor!;ได้โปรดอย่าฆ่าฉันเลย กอกกาลอร์!
+LOCP009LC;Lungfish-Citizen;It's Goggalor! He hates children!;กอกกาลอร์มาแล้ว! เขาเกลียดเด็ก!
+LOCP010LC;Lungfish-Citizen;Hey everyone, here comes Kochamara! No, wait, it's Goggalor. RUN!;ทุกคน โคชามารามาแล้ว! เดี๋ยวก่อน นั่นมันกอกกาลอร์ หนีเร็ว!
+LOCP011LC;Lungfish-Citizen;Bullets don't hurt him!;กระสุนทำอะไรเขาไม่ได้!
+LOCP012LC;Lungfish-Citizen;Why, Goggalor, why?;ทำไมกัน กอกกาลอร์ ทำไม?
+LOCP013LC;Lungfish-Citizen;Nothing can stop him!;ไม่มีอะไรหยุดเขาได้!
+LOCP014LC;Lungfish-Citizen;Where are the police?;ตำรวจไปไหนหมด?
+LOCP015LC;Lungfish-Citizen;Go back to your watery hell, Goggalor!;กลับลงนรกน้ำของแกไปซะ กอกกาลอร์!
+LOCP017LC;Lungfish-Citizen;I hate you, Goggalor!;ฉันเกลียดแก กอกกาลอร์!
+LOCP018LC;Lungfish-Citizen;Nooooooooooo! Not the natural history museum!;ไม่นะ! ไม่เอาน่า พิพิธภัณฑ์ประวัติศาสตร์ธรรมชาติ!
+LOCP019LC;Lungfish-Citizen;Oh no, Goggalor's heading for the orphanage!;แย่แล้ว กอกกาลอร์กำลังมุ่งหน้าไปที่สถานเลี้ยงเด็กกำพร้า!
+LOCP020LC;Lungfish-Citizen;It's okay everyone. Goggalor missed the orphanage!;ไม่เป็นไรทุกคน กอกกาลอร์พลาดสถานเลี้ยงเด็กกำพร้าไปแล้ว!
+LOCP021LC;Lungfish-Citizen;No wait he's still heading for the orphanage!;เดี๋ยวก่อน เขายังมุ่งหน้าไปที่สถานเลี้ยงเด็กกำพร้าอยู่นะ!
+LOCP022LC;Lungfish-Citizen;Oh my god, the orphanage!;พระเจ้า สถานเลี้ยงเด็กกำพร้า!
+LOCP023LC;Lungfish-Citizen;Hold on--that wasn't the orphanage.;เดี๋ยวก่อน นั่นมันไม่ใช่สถานเลี้ยงเด็กกำพร้า
+LOCP024LC;Lungfish-Citizen;Oh no, it was the orphanage--for dogs. It was the puppy orphanage everyone!;แย่แล้ว นั่นมันสถานเลี้ยงเด็กกำพร้า--สำหรับสุนัข สถานเลี้ยงลูกสุนัข ทุกคน!
+LOCP025LC;Lungfish-Citizen;No wait--I spoke too fast.;เดี๋ยวก่อน ฉันพูดเร็วไป
+LOCP026LC;Lungfish-Citizen;It was just a mattress factory.;มันเป็นแค่โรงงานทำที่นอน
+LOCP027LC;Lungfish-Citizen;Okay, that's not too bad.;โอเค ไม่แย่เท่าไหร่
+LOCP028LC;Lungfish-Citizen;Ahhhhh, my mattress factory! I'm ruined!;อ๊ากกก โรงงานทำที่นอนของฉัน! ฉันหมดตัวแล้ว!
+LOCP029LC;Lungfish-Citizen;I love you Goggalor!;ฉันรักนาย กอกกาลอร์!
+LOCP030LC;Lungfish-Citizen;Good lord, he's impervious to bullets and love!;พระเจ้า เขากันกระสุนและความรักได้!
+LOCP031LC;Lungfish-Citizen;Why doesn't the Navy electrocute him?;ทำไมกองทัพเรือไม่ช็อตไฟฟ้าเขา?
+LOCP032LC;Lungfish-Citizen;I don't want to complain, but Kochamara should do something.;ไม่อยากจะบ่นเลย แต่โคชามาราควรทำอะไรบ้างนะ
+LOCP033LC;Lungfish-Citizen;Holy smokes, those goggles are five thousand meters tall!;ให้ตายสิ แว่นตานั่นสูงห้าพันเมตร!
+LOCP034LC;Lungfish-Citizen;Oh no. Ohhhhh no. Noooooooo!;ไม่นะ ไม่นะ ไม่นะ!
+LOCP035LC;Lungfish-Citizen;You're lucky we can't own guns, Goggalor!;โชคดีนะที่พวกเราไม่มีปืน กอกกาลอร์!
+LOCP036LC;Lungfish-Citizen;We've faced monsters like you before, Goggalor, only much smaller.;พวกเราเคยเจอสัตว์ประหลาดแบบแกมาก่อนแล้ว กอกกาลอร์ แค่ตัวเล็กกว่านี้
+LOCP037LC;Lungfish-Citizen;My car!;รถฉัน!
+LOCP038LC;Lungfish-Citizen;My bait shop!;ร้านขายเหยื่อตกปลาของฉัน!
+LOCP039LC;Lungfish-Citizen;My tank!;รถถังของฉัน!
+LOCP040LC;Lungfish-Citizen;My cheese shop!;ร้านขายชีสของฉัน!
+LOCP041LC;Lungfish-Citizen;My outlet store!;ร้านเอาท์เล็ทของฉัน!
+LOCP042LC;Lungfish-Citizen;Gahhhhhhhhh!;Gahhhhhhhhh!
+LOZI001Z1;Zealots-1;Hey! Goggalor! Down here!;เฮ้! กอกกาลอร์! ทางนี้!
 LOZI002RA;Raz;Excuse me, were you talking to me?;โทษที นายคุยกับฉันเหรอ?
-LOZI003Z1;Zealots-1;Ahhhhhh! Owwwww! My ears!;อ้าาา! โอ้ววว! หูฉัน!
+LOZI003Z1;Zealots-1;Ahhhhhh! Owwwww! My ears!;อ้าาาา! โอ๊ยยยย! หูฉัน!
 LOZI004RA;Raz;I'm sorry.;โทษที
 LOZI005Z1;Zealots-1;Ahhhhhh! Oh my god! Ahhhhhhhh!;อ้าาาา! พระเจ้า! อ้าาาา!
-LOZI006RA;Raz;Are you okay?;นายไม่เป็นไรนะ?
+LOZI006RA;Raz;Are you okay?;เป็นอะไรรึเปล่า?
 LOZI007Z2;Zealots-2;He's dead!;เขาตายแล้ว!
-LOZI008RA;Raz;Oh jeez, I'm sorry.;โอ้ พระเจ้า ฉันขอโทษ
-LOZI009Z2;Zealots-2;Don't worry, every member of the resistance is prepared to die fighting the tyranny of Kochamara.;อย่าห่วงเลย สมาชิกกลุ่มต่อต้านทุกคนพร้อมที่สละชีวิตในการต่อสู้กับเผด็จการของโคชามาราอยู่แล้ว
+LOZI008RA;Raz;Oh jeez, I'm sorry.;โอ้ ให้ตาย ฉันขอโทษ
+LOZI009Z2;Zealots-2;Don't worry, every member of the resistance is prepared to die fighting the tyranny of Kochamara.;ไม่ต้องห่วง มาชิกกลุ่มต่อต้านทุกคน พร้อมจะตายเพื่อต่อสู้กับทรราช โคชามารา
 LOZI010RA;Raz;What's Kochamara?;โคชามารา อะไรนะ?
-LOZI011Z2;Zealots-2;He's a giant monster like you, Goggalor. He brainwashed and enslaved almost everyone in Lungfishopolis.;เจ้านั่นเป็นสัตว์ประหลาดยักษ์เหมือนนายแหละ กอกกาลอร์ เจ้านั่นล้างสมองและทำให้ทุกตัวใน Lungfishopolis เป็นทาส
-LOZI012RA;Raz;That stinks. So hey, have you seen any other humans around here? I'm looking for a girl called Lili.;แหม่งๆ แฮะ เฮ้ นายเห็นมนุษย์คนอื่นแถวนี้บ้างไหม ฉันกำลังตามหาผู้หญิงชื่อลิลี่น่ะ
-LOZI015Z2;Zealots-2;The government archives might have some information about your young girlfriend, Goggalor.;หอจดหมายเหตุของรัฐบาลอาจมีข้อมูลบางอย่างเกี่ยวกับแฟนสาวตัวน้อยของนายก็ได้ กอกกาลอร์
-LOZI016RA;Raz;I don't know if she's really my girlfriend. I mean, I think she--;ฉันไม่รู้ว่าเธอเป็นแฟนฉันจริงหรือเปล่า ฉันหมายถึง ฉันคิดว่าเธอ--
-LOZI017Z2;Zealots-2;I only meant that she is your friend who is a girl, Goggalor. To access the archives, we must first destroy the broadcast tower Kochamara uses to control the populace.;ฉันหมายถึงว่าเธอเป็นเพื่อนที่เป็นผู้หญิงของนายต่างหาก กอกกาลอร์ หากต้องการเข้าถึงคลังข้อมูล เราต้องทำลายหอส่งสัญญาณที่โคชามาราใช้ควบคุมชาวเมืองเสียก่อน
-LOZI018RA;Raz;Check. I'll go smash that, then.;ได้เลย ฉันจะไปทำลายมันซะ
-LOZI019Z2;Zealots-2;Wait, Goggalor! In order to reach the tower, you'll need to pass through that wall of lasers. But you'll never make it through the lasers without our help.;เดี๋ยวก่อน กอกกาลอร์! ในการที่จะไปถึงหอคอย นายจะต้องผ่านกำแพงเลเซอร์นั่น แต่นายจะผ่านเลเซอร์ไปไม่ได้เลยถ้าไม่มีเราคอยช่วย
-LOZI020RA;Raz;So are you gonna start helping soon?;แล้วนายจะเริ่มช่วยเร็วๆ นี้เลยไหม?
-LOZI021Z2;Zealots-2;First, I need you to do something for the resistance. Punch a hole in that prison and free my comrades!;ก่อนอื่น ฉันอยากให้นายทำอะไรสักอย่างเพื่อเป็นการต่อต้าน เจาะรูคุกนั่นและปล่อยพวกพ้องของฉันออกมา!
-LOZI025RA;Raz;Hooyah! Now how about getting me past those gates?;ฮูยา! แล้วตอนนี้จะพาฉันผ่านประตูพวกนั้นไปยังไง?
-LOZI026Z1;Zealots-1;Right. We stole this shield power module from Kochamara. It's too big for any of us to operate, but it should work for you.;ได้เลย พวกเราขโมยโมดูลพลังโล่อันนี้มาจากโคชามารา มันใหญ่เกินไปสำหรับพวกเรา แต่สำหรับนายน่าจะใช้ได้
-LOZI027RA;Raz;Hey, is this gonna upset Kochamara and all your little brainwashed neighbors?;เฮ้ แล้วการทำแบบนี้จะทำให้โคชามารา และพวกเพื่อนบ้านตัวน้อยที่ถูกล้างสมองของพวกนายโกรธหรือเปล่า?
+LOZI011Z2;Zealots-2;He's a giant monster like you, Goggalor. He brainwashed and enslaved almost everyone in Lungfishopolis.;มันเป็นสัตว์ประหลาดยักษ์เหมือนนาย กอกกาลอร์ มันล้างสมองและจับทุกคนใน ลุงฟิชโฮโพลิส เป็นทาส
+LOZI012RA;Raz;That stinks. So hey, have you seen any other humans around here? I'm looking for a girl called Lili.;แย่จัง ว่าแต่ นายเห็นคนอื่นแถวนี้บ้างไหม? ฉันกำลังตามหาเด็กผู้หญิงชื่อ ลิลี่ น่ะ
+LOZI015Z2;Zealots-2;The government archives might have some information about your young girlfriend, Goggalor.;หอจดหมายเหตุ ของรัฐบาลอาจมีข้อมูล เกี่ยวกับเด็กของนายก็ได้ กอกกาลอร์
+LOZI016RA;Raz;I don't know if she's really my girlfriend. I mean, I think she--;ฉันไม่รู้ว่าเธอเป็นแฟนฉันจริงๆ รึเปล่า คือฉันคิดว่าเธอ--
+LOZI017Z2;Zealots-2;I only meant that she is your friend who is a girl, Goggalor. To access the archives, we must first destroy the broadcast tower Kochamara uses to control the populace.;ฉันหมายถึงว่า เธอเป็นเพื่อนผู้หญิงของนายต่างหาก กอกกาลอร์ การเข้าถึงหอจดหมายเหตุ เราต้องทำลายหอกระจายเสียงที่ โคชามารา ใช้ในควบคุมชาวเมืองก่อน
+LOZI018RA;Raz;Check. I'll go smash that, then.;ตกลง เดี๋ยวฉันไปทุบให้
+LOZI019Z2;Zealots-2;Wait, Goggalor! In order to reach the tower, you'll need to pass through that wall of lasers. But you'll never make it through the lasers without our help.;เดี๋ยวก่อน กอกกาลอร์! ถ้าจะไปถึงหอคอย นายต้องผ่านกำแพงเลเซอร์นั่น แต่นายจะผ่านไปไม่ได้ ถ้าไม่มีเราช่วย
+LOZI020RA;Raz;So are you gonna start helping soon?;แล้วเมื่อไหร่ พวกนายจะเริ่มช่วย?
+LOZI021Z2;Zealots-2;First, I need you to do something for the resistance. Punch a hole in that prison and free my comrades!;ก่อนอื่น ฉันอยากให้นายทำอะไรเพื่อกลุ่มต่อต้าน เจาะรูคุกนั่น และปล่อยพวกพ้องของฉันออกมา!
+LOZI025RA;Raz;Hooyah! Now how about getting me past those gates?;ฮูย่า! แล้วจะให้ฉันผ่านประตูพวกนั้นไปได้ยังไง?
+LOZI026Z1;Zealots-1;Right. We stole this shield power module from Kochamara. It's too big for any of us to operate, but it should work for you.;ได้เลย พวกเราขโมยโมดูล พลังโล่ นี่มาจาก โคชามารา มันใหญ่เกินไปสำหรับเรา แต่นายน่าจะใช้ได้นะ
+LOZI027RA;Raz;Hey, is this gonna upset Kochamara and all your little brainwashed neighbors?;เฮ้ แล้วเรื่องนี้จะทำให้ โคชามารา กับเพื่อนบ้านตัวน้อยที่โดนล้างสมองของพวกนายไม่พอใจรึเปล่า?
 LOZI028Z1;Zealots-1;Nooo.;ม่าาาย
-LOZI029Z2;Zealots-2;I doubt it.;ฉันว่าไม่นะ
-LOZI030Z3;Zealots-3;Uh, no no no.;เอ่อ ไม่ ไม่ ไม่หรอก
-LOZI031RA;Raz;So knocking down the prison and then breaking this laser shield thing--nobody's gonna get mad about that and start shooting at me?;งั้นก็คือ การพังคุกแล้วทำลายโล่เลเซอร์อันนี้--จะไม่มีใครโกรธแล้วมาไล่ยิงฉันใช่ไหม?
+LOZI029Z2;Zealots-2;I doubt it.;ไม่น่า
+LOZI030Z3;Zealots-3;Uh, no no no.;เอ่อ ไม่ๆๆ
+LOZI031RA;Raz;So knocking down the prison and then breaking this laser shield thing--nobody's gonna get mad about that and start shooting at me?;สรุปว่า การพังคุก ทำลายโล่เลเซอร์นี่ จะไม่มีใครโกรธจนไล่ยิงฉันนะ?
 LOZI032Z1;Zealots-1;Nooooo!;ไม่มีหรอกก!
-LOZI033Z2;Zealots-2;Uhh, maybe one guy would.;เอ่อ อาจจะมีพวกนึงที่โกรธ
-LOZI034Z1;Zealots-1;But what is even an entire navy of Lungfish against the might and revolutionary zeal of Goggalor!;แต่นาวิกปลาปอดทั้งกองทัพ ไม่มีทางต่อกรกับพลังและความกระหายการปฏิวัติของกอกกาลอร์ได้หรอก!
-LOZI035RA;Raz;Wait, what Navy?;เดี๋ยวนะ นาวิกอะไร?
+LOZI033Z2;Zealots-2;Uhh, maybe one guy would.;อืม อาจจะมีบางคน
+LOZI034Z1;Zealots-1;But what is even an entire navy of Lungfish against the might and revolutionary zeal of Goggalor!;แต่ กองทัพเรือปลาปอด จะสู้พลังและความกระหายการปฏิวัติของ กอกกาลอร์ ได้ยังไง!
+LOZI035RA;Raz;Wait, what Navy?;เดี๋ยวนะ กองทัพเรืออะไร?
 LOZI036Z1;Zealots-1;Meet us at the dam, Goggalor. FOR FREEDOM!;มาเจอกันที่เขื่อน กอกกาลอร์ เพื่ออิสรภาพ!
-LOZM003Z1;Zealots-1;Goggalor, come in! We have commandeered these vessels in your name!;
-LOZM004Z2;Zealots-2;We can put them in position to help you cross Kochamara Channel, to get to Kochamara Island, and destroy Kochamara Tower!;
-LOZM005Z1;Zealots-1;The thing is that, uh, although you have had SEVERAL excellent plans today, Goggalor... We... Uh;
-LOZM006Z2;Zealots-2;Er, we just think it best, uh... to... er uh;
-LOZM007Z1;Zealots-1;We've decided to maintain our position out here.;
-LOZM008Z2;Zealots-2;Just until you clear the area of all hostiles.;
-LOZM009Z1;Zealots-1;Yes.;
-LOZM010Z2;Zealots-2;For insurance reasons, Goggalor.;
-LOZM011Z1;Zealots-1;Yes! That, and for Freedom!;
-LOZJ001TO;System;Terror in Lungfishopolis;
-LOAA001CO;Coach;"The peaceful city of Lungfishopolis is under attack tonight by a hideous, gigantic monster the terrified citizens have named, ""Goggalor.""";
-LOAA002CO;Coach;The navy has responded quickly and decisively, dispatching its entire tank division to neutralize the creature.;
-LOAA003CO;Coach;Soon, authorities say, everything will return to normal or better.;
-LOAA004CO;Coach;(Kidnapping human children is good.);
-LOZJ000TO;System;Goggalor: On Drugs?;
-LOAD001CO;Coach;Well, things have gotten a little embarrassing for Goggalor. Recently surfaced information has strongly linked the previously intimidating monster with common lowlife criminals.;
-LOAD002CO;Coach;Earlier tonight, Goggalor broke some of his jailhouse cronies out of the slammer so they could enjoy a night on the town, popping pills, and soliciting inexpensive call girls.;
-LOAD003CO;Coach;Well, they're in for one nasty hangover! Our beloved Navy has come up with a high-tech new invention: trucks armed with HYPER-ELECTRICITY!!!;
-LOAD004CO;Coach;(When kidnapping children, do not harm the brains.);
-LOZJ002TO;System;No Quarter from Goggalor;
-LOAE001CO;Coach;The destruction and terror continue as the hulking, godless child-beast carves a bloody swath through our helpless city.;
-LOAE002CO;Coach;Our noble, all-volunteer Navy has been surprised only by the senseless lust for mayhem that seeps from the twisted, black lump of a heart in this creature, still known only as Goggalor.;
-LOAE003CO;Coach;Though it loathes violence in all its forms, the Navy has no choice but to activate its Anti-Monster Turrets, which it guarantees are 100% monster proof.;
-LOAE004CO;Coach;(Do not get caught stealing children.);
-LOZJ003TO;System;Famous Child Star Hates Goggalor;
-LOAF001CO;Coach;"We're here with the star of the popular sitcom, ""Trouble in the Bubble,"" Buddy Finn. ";
-LOAF002CO;Coach;Buddy, what's your take on the Goggalor situation? Is he just misunderstood? ;
-LOAF003CO;Coach;No way! I hate Goggalor! I can't imagine any one of my fans siding with the monster. He hates everything Lungfish care about--;
-LOAF004CO;Coach;Air, water, family, the economy...;
-LOAF005CO;Coach;Buddy, you'll be happy to know that the Navy has decided to pull out what they're most famous for: ;
-LOAF007CO;Coach;So, rest assured, we can all look forward to Goggalor's imminent death, and to seeing you, Buddy, every Thursday night at eight, right here on LBC!;
-LOAF008CO;Coach;Thanks, and I'd just like to add that if anyone kidnaps a human child they should take them quickly under the lake to the abandoned insane asylum.;
-LOZJ004TO;System;The End is Nigh;
-LOAG001CO;Coach;Well, we're sorry to report that the miserable and incompetent Lungfish Navy is all but sunk.;
-LOAG002CO;Coach;Great work, losers!;
-LOAG003CO;Coach;Now Kochamara himself will have to come all the way down here just to save our worthless hides. ;
-LOAG004CO;Coach;Authorities are calling for a big parade in Kochamara's honor after he clobbers the annoying giant Goggalor, and if the parade is big enough, Kochamara promises NOT to destroy the city.;
-LOAG005CO;Coach;(Brush teeth more often. Don't drool so much.);
-LOAH000Z1;Zealots-1;Goggalor, what are you doing down here?;
-LOAH001RA;Raz;I'm trying to get to that Kochamara Tower thing so I can smash it.;
-LOAH002Z1;Zealots-1;The laser tunnel, Goggalor. We have to get through that or we'll never get to Kochamara Island!;
-LOAH003RA;Raz;But I thought--;
-LOAH004Z1;Zealots-1;"There is no ""I"" in team, Goggalor!";
-LOAH005RA;Raz;"Yeah, but there's an ""I"" in ""squish"" so watch it.";
-LOAH006RA;Raz;I'll go take out your laser tunnel, but then we're going to talk about who's running this revolution.;
-LOAI000Z1;Zealots-1;Goggalor! Another jail to smash! Take it out and free the prisoners, Goggalor!;
-LOAI002Z4;Zealots-4;So this big monster, is that the best you could do?;
-LOAI003Z1;Zealots-1;We were short on time, and he is good at smashing things!;
-LOAI004Z4;Zealots-4;Doesn't look like much to me. Come on, let's blow this joint.;
-LOAI005RA;Raz;Hey, you're welcome!;
-LOAI006Z1;Zealots-1;Sorry about him, Goggalor. He's been in prison a long time.;
-LOAI007Z1;Zealots-1;He's the only pilot the resistance has, and he has an excellent plan! ;
-LOAI008Z1;Zealots-1;Meet us at the dam so we can put it into action!;
-LOAI009Z1;Zealots-1;Ha! Now you see the genius of our plan, Goggalor!;
-LOAI010Z4;Zealots-4;First, we print flyers. Then we spread them all over town with my blimp!;
-LOAI011Z1;Zealots-1;Winning over the hearts and minds of Lungfishopolis in as soon as six months.;
-LOAI012RA;Raz;Six months?;
-LOAI013Z4;Zealots-4;You don't like our plan, you can come up with another one!;
-LOAI014Z1;Zealots-1;Yes, we are busy! We have to select card stock, and then find a decent, but inexpensive printer within the week.;
-LOAI015Z4;Zealots-4;Hey, what are you doing up there?;
-LOAI016Z4;Zealots-4;Ow!;
-LOAI017Z4;Zealots-4;Hey!;
-LOAI018Z1;Zealots-1;Careful! My chai tea!;
-LOAI019Z4;Zealots-4;Quit it!;
-LOAI020Z4;Zealots-4;Knock it off!;
-LOAI021Z4;Zealots-4;We don't have a replacement blimp, you know!;
-LOAI022RA;Raz;Have you come up with a better plan than the pamphlets yet?;
-LOAI023Z4;Zealots-4;"Yes, it's called ""Turn in Goggalor for Reward Money.""";
-LOAI024RA;Raz;Hey, you guys still in there? It's Goggalor!;
-LOAI025Z4;Zealots-4;Oh, this guy. Just ignore him. He'll go away. ;
-LOZN000Z1;Zealots-1;The thing is that, uh, although we have the utmost faith that you will soon contain the area, Goggalor we... uh;
-LOAJ000CO;Coach;Give up while you can, Goggalor!;
-LOAJ001RA;Raz;I know it's you in there, Coach! I don't know where you're broadcasting from, but I'm going to find out and make you show me what happened to Lili.;
-LOAJ002CO;Coach;Kochamara does not speak giant monster boy language.;
-LOAJ003RA;Raz;"The only word you're going to need is ""Ouch.""";
-LOAJ004CO;Coach;Miiiiiiiiiiightyyyyyyyyyyyyy... ;
-LOAJ005CO;Coach;RAM!;
-LOAJ006CO;Coach;Deeeeeeaaaadlyyyyyyyyy...;
-LOAJ007CO;Coach;TRIANGLE BEAM!;
-LOAJ008CO;Coach;Hmm. So Sasha's showed you how to save up your aggressive energy, huh?;
-LOAJ009CO;Coach;Well, why don't I help you;
-LOAJ010CO;Coach;Let it all out!;
-LOAJ011CO;Coach;Bwah ha ha!;
-LOAJ012CO;Coach;Whaddya going to do now, eh?;
-LOAJ013CO;Coach;Oh no! No ammo!;
-LOAJ014CO;Coach;I'm lost without my ammo!;
-LOAJ015CO;Coach;I'm nothing without my cheater PSI Blast!;
-LOAJ016CO;Coach;Oh, Sasha, Sasha. Come help me.;
-LOAJ017CO;Coach;I have no defenses of my own!;
-LOAJ018CO;Coach;Miiiiightyyy Raaaaam...;
-LOAJ019CO;Coach;GROUND VERSION!;
-LOAJ020CO;Coach;Speeeeee-deeeeeee...;
-LOAJ021CO;Coach;KICK!;
-LOAJ022CO;Coach;Ooooverrrrrlyyyyy Innnnn-triiiiii-cate;
-LOAJ024CO;Coach;Haaaarrrrrrd tooooo aaaaavoooid;
-LOAJ025CO;Coach;...aaaaavoooid...;
-LOAJ026CO;Coach;AREA ATTACK!;
-LOAJ027CO;Coach;Woooooo-hoooooo!;
-LOAJ028CO;Coach;MMmm-hmmm.;
-LOAJ029CO;Coach;Feel the burn!;
-LOAJ030CO;Coach;Ha!;
-LOAJ031CO;Coach;Huhhh!;
-LOAJ032CO;Coach;Hup!;
-LOAJ033CO;Coach;Hyaaa!;
-LOAJ034CO;Coach;Hap!;
-LOAJ035CO;Coach;Hop!;
-LOAJ036CO;Coach;Hayooo!;
-LOAJ037CO;Coach;Waaaaaaah!;
-LOAJ038CO;Coach;And this!;
-LOAJ039CO;Coach;And that!;
-LOAJ040CO;Coach;And backwards!;
-LOAJ041CO;Coach;And faked you out!;
-LOAJ042CO;Coach;Ha ha!;
-LOAJ043CO;Coach;Ho ho!;
-LOAJ044CO;Coach;Heh heh heh!;
-LOAJ045CO;Coach;Ahhh!;
-LOAJ046CO;Coach;Oooff!;
-LOAJ047CO;Coach;Gahhh!;
-LOAJ048CO;Coach;(electrocution sounds);
-LOAJ049CO;Coach;Grrr!;
-LOAJ050RA;Raz;Give up Coach. I'm sure the Psychonauts are on their way from HQ right now to bust you.;
-LOAJ051CO;Coach;Sorry, but I was made senior facility officer this year, and the senior facility officer has notified HQ that everything is peachy at Camp Whispering Rock!;
-LOAK000CO;Coach;People of Lungfishopolis...;
-LOAK001CO;Coach;...I'm sorry I let you down.;
-LOAK002CO;Coach;Ggggghhh..;
-LOAK003RA;Raz;Finally!;
-LOAK004RA;Raz;Okay, tower. Get ready for Goggalor!;
-LOAK005Z1;Zealots-1;Goggalor, you did it! You defeated Kochamara!;
-LOAK006RA;Raz;Yep. Now we can find out where Lili went.;
-LOAK007Z1;Zealots-1;Not yet. The tower is still broadcasting its mind control over the populace!;
-LOAK008Z1;Zealots-1;You must destroy the tower!;
-LOAK009RA;Raz;Right. Man, Goggalor needs a sidekick or a PA or something.;
-LOAK010Z1;Zealots-1;Goggalor! The tower!;
-LOAK011RA;Raz;Oh! Yeah! Right.;
-LOAL000RA;Raz;Well, he was evil. But he did build a lot of roads.;
-LOAM000Z1;Zealots-1;Goggalor! ;
-LOAM001RA;Raz;Hey, shouldn't this place be much quieter now that Kochamara's gone?;
-LOAM002Z1;Zealots-1;Well, there's still some crazy Navy guys who haven't realized that the war is over. But--we got 'em on the run I think.;
-LOAM003Z1;Zealots-1;Got some really aggressive flyers at the printer right now. Should sway popular opinion our way in no time.;
-LOAM004RA;Raz;So you don't mind if I smash up some more tanks and planes and stuff?;
-LOAM005Z1;Zealots-1;Goggalor, you may smash it all! This whole area is scheduled for reforestation. ;
-LOAM006Z1;Zealots-1;Kochamara built this city for us. Lungfish weren't meant to live in cities!;
-LOAM007RA;Raz;Well, okay then. I'll bet I can save you a bit on the demolition costs.;
-LOAM008Z1;Zealots-1;Yeah, go nuts! You can squish people too if you want. My family lives in a whole other town.;
-LOZF000TO;System;/YButton/ Pick up Tank.;
-LOZE000TO;System;/YButton/ Throw Tank.;
+LOZM003Z1;Zealots-1;Goggalor, come in! We have commandeered these vessels in your name!;กอกกาลอร์ ตอบด้วย! พวกเรายึดเรือพวกนี้ในชื่อของนายแล้ว!
+LOZM004Z2;Zealots-2;We can put them in position to help you cross Kochamara Channel, to get to Kochamara Island, and destroy Kochamara Tower!;พวกเราจะวางตำแหน่งให้พวกมันช่วยแกข้ามช่องแคบ โคชามารา ไปยังเกาะ โคชามารา แล้วทำลายหอคอย โคชามารา!
+LOZM005Z1;Zealots-1;The thing is that, uh, although you have had SEVERAL excellent plans today, Goggalor... We... Uh;คือว่า ถึงแม้แกจะมีแผนที่ยอดเยี่ยมมากมายในวันนี้ กอกกาลอร์... พวกเรา... เอ่อ...
+LOZM006Z2;Zealots-2;Er, we just think it best, uh... to... er uh;เอ่อ พวกเราแค่คิดว่ามันดีที่สุด เอ่อ... ที่จะ... เอ่อ...
+LOZM007Z1;Zealots-1;We've decided to maintain our position out here.;พวกเราตัดสินใจที่จะรักษาสถานที่ตรงนี้ไว้
+LOZM008Z2;Zealots-2;Just until you clear the area of all hostiles.;จนกว่าแกจะเคลียร์พื้นที่จากศัตรูทั้งหมด
+LOZM009Z1;Zealots-1;Yes.;ใช่แล้ว
+LOZM010Z2;Zealots-2;For insurance reasons, Goggalor.;เพื่อเหตุผลด้านประกันภัย กอกกาลอร์
+LOZM011Z1;Zealots-1;Yes! That, and for Freedom!;ใช่แล้ว! นั่นแหละ และเพื่ออิสรภาพ!
+LOZJ001TO;System;Terror in Lungfishopolis;ความน่าสะพรึงกลัวในเมือง ปลาปอด
+LOAA001CO;Coach;"The peaceful city of Lungfishopolis is under attack tonight by a hideous, gigantic monster the terrified citizens have named, ""Goggalor.""";"ค่ำคืนนี้ เมือง ปลาปอด อันแสนสงบสุขถูกโจมตีโดยสัตว์ประหลาดขนาดยักษ์ที่น่าเกลียดน่ากลัว ซึ่งพลเมืองที่หวาดกลัวขนานนามมันว่า ""กอกกาลอร์"" "
+LOAA002CO;Coach;The navy has responded quickly and decisively, dispatching its entire tank division to neutralize the creature.;กองทัพเรือตอบสนองอย่างรวดเร็วและเด็ดขาด โดยส่งกองพลรถถังทั้งหมดเพื่อกำจัดสัตว์ร้าย
+LOAA003CO;Coach;Soon, authorities say, everything will return to normal or better.;ในไม่ช้า ทางการกล่าวว่าทุกอย่างจะกลับสู่สภาวะปกติหรือดีกว่าเดิม
+LOAA004CO;Coach;(Kidnapping human children is good.);(การลักพาตัวเด็กมนุษย์เป็นเรื่องดี)
+LOZJ000TO;System;Goggalor: On Drugs?;กอกกาลอร์: ติดยา?
+LOAD001CO;Coach;Well, things have gotten a little embarrassing for Goggalor. Recently surfaced information has strongly linked the previously intimidating monster with common lowlife criminals.;เอาล่ะ เรื่องราวมันเริ่มน่าอายสำหรับ กอกกาลอร์ ข้อมูลที่เพิ่งเปิดเผยออกมาเชื่อมโยงสัตว์ประหลาดที่น่ากลัวเข้ากับอาชญากรชั้นต่ำทั่วไป
+LOAD002CO;Coach;Earlier tonight, Goggalor broke some of his jailhouse cronies out of the slammer so they could enjoy a night on the town, popping pills, and soliciting inexpensive call girls.;เมื่อช่วงหัวค่ำ กอกกาลอร์ พาเพื่อนร่วมคุกของเขาออกมาจากคุก เพื่อให้พวกเขาได้สนุกกับค่ำคืนในเมือง กินยา และว่าจ้างสาวบริการราคาถูก
+LOAD003CO;Coach;Well, they're in for one nasty hangover! Our beloved Navy has come up with a high-tech new invention: trucks armed with HYPER-ELECTRICITY!!!;พวกเขาจะต้องเจอกับอาการเมาค้างที่แย่สุดๆ! กองทัพเรือที่รักของเราได้คิดค้นสิ่งประดิษฐ์ใหม่สุดไฮเทค: รถบรรทุกที่ติดตั้ง HYPER-ELECTRICITY!!!
+LOAD004CO;Coach;(When kidnapping children, do not harm the brains.);(เมื่อลักพาตัวเด็ก อย่าทำร้ายสมอง)
+LOZJ002TO;System;No Quarter from Goggalor;ไม่มีการผ่อนปรนจาก กอกกาลอร์
+LOAE001CO;Coach;The destruction and terror continue as the hulking, godless child-beast carves a bloody swath through our helpless city.;การทำลายล้างและความหวาดกลัวยังคงดำเนินต่อไป เมื่ออสูรกายไร้พระเจ้าสร้างรอยเลือดผ่านเมืองที่ไร้ทางสู้ของเรา
+LOAE002CO;Coach;Our noble, all-volunteer Navy has been surprised only by the senseless lust for mayhem that seeps from the twisted, black lump of a heart in this creature, still known only as Goggalor.;กองทัพเรืออาสาสมัครที่สูงส่งของเราประหลาดใจเพียงแค่ความกระหายในการทำลายล้างที่ไร้เหตุผล ซึ่งซึมออกมาจากก้อนเนื้อร้ายสีดำในหัวใจของสิ่งมีชีวิตนี้ ซึ่งยังคงรู้จักกันในชื่อ กอกกาลอร์
+LOAE003CO;Coach;Though it loathes violence in all its forms, the Navy has no choice but to activate its Anti-Monster Turrets, which it guarantees are 100% monster proof.;ถึงแม้ว่ามันจะรังเกียจความรุนแรงในทุกรูปแบบ แต่กองทัพเรือก็ไม่มีทางเลือกอื่นนอกจากเปิดใช้งานป้อมปืนต่อต้านสัตว์ประหลาด ซึ่งรับประกันว่าป้องกันสัตว์ประหลาดได้ 100%
+LOAE004CO;Coach;(Do not get caught stealing children.);(อย่าถูกจับได้ว่าขโมยเด็ก)
+LOZJ003TO;System;Famous Child Star Hates Goggalor;ดาราเด็กชื่อดังเกลียด กอกกาลอร์
+LOAF001CO;Coach;"We're here with the star of the popular sitcom, ""Trouble in the Bubble,"" Buddy Finn. ";"เรามาอยู่ที่นี่กับดาราจากซิทคอมยอดนิยม ""Trouble in the Bubble"" บัดดี้ ฟินน์"
+LOAF002CO;Coach;Buddy, what's your take on the Goggalor situation? Is he just misunderstood? ;บัดดี้ นายคิดยังไงกับสถานการณ์ กอกกาลอร์? เขาแค่ถูกเข้าใจผิดรึเปล่า?
+LOAF003CO;Coach;No way! I hate Goggalor! I can't imagine any one of my fans siding with the monster. He hates everything Lungfish care about--;ไม่มีทาง! ผมเกลียด กอกกาลอร์! ผมนึกไม่ออกเลยว่าแฟนๆ ของผมจะเข้าข้างสัตว์ประหลาดตัวนั้น เขาเกลียดทุกสิ่งที่ชาว ปลาปอด ห่วงใย--
+LOAF004CO;Coach;Air, water, family, the economy...;อากาศ น้ำ ครอบครัว เศรษฐกิจ...
+LOAF005CO;Coach;Buddy, you'll be happy to know that the Navy has decided to pull out what they're most famous for: ;บัดดี้ นายคงจะดีใจที่รู้ว่ากองทัพเรือตัดสินใจที่จะนำสิ่งที่พวกเขามีชื่อเสียงที่สุดออกมาใช้:
+LOAF007CO;Coach;So, rest assured, we can all look forward to Goggalor's imminent death, and to seeing you, Buddy, every Thursday night at eight, right here on LBC!;ดังนั้น ขอให้มั่นใจได้เลยว่าเราทุกคนสามารถตั้งตารอความตายที่ใกล้เข้ามาของ กอกกาลอร์ และรอพบกับนาย บัดดี้ ทุกคืนวันพฤหัสบดี เวลาสองทุ่ม ที่นี่ LBC!
+LOAF008CO;Coach;Thanks, and I'd just like to add that if anyone kidnaps a human child they should take them quickly under the lake to the abandoned insane asylum.;ขอบคุณครับ และผมแค่อยากจะเสริมว่าถ้าใครลักพาตัวเด็กมนุษย์ พวกเขาควรพาพวกเขาไปที่โรงพยาบาลบ้าที่ถูกทิ้งร้างใต้ทะเลสาบอย่างรวดเร็ว
+LOZJ004TO;System;The End is Nigh;จุดจบใกล้เข้ามาแล้ว
+LOAG001CO;Coach;Well, we're sorry to report that the miserable and incompetent Lungfish Navy is all but sunk.;เอาล่ะ พวกเราเสียใจที่จะรายงานว่ากองทัพเรือ ปลาปอด ที่น่าสมเพชและไร้ความสามารถ จมลงเกือบหมดแล้ว
+LOAG002CO;Coach;Great work, losers!;เยี่ยมมาก พวกขี้แพ้!
+LOAG003CO;Coach;Now Kochamara himself will have to come all the way down here just to save our worthless hides. ;ตอนนี้ โคชามารา จะต้องลงมาที่นี่ด้วยตัวเองเพื่อช่วยชีวิตพวกเราที่ไร้ค่า
+LOAG004CO;Coach;Authorities are calling for a big parade in Kochamara's honor after he clobbers the annoying giant Goggalor, and if the parade is big enough, Kochamara promises NOT to destroy the city.;ทางการเรียกร้องให้มีการจัดขบวนพาเหรดใหญ่เพื่อเป็นเกียรติแก่ โคชามารา หลังจากที่เขาจัดการเจ้า กอกกาลอร์ ยักษ์ที่น่ารำคาญ และถ้าขบวนพาเหรดใหญ่พอ โคชามารา สัญญว่าจะไม่ทำลายเมือง
+LOAG005CO;Coach;(Brush teeth more often. Don't drool so much.);(แปรงฟันบ่อยๆ อย่าทำน้ำลายไหลเยอะ)
+LOAH000Z1;Zealots-1;Goggalor, what are you doing down here?;กอกกาลอร์ แกทำอะไรอยู่ตรงนี้?
+LOAH001RA;Raz;I'm trying to get to that Kochamara Tower thing so I can smash it.;ฉันจะไปที่หอคอย โคชามารา นั่น เพื่อทุบมัน
+LOAH002Z1;Zealots-1;The laser tunnel, Goggalor. We have to get through that or we'll never get to Kochamara Island!;อุโมงค์เลเซอร์ กอกกาลอร์ พวกเราต้องผ่านมันไปให้ได้ ไม่งั้นจะไม่มีทางไปถึงเกาะ โคชามารา!
+LOAH003RA;Raz;But I thought--;แต่ฉันนึกว่า--
+LOAH004Z1;Zealots-1;"There is no ""I"" in team, Goggalor!";"ในคำว่า ""ทีม"" ไม่มีคำว่า ""ฉัน"" นะ กอกกาลอร์!"
+LOAH005RA;Raz;"Yeah, but there's an ""I"" in ""squish"" so watch it.";"ใช่ แต่ในคำว่า ""บี้แบน"" มี ""ฉัน"" นะ ระวังตัวด้วย"
+LOAH006RA;Raz;I'll go take out your laser tunnel, but then we're going to talk about who's running this revolution.;ฉันจะไปจัดการอุโมงค์เลเซอร์ให้ แต่หลังจากนั้นเราต้องคุยกันว่าใครเป็นคนนำการปฏิวัติครั้งนี้
+LOAI000Z1;Zealots-1;Goggalor! Another jail to smash! Take it out and free the prisoners, Goggalor!;กอกกาลอร์! มีคุกอีกแล้ว ทุบมัน แล้วช่วยนักโทษออกมา กอกกาลอร์!
+LOAI002Z4;Zealots-4;So this big monster, is that the best you could do?;สัตว์ประหลาดยักษ์นี่เหรอ? นี่ดีที่สุดที่พวกแกหามาได้แล้วเหรอ?
+LOAI003Z1;Zealots-1;We were short on time, and he is good at smashing things!;เวลามีน้อย แล้วเขาก็เก่งเรื่องทุบทำลาย!
+LOAI004Z4;Zealots-4;Doesn't look like much to me. Come on, let's blow this joint.;ดูไม่เห็นมีอะไรเลย ไปกันเถอะ ไปจากที่นี่
+LOAI005RA;Raz;Hey, you're welcome!;เฮ้ ไม่ต้องขอบคุณฉันก็ได้!
+LOAI006Z1;Zealots-1;Sorry about him, Goggalor. He's been in prison a long time.;ขอโทษแทนเขาด้วยนะ กอกกาลอร์ เขาอยู่ในคุกมานาน
+LOAI007Z1;Zealots-1;He's the only pilot the resistance has, and he has an excellent plan! ;เขาเป็นนักบินคนเดียวของกลุ่มต่อต้าน และเขามีแผนที่ยอดเยี่ยม!
+LOAI008Z1;Zealots-1;Meet us at the dam so we can put it into action!;มาเจอกันที่เขื่อน เพื่อที่เราจะได้เริ่มแผน!
+LOAI009Z1;Zealots-1;Ha! Now you see the genius of our plan, Goggalor!;ฮ่า! ตอนนี้แกคงเห็นความอัจฉริยะของแผนพวกเราแล้วสินะ กอกกาลอร์!
+LOAI010Z4;Zealots-4;First, we print flyers. Then we spread them all over town with my blimp!;ก่อนอื่น เราจะพิมพ์ใบปลิว แล้วก็เอาไปโปรยทั่วเมืองด้วยเรือเหาะของฉัน!
+LOAI011Z1;Zealots-1;Winning over the hearts and minds of Lungfishopolis in as soon as six months.;ชนะใจชาวเมือง ปลาปอด ได้ในเวลาแค่หกเดือน
+LOAI012RA;Raz;Six months?;หกเดือน?
+LOAI013Z4;Zealots-4;You don't like our plan, you can come up with another one!;ไม่ชอบแผนพวกเรา แกก็คิดแผนใหม่มาสิ!
+LOAI014Z1;Zealots-1;Yes, we are busy! We have to select card stock, and then find a decent, but inexpensive printer within the week.;ใช่ พวกเรายุ่งมาก! พวกเราต้องเลือกกระดาษ แล้วก็หาร้านพิมพ์ดีๆ ราคาไม่แพง ภายในอาทิตย์นี้
+LOAI015Z4;Zealots-4;Hey, what are you doing up there?;เฮ้ แกทำอะไรอยู่ข้างบนน่ะ?
+LOAI016Z4;Zealots-4;Ow!;โอ๊ย!
+LOAI017Z4;Zealots-4;Hey!;เฮ้!
+LOAI018Z1;Zealots-1;Careful! My chai tea!;ระวัง! ชาชัยของฉัน!
+LOAI019Z4;Zealots-4;Quit it!;หยุดนะ!
+LOAI020Z4;Zealots-4;Knock it off!;เลิกซะ!
+LOAI021Z4;Zealots-4;We don't have a replacement blimp, you know!;พวกเราไม่มีเรือเหาะสำรองนะเว้ย!
+LOAI022RA;Raz;Have you come up with a better plan than the pamphlets yet?;คิดแผนที่ดีกว่าใบปลิวได้รึยัง?
+LOAI023Z4;Zealots-4;"Yes, it's called ""Turn in Goggalor for Reward Money.""";"มีแล้ว ชื่อแผน ""ส่งตัว กอกกาลอร์ แลกเงินรางวัล"""
+LOAI024RA;Raz;Hey, you guys still in there? It's Goggalor!;เฮ้ พวกนายยังอยู่ข้างในกันรึเปล่า? ฉัน กอกกาลอร์ เอง!
+LOAI025Z4;Zealots-4;Oh, this guy. Just ignore him. He'll go away. ;โอ้ เจ้านี่อีกแล้ว ช่างหัวมัน เดี๋ยวก็ไปเอง
+LOZN000Z1;Zealots-1;The thing is that, uh, although we have the utmost faith that you will soon contain the area, Goggalor we... uh;คือว่า ถึงแม้พวกเราจะมั่นใจว่าแกจะจัดการพื้นที่ตรงนี้ได้ในเร็วๆ นี้ กอกกาลอร์... พวกเรา... เอ่อ...
+LOAJ000CO;Coach;Give up while you can, Goggalor!;ยอมแพ้ซะตอนนี้ ยังทันนะ กอกกาลอร์!
+LOAJ001RA;Raz;I know it's you in there, Coach! I don't know where you're broadcasting from, but I'm going to find out and make you show me what happened to Lili.;ฉันรู้ว่านั่นนาย โค้ช! ฉันไม่รู้ว่านายกระจายเสียงมาจากไหน แต่ฉันจะตามหานายให้เจอ แล้วให้นายบอกว่าเกิดอะไรขึ้นกับ ลิลี่
+LOAJ002CO;Coach;Kochamara does not speak giant monster boy language.;โคชามารา ไม่พูดภาษาสัตว์ประหลาดยักษ์
+LOAJ003RA;Raz;"The only word you're going to need is ""Ouch.""";"คำเดียวที่นายต้องใช้คือ ""โอ๊ย"""
+LOAJ004CO;Coach;Miiiiiiiiiiightyyyyyyyyyyyyy... ;พลังอันยิ่งใหญ่...
+LOAJ005CO;Coach;RAM!;RAM!
+LOAJ006CO;Coach;Deeeeeeaaaadlyyyyyyyyy...;อันตรายถึงชีวิต...
+LOAJ007CO;Coach;TRIANGLE BEAM!;ลำแสงสามเหลี่ยม!
+LOAJ008CO;Coach;Hmm. So Sasha's showed you how to save up your aggressive energy, huh?;หืม ซาช่า สอนให้นายสะสมพลังงานความก้าวร้าวแล้วสินะ?
+LOAJ009CO;Coach;Well, why don't I help you;งั้นทำไมฉันไม่ช่วยนายล่ะ...
+LOAJ010CO;Coach;Let it all out!;ปลดปล่อยมันออกมาให้หมด!
+LOAJ011CO;Coach;Bwah ha ha!;บวา ฮ่าๆ!
+LOAJ012CO;Coach;Whaddya going to do now, eh?;แกจะทำอะไรต่อไป หา?
+LOAJ013CO;Coach;Oh no! No ammo!;โอ ไม่นะ! กระสุนหมด!
+LOAJ014CO;Coach;I'm lost without my ammo!;ฉันทำอะไรไม่ถูกเลยถ้าไม่มีกระสุน!
+LOAJ015CO;Coach;I'm nothing without my cheater PSI Blast!;ฉันมันไม่มีอะไรเลยถ้าไม่มีโกง PSI BLAST!
+LOAJ016CO;Coach;Oh, Sasha, Sasha. Come help me.;โอ้ ซาช่า ซาช่า มาช่วยฉันที
+LOAJ017CO;Coach;I have no defenses of my own!;ฉันไม่มีอะไรป้องกันตัวเองเลย!
+LOAJ018CO;Coach;Miiiiightyyy Raaaaam...;พลังอันยิ่งใหญ่...
+LOAJ019CO;Coach;GROUND VERSION!;ภาคพื้นดิน!
+LOAJ020CO;Coach;Speeeeee-deeeeeee...;เร็วยิ่งกว่า...
+LOAJ021CO;Coach;KICK!;เตะ!
+LOAJ022CO;Coach;Ooooverrrrrlyyyyy Innnnn-triiiiii-cate;ซับซ้อน...
+LOAJ024CO;Coach;Haaaarrrrrrd tooooo aaaaavoooid;ยากที่จะหลบ...
+LOAJ025CO;Coach;...aaaaavoooid...;...หลบ...
+LOAJ026CO;Coach;AREA ATTACK!;โจมตีเป็นวงกว้าง!
+LOAJ027CO;Coach;Woooooo-hoooooo!;วู้วววว!
+LOAJ028CO;Coach;MMmm-hmmm.;อืมๆๆ
+LOAJ029CO;Coach;Feel the burn!;รู้สึกถึงความร้อนสิ!
+LOAJ030CO;Coach;Ha!;ฮ่า!
+LOAJ031CO;Coach;Huhhh!;ฮึ!
+LOAJ032CO;Coach;Hup!;ฮึบ!
+LOAJ033CO;Coach;Hyaaa!;ฮย้า!
+LOAJ034CO;Coach;Hap!;แฮ่!
+LOAJ035CO;Coach;Hop!;ฮ็อป!
+LOAJ036CO;Coach;Hayooo!;ฮะโย่ว!
+LOAJ037CO;Coach;Waaaaaaah!;ว้ากกกก!
+LOAJ038CO;Coach;And this!;นี่แน่ะ!
+LOAJ039CO;Coach;And that!;เอ้า นั่นอีก!
+LOAJ040CO;Coach;And backwards!;แล้วก็ถอยหลัง!
+LOAJ041CO;Coach;And faked you out!;หลอกนะ!
+LOAJ042CO;Coach;Ha ha!;ฮ่า ฮ่า!
+LOAJ043CO;Coach;Ho ho!;โฮ โฮ!
+LOAJ044CO;Coach;Heh heh heh!;เหะ เหะ เหะ!
+LOAJ045CO;Coach;Ahhh!;อ๊า!
+LOAJ046CO;Coach;Oooff!;อู๊ฟ!
+LOAJ047CO;Coach;Gahhh!;ก๊า!
+LOAJ048CO;Coach;(electrocution sounds);(เสียงช็อตไฟฟ้า)
+LOAJ049CO;Coach;Grrr!;ครืด...!
+LOAJ050RA;Raz;Give up Coach. I'm sure the Psychonauts are on their way from HQ right now to bust you.;ยอมแพ้เถอะ โค้ช ผมว่าตอนนี้พวก Psychonauts กำลังเดินทางมาจากกองบัญชาการ เพื่อมาจับกุมพวกนายแล้วนะ!
+LOAJ051CO;Coach;Sorry, but I was made senior facility officer this year, and the senior facility officer has notified HQ that everything is peachy at Camp Whispering Rock!;เสียใจด้วยนะ แต่ปีนี้ฉันได้รับการแต่งตั้งให้เป็นเจ้าหน้าที่อาวุโสของสถานที่แล้ว และเจ้าหน้าที่อาวุโสก็ได้แจ้งให้กองบัญชาการทราบแล้วว่าทุกอย่างที่ ค่ายหินเสียงกระซิบ เรียบร้อยดี!
+LOAK000CO;Coach;People of Lungfishopolis...;ชาวเมือง Lungfishopolis ทุกท่าน...
+LOAK001CO;Coach;...I'm sorry I let you down.;...ผมขอโทษที่ทำให้พวกท่านผิดหวัง
+LOAK002CO;Coach;Ggggghhh..;อ๊ากกก..
+LOAK003RA;Raz;Finally!;ในที่สุด!
+LOAK004RA;Raz;Okay, tower. Get ready for Goggalor!;เอาล่ะ หอคอย เตรียมรับมือ กอกกาลอร์ ได้เลย!
+LOAK005Z1;Zealots-1;Goggalor, you did it! You defeated Kochamara!;กอกกาลอร์ นายทำได้! นายปราบ โคชามารา ได้แล้ว!
+LOAK006RA;Raz;Yep. Now we can find out where Lili went.;ใช่ ตอนนี้เราจะได้รู้แล้วว่า ลิลี่ ไปไหน!
+LOAK007Z1;Zealots-1;Not yet. The tower is still broadcasting its mind control over the populace!;ยังก่อน หอคอยยังคงแพร่กระจายการควบคุมจิตใจไปทั่วเมือง!
+LOAK008Z1;Zealots-1;You must destroy the tower!;นายต้องทำลายหอคอยซะ!
+LOAK009RA;Raz;Right. Man, Goggalor needs a sidekick or a PA or something.;ครับท่าน กอกกาลอร์ น่าจะมีผู้ช่วยหรือไม่ก็เลขาฯ สักคนนะ
+LOAK010Z1;Zealots-1;Goggalor! The tower!;กอกกาลอร์! หอคอย!
+LOAK011RA;Raz;Oh! Yeah! Right.;อ้อ! ใช่! จริงด้วย!
+LOAL000RA;Raz;Well, he was evil. But he did build a lot of roads.;ถึงเขาจะชั่วร้าย แต่เขาก็สร้างถนนไว้เยอะเลยนะ
+LOAM000Z1;Zealots-1;Goggalor! ;กอกกาลอร์!
+LOAM001RA;Raz;Hey, shouldn't this place be much quieter now that Kochamara's gone?;นี่ พอ โคชามารา ไปแล้ว ที่นี่ไม่ควรจะเงียบกว่านี้เหรอ?
+LOAM002Z1;Zealots-1;Well, there's still some crazy Navy guys who haven't realized that the war is over. But--we got 'em on the run I think.;ก็ ยังมีพวกทหารเรือบ้าๆ บางคนที่ยังไม่รู้ว่าสงครามจบแล้ว แต่--พวกเรากำลังไล่ต้อนพวกเขาอยู่ คิดว่านะ
+LOAM003Z1;Zealots-1;Got some really aggressive flyers at the printer right now. Should sway popular opinion our way in no time.;ตอนนี้เรามีใบปลิวที่รุนแรงมากๆ อยู่ที่เครื่องพิมพ์ น่าจะเปลี่ยนความคิดเห็นของคนส่วนใหญ่มาอยู่ข้างเราได้ในเร็วๆ นี้
+LOAM004RA;Raz;So you don't mind if I smash up some more tanks and planes and stuff?;งั้นนายไม่ว่าอะไรนะ ถ้าผมจะทุบรถถัง เครื่องบิน พวกนั้นอีก?
+LOAM005Z1;Zealots-1;Goggalor, you may smash it all! This whole area is scheduled for reforestation. ;กอกกาลอร์ นายทุบให้หมดเลย! พื้นที่ทั้งหมดนี้มีกำหนดการที่จะปลูกป่าใหม่
+LOAM006Z1;Zealots-1;Kochamara built this city for us. Lungfish weren't meant to live in cities!;โคชามาราสร้างเมืองนี้ให้พวกเรา แต่ชาวปลาปอดไม่ได้เกิดมาเพื่ออยู่ในเมือง!
+LOAM007RA;Raz;Well, okay then. I'll bet I can save you a bit on the demolition costs.;โอเค งั้นผมพนันได้เลยว่าผมจะช่วยประหยัดค่ารื้อถอนให้นายได้นิดหน่อย
+LOAM008Z1;Zealots-1;Yeah, go nuts! You can squish people too if you want. My family lives in a whole other town.;เออ จัดไปเลย! นายจะบี้คนก็ได้นะถ้าอยากทำ ครอบครัวฉันอาศัยอยู่ในเมืองอื่นโน่น
+LOZF000TO;System;/YButton/ Pick up Tank.;/YButton/ ยก รถถัง ขึ้นมา
+LOZE000TO;System;/YButton/ Throw Tank.;/YButton/ ขว้าง รถถัง
 LOUC001LC;Lungfish-Citizen;Hey everyone, here comes Kochamara!;เฮ้ ทุกคน โคชามารามาแล้ว!
-LOZF001TO;System;Use your PSYCHIC SHIELD to protect you from damage, and reflect SOME enemy attacks back at the attacker! NOTE: You will not be able to maintain a PSYCHIC SHIELD forever, and when this part of your mind is exhausted, you will need to wait a while before you use it again.;
-LOAO000RA;Raz;Excellent. There it is.;
+LOZF001TO;System;Use your PSYCHIC SHIELD to protect you from damage, and reflect SOME enemy attacks back at the attacker! NOTE: You will not be able to maintain a PSYCHIC SHIELD forever, and when this part of your mind is exhausted, you will need to wait a while before you use it again.;ใช้ PSYCHIC SHIELD ของนายเพื่อป้องกันความเสียหาย และสะท้อนการโจมตีของศัตรูกลับไป! หมายเหตุ: นายจะไม่สามารถใช้ PSYCHIC SHIELD ได้ตลอดไป และเมื่อส่วนนี้ของจิตใจนายหมดแรง นายจะต้องรอสักพักก่อนที่จะใช้มันได้อีกครั้ง
+LOAO000RA;Raz;Excellent. There it is.;เยี่ยม นั่นไง!
