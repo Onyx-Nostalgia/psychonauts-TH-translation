@@ -470,7 +470,7 @@ ASLS022LO;Dr.Loboto;You sure?;เธอแน่ใจนะ?
 ASLS023SH;Sheegor;NO! I mean, YES!;ไม่! หมายถึง ใช่!
 ASLS024LO;Dr.Loboto;All right, all right.;เอาน่าๆ
 ASLS025LO;Dr.Loboto;Oh, why don't I just go ahead and heat you up a cup?;โอ้ ทำไมฉันไม่ตักให้เธอสักถ้วยไปเลยล่ะ?
-ASLS026LO;Dr.Loboto;Pleeeeease!;
+ASLS026LO;Dr.Loboto;Pleeeeease!;ได้โปรดดดด!
 ASLS027LO;Dr.Loboto;It's made of turtles! Turtles that you love!;ซุปทำจากเต่านะ! เต่าที่เธอรักไง!
 ASLS028LO;Dr.Loboto;Isn't that right, Mr. Pokeylope?;จริงไหม มิสเตอร์โพคีโลพ?
 ASLS029SH;Sheegor;Stop it stop it stop it stop it stop it stop it!;หยุดนะ หยุดนะ หยุดนะ หยุดนะ หยุดนะ!
@@ -502,7 +502,7 @@ ASLV017LI;Lili;Heh heh.;ฮึๆ
 ASLV018LO;Dr.Loboto;You're a stubborn little ball of phlegm, ain't ya?;เธอมันก้อนเสมหะดื้อด้านจริงๆ เลย?
 ASLV019LO;Dr.Loboto;Well, that head cold won't protect you forever, little girl, and when it's gone you'll be sneezing a different tune!;แต่หวัดของเธอคงกันได้ไม่นานหรอก แม่หนูน้อย พอหายดี เธอจะจามออกมาเป็นทำนองเลยล่ะ!
 ASLV020LO;Dr.Loboto;A tune in the key of... BRAINS! Ha ha ha!;เป็นทำนองในคีย์... สมอง! ฮ่าๆๆ
-ASMI001RA;Raz;Hey, slow down there, speedy. Let's talk about this.;
+ASMI001RA;Raz;Hey, slow down there, speedy. Let's talk about this.;เฮ้ ใจเย็นพวก มาคุยกันก่อนสิ
 ASMI002BO;Boyd;Can't stop. Must make... final delivery... to this address.;หยุดไม่ได้ ต้องไปส่ง... ให้ถึงที่หมาย... ที่อยู่นี้
 ASSH001SH;Sheegor;(Gasp!) M-M-Mr. Pokeylope?;(ตกใจ!) มะ-มะ-มิสเตอร์โพคีโลพ?
 ASSH002SH;Sheegor;Oh, Mr. Pokeylope! (Kiss kiss.) I was so scared!;โอ้ มิสเตอร์โพคีโลพ! (จุ๊บๆ) ฉันกลัวมากเลย!
@@ -517,7 +517,7 @@ ASSP009RA;Raz;Oh, this is just great.;โอ้ เยี่ยมไปเล�
 ASSP010RA;Raz;Now what am I going to do?;แล้วฉันจะทำยังไงต่อดีเนี่ย?
 ASSP011RA;Raz;Have to think!;ต้องคิด!
 ASSP012RA;Raz;Ha. Like I got a choice...;เหอะ อย่างกับฉันมีทางเลือก...
-ASWF001NP;Napoleon;Ha ha! Back to Russia with you, invader!;
+ASWF001NP;Napoleon;Ha ha! Back to Russia with you, invader!;ฮ่า ฮ่า! กลับรัสเซียไปซะ ผู้บุกรุก!
 ASWF002FR;Fred;Don't leave me alone in here!;อย่าทิ้งฉันไว้คนเดียวนะ!
 ASWV001FR;Fred;Is he really gone? Hello? Hello? Anyone else in here?;เจ้านั่นไปแล้วใช่ไหม? สวัสดี? ว่าไง? มีใครไหม?
 ASWV002FR;Fred;Hah! We did it, Raz! I'm all me again! One person! Not French!;ฮ่า! เราทำได้ แรซ! ฉันกลับมาเป็นตัวฉันคนเดิมแล้ว! คนเดียว! ไม่มีฝรั่งเศส!
@@ -606,7 +606,7 @@ ASSH014SH;Sheegor;Mmm. Uh-huh. Uh-huh. Mmm. Okay. Uh-huh. Uh-hmmm. Uh-hmmm;อ
 ASSH015PL;Mr.Pokeylope;(Mutter mutter.);(พึมพำๆ)
 ASIF002NP;Napoleon;Sacré bleu! I have been hit!;Sacré bleu! ข้าโดนโจมตี!
 ASIG000GL;Gloria;OH!;โอ้!
-ASIG002GL;Gloria;Now, who threw that?;
+ASIG002GL;Gloria;Now, who threw that?;ใครขว้างมากันน่ะ
 ASIG003GL;Gloria;"If you don't like the performance, a simple ""boo"" will do.";"ถ้าไม่ชอบการแสดง แค่""โห่""เบาๆ ก็พอแล้ว"
 ASIB001BO;Boyd;Gah!;อ๊าก!
 ASIB002BO;Boyd;Not another tracking device!;ไม่เอาเครื่องติดตามอีกแล้วนะ!
@@ -962,7 +962,7 @@ ASZB022TO;System;Mikhail's Brain;สมองของ มิคิล
 ASZB023TO;System;Phoebe's Brain;สมองของ ฟีบี้
 ASZB024TO;System;Elton's Brain;สมองของ เอลตัน
 ASZB025TO;System;Chops' Brain;สมองของ ชอปส์
-ASAY005BO;Boyd;"Wait a minute. I think there might not be a conspiracy after all. It's possible I am suffering from paranoid delusions, linked to an entity I call ""the Milkman"" who is, in actuality...";"เดี๋ยวก่อนนะ ผมว่ามันอาจจะไม่มีเรื่องสมรู้ร่วมคิดอะไรทั้งนั้นก็ได้นะ เป็นไปได้ว่าผมกำลังทนทุกข์ทรมานจากอาการหลงผิดหวาดระแวง ที่เชื่อมโยงกับสิ่งที่ผมเรียกว่า ""คนส่งนม"" ซึ่งจริงๆ แล้ว...";
+ASAY005BO;Boyd;"Wait a minute. I think there might not be a conspiracy after all. It's possible I am suffering from paranoid delusions, linked to an entity I call ""the Milkman"" who is, in actuality...";"เดี๋ยวก่อนนะ ผมว่ามันอาจจะไม่มีเรื่องสมรู้ร่วมคิดอะไรทั้งนั้นก็ได้นะ เป็นไปได้ว่าผมกำลังทนทุกข์ทรมานจากอาการหลงผิดหวาดระแวง ที่เชื่อมโยงกับสิ่งที่ผมเรียกว่า ""คนส่งนม"" ซึ่งจริงๆ แล้ว..."
 ASAY006BO;Boyd;...the mummified remains of Abraham Lincoln!;...คือซากมัมมี่ของ อับราฮัม ลินคอล์น!
 ASZB026TO;System;Crow Feather;ขนนกกา
 ASZA000TO;System;I'm getting the feeling that you won't get too far with this fella until you earn the power of TELEKINESIS. You'll earn that power at RANK 20. Do you still want to jump in and try?;ระบบรู้สึกว่า นายจะไม่สามารถไปได้ไกลกว่านี้ ถ้าไม่ได้รับพลัง TELEKINESIS เสียก่อน ซึ่งนายจะได้รับพลังนั้นเมื่อ Rank 20 นายยังอยากจะลองเข้าไปอีกไหม?
