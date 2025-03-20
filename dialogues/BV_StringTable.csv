@@ -70,16 +70,16 @@ BVIN010RA;Raz;Okay, don't take this the wrong way, but I don't think you're work
 BVIN011ED;Edgar;Somewhere along the way I feel that I lost something important, but I do not know;ระหว่างทาง ฉันรู้สึกว่าฉันทำอะไรบางอย่างที่สำคัญหายไป แต่ฉันไม่รู้ว่า...
 BVIN012RA;Raz;I think it's your queens. You want me to go look for them?;ฉันว่ามันคือควีนของนาย นายอยากให้ฉันไปหามาให้ไหม?
 BVIN013ED;Edgar;Bring me any cards you find! I must complete this tower!;เอาไพ่ใบไหนมาให้ฉันก็ได้! ฉันต้องสร้างหอคอยนี้ให้เสร็จ!
-BVOS001ED;Edgar;Snort.;
-BVOS002ED;Edgar;Rarr.;
-BVOS004ED;Edgar;Snoorrrrrt.;
-BVOS005ED;Edgar;Grunt.;
+BVOS001ED;Edgar;Snort.;(เสียงในคอ)
+BVOS002ED;Edgar;Rarr.;Rarr.
+BVOS004ED;Edgar;Snoorrrrrt.;(คว๊ากกก)
+BVOS005ED;Edgar;Grunt.;เฮอะ
 BVOT001LA;Lampita;I knew you would save me some day.;ฉันรู้ว่านายจะต้องมาช่วยฉันสักวัน
 BVOT002LA;Lampita;He just won't let me go. Tell me, how did you kill him?;เขาไม่ยอมปล่อยฉันไป บอกฉันสิ นายฆ่าเขาได้ยังไง?
 BVOT003RA;Raz;Kill who?;ฆ่าใคร?
 BVOT005RA;Raz;I didn't.;ฉันเปล่าฆ่านะ
 BVOT006RA;Raz;Edgar?;เอ็ดการ์เหรอ?
-BVOT007ED;Edgar;Rrrrrr! Rrrrrr!;
+BVOT007ED;Edgar;Rrrrrr! Rrrrrr!;Rrrrrr! Rrrrrr!
 BVVI001DI;Dingo;Ooof!;อุ๊ฟ!
 BVVI002LA;Lampita;Ah-hoo hoo!;อา-ฮู ฮู!
 BVVI003RA;Raz;Wait!;เดี๋ยวก่อน!

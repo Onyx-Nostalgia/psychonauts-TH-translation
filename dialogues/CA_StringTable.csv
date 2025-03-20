@@ -7,8 +7,8 @@ CABD006RA;Raz;The dream was true!;ความฝันเป็นจริง!
 CABD007RA;Raz;Dogen, don't worry. I know where your brains are. They're in... like, this crazy, dream-thorn-bush-straight-jacket-tower place.;โดแกน ไม่ต้องห่วง ฉันรู้ว่าสมองนายอยู่ที่ไหน มันอยู่ที่...ที่เหมือนหอคอย-มีหนาม-ปกคลุม-ในฝัน โครตจะบ้า
 CABD008DO;Dogen;Hackey sack?;ก้อนไหมพรม?
 CABD009RA;Raz;You go to the TV lounge. I'm on the case. I just need a little more advanced training to prepare?;นายไปห้องทีวีก่อนนะ ฉันจัดการเอง ฉันแค่ต้องฝึกขั้นสูงเพิ่มเติมอีกนิดหน่อยเพื่อเตรียมตัว
-CAJI015FO;Ford;You'd better hurry on up there. Morry's already started in on those kids. Can't you hear 'em screaming?;
-CAJI016FO;Ford;Nothing like the sound of kids screamin' bloody murder on a hot summer day, eh?;
+CAJI015FO;Ford;You'd better hurry on up there. Morry's already started in on those kids. Can't you hear 'em screaming?;รีบหน่อยเถอะ มอร์รี่ เริ่มเล่นงานพวกเด็กๆ แล้ว ได้ยินเสียงรึเปล่า?
+CAJI016FO;Ford;Nothing like the sound of kids screamin' bloody murder on a hot summer day, eh?;ไม่มีอะไรจะสุขใจไปกว่าเสียงเด็กๆ ร้องโหยหวนในหน้าร้อนอีกแล้วเนอะ!
 CALD001RA;Raz;Lili!;ลิลี่!
 CALD002LI;Lili;Oh, hey Raz.;โอ้ เฮ้ แรซ
 CALD003LI;Lili;Listen, I made you something. It's kind of stupid, but--;ฟังนะ ฉันทำอะไรบางอย่างมาให้ มันอาจดูโง่นะ แต่--
@@ -75,13 +75,13 @@ CALU006RA;Raz;(sniff sniff);(ดมๆ)
 CALU007RA;Raz;No, it must have been something else.;ไม่ใช่แฮะ ต้องเป็นอย่างอื่นแน่เลย
 CALU008RA;Raz;You don't smell like pond scum.;เธอไม่ได้มีกลิ่นเหม็นเหมือนตะไคร่น้ำ
 CALU009LI;Lili;Nice. You should write greeting cards.;เยี่ยม นายน่าจะไปเขียนการ์ดอวยพรนะ
-CALU010LI;Lili;Hey, if you want to cut class later, try these smelling salts.;
-CALU011LI;Lili;They'll pop you out of anyone's mind and back to the real world before you can say, Crud! That hurts my nose!;
-CALU012RA;Raz;Out of anyone's mind?;
-CALU013LI;Lili;You'll find out.;
-CALU014LI;Lili;Now, mush! We don't want you to be late for class!;
-CALU015RA;Raz;Why do you care if I'm late for class?;
-CALU016LI;Lili;Because the late thing is MY thing. Don't copy.;
+CALU010LI;Lili;Hey, if you want to cut class later, try these smelling salts.;เฮ้ ถ้านายอยากโดดเรียน ลองใช้ยาดมดูสิ
+CALU011LI;Lili;They'll pop you out of anyone's mind and back to the real world before you can say, Crud! That hurts my nose!;มันจะดึงนาย ออกมาจากจิตใจของใครก็ตาม กลับสู่โลกจริง ก่อนที่นายจะได้พูดว่า "ให้ตายสิ! จมูกฉันแสบไปหมด!" อีก!
+CALU012RA;Raz;Out of anyone's mind?;ออกจากจิตใจใครก็ตาม งั้นเหรอ?
+CALU013LI;Lili;You'll find out.;เดี๋ยวนายก็รู้เองแหละ
+CALU014LI;Lili;Now, mush! We don't want you to be late for class!;เอ้า ไปได้แล้ว! เราไม่อยากให้นายไปสายนะ!
+CALU015RA;Raz;Why do you care if I'm late for class?;ทำไม ต้องสนด้วยว่า ฉันจะไปสายรึเปล่า?
+CALU016LI;Lili;Because the late thing is MY thing. Don't copy.;เพราะการไปสาย มันเป็น "สไตล์" ของฉัน อย่ามาเลียนแบบสิ!
 CALU017RA;Raz;There was some sort of shadowy being out there... lurking... watching...;มีอะไรบางอย่างตะคุ่มๆ อยู่ข้างนอก... แอบซ่อนอยู่... กำลังเฝ้ามอง...
 CALU018LI;Lili;I know of only one creature who fits that description. It likes to hide in dark places, silently watching unsuspecting children from a distance.;ฉันรู้จักสัตว์ประหลาดแค่ตัวเดียวที่ลักษณะตามที่นายเล่าเป๊ะ มันชอบซ่อนตัวในที่มืดๆ เฝ้ามองเด็กๆ ที่ไม่ทันระวังตัวจากระยะไกล
 CALU019RA;Raz;Really? Who?;จริงเหรอ? คัวอะไร?
@@ -100,7 +100,7 @@ CASR011SA;Sasha;Your talent will always set you apart, Razputin.;พรสวร
 CASR012SA;Sasha;Sometimes isolation is a good thing. It can lead to important discoveries.;บางครั้ง การปลีกวิเวกก็เป็นสิ่งที่ดี มันจะนำไปสู่การค้นพบครั้งสำคัญ
 CASR013RA;Raz;Wait, I don't even know where your lab is! Is this some kind of test?;เดี๋ยว ผมยังไม่รู้ด้วยซ้ำว่าห้องแล็บของคุณอยู่ที่ไหน! นี่เป็นการทดสอบแบบนึงเหรอ?
 CASR015RA;Raz;And now I'm hearing things. Great.;แล้วตอนนี้ฉันก็หูแว่วไปเอง เยี่ยม
-INBB001RA;Raz;Coach! Out in the woods! I saw--;
+INBB001RA;Raz;Coach! Out in the woods! I saw--;โค้ช! ในป่า! ผมเห็น--
 INBB002CO;Coach;You're late, Soldier!;นายมาสายนะ ทหาร!
 INBB003CO;Coach;Get in here and give me twenty!;เข้ามาในนี้และเอามายี่สิบ!
 INBB004RA;Raz;Sir! We need to get a containment team in the area STAT!;ท่าน! เราต้องการหน่วยปิดล้อมในพื้นที่ โดยด่วน!
@@ -194,14 +194,14 @@ SLAC003RA;Raz;Oh, I don't think I need to be in the Tumbler with the glowy eye g
 SLAC004SA;Sasha;Suit yourself.;ตามใจเธอ
 SLAC005SA;Sasha;You know, in many tribal societies, learning to defeat the monsters you see in your dreams is considered a rite of passage.;"เธอรู้ไหมว่า ในสังคมชนเผ่ามากมาย การเรียนรู้ที่จะเอาชนะสัตว์ประหลาดที่พบในความฝันถือเป็น ""พิธีกรรมการเปลี่ยนผ่าน"" รูปแบบหนึ่ง"
 SLAC006SA;Sasha;I can train you to fight. Come see me when you're ready.;ฉันสอนเธอต่อสู้ได้ มาพบฉัน เมื่อเธอพร้อม
-SLAM001SA;Sasha;Okay, okay. Enough about my mind. Let's stay out of my mind for a while. Let's just go back into yours, huh?;
-SLAM002SA;Sasha;Step up to the Brain Tumbler when you're ready.;
+SLAM001SA;Sasha;Okay, okay. Enough about my mind. Let's stay out of my mind for a while. Let's just go back into yours, huh?;โอเคๆ พอเรื่องจิตใจของฉันได้แล้ว ออกจากจิตใจของฉันสักพัก กลับไปที่จิตใจของเธอกันเถอะ
+SLAM002SA;Sasha;Step up to the Brain Tumbler when you're ready.;เมื่อพร้อมแล้ว ไปที่ Brain Tumbler ได้เลย
 SLBT001RA;Raz;So, what's this hair dryer thing do?;แล้วเจ้าเครื่องเป่าผมนี่มันทำอะไรได้?
 SLBT002SA;Sasha;Ah, you're ready for the Brain Tumbler.;อ่า เธอพร้อมสำหรับ Brain Tumbler แล้วสินะ
 SLBT003SA;Sasha;With this device we will send you deep into your own psyche, where you should find unparalleled insight and power.;ด้วยอุปกรณ์นี้แเราจะส่งเธอลึกเข้าไปยังจิตใจของเธอ ที่ซึ่งเธอควรจะได้ค้นพบความเข้าใจและพลังที่เหนือชั้น
 SLBT004RA;Raz;Excellent. Tumble away.;ยอดเยี่ยม ลุยกันเลย
 SLBT005SA;Sasha;Now just relax. This will not hurt, unless something really very bad happens.;ทีนี้ก็ผ่อนคลาย มันไม่ทำให้เจ็บ เว้นแต่จะมีอะไรบางอย่างที่เลวร้ายมาก ๆ เกิดขึ้น
-SLBT006SA;Sasha;One more time, for the good of science!;
+SLBT006SA;Sasha;One more time, for the good of science!;เป็นอีกครั้ง แด่โลกแห่งวิทยาศาสตร์!
 SLBT007SA;Sasha;Let's go mess up your mind for a change.;มาเถอะ มาเปลี่ยนบรรยากาศ ด้วยจิตใจของตัวเองบ้าง
 SLBT008SA;Sasha;Let's see if Milla taught you anything.;มาดูกันหน่อยว่ามิลลาได้สอนอะไรให้เธอบ้าง
 SLIN001RA;Raz;Agent Nein? I'm here for the advanced training!;สายลับไนน์ ผมมาฝึกอบรมขั้นสูงแล้ว!
@@ -2363,7 +2363,7 @@ CAKR004FO;Ford;Hey, I've been thinking about that. Why'd that guy hate psychics 
 CAKR005FO;Ford;What did we ever do to him?;เราเคยทำอะไรให้เขากัน?
 CAKR006RA;Raz;Well, Psychics killed his whole family. Cursed them and all their descendants to die in water.;ก็ คนมีพลังจิตฆ่าทั้งครอบครัวของเขา สาปแช่งพวกเขาและลูกหลานทั้งหมดให้ตายในน้ำ
 CAKR007FO;Ford;Whoa.;ว้าว
-CAKR008RA;Raz;Yeah. ;
+CAKR008RA;Raz;Yeah. ;ช่าย 
 CAKR009FO;Ford;Talk about baggage.;พูดถึงภาระ
 CAKR010RA;Raz;Tell me about it. And the weird thing is, I'm pretty sure he's actually psychic himself.;บอกผมสิ และสิ่งที่แปลกก็คือ ผมค่อนข้างแน่ใจว่าจริงๆ แล้วเขาก็มีพลังจิตเหมือนกัน
 CAKR011FO;Ford;Ha! Coo-coo!;ฮ่า บ้าไปแล้ว!
