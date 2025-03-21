@@ -1,172 +1,172 @@
 id;character;origin_dialogue;translated_dialogue
 SACO001RA;Raz;Oh, yeah. Come to poppa!;โอ้ เยี่ยม มาหาป๊ะป๋ามา!
 SACO002SA;Sasha;Raz, what have you done? This is not control! This is chaos!;แรซ เธอทำอะไรลงไป? นี่มันเกินควบคุมแล้ว! นี่มันคือความวุ่นวาย!
-SACO003SA;Sasha;I'll try to fix it. You stay here and keep their numbers under control.;ฉันจะพยายามแก้ไขมัน ส่วนนายอยู่นี่และลดจำนวนพวกมันลงให้อยู่ภายใต้การควบคุมซะ
-SAFB004SA;Sasha;This is a censor.;
+SACO003SA;Sasha;I'll try to fix it. You stay here and keep their numbers under control.;ฉันจะพยายามแก้ไขเอง เธออยู่นี่และคุมจำนวนพวกมันไว้ให้ได้
+SAFB004SA;Sasha;This is a censor.;นี่คือ Censor
 SAIN001SA;Sasha;Welcome to my mind.;ยินดีต้อนรับสู่จิตใจของฉัน
-SAIN002RA;Raz;Huh. It's so empty.;หืม โล่งจัง
+SAIN002RA;Raz;Huh. It's so empty.;หืม โล่งโจ้งเลย
 SAIN003RA;Raz;Uh, I mean--;เอ่อ ผมหมายถึง--
-SAIN004SA;Sasha;There's more here than meets the eye, but I've learned to keep it under strict control.;มีอะไรมากกว่าที่ตาเห็น แต่ฉันเรียนรู้ที่จะควบคุมมันไว้อย่างเข้มงวด
+SAIN004SA;Sasha;There's more here than meets the eye, but I've learned to keep it under strict control.;มีอะไรมากกว่าที่เห็น แต่ฉันเรียนรู้ที่จะควบคุมมันอย่างเข้มงวด
 SAIN005SA;Sasha;And that's what I'm going to teach you: control.;"และนั่นคือสิ่งที่ฉันจะสอนเธอ: ""การควบคุม"""
-SAIN006SA;Sasha;Your feelings, your fears, your anger. You must learn to control them, focus them, concentrate them, and release them.;ความรู้สึก ความกลัว ความโกรธ เธอต้องเรียนรู้ที่จะควบคุมมัน มุ่งความสนใจไปที่มัน รวมมันเข้าด้วยกัน และปล่อยมันออกมา
+SAIN006SA;Sasha;Your feelings, your fears, your anger. You must learn to control them, focus them, concentrate them, and release them.;ความรู้สึก ความกลัว ความโกรธ เธอต้องเรียนรู้ที่จะควบคุมมัน โฟกัสไปที่มัน รวบรวมมัน และปลดปล่อยมันออกมา
 SAIN007RA;Raz;As therapy?;เป็นการบำบัดเหรอ?
 SAIN008SA;Sasha;No, as firepower!;ไม่ใช่ เป็นอาวุธ!
-SAIN009SA;Sasha;Say something hideous and horrible jumps out at you. Something so disgusting that it simply must die.;สมมติว่ามีอะไรที่น่าเกลียดน่ากลัวกระโดดออกมาใส่เธอ อะไรที่น่าขยะแขยงจนต้องกำจัดมันให้สิ้นซาก
-SAIN010SA;Sasha;Ahhh, oh, so tacky... I can't... look... directly at it!;โอ้ ไร้รสนิยมสิ้นดี! มอง... ตรง ๆ... ไม่ได้เลย!
-SAIN011SA;Sasha;But I control those feelings, focus them, concentrate, and;แต่ฉันควบคุมความรู้สึกเหล่านั้น มุ่งความสนใจไปที่มัน รวมพลัง และ...
-SAIN012SA;Sasha;release!;ปลดปล่อย!
-SAIN013SA;Sasha;And the world is a better place.;และโลกก็ดีขึ้นกว่าเดิม
+SAIN009SA;Sasha;Say something hideous and horrible jumps out at you. Something so disgusting that it simply must die.;สมมติว่ามีอะไรที่น่าเกลียดน่ากลัวกระโดดออกมาหาเธอ อะไรที่น่าขยะแขยงจนต้องกำจัดมันให้สิ้นซาก
+SAIN010SA;Sasha;Ahhh, oh, so tacky... I can't... look... directly at it!;โอ้ ช่างเชยสิ้นดี มอง...ตรงๆ...ไม่ได้เลย!
+SAIN011SA;Sasha;But I control those feelings, focus them, concentrate, and;แต่ฉันควบคุมความรู้สึกพวกนั้น โฟกัสไปที่มัน รวบรวมพลัง และ...
+SAIN012SA;Sasha;release!;...ปลดปล่อย!
+SAIN013SA;Sasha;And the world is a better place.;แล้วโลกก็จะน่าอยู่ขึ้น
 SAIN014SA;Sasha;Your turn.;ตาเธอแล้ว
-SAIN015RA;Raz;Okay...;
-SAIN016RA;Raz;Hggfgg!  Gahhh!;
-SAIN017SA;Sasha;Excellent. A victory for good taste.;ยอดเยี่ยม ชัยชนะแห่งความมีระดับ
-SAIN018SA;Sasha;Now, you must strive for precision when targeting. Say you were set upon by multiple attackers.;ทีนี้ เธอต้องเล็งเป้าเพื่อเพิ่มความแม่นยำกับเป้าหมาย สมมุติว่าเธอถูกโจมตีโดยศัตรูหลาย ๆ คน
-SAIN019SA;Sasha;Eh.;Eh.
-SAIN020SA;Sasha;Yecch.;Yecch.
-SAIN021SA;Sasha;Bleh.;Bleh.
-SAIN022SA;Sasha;But you need to dispense with them in a certain order. Eliminate these monsters in the proper sequence and we can move on to the next lesson.;แต่เธอต้องจัดการตามลำดับที่แน่นอน กำจัดสัตว์ประหลาดเหล่านี้ตามลำดับที่เหมาะสมแล้วเราจะเข้าสู่บทเรียนต่อไปกัน
-SAMC001SA;Sasha;Young man, I hope you've learned a lesson here today.;หนุ่มน้อย ฉันหวังว่าวันนี้เธอจะได้รับบทเรียนนะ
-SAMC002RA;Raz;Yes I have.;ครับใช่เลย
-SAMC003RA;Raz;That shooting things is fun and useful.;การยิงอะไรก็ตามมันทั้งสนุกและมีประโยชน์ชะมัด
-SAMC004SA;Sasha;No, that once you lose control of your own mind, it's very hard to get it back!;ไม่ เมื่อเธอเสียการควบคุมจิตใจของตัวเอง เป็นเรื่องยากมากที่จะกู้คืนมันกลับมา!
-SAMC005RA;Raz;Yes. One's thoughts must be 100% controlled at all times!;ครับ ต้องควบคุมความคิดของตัวเองให้ได้ 100% ตลอดเวลา!
-SAMC006SA;Sasha;Well, no. Actually, if you try to completely suppress your undesirable feelings, they'll build and build and eventually explode.;เอ่อ ไม่เชิง อันที่จริงถ้าเธอพยายามระงับความรู้สึกที่ไม่ดีของเธอเอาไว้ ความรู้สึกเหล่านั้นจะเพิ่มพูนขึ้นเรื่อยๆ และในที่สุดก็จะระเบิดออกมา
-SAMC007RA;Raz;Oh. So, uh, what would happen if you were to, say, completely block off all your censor outlets?;"โอ้ งั้น เอิ่ม จะเป็นยังไง ถ้าคุณดันไปปิดท่อระบาย Censor ""ทั้งหมด"" ล่ะ?"
-SAMC008SA;Sasha;Well, there would be a buildup of censor energy within, that would... uh eventually;อืม มันจะมีพลังงานของ Censor สะสมอยู่ภายใน แล้วก็จะ... เอ่อ ในที่สุดก็จะ...
-SAMC009SA;Sasha;Run, Razputin. Very fast.;วิ่ง แรซปูติน วิ่งเร็วเข้า
+SAIN015RA;Raz;Okay...;โอเค...
+SAIN016RA;Raz;Hggfgg!  Gahhh!;ฮึๆๆ! ก๊า!
+SAIN017SA;Sasha;Excellent. A victory for good taste.;เยี่ยมมาก ชัยชนะของรสนิยมที่ดี
+SAIN018SA;Sasha;Now, you must strive for precision when targeting. Say you were set upon by multiple attackers.;ทีนี้ เธอต้องพยายามเล็งเป้าให้แม่นยำ สมมติว่าเธอโดนโจมตีจากหลายทิศทาง
+SAIN019SA;Sasha;Eh.;เอ๊ะ
+SAIN020SA;Sasha;Yecch.;ยี้
+SAIN021SA;Sasha;Bleh.;เบลอ
+SAIN022SA;Sasha;But you need to dispense with them in a certain order. Eliminate these monsters in the proper sequence and we can move on to the next lesson.;แต่เธอต้องจัดการพวกมันตามลำดับที่กำหนด กำจัดสัตว์ประหลาดพวกนี้ตามลำดับที่ถูกต้อง แล้วเราค่อยไปบทเรียนต่อไป
+SAMC001SA;Sasha;Young man, I hope you've learned a lesson here today.;หนุ่มน้อย ฉันหวังว่าวันนี้ เธอจะได้รับบทเรียนนะ
+SAMC002RA;Raz;Yes I have.;ครับ ผมได้เรียนรู้แล้ว
+SAMC003RA;Raz;That shooting things is fun and useful.;การยิงอะไรพวกนี้มันสนุก แถมมีประโยชน์อีกด้วย
+SAMC004SA;Sasha;No, that once you lose control of your own mind, it's very hard to get it back!;ไม่ เมื่อเธอคุมสติของตัวเองไม่ได้ มันจะยากมากที่จะเอากลับคืนมา!
+SAMC005RA;Raz;Yes. One's thoughts must be 100% controlled at all times!;ครับ เราต้องควบคุมความคิดให้ได้ 100% ตลอดเวลา!
+SAMC006SA;Sasha;Well, no. Actually, if you try to completely suppress your undesirable feelings, they'll build and build and eventually explode.;เอ่อ ไม่เชิง อันที่จริง ถ้าเธอพยายามกดความรู้สึกที่ไม่ดีเอาไว้มากๆ มันก็จะสะสมไปเรื่อยๆ จนระเบิดออกมาในที่สุด
+SAMC007RA;Raz;Oh. So, uh, what would happen if you were to, say, completely block off all your censor outlets?;"อ๋อ แล้ว เอ่อ จะเกิดอะไรขึ้นถ้าสมมติว่าเราปิดท่อระบาย Censor ""ทั้งหมด"" ล่ะ?"
+SAMC008SA;Sasha;Well, there would be a buildup of censor energy within, that would... uh eventually;อืม มันก็จะมีพลังงาน Censor สะสมอยู่ข้างใน แล้วก็จะ... เอ่อ ในที่สุดก็...
+SAMC009SA;Sasha;Run, Razputin. Very fast.;วิ่งเลย แรซปูติน วิ่งให้เร็วที่สุด
 SAMC010SA;Sasha;You are my own creation. I command you to stop!;แกเป็นสิ่งที่ฉันสร้างขึ้น ฉันขอสั่งให้แกหยุด!
-SAMC012SA;Sasha;Ahhhhhhh!;Ahhhhhhh!
-SAMC013SA;Sasha;Razputin, it's time to earn your merit badge!;แรซปูติน ถึงเวลาที่เธอจะได้รับป้ายทักษะแล้ว!
-SASE001SA;Sasha;Again.;
-SASE002SA;Sasha;Come now. Focus.;
-SASE003SA;Sasha;Shoot!;
-SASE004SA;Sasha;Repeat.;
-SASE005SA;Sasha;What are you waiting for?;
-SASE006SA;Sasha;Let's get moving.;
-SASE007SA;Sasha;Excellent.;
-SASE008SA;Sasha;Control.;
-SASE009SA;Sasha;Focus.;
-SASE010SA;Sasha;Concentrate.;
-SASE011SA;Sasha;Release.;
-SASE012SA;Sasha;Try it again.;
-SASS001SA;Sasha;Ahhhhh!;
-SASS002SA;Sasha;Ach!;
-SASS003SA;Sasha;Ai-ai-ai-ai-ai!;
-SASS004SA;Sasha;Razputin!;
-SASS005SA;Sasha;Oooh-ooh-oooh...;
-SASS006SA;Sasha;Peel me off and put me down!;
-SASS007SA;Sasha;Enough!;
-SASS008SA;Sasha;Oof!;
-SASS009SA;Sasha;Uggg!;
-SASS010SA;Sasha;Ow!;
-SASS011SA;Sasha;Gahhhh!;
-SAAB001SA;Sasha;No, Raz, shoot them in order. Let's try this again.;
-SAAC002RA;Raz;This is controlled by that dial over there.;
-SAAD003RA;Raz;This is going to take forever. I wonder if I can speed it up somehow.;
-SAAD004RA;Raz;I wonder what would happen if I turned that dial up.;
-SACD001RA;Raz;So, is this where I get a speech and learn another lesson?;
-SACD002SA;Sasha;No. Here's your merit badge. Let us never speak of this again.;
-SAFB001SA;Sasha;Now then...;
-SAFB002SA;Sasha;Is this what you saw in your vision?;
-SAFB005SA;Sasha;An integral part of any sane person's mind.;
-SAFB006SA;Sasha;The censors roam through your psyche, looking for thoughts that don't belong.;
-SAFB007SA;Sasha;Hallucinations, manias, waking dreams--the censors hunt them down and censor them out.;
-SAFB008RA;Raz;Why do they come after me? I'm not a mania!;
-SAFB009SA;Sasha;Yes, but you are a foreign entity in my mind. You technically don't belong here.;
-SAFB901SA;Sasha;Yes. Well, the Brain Tumbler could be malfunctioning. Or you could be insane.;
-SAFB902SA;Sasha;We'll test for that later. For now...;
-SAFB010RA;Raz;So, what do I do?;
-SAFB011SA;Sasha;Blast it!;
-SAFB012SA;Sasha;That's the spirit.;
-SAFB013RA;Raz;I killed it.;
-SAFB014SA;Sasha;It was just a thought I was having. And it's not dead. It has just returned to its basic form--raw psychic energy. Go absorb it. It's good for your mental health.;
-SAFB015SA;Sasha;Now I'll leave the machine on for you, so you can practice. You have to blast 1000 censors to earn your Marksmanship Merit Badge.;
-SAFB016SA;Sasha;Come back every day for practice, and you should have enough in as little as three weeks!;
-SAFB017RA;Raz;Three weeks! I only have a few days to earn ALL my merit badges and become a Psychonaut.;
-SAFB018SA;Sasha;Slow and steady wins the race, my eager young friend. Now practice. Slowly and carefully.;
-SAFB019RA;Raz;Oh man...;
-SAFD001RA;Raz;I need to stop whatever's shooting out these censors!;
-SAFE001RA;Raz;Those little censors are re-energizing the big one somehow.;
-SAFF001RA;Raz;This should stop any more censors from coming out of here.;
-SAFG001SA;Sasha;Destroy them all!;
-SAFH002SA;Sasha;Well done, Raz. Keep shooting!;
-SAFH003SA;Sasha;Good. Again!;
-SAFI004SA;Sasha;Razputin! You must blast the emergency shut-down valves!;
-SAFI005SA;Sasha;It's the only way to close off the leak!;
-SAFI006SA;Sasha;Shut down all the valves on this face to get it under control!;
-SAFI007SA;Sasha;Hurry, Razputin!;
-SAAA000SA;Sasha;Yes, yes. We all know you can punch things.;
-SAAA001SA;Sasha;But you're supposed to be learning how to use your PSI Blast now.;
-SAAA002SA;Sasha;Try it without punching.;
-SAAF000RA;Raz;That's it! I've completely blocked off all of Sasha's censor outlets!  I can't wait to tell him.;
-SAAG000SA;Sasha;Enough horseplay, Razputin! Destroy him!;
-SAAG001SA;Sasha;The small censors are feeding into his strength. You must stop them!;
-SAAG002SA;Sasha;Destroy the valves that are emitting the small censors, Razputin!;
-SAAG003SA;Sasha;Raz! Shoot the valves! It's no use shooting the monster until you've destroyed every valve!;
-SAAG004SA;Sasha;Don't forget to use your mental focus to lock on the valves as a target, and then blast them!;
-SAZE004TO;System;Use /LeftFlipper/ to lock mental focus.;
-SAAG006SA;Sasha;Say, Razputin. Do you think you could reach in my pocket and hand me my cigarettes? ;
-SAAG007SA;Sasha;Excellent! You've shut down the valves so he cannot be rejuvenated. Now destroy him!;
-SAAG008SA;Sasha;Use your mental focus Razputin! It will help you shoot accurately, and also help you with your evasive maneuvers!;
-SAAG009SA;Sasha;When focused, you can tumble to the side, avoid his stamp, and circle around behind the monster!;
-SAAG010SA;Sasha;Watch out for those tumbling boils he's throwing at you. They're full of censors!;
-SAAG011SA;Sasha;You can kill many small censors in one blow, if you jump up in the air above them and then smash the ground with your psychic fist.;
-SAZE005TO;System;Press /XButton/ while airborne to execute a Palm Bomb.;
-SAAG013SA;Sasha;Oh, you. What a pleasant surprise.;
-SAAG014SA;Sasha;Enough, Razputin! The beast must die, now!;
-SAAG015SA;Sasha;If you are mentally focused, and executing a sideways tumble, it will be very hard for him to stamp you.;
-SAAG016SA;Sasha;Razputin, if you could finish this off soon, I might get out of it with only a mild concussion.;
-SAAG017SA;Sasha;What? Who's there? I think I've lost my vision!;
-SAAG018SA;Sasha;Why no, Aunt Bernie, of course I didn't get your phone calls or else I would have responded right away. ;
-SAAG019SA;Sasha;My name is Yan Yanssen, I live in Wisconsin, I work in the lumber yard there...;
-SAAG020SA;Sasha;La di da... do do da dum...;
-SAAG021SA;Sasha;Wow. Okay, that last hit brought me back. Where was I?;
-SAAH000RA;Raz;Um, well, it sure seemed a lot bigger in my head.;
-SAAH001SA;Sasha;Ah, problems often seem larger in our heads than they really are. That's an important lesson to learn.;
-SAAH002RA;Raz;But--;
-SAAH003RA;Raz;Yes, but I was attacked in my own head.;
-SAAH004SA;Sasha;Um... Well...;
-SAAH005SA;Sasha;The machine is having a little trouble. I'm looking into it. Meanwhile...;
-SAAH006SA;Sasha;As you absorb this energy, your mental health increases. ;
-SAAH007SA;Sasha;But as you PSI Blast, you expend your will to do damage. ;
-SAAH008SA;Sasha;So be on the look out for these small, dense clusters of raw psychic aggression.;
-SAAH009SA;Sasha;Absorb these as well to make sure you always have enough firepower.;
-SAAH010RA;Raz;Hm. They're coming out faster but still not fast enough.;
-SAAH011RA;Raz;Hm. Still not fast enough!;
-SAAH012RA;Raz;Uh oh.;
-SAAI000SA;Sasha;Good shooting, Raz, but you are making it harder than it needs to be. ;
-SAAI001SA;Sasha;You need to practice locking your mental focus.;
-SAAI002SA;Sasha;It makes targeting and evasive maneuvers much easier.;
-SAAI003SA;Sasha;Let's try again, this time lock your mental focus.;
-SAAJ000SA;Sasha;Razputin, see those valves? That is where the censors are leaking out.;
-SAAJ001SA;Sasha;PSI Blast the valves to shut them down and get this area under control!;
-SAAJ002SA;Sasha;Good, now the next one. You have to get them all.;
-SAAJ003SA;Sasha;Good, well you got them all. ;
-SAAJ004SA;Sasha;Oh, no. You close one leak down and another springs up!;
-SAAJ005SA;Sasha;Well come on. We've got to take care of these too!;
-SAAK000SA;Sasha;Oh, no. What are you doing back in here?;
-SAAK001RA;Raz;Practicing.;
-SAAK002SA;Sasha;Oh, would you like to run the course again?;
-SAAK003RA;Raz;Yeah, I--run the course? But all that censor overload stuff... that was an accident. ;
-SAAK004SA;Sasha;Oh, Raz. I knew you were going to overload that switch. I would have done the same thing at your age.;
-SAAK005SA;Sasha;It was all arranged to make you an expert fighter. And it worked.;
-SAAK006SA;Sasha;Now, if you'd like to run the course again, just shoot the controller on any given face.;
-SAAK007SA;Sasha;To close that face up and open another, shoot any censor valves you see.;
-SAAK008SA;Sasha;Fair enough?;
-SAAK009RA;Raz;Even the part where the giant censor had you on the stamp?;
-SAAK010SA;Sasha;Okay, that part got a little out of hand. We won't be seeing him again.;
-SAAK011SA;Sasha;Razputin! I'm so glad to see you. What's happened?;
-SAAK012RA;Raz;Coach Oleander is trying to take over the world with a fleet of psychic death tanks, armed with the stolen brains of my fellow campers.;
-SAAK013RA;Raz;Where are you?;
-SAAK014SA;Sasha;I... I have no idea. I seem to be... asleep... or in a trance...;
-SAAK015RA;Raz;Well don't worry about it. Ford and I are on the case.;
-SAAK016SA;Sasha;Okay. I'd love to join you, but I think I need to focus on maintaining some level of brain activity.;
-SAAK017RA;Raz;Ooh, I can help with that! Let me shoot up the place!;
-SAZE000TO;System;Move RIGHT /Joystick/ while holding /LeftFlipper/ to switch targets.;ขยับ /Joystick/ ไปทางขวาและกด /LeftFlipper/  ค้างเพื่อเปลี่ยนเป้าหมาย
-SAZE001TO;System;Press /RightFlipper/ to shoot.;
-SAZE002TO;System;Hold /LeftFlipper/ to lock on to a target.;
-SAZE003TO;System;Hold /LeftFlipper/ to lock on, then press /RightFlipper/;
-SAZF000TO;System;When your MENTAL FOCUS is LOCKED, press /AButton/ and move the LEFT /Joystick/ to execute a fast tumble in any direction. Very useful for circling your enemies!;ขณะที่ MENTAL FOCUS กำลังล็อค กด /AButton/ และขยับ /Joystick/ ไปทางซ้ายเพื่อกลิ้งอย่างรวดเร็วไปในทิศทางใดก็ได้. จะมีประโยชน์มากในการวนรอบศัตรูของคุณ!
-SAZF001TO;System;DAILY MAXIMUM REACHED for this Censor output setting. Please increase Censor output setting if more Censors are desired.;
-SAAM000SA;Sasha;Enough horseplay, Razputin!;
-SAAK018SA;Sasha;Razputin, instead of that why don't you help me free Ms. Zanotto?;
+SAMC012SA;Sasha;Ahhhhhhh!;อาา!
+SAMC013SA;Sasha;Razputin, it's time to earn your merit badge!;แรซปูติน ถึงเวลาที่เธอจะได้ ป้ายทักษะ แล้ว!
+SASE001SA;Sasha;Again.;อีกที
+SASE002SA;Sasha;Come now. Focus.;เอาน่า โฟกัสหน่อย
+SASE003SA;Sasha;Shoot!;ยิงเลย!
+SASE004SA;Sasha;Repeat.;อีกที
+SASE005SA;Sasha;What are you waiting for?;รออะไรอยู่?
+SASE006SA;Sasha;Let's get moving.;ขยับหน่อยเร็ว
+SASE007SA;Sasha;Excellent.;เยี่ยมมาก
+SASE008SA;Sasha;Control.;ควบคุม
+SASE009SA;Sasha;Focus.;โฟกัส
+SASE010SA;Sasha;Concentrate.;รวบรวมสมาธิ
+SASE011SA;Sasha;Release.;ปลดปล่อย
+SASE012SA;Sasha;Try it again.;ลองใหม่อีกที
+SASS001SA;Sasha;Ahhhhh!;อ๊าก!
+SASS002SA;Sasha;Ach!;แอ็ก!
+SASS003SA;Sasha;Ai-ai-ai-ai-ai!;อ๊ายๆๆๆ!
+SASS004SA;Sasha;Razputin!;แรซปูติน!
+SASS005SA;Sasha;Oooh-ooh-oooh...;โอ้วๆๆๆ...
+SASS006SA;Sasha;Peel me off and put me down!;แกะฉันออกแล้ววางลงที!
+SASS007SA;Sasha;Enough!;พอได้แล้ว!
+SASS008SA;Sasha;Oof!;โอ๊ย!
+SASS009SA;Sasha;Uggg!;อั้ก!
+SASS010SA;Sasha;Ow!;โอ๊ย!
+SASS011SA;Sasha;Gahhhh!;ก๊า!
+SAAB001SA;Sasha;No, Raz, shoot them in order. Let's try this again.;ไม่ แรซ ยิงพวกมันตามลำดับ ลองใหม่อีกที
+SAAC002RA;Raz;This is controlled by that dial over there.;มันควบคุมด้วย ปุ่มหมุน ตรงนั้น
+SAAD003RA;Raz;This is going to take forever. I wonder if I can speed it up somehow.;แบบนี้คงนานน่าดู จะเร่งมันได้มั้ยนะ?
+SAAD004RA;Raz;I wonder what would happen if I turned that dial up.;อยากรู้จังว่าถ้าหมุนปุ่มขึ้นไปจะเป็นยังไง
+SACD001RA;Raz;So, is this where I get a speech and learn another lesson?;นี่คือช่วงที่ ผมจะโดนเทศน์ แล้วก็ได้บทเรียนอีกใช่มั้ย?
+SACD002SA;Sasha;No. Here's your merit badge. Let us never speak of this again.;เปล่า นี่ ป้ายทักษะ ของเธอ อย่าพูดเรื่องนี้อีก
+SAFB001SA;Sasha;Now then...;เอาล่ะ...
+SAFB002SA;Sasha;Is this what you saw in your vision?;นี่คือสิ่งที่เธอเห็นในนิมิตใช่มั้ย?
+SAFB005SA;Sasha;An integral part of any sane person's mind.;ส่วนสำคัญของจิตใจคน ที่มีสติดีทุกคน
+SAFB006SA;Sasha;The censors roam through your psyche, looking for thoughts that don't belong.;Censor จะตระเวนไปทั่วจิตใจของเธอ มองหาความคิดที่ไม่ควรอยู่ตรงนั้น
+SAFB007SA;Sasha;Hallucinations, manias, waking dreams--the censors hunt them down and censor them out.;อาการหลอน ความคลั่ง ภาวะเพ้อฝัน Censor จะตามล่าพวกมันแล้วก็เซ็นเซอร์ออกไป
+SAFB008RA;Raz;Why do they come after me? I'm not a mania!;ทำไมพวกมันถึงตามผม? ผมไม่ได้คลั่งอะไรซักหน่อย!
+SAFB009SA;Sasha;Yes, but you are a foreign entity in my mind. You technically don't belong here.;ใช่ แต่ว่าเธอเป็นสิ่งแปลกปลอมในจิตใจของฉัน ในทางเทคนิคแล้วเธอไม่ควรอยู่ที่นี่
+SAFB901SA;Sasha;Yes. Well, the Brain Tumbler could be malfunctioning. Or you could be insane.;ใช่ เอ่อ อาจจะเป็นเพราะ Brain Tumbler กำลังทำงานผิดปกติ หรือไม่เธอก็อาจจะบ้าไปแล้วก็ได้
+SAFB902SA;Sasha;We'll test for that later. For now...;เดี๋ยวเราค่อยตรวจกันทีหลัง ตอนนี้...
+SAFB010RA;Raz;So, what do I do?;แล้วผมต้องทำยังไง?
+SAFB011SA;Sasha;Blast it!;ยิงมันเลย!
+SAFB012SA;Sasha;That's the spirit.;เยี่ยมมาก!
+SAFB013RA;Raz;I killed it.;ผมฆ่ามันแล้ว
+SAFB014SA;Sasha;It was just a thought I was having. And it's not dead. It has just returned to its basic form--raw psychic energy. Go absorb it. It's good for your mental health.;มันแค่ส่วนหนึ่งในความคิดฉัน มันไม่ได้ตาย มันแค่กลับคืนสู่สภาพเดิม พลังงานดิบ ไปดูดซับมันสิ มันดีต่อสุขภาพจิต ของเธอนะ
+SAFB015SA;Sasha;Now I'll leave the machine on for you, so you can practice. You have to blast 1000 censors to earn your Marksmanship Merit Badge.;ทีนี้ฉันจะเปิดเครื่องไว้ให้เธอฝึก เธอต้องยิง Censor ให้ได้ 1000 ตัว ถึงจะได้ ป้ายทักษะการยิง
+SAFB016SA;Sasha;Come back every day for practice, and you should have enough in as little as three weeks!;กลับมาฝึกทุกวัน เธอน่าจะสำเร็จภายในเวลา แค่สามอาทิตย์!
+SAFB017RA;Raz;Three weeks! I only have a few days to earn ALL my merit badges and become a Psychonaut.;สามอาทิตย์! ผมมีเวลาแค่ไม่กี่วันที่จะเก็บ ป้ายทักษะ ให้หมด แล้วเป็น ไซโคนอท นะ!
+SAFB018SA;Sasha;Slow and steady wins the race, my eager young friend. Now practice. Slowly and carefully.;ช้าๆ ได้พร้าเล่มงาม สหายน้อยผู้กระตือรือร้น ตอนนี้ก็ฝึกไป ช้าๆ และระมัดระวัง
+SAFB019RA;Raz;Oh man...;โอ้...
+SAFD001RA;Raz;I need to stop whatever's shooting out these censors!;ต้องหยุดอะไรก็ตามที่ยิง Censor พวกนี้ออกมา!
+SAFE001RA;Raz;Those little censors are re-energizing the big one somehow.;ไอ้ตัวเล็กๆ พวกนั้นมันกำลังเติมพลังให้ตัวใหญ่อยู่แน่ๆ
+SAFF001RA;Raz;This should stop any more censors from coming out of here.;น่าจะช่วยหยุด Censor ไม่ให้ออกมาจากที่นี่ได้
+SAFG001SA;Sasha;Destroy them all!;ทำลายพวกมันให้หมด!
+SAFH002SA;Sasha;Well done, Raz. Keep shooting!;ทำได้ดีมาก แรซ ยิงต่อไป!
+SAFH003SA;Sasha;Good. Again!;ดีมาก อีกที!
+SAFI004SA;Sasha;Razputin! You must blast the emergency shut-down valves!;แรซปูติน เธอต้องยิงวาล์วปิดฉุกเฉิน!
+SAFI005SA;Sasha;It's the only way to close off the leak!;นั่นเป็นวิธีเดียวที่จะปิดรอยรั่วได้!
+SAFI006SA;Sasha;Shut down all the valves on this face to get it under control!;ปิดวาล์วทั้งหมดบนด้านนี้เพื่อควบคุมมัน!
+SAFI007SA;Sasha;Hurry, Razputin!;เร็วเข้า แรซปูติน!
+SAAA000SA;Sasha;Yes, yes. We all know you can punch things.;ใช่ๆ เรารู้แล้วว่าเธอต่อยเก่ง
+SAAA001SA;Sasha;But you're supposed to be learning how to use your PSI Blast now.;แต่เธอควรจะเรียนรู้วิธีใช้ PSI BLAST ตอนนี้นะ
+SAAA002SA;Sasha;Try it without punching.;ลองใช้ PSI BLAST โดยไม่ต้องต่อยสิ
+SAAF000RA;Raz;That's it! I've completely blocked off all of Sasha's censor outlets!  I can't wait to tell him.;สำเร็จ! ปิดช่อง Censor ของ ซาช่า หมดแล้ว!  อยากบอกเขาใจจะขาดแล้ว
+SAAG000SA;Sasha;Enough horseplay, Razputin! Destroy him!;พอได้แล้ว แรซปูติน! ทำลายมันซะ!
+SAAG001SA;Sasha;The small censors are feeding into his strength. You must stop them!;Censor ตัวเล็กๆ พวกนั้นกำลังเพิ่มพลังให้มัน เธอต้องหยุดพวกมัน!
+SAAG002SA;Sasha;Destroy the valves that are emitting the small censors, Razputin!;ทำลายวาล์วที่ปล่อย Censor ตัวเล็กๆ พวกนั้นออกมา แรซปูติน!
+SAAG003SA;Sasha;Raz! Shoot the valves! It's no use shooting the monster until you've destroyed every valve!;แรซ! ยิงวาล์ว! ยิงตัวประหลาดไปก็เปล่าประโยชน์ ถ้าเธอยังไม่ทำลายวาล์วทั้งหมด!
+SAAG004SA;Sasha;Don't forget to use your mental focus to lock on the valves as a target, and then blast them!;อย่าลืมใช้สมาธิล็อคเป้าไปที่วาล์ว แล้วก็ยิงมัน!
+SAZE004TO;System;Use /LeftFlipper/ to lock mental focus.;ใช้ /LeftFlipper/ เพื่อล็อคสมาธิ
+SAAG006SA;Sasha;Say, Razputin. Do you think you could reach in my pocket and hand me my cigarettes? ;นี่ แรซปูติน เธอพอจะล้วงกระเป๋าหยิบบุหรี่ ให้ฉันหน่อยได้มั้ย?
+SAAG007SA;Sasha;Excellent! You've shut down the valves so he cannot be rejuvenated. Now destroy him!;เยี่ยมมาก! เธอปิดวาล์วหมดแล้ว คราวนี้มันก็จะฟื้นตัวไม่ได้ ทำลายมันเลย!
+SAAG008SA;Sasha;Use your mental focus Razputin! It will help you shoot accurately, and also help you with your evasive maneuvers!;โฟกัส แรซปูติน! มันจะช่วยให้เธอยิงแม่นขึ้น แล้วก็หลบหลีกได้ง่ายขึ้นด้วย!
+SAAG009SA;Sasha;When focused, you can tumble to the side, avoid his stamp, and circle around behind the monster!;เวลาที่โฟกัส เธอจะกลิ้งหลบไปด้านข้าง หลีกเลี่ยงการโดนมันกระทืบ แล้ววนไปข้างหลังตัวประหลาดได้!
+SAAG010SA;Sasha;Watch out for those tumbling boils he's throwing at you. They're full of censors!;ระวังไอ้ตุ่มที่มันโยนมาด้วยนะ ข้างในมีแต่ Censor เต็มไปหมด!
+SAAG011SA;Sasha;You can kill many small censors in one blow, if you jump up in the air above them and then smash the ground with your psychic fist.;เธอฆ่า Censor ตัวเล็กๆ ได้เยอะในการโจมตีครั้งเดียว ถ้าเธอกระโดดขึ้นไปกลางอากาศเหนือพวกมัน แล้วทุบพื้นด้วยหมัดพลังจิต
+SAZE005TO;System;Press /XButton/ while airborne to execute a Palm Bomb.;กด /XButton/ ขณะที่อยู่ในอากาศเพื่อ ทุบพื้น
+SAAG013SA;Sasha;Oh, you. What a pleasant surprise.;โอ้ เธอเนี่ย เซอร์ไพรส์จริงๆ
+SAAG014SA;Sasha;Enough, Razputin! The beast must die, now!;พอได้แล้ว แรซปูติน! ไอ้สัตว์ร้ายนั่นต้องตายเดี๋ยวนี้!
+SAAG015SA;Sasha;If you are mentally focused, and executing a sideways tumble, it will be very hard for him to stamp you.;ถ้าสมาธิเธอมั่นคง แล้วกลิ้งหลบไปด้านข้าง มันจะกระทืบเธอได้ยากมาก
+SAAG016SA;Sasha;Razputin, if you could finish this off soon, I might get out of it with only a mild concussion.;แรซปูติน ถ้าเธอจัดการเรื่องนี้ให้เสร็จเร็วๆ ฉันอาจจะรอดไปได้ แค่สมองกระทบกระเทือนเล็กน้อย ก็ได้
+SAAG017SA;Sasha;What? Who's there? I think I've lost my vision!;อะไร? ใครอยู่ตรงนั้น? ฉันว่าฉันมองไม่เห็นแล้ว!
+SAAG018SA;Sasha;Why no, Aunt Bernie, of course I didn't get your phone calls or else I would have responded right away. ;เปล่าเลย คุณป้าเบอร์นี่ แน่นอนว่าผมได้รับโทรศัพท์ของคุณแล้ว ไม่งั้นผมคงตอบไปนานแล้ว
+SAAG019SA;Sasha;My name is Yan Yanssen, I live in Wisconsin, I work in the lumber yard there...;ผมชื่อ แยน แยนส์เซน ผมอาศัยอยู่ในวิสคอนซิน ทำงานอยู่ที่โรงเลื่อย...
+SAAG020SA;Sasha;La di da... do do da dum...;ลา ดี ดา... ดู ดู ดา ดัม...
+SAAG021SA;Sasha;Wow. Okay, that last hit brought me back. Where was I?;ว้าว โอเค โดนไปเมื่อกี้ทำให้ฉันกลับมาแล้ว ฉันพูดถึงไหนแล้วนะ?
+SAAH000RA;Raz;Um, well, it sure seemed a lot bigger in my head.;เอ่อ มันดูใหญ่กว่าในหัวผมเยอะเลย
+SAAH001SA;Sasha;Ah, problems often seem larger in our heads than they really are. That's an important lesson to learn.;อ่า ปัญหามักจะดูใหญ่กว่าความเป็นจริงในหัวเราเสมอ นั่นเป็นบทเรียนสำคัญที่ต้องเรียนรู้
+SAAH002RA;Raz;But--;แต่ว่า--
+SAAH003RA;Raz;Yes, but I was attacked in my own head.;ใช่ แต่ผมโดนโจมตีในหัวของตัวเองนะ
+SAAH004SA;Sasha;Um... Well...;อืม... ก็...
+SAAH005SA;Sasha;The machine is having a little trouble. I'm looking into it. Meanwhile...;เครื่องมีปัญหานิดหน่อย ฉันกำลังดูอยู่ ระหว่างนี้...
+SAAH006SA;Sasha;As you absorb this energy, your mental health increases. ;เมื่อเธอดูดซับพลังงานนี้ สุขภาพจิตของเธอก็จะดีขึ้น
+SAAH007SA;Sasha;But as you PSI Blast, you expend your will to do damage. ;แต่เมื่อเธอใช้ PSI BLAST เธอก็ใช้พลังจิตในการสร้างความเสียหาย
+SAAH008SA;Sasha;So be on the look out for these small, dense clusters of raw psychic aggression.;ดังนั้นคอยมองหากลุ่มพลังงานดิบ ที่หนาแน่นพวกนี้ไว้
+SAAH009SA;Sasha;Absorb these as well to make sure you always have enough firepower.;ดูดซับพวกมันไว้ด้วย เพื่อให้แน่ใจว่าเธอมีพลังทำลายล้างเพียงพอเสมอ
+SAAH010RA;Raz;Hm. They're coming out faster but still not fast enough.;หืม พวกมันออกมาเร็วขึ้น แต่ก็ยังไม่เร็วพอ
+SAAH011RA;Raz;Hm. Still not fast enough!;หืม ยังไม่เร็วพอ!
+SAAH012RA;Raz;Uh oh.;เอ่อ โอ
+SAAI000SA;Sasha;Good shooting, Raz, but you are making it harder than it needs to be. ;ยิงได้ดี แรซ แต่เธอกำลังทำให้มันยากกว่าที่ควรจะเป็น
+SAAI001SA;Sasha;You need to practice locking your mental focus.;เธอต้องฝึกการล็อคโฟกัส
+SAAI002SA;Sasha;It makes targeting and evasive maneuvers much easier.;มันจะทำให้การเล็งเป้าและการหลบหลีกง่ายขึ้นมาก
+SAAI003SA;Sasha;Let's try again, this time lock your mental focus.;ลองอีกครั้ง คราวนี้ล็อคโฟกัสด้วย
+SAAJ000SA;Sasha;Razputin, see those valves? That is where the censors are leaking out.;แรซปูติน เห็นวาล์วพวกนั้นมั้ย? นั่นคือที่ที่ Censor รั่วออกมา
+SAAJ001SA;Sasha;PSI Blast the valves to shut them down and get this area under control!;ใช้ PSI BLAST ยิงวาล์วเพื่อปิดมัน แล้วควบคุมพื้นที่นี้ให้ได้!
+SAAJ002SA;Sasha;Good, now the next one. You have to get them all.;ดีมาก ต่อไปก็อันถัดไป เธอต้องเก็บให้หมด
+SAAJ003SA;Sasha;Good, well you got them all. ;ดีมาก เธอเก็บหมดแล้ว
+SAAJ004SA;Sasha;Oh, no. You close one leak down and another springs up!;โอ้ ไม่ ปิดรอยรั่วหนึ่ง ก็มีอีกที่ผุดขึ้นมา!
+SAAJ005SA;Sasha;Well come on. We've got to take care of these too!;เอ้า เร็วเข้า เราต้องจัดการพวกนี้ด้วย!
+SAAK000SA;Sasha;Oh, no. What are you doing back in here?;โอ้ ไม่ เธอกลับมาทำอะไรอีก?
+SAAK001RA;Raz;Practicing.;ฝึกครับ
+SAAK002SA;Sasha;Oh, would you like to run the course again?;อ๋อ อยากจะลองเล่นอีกรอบเหรอ?
+SAAK003RA;Raz;Yeah, I--run the course? But all that censor overload stuff... that was an accident. ;ครับ ผม เอ่อ เล่นอีกรอบ? แต่เรื่อง Censor โอเวอร์โหลดนั่น... มันเป็นอุบัติเหตุนะครับ
+SAAK004SA;Sasha;Oh, Raz. I knew you were going to overload that switch. I would have done the same thing at your age.;โอ้ แรซ ฉันรู้อยู่แล้วว่าเธอจะกดสวิตช์จนโอเวอร์โหลด ฉันก็คงทำเหมือนกันตอนอายุเท่าเธอ
+SAAK005SA;Sasha;It was all arranged to make you an expert fighter. And it worked.;มันถูกวางแผนไว้ทั้งหมด เพื่อให้เธอเป็นนักสู้ที่เก่งกาจ แล้วมันก็ได้ผล
+SAAK006SA;Sasha;Now, if you'd like to run the course again, just shoot the controller on any given face.;ทีนี้ ถ้าเธออยากจะเล่นอีกรอบ ก็แค่ยิงตัวควบคุมที่ด้านใดก็ได้
+SAAK007SA;Sasha;To close that face up and open another, shoot any censor valves you see.;ถ้าจะปิดด้านนั้นแล้วเปิดอีกด้าน ก็ยิงวาล์ว Censor ที่เธอเห็น
+SAAK008SA;Sasha;Fair enough?;ตกลงตามนี้นะ?
+SAAK009RA;Raz;Even the part where the giant censor had you on the stamp?;แม้แต่ตอนที่ Censor ยักษ์เหยียบคุณเหรอ?
+SAAK010SA;Sasha;Okay, that part got a little out of hand. We won't be seeing him again.;โอเค ช่วงนั้นมันเกินไปหน่อย เราจะไม่ได้เจอมันอีกแล้ว
+SAAK011SA;Sasha;Razputin! I'm so glad to see you. What's happened?;แรซปูติน! ดีใจที่เจอเธอ เกิดอะไรขึ้น?
+SAAK012RA;Raz;Coach Oleander is trying to take over the world with a fleet of psychic death tanks, armed with the stolen brains of my fellow campers.;โค้ช โอลีแอนเดอร์ กำลังจะยึดครองโลกด้วยกองทัพรถถังพลังจิต ติดอาวุธด้วยสมองที่ขโมยมาจากเพื่อนๆ ในแคมป์ของผม
+SAAK013RA;Raz;Where are you?;คุณอยู่ที่ไหน?
+SAAK014SA;Sasha;I... I have no idea. I seem to be... asleep... or in a trance...;ฉัน... ฉันไม่รู้ ฉันเหมือนกำลัง... หลับ... หรืออยู่ในภวังค์...
+SAAK015RA;Raz;Well don't worry about it. Ford and I are on the case.;ไม่ต้องห่วง, ฟอร์ด กับผมกำลังจัดการเรื่องนี้อยู่
+SAAK016SA;Sasha;Okay. I'd love to join you, but I think I need to focus on maintaining some level of brain activity.;โอเค ฉันก็อยากจะช่วยนะ แต่ฉันว่าฉันต้องโฟกัส กับการรักษาระดับการทำงาน ของสมองเอาไว้ก่อน
+SAAK017RA;Raz;Ooh, I can help with that! Let me shoot up the place!;โอ้ ผมช่วยได้! ให้ผมยิงถล่มที่นี่นะ!
+SAZE000TO;System;Move RIGHT /Joystick/ while holding /LeftFlipper/ to switch targets.;ขยับ /Joystick/ ไปทางขวาและกด /LeftFlipper/ ค้างเพื่อเปลี่ยนเป้าหมาย
+SAZE001TO;System;Press /RightFlipper/ to shoot.;กด /RightFlipper/ เพื่อยิง
+SAZE002TO;System;Hold /LeftFlipper/ to lock on to a target.;กด /LeftFlipper/ ค้างเพื่อล็อคเป้าหมาย
+SAZE003TO;System;Hold /LeftFlipper/ to lock on, then press /RightFlipper/;กด /LeftFlipper/ ค้างเพื่อล็อคเป้า แล้วกด /RightFlipper/
+SAZF000TO;System;When your MENTAL FOCUS is LOCKED, press /AButton/ and move the LEFT /Joystick/ to execute a fast tumble in any direction. Very useful for circling your enemies!;ขณะที่ล็อคโฟกัสอยู่ ให้กด /AButton/ แล้วขยับ /Joystick/ ไปทางซ้ายเพื่อกลิ้งอย่างรวดเร็วไปในทิศทางใดก็ได้ มีประโยชน์มากในการวนรอบศัตรู!
+SAZF001TO;System;DAILY MAXIMUM REACHED for this Censor output setting. Please increase Censor output setting if more Censors are desired.;ถึงขีดจำกัดรายวันแล้วสำหรับการตั้งค่าการส่งออก Censor นี้ โปรดเพิ่มการตั้งค่าการส่งออก Censor หากต้องการ Censor เพิ่มเติม
+SAAM000SA;Sasha;Enough horseplay, Razputin!;พอได้แล้ว แรซปูติน!
+SAAK018SA;Sasha;Razputin, instead of that why don't you help me free Ms. Zanotto?;แรซปูติน แทนที่จะทำอย่างนั้น ทำไมเธอไม่ช่วยฉันปล่อยตัว Ms.ซาน็อตโต ล่ะ?
