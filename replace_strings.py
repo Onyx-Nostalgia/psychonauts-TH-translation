@@ -37,14 +37,13 @@ class LUBPatcher:
                 )
                 next(reader)  # skip header
                 for row in reader:
-                    # data.append(row)
                     try:
                         self.csv_list.append(
-                            [row[0].encode(ENCODING), row[3].encode(ENCODING)]
+                            [row[0].encode(ENCODING,errors='ignore'), row[3].encode(ENCODING,errors='ignore')]
                         )
-                    except IndexError:
+                    except (IndexError,UnicodeEncodeError):
                         print(row)
-                        raise IndexError
+                        raise
         except FileNotFoundError:
             print(f"File not Found: {csv_path}")
 
