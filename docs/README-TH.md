@@ -53,7 +53,7 @@ Code ในการ extraction และ replacement file มีต้นแบ
 
 | id        | character | origin_dialogue      | translated_dialogue       |
 | --------- | --------- | -------------------- | ------------------------- |
-| CABD001RA | RA        | Dogen! Are you okay? | โดแกน! นายไม่เป็นอะไรใช่ไหม? |
+| CABD001RA | RA        | Dogen! Are you okay? | โดเกน! นายไม่เป็นอะไรใช่ไหม? |
 
 **id**: จะมี 9 ตัวอักษรประกอบไปด้วย 3 UPPER Character + 3 numbers + 2 UPPER Character โดย 2 ตัวอักษรสุดท้ายเป็นตัวย่อของชื่อตัวละครที่พูด
 

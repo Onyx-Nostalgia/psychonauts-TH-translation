@@ -50,7 +50,7 @@ GLPC017TO;System;Look Up;มองขึ้น
 GLPC018TO;System;Look Down;มองลง
 GLPC019TO;System;Look Left;มองไปทางซ้าย
 GLPC020TO;System;Look Right;มองไปทางขวา
-GLPC021TO;System;Type your nickname. Only letters and numbers allowed.;พิมพ์ชื่อเล่น อนุญาตเฉพาะตัวอักษรและตัวเลขเท่านั้น
+GLPC021TO;System;Type your nickname. Only letters and numbers allowed.;พิมพ์ชื่อเล่น เฉพาะตัวอักษรและตัวเลขเท่านั้น
 GLPC022TO;System;Press /Enter/ when done.;กด /Enter/ เมื่อเสร็จ
 GLPC023TO;System;Press /Escape/ to cancel.;กด /Escape/ เพื่อยกเลิก
 GLZE018TO;System;This save game appears to be damaged and cannot be used. Press /AButton/ to continue.;ดูเหมือนเซฟเกมนี้จะเสียหาย ใช้ไม่ได้ กด /AButton/ เพื่อเล่นต่อ
@@ -84,7 +84,7 @@ GLPC048TO;System;Full Screen;เต็มจอ
 GLPC049TO;System;V.Sync;V.Sync
 GLPC050TO;System;FSAA;FSAA
 GLPC051TO;System;FSFX;FSFX
-GLPC052TO;System;Adv. Shading;การแรเงาขั้นสูง
+GLPC052TO;System;Adv. Shading;Adv. Shading
 GLPC053TO;System;Shadows;เงา
 GLPC054TO;System;Brightness;ความสว่าง
 GLPC055TO;System;Sound;เสียง
@@ -97,16 +97,16 @@ GLPC061TO;System;Subtitles;คำบรรยาย
 GLPC062TO;System;Hardware Accel.;การเร่งความเร็วด้วยฮาร์ดแวร์
 GLPC063TO;System;Advanced Settings;การตั้งค่าขั้นสูง
 GLPC064TO;System;Quit To Title;ออกไปหน้าชื่อเกม
-GLPC065TO;System;Are you sure you want to quit your game and go back to the title screen? If you haven't saved, your progress will be lost!;แน่ใจนะว่าจะออกจากเกมแล้วกลับไปหน้าชื่อเกม? ถ้ายังไม่ได้บันทึก ความคืบหน้าจะหายหมดเลยนะ!
+GLPC065TO;System;Are you sure you want to quit your game and go back to the title screen? If you haven't saved, your progress will be lost!;แน่ใจนะว่าจะออกจากเกมไปหน้าชื่อเกม? ถ้ายังไม่ได้บันทึก ความคืบหน้าจะหายหมดนะ!
 GLPC066TO;System;Exit To Desktop;ออกจากเกมไปที่หน้า Desktop
-GLPC067TO;System;Are you sure you want to stop playing Psychonauts?;แน่ใจนะว่าจะเลิกเล่น Psychonauts?
+GLPC067TO;System;Are you sure you want to stop playing Psychonauts?;แน่ใจนะ ว่าจะเลิกเล่นเกม?
 CAZF006TO;System;This DOWSING ROD can be used to find deeper, more valuable PSITANIUM ARROWHEADS. Equip the DOWSING ROD and watch and listen to its changing color and sound. This is how it lets you know that you are getting closer to a DEEP ARROWHEAD.;"""แท่งดาวซิ่ง"" สามารถใช้เพื่อหา ""หัวศรไซเทเนียม"" ที่ลึกและมีค่าสูงได้ ถือแท่งดาวซิ่ง แล้วสังเกตสีและการสั่นที่เปลี่ยนไป มันจะบ่งบอกว่ากำลังเข้าใกล้""หัวศรใต้ดิน""แล้ว"
 GLPC068TO;System;Lead PC Programmer;Lead PC Programmer
 GLPC069TO;System;Changes to hardware acceleration will not take effect until you restart the game.;การเปลี่ยนแปลงการเร่งความเร็วด้วยฮาร์ดแวร์จะมีผลเมื่อรีสตาร์ทเกม
 GLPC070TO;System;/AButton/ Play again;/AButton/ เล่นอีกครั้ง
 GLPC071TO;System;Smart Camera;กล้องอัจฉริยะ
 GLPC072TO;System;Altitude Dampening;ลดการเปลี่ยนแปลงระดับความสูง
-GLPC074TO;System;Pitch;Pitch
+GLPC074TO;System;Pitch;โยน
 GLPC075TO;System;Yaw;Yaw
 GLPC076TO;System;Horizontal;แนวนอน
 GLPC077TO;System;Vertical;แนวตั้ง

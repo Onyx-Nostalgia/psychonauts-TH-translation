@@ -1,7 +1,7 @@
 id;character;origin_dialogue;translated_dialogue
-BBZE009TO;System;Shimmy on bar with /MovementControls/;โหนบาร์โดย /MovementControls/
-BBZE010TO;System;Swing on bar with /MovementControls/;แกว่งบาร์โดย /MovementControls/
-BBZE011TO;System;Use /MovementControls/ to shimmy across ledge.;ช้ /MovementControls/ เพื่อเคลื่อนตัวข้ามไป
-BBZE012TO;System;Use /MovementControls/ with /AButton/ to switch rails.;ใช้ /MovementControls/ กับ /Abutton/ เพื่อเปลี่ยนราง
-BBZF006TO;System;Swing or shimmy with /MovementControls/;แกว่งหรือขยับด้วย /MovementControls/
-BBZF008TO;System;Press /RClick/ to enter first-person camera mode. Then move the /LookControls/ to look around.;คลิ๊ก /RClick/ เพื่อเข้าสู่โหมดกล้องบุคคลที่หนึ่ง จากนั้นเลื่อน /LookControls/เพื่อมองไปรอบๆ
+BBZE009TO;System;Shimmy on bar with /MovementControls/;เนเธซเธเธเธฒเธฃเนเนเธ”เธข /MovementControls/
+BBZE010TO;System;Swing on bar with /MovementControls/;เนเธเธงเนเธเธเธฒเธฃเนเนเธ”เธข /MovementControls/
+BBZE011TO;System;Use /MovementControls/ to shimmy across ledge.;เธเน /MovementControls/ เน€เธเธทเนเธญเน€เธเธฅเธทเนเธญเธเธ•เธฑเธงเธเนเธฒเธกเนเธ
+BBZE012TO;System;Use /MovementControls/ with /AButton/ to switch rails.;เนเธเน /MovementControls/ เธเธฑเธ /Abutton/ เน€เธเธทเนเธญเน€เธเธฅเธตเนเธขเธเธฃเธฒเธ
+BBZF006TO;System;Swing or shimmy with /MovementControls/;เนเธเธงเนเธเธซเธฃเธทเธญเธเธขเธฑเธเธ”เนเธงเธข /MovementControls/
+BBZF008TO;System;Press /RClick/ to enter first-person camera mode. Then move the /LookControls/ to look around.;เธเธฅเธดเนเธ /RClick/ เน€เธเธทเนเธญเน€เธเนเธฒเธชเธนเนเนเธซเธกเธ”เธเธฅเนเธญเธเธเธธเธเธเธฅเธ—เธตเนเธซเธเธถเนเธ เธเธฒเธเธเธฑเนเธเน€เธฅเธทเนเธญเธ /LookControls/เน€เธเธทเนเธญเธกเธญเธเนเธเธฃเธญเธเน

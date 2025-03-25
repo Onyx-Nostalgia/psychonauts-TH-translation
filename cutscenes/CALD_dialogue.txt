@@ -12,7 +12,7 @@ Lili: Listen, I made you something. It's kind of stupid, but--
 
 CALD004RA: start: 6766 end: 8566
 Raz: They stole Dogen's brains!
-แรซ: พวกนั้นขโมยสมองโดแกนไป!
+แรซ: พวกนั้นขโมยสมองโดเกนไป!
 
 CALD005LI: start: 9333 end: 10866
 Lili: No, he's just like that.

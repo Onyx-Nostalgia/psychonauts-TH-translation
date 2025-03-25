@@ -53,7 +53,7 @@ see sample in [dialogues/](/dialogues)
 
 | id        | character | origin_dialogue      | translated_dialogue       |
 | --------- | --------- | -------------------- | ------------------------- |
-| CABD001RA | RA        | Dogen! Are you okay? | โดแกน! นายไม่เป็นอะไรใช่ไหม? |
+| CABD001RA | RA        | Dogen! Are you okay? | โดเกน! นายไม่เป็นอะไรใช่ไหม? |
 
 **id**: There will be 9 characters consisting of 3 UPPER Characters + 3 numbers + 2 UPPER Characters, where the last 2 characters are an abbreviation of the name of the character being spoken.
 

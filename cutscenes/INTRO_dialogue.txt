@@ -60,7 +60,7 @@ Coach: The rest of you... WILL DIE.
 
 INTR018DO: start: 92900 end: 96500
 Dogen: Waaaaaaaa!
-โดแกน: แงงงงงง!
+โดเกน: แงงงงงง!
 
 INTR019SA: start: 95500 end: 96966
 Sasha: Oh, Morry.
@@ -76,15 +76,15 @@ Coach: Well, if you're not a Psychonaut, then you might as well be dead!
 
 INTR022DO: start: 104266 end: 111500
 Dogen: They told me this was a Summer Camp!
-โดแกน: พวกเขาบอกฉันว่านี่เป็นแค่ค่ายฤดูร้อน!
+โดเกน: พวกเขาบอกฉันว่านี่เป็นแค่ค่ายฤดูร้อน!
 
 INTR023LI: start: 109933 end: 120566
 Lili: Ah, Dogen. Don't worry about ol' Coach Oleander. I've been coming here for years, and trust me--nothing ever happens.
-ลิลี่: โดแกน อย่าไปกังวลเรื่องโค้ชโอลีแอนเดอร์พูดเลย. ฉันมาที่นี่หลายปีแล้ว เชื่อฉัน--มันไม่มีอะไรหรอก.
+ลิลี่: โดเกน อย่าไปกังวลเรื่องโค้ชโอลีแอนเดอร์พูดเลย. ฉันมาที่นี่หลายปีแล้ว เชื่อฉัน--มันไม่มีอะไรหรอก.
 
 INTR024BZ: start: 120266 end: 133033
 Bobby: Yeah, Dogen. Lili's right. You don't got nothin' to worry about... 'cept for that giant monster in the lake I was telling you about.
-บ๊อบบี้: ช่าาย, โดแกน ลีลี่พูดถูก. นายไม่ต้องกังวลอะไรหรอก... ยกเว้นสัตว์ประหลาดยักษ์ในทะเลสาบที่ฉันบอก
+บ๊อบบี้: ช่าาย, โดเกน ลีลี่พูดถูก. นายไม่ต้องกังวลอะไรหรอก... ยกเว้นสัตว์ประหลาดยักษ์ในทะเลสาบที่ฉันบอก
 
 INTR025CO: start: 133233 end: 138866
 Coach: Bobby Zilch! I told you to stop scaring people with that ridiculous, old legend!
@@ -104,7 +104,7 @@ Raz: Whoa--
 
 INTR030DO: start: 158333 end: 159833
 Dogen: Lake monster!
-โดแกน: สัตว์ประหลาดทะเลสาบ!
+โดเกน: สัตว์ประหลาดทะเลสาบ!
 
 INTR032SA: start: 162100 end: 162833
 Sasha: Formation!
@@ -156,7 +156,7 @@ Raz: But everybody calls me Raz.
 
 INTR043DO: start: 208300 end: 211100
 Dogen: Please don't kill us, lake monster!
-โดแกน: ได้โปรดอย่าฆ่าเราเลย, สัตว์ประหลาดทะเลสาบ! 
+โดเกน: ได้โปรดอย่าฆ่าเราเลย, สัตว์ประหลาดทะเลสาบ! 
 
 INTR044SA: start: 211700 end: 212800
 Sasha: Compelling.
@@ -240,11 +240,11 @@ Milla: Now, darling. You can stay here for a few days until your parents come fo
 
 INTR064DO: start: 329866 end: 335066
 Dogen: Wowee. You're so lucky. You get to go home soon.
-โดแกน: ว้าว. นายโชคดีจัง นายจะได้กลับบ้านแล้ว.
+โดเกน: ว้าว. นายโชคดีจัง นายจะได้กลับบ้านแล้ว.
 
 INTR065RA: start: 335066 end: 343933
 Raz: Home? Back there I was just like you were Dogen--punished by my own family for having powers I never asked for.
-แรซ: บ้านเหรอ? กลับไปที่นั่นฉันก็เหมือนกับนาย โดแกน ถูกลงโทษจากครอบครัวเพราะมีพลังที่ฉันก็ไม่เคยขอ.
+แรซ: บ้านเหรอ? กลับไปที่นั่นฉันก็เหมือนกับนาย โดเกน ถูกลงโทษจากครอบครัวเพราะมีพลังที่ฉันก็ไม่เคยขอ.
 
 INTR066RA: start: 346066 end: 352000
 Raz: But here, I have a chance to be something. To make a difference.
@@ -252,7 +252,7 @@ Raz: But here, I have a chance to be something. To make a difference.
 
 INTR067RA: start: 352966 end: 360700
 Raz: They may come for me, Dogen, but they'll be looking for Raz, the boy. What they're going to findï¿½
-แรซ: พวกเขาอาจตามหาฉัน โดแกน ตามหา "แรซ" เด็กคนนึง. แต่สิ่งที่พวกเขาจะได้พบ
+แรซ: พวกเขาอาจตามหาฉัน โดเกน ตามหา "แรซ" เด็กคนนึง. แต่สิ่งที่พวกเขาจะได้พบ
 
 INTR068RA: start: 361633 end: 366666
 Raz: ï¿½What they don't expect, is Raz, the Psychonaut.
@@ -260,7 +260,7 @@ Raz: ï¿½What they don't expect, is Raz, the Psychonaut.
 
 INTR069DO: start: 366666 end: 369833
 Dogen: And--and--and then you'll make their heads explode?
-โดแกน: และ--แล้ว--แล้วนายก็จะระเบิดหัวพวกเขา?
+โดเกน: และ--แล้ว--แล้วนายก็จะระเบิดหัวพวกเขา?
 
 INTR070RA: start: 369833 end: 371966
 Raz: No! Do you do that?
@@ -268,7 +268,7 @@ Raz: No! Do you do that?
 
 INTR072DO: start: 372800 end: 380166
 Dogen: No! Well, once kinda. But, now I wear this special hat. Wanna try it on?
-โดแกน: ไม่! เอ่อ ครั้งนึงอ่ะ. แต่ตอนนี้ฉันใส่หมวกพิเศษนี่ไง อยากลองใส่ดูมั้ย?
+โดเกน: ไม่! เอ่อ ครั้งนึงอ่ะ. แต่ตอนนี้ฉันใส่หมวกพิเศษนี่ไง อยากลองใส่ดูมั้ย?
 
 INTR073RA: start: 380100 end: 380866
 Raz: No no no!
