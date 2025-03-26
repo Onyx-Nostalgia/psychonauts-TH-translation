@@ -11,7 +11,7 @@ def get_progress(filename):
         raise ValueError("File must be a csv file")
 
     count = 0
-    with open(filename, "r", encoding="ISO-8859-1") as csv_file:
+    with open(filename, "r", encoding="utf-8") as csv_file:
         reader = csv.DictReader(csv_file, delimiter=";")
         nums = count = 0
         for row in reader:
