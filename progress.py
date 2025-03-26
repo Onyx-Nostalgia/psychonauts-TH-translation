@@ -11,7 +11,7 @@ def get_progress(filename):
         raise ValueError("File must be a csv file")
 
     count = 0
-    with open(filename, "r", encoding="ISO-8859-1") as csv_file:
+    with open(filename, "r", encoding="utf-8") as csv_file:
         reader = csv.DictReader(csv_file, delimiter=";")
         nums = count = 0
         for row in reader:
@@ -87,7 +87,7 @@ def generate_markdown(results):
     for result in results:
         filename, count, nums, percent = result
         _percent = int(percent)
-        col_1 = f"[{filename}]({filename})"
+        col_1 = f"[{filename}](/{filename})"
         col_2 = f"{count}/{nums}"
         col_3 = f"![](https://geps.dev/progress/{_percent})"
         _row_table = (col_1, col_2, col_3)

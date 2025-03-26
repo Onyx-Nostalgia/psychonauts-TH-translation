@@ -1,6 +1,6 @@
 NID1001DO: start: 0 end: 2500
 Dogen: Aaaaaaaa!
-โดแกน: อ้าาาาาาาา!
+โดเกน: อ้าาาาาาาา!
 
 NID1002LO: start: 2166 end: 3766
 Dr.Loboto: Why are you screaming?
@@ -12,15 +12,15 @@ Dr.Loboto: Oh right! I remember!
 
 NID1004DO: start: 8000 end: 11966
 Dogen: Wahhhhhhhh-a ha ha ha!
-โดแกน: Wahhhhhhhh-a ha ha ha!
+โดเกน: Wahhhhhhhh-a ha ha ha!
 
 NID1005DO: start: 11966 end: 16900
 Dogen: (giggle giggle)
-โดแกน: (หัวเราะ หัวเราะ)
+โดเกน: (หัวเราะ หัวเราะ)
 
 NID1006DO: start: 16900 end: 17833
 Dogen: A-CHOOO!
-โดแกน: ฮัดชิ่ว!
+โดเกน: ฮัดชิ่ว!
 
 NID1007LO: start: 19633 end: 23566
 Dr.Loboto: Oh, good boy. There's that pesky brain.
@@ -36,7 +36,7 @@ Dr.Loboto: Now, don't you feel better, my dear lad?
 
 NID1010DO: start: 29733 end: 31333
 Dogen: TV?
-โดแกน: ทีวี?
+โดเกน: ทีวี?
 
 NID1011LO: start: 31333 end: 33600
 Dr.Loboto: Of course! Right here!
@@ -56,5 +56,5 @@ Raz: Lili!
 
 NID1015DO: start: 53633 end: 55366
 Dogen: TV!
-โดแกน: ทีวี!
+โดเกน: ทีวี!
 

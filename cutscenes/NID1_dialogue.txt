@@ -12,7 +12,7 @@ Dr.Loboto: I hate to be so blunt, but YOU have the insanity... of a manatee!
 
 NID2004DO: start: 26100 end: 31300
 Dogen: I know! People are always saying that! What do you think's wrong with my brain, Doctor?
-โดแกน: ผมรู้! คนอื่นๆ ก็บอกแบบนั้นตลอด! คุณคิดว่าสมองของผมเป็นอะไรไปหรือเปล่า หมอ?
+โดเกน: ผมรู้! คนอื่นๆ ก็บอกแบบนั้นตลอด! คุณคิดว่าสมองของผมเป็นอะไรไปหรือเปล่า หมอ?
 
 NID2005LO: start: 31300 end: 40066
 Dr.Loboto: How should I know? I'm a dentist! But here's what I do know: if a tooth is bad, you pull it!
@@ -20,7 +20,7 @@ Dr.Loboto: How should I know? I'm a dentist! But here's what I do know: if a too
 
 NID2006DO: start: 40066 end: 41900
 Dogen: But my teeth are fine!
-โดแกน: แต่ฟันผมไม่ผุนะ!
+โดเกน: แต่ฟันผมไม่ผุนะ!
 
 NID2007LO: start: 41900 end: 50933
 Dr.Loboto: Yup! That brain's got to come out, boy. It's the quickest way to cure what you've got: INSANITY OF THE MIND!
@@ -28,7 +28,7 @@ Dr.Loboto: Yup! That brain's got to come out, boy. It's the quickest way to cure
 
 NID2008DO: start: 50933 end: 52033
 Dogen: But, I don't wanna--
-โดแกน: แต่ ผมไม่อยาก--
+โดเกน: แต่ ผมไม่อยาก--
 
 NID2009LO: start: 51566 end: 58433
 Dr.Loboto: Shush-shush-shush-shush-shushie! Now hold still. This will only hurt until your brains come flying out!
@@ -36,5 +36,5 @@ Dr.Loboto: Shush-shush-shush-shush-shushie! Now hold still. This will only hurt 
 
 NID2010DO: start: 58900 end: 61733
 Dogen: Ahh! Ahh! Get back! HELP!
-โดแกน: อาห์! อาห์! ถอยไปนะ! ช่วยด้วย!
+โดเกน: อาห์! อาห์! ถอยไปนะ! ช่วยด้วย!
 

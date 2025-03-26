@@ -1,117 +1,117 @@
 id;character;origin_dialogue;translated_dialogue
-GLZA053TO;System;/AButton/ Yes.;
-GLZA054TO;System;/AButton/ No.;
-GLZD286TO;System;Use /MovementControls/ and then press /BlackButton/,  /WhiteButton/, or /RightFlipper/ to map the selected power to that button.;
-GLZD287TO;System;To pull out an item from your backpack, point to it with /MovementControls/ and then press /AButton/. To return it to your backpack later, press /BButton/.;
-GLZD351TO;System;Please reconnect the controller to controller port;
-GLZD321TO;System;Drag /FullMouse/ or use Right /Joystick/ TO NAVIGATE.;
-GLZD335TO;System;/AButton/ LOAD;
-GLZD336TO;System;/XButton/ DELETE;
-GLZD338TO;System;/AButton/ SAVE;
+GLZA053TO;System;/AButton/ Yes.;/AButton/ ใช่
+GLZA054TO;System;/AButton/ No.;/AButton/ ไม่
+GLZD286TO;System;Use /MovementControls/ and then press /BlackButton/,  /WhiteButton/, or /RightFlipper/ to map the selected power to that button.;ใช้ /MovementControls/ แล้วกด /BlackButton/, /WhiteButton/ หรือ /RightFlipper/ เพื่อกำหนดพลังที่เลือกไว้ให้กับปุ่มนั้น
+GLZD287TO;System;To pull out an item from your backpack, point to it with /MovementControls/ and then press /AButton/. To return it to your backpack later, press /BButton/.;ถ้าจะเอาของออกจากกระเป๋า ให้เลื่อน /MovementControls/ ไปที่ของชิ้นนั้นแล้วกด /AButton/ ถ้าจะเก็บของกลับกระเป๋า ให้กด /BButton/
+GLZD351TO;System;Please reconnect the controller to controller port;กรุณาเชื่อมต่อคอนโทรลเลอร์เข้ากับพอร์ต
+GLZD321TO;System;Drag /FullMouse/ or use Right /Joystick/ TO NAVIGATE.;ลาก /FullMouse/ หรือใช้ /Joystick/ ขวาเพื่อเลื่อนดู
+GLZD335TO;System;/AButton/ LOAD;/AButton/ โหลด
+GLZD336TO;System;/XButton/ DELETE;/XButton/ ลบ
+GLZD338TO;System;/AButton/ SAVE;/AButton/ บันทึก
 GLZD347TO;System;"You don't have enough free space to save this profile.
-Press /Abutton/ to continue without saving or /Bbutton/ to free more space.";
+Press /Abutton/ to continue without saving or /Bbutton/ to free more space.";"พื้นที่ไม่พอที่จะบันทึกโปรไฟล์ กด /Abutton/ เพื่อเล่นต่อโดยไม่บันทึก หรือกด /Bbutton/ เพื่อเพิ่มพื้นที่"
 GLZD348TO;System;"You don't have enough free space to save games.
-Press /Abutton/ to continue without saving or /Bbutton/ to free more space.";
-GLZD356TO;System;/MovementControls/ to SCROLL.;
-GLZD358TO;System;/BButton/ BACK;
-GLZD434TO;System;Saving preferences.;
-GLZD435TO;System;Saving AUTOSAVE: POINT OF NO RETURN.;
-GLZD507TO;System;Saving game.;
-GLZD560TO;System;Please free;
-GLZD561TO;System;more space.;
-GLZD573TO;System;Why aren't you pressing /AButton/ ???;
-GLZD587TO;System;Saving autosave.;
-GLZE005TO;System;Use /MovementControls/ to aim your toss.;
-GLZG041TO;System;/BButton/ Exit;
-GLZE015TO;System;Control speed with /MovementControls/ or use it to change rails when jumping.;
-GLZG018TO;System;Use /MovementControls/ or /FullMouse/ to navigate the Journal.;
-GLZJ000TO;System;Press /AButton/ to begin.;
-GLZD288TO;System;You have too many items to fit on one page! Use /DPadRight/ to see the rest of your items.;
-GLZD551TO;System;/AButton/ Select;
-GLZG036TO;System;Raz has stowed the item in his backpack. To see what's in Raz's backpack, and what merit badges he has, press the /DPadLeft/ button.;
-GLPC000TO;System;Move Forward;
-GLPC001TO;System;Move Backward;
-GLPC002TO;System;Move Left;
-GLPC003TO;System;Move Right;
-GLPC004TO;System;Jump;
-GLPC005TO;System;Attack;
-GLPC006TO;System;Use;
-GLPC007TO;System;Cancel;
-GLPC008TO;System;LockOn/Float;
-GLPC009TO;System;PSI Power1;
-GLPC010TO;System;PSI Power2;
-GLPC011TO;System;PSI Power3;
-GLPC012TO;System;Inventory Menu;
-GLPC013TO;System;PSI Powers Menu;
-GLPC014TO;System;First Person View;
-GLPC015TO;System;Journal;
-GLPC016TO;System;Stats;
-GLPC017TO;System;Look Up;
-GLPC018TO;System;Look Down;
-GLPC019TO;System;Look Left;
-GLPC020TO;System;Look Right;
-GLPC021TO;System;Type your nickname. Only letters and numbers allowed.;
-GLPC022TO;System;Press /Enter/ when done.;
-GLPC023TO;System;Press /Escape/ to cancel.;
-GLZE018TO;System;This save game appears to be damaged and cannot be used. Press /AButton/ to continue.;
-GLZE020TO;System;This profile appears to be damaged and cannot be used. Press /AButton/ to continue.;
-GLZD556TO;System;/AButton/ Zoom in;
-GLZD557TO;System;/AButton/ Zoom out;
-GLPC024TO;System;Show To-Do list on screen?;
-GLPC025TO;System;While you were away, your game was automatically paused.;
-GLPC026TO;System;Ok;
-GLPC028TO;System;Defaults;
-GLPC029TO;System;Back;
-GLPC030TO;System;OPTIONS;
-GLPC031TO;System;MAIN MENU;
-GLPC032TO;System;EXIT GAME;
-GLPC033TO;System;Controls;
-GLPC034TO;System;CONTROLS;
-GLPC035TO;System;Bindings;
-GLPC036TO;System;Action Bindings;
-GLPC037TO;System;Advanced;
-GLPC038TO;System;Sensitivity;
-GLPC039TO;System;Deadzone;
-GLPC040TO;System;Camera;
-GLPC041TO;System;Camera Settings;
-GLPC042TO;System;Invert Camera Horiz.;
-GLPC043TO;System;Invert Camera Vert.;
-GLPC044TO;System;Invert 1st Person;
-GLPC045TO;System;Show Goal Popups;
-GLPC046TO;System;Graphics;
-GLPC047TO;System;Graphics Options;
-GLPC048TO;System;Full Screen;
-GLPC049TO;System;V.Sync;
-GLPC050TO;System;FSAA;
-GLPC051TO;System;FSFX;
-GLPC052TO;System;Adv. Shading;
-GLPC053TO;System;Shadows;
-GLPC054TO;System;Brightness;
-GLPC055TO;System;Sound;
-GLPC056TO;System;Sound Settings;
-GLPC057TO;System;Master Volume;
-GLPC058TO;System;FX Volume;
-GLPC059TO;System;Music Volume;
-GLPC060TO;System;Voice Volume;
-GLPC061TO;System;Subtitles;
-GLPC062TO;System;Hardware Accel.;
-GLPC063TO;System;Advanced Settings;
-GLPC064TO;System;Quit To Title;
-GLPC065TO;System;Are you sure you want to quit your game and go back to the title screen? If you haven't saved, your progress will be lost!;
-GLPC066TO;System;Exit To Desktop;
-GLPC067TO;System;Are you sure you want to stop playing Psychonauts?;
-CAZF006TO;System;This DOWSING ROD can be used to find deeper, more valuable PSITANIUM ARROWHEADS. Equip the DOWSING ROD and watch and listen to its changing color and sound. This is how it lets you know that you are getting closer to a DEEP ARROWHEAD.;
-GLPC068TO;System;Lead PC Programmer;
-GLPC069TO;System;Changes to hardware acceleration will not take effect until you restart the game.;
-GLPC070TO;System;/AButton/ Play again;
-GLPC071TO;System;Smart Camera;
-GLPC072TO;System;Altitude Dampening;
-GLPC074TO;System;Pitch;
-GLPC075TO;System;Yaw;
-GLPC076TO;System;Horizontal;
-GLPC077TO;System;Vertical;
-GLPC078TO;System;Horizontal Sensitivity;
-GLPC079TO;System;Vertical Sensitivity;
-GLPC080TO;System;Left /Joystick/;
-GLPC081TO;System;Right /Joystick/;
-GLPC082TO;System;/FirstKey/ or /SecondKey/;
+Press /Abutton/ to continue without saving or /Bbutton/ to free more space.";"พื้นที่ไม่พอที่จะบันทึกเกม กด /Abutton/ เพื่อเล่นต่อโดยไม่บันทึก หรือกด /Bbutton/ เพื่อเพิ่มพื้นที่"
+GLZD356TO;System;/MovementControls/ to SCROLL;ใช้ /MovementControls/ เพื่อเลื่อน
+GLZD358TO;System;/BButton/ BACK;/BButton/ กลับ
+GLZD434TO;System;Saving preferences.;กำลังบันทึกค่าปรับแต่ง
+GLZD435TO;System;Saving AUTOSAVE: POINT OF NO RETURN.;กำลังบันทึก AUTOSAVE: จุดที่ย้อนกลับไม่ได้
+GLZD507TO;System;Saving game.;กำลังบันทึกเกม
+GLZD560TO;System;Please free;กรุณาเพิ่ม
+GLZD561TO;System;more space.;พื้นที่
+GLZD573TO;System;Why aren't you pressing /AButton/ ???;ทำไมถึงไม่กด /AButton/ ซะที!!!
+GLZD587TO;System;Saving autosave.;กำลังบันทึกอัตโนมัติ
+GLZE005TO;System;Use /MovementControls/ to aim your toss.;ใช้ /MovementControls/ เพื่อเล็งตอนขว้าง
+GLZG041TO;System;/BButton/ Exit;/BButton/ ออก
+GLZE015TO;System;Control speed with /MovementControls/ or use it to change rails when jumping.;ควบคุมความเร็วด้วย /MovementControls/ หรือใช้เปลี่ยนรางตอนกระโดด
+GLZG018TO;System;Use /MovementControls/ or /FullMouse/ to navigate the Journal.;ใช้ /MovementControls/ หรือ /FullMouse/ เพื่อดูบันทึก
+GLZJ000TO;System;Press /AButton/ to begin.;กด /AButton/ เพื่อเริ่ม
+GLZD288TO;System;You have too many items to fit on one page! Use /DPadRight/ to see the rest of your items.;ไอเทมของคุณเยอะเกินกว่าจะใส่ในหน้าเดียวได้หมด ใช้ /DPadRight/ เพื่อดูไอเทมที่เหลือ
+GLZD551TO;System;/AButton/ Select;/AButton/ เลือก
+GLZG036TO;System;Raz has stowed the item in his backpack. To see what's in Raz's backpack, and what merit badges he has, press the /DPadLeft/ button.;แรซ เก็บของไว้ในกระเป๋าแล้ว ถ้าจะดูว่าในกระเป๋าของ แรซ มีอะไรบ้าง และมี ป้ายทักษะ อะไรบ้าง ให้กดปุ่ม /DPadLeft/
+GLPC000TO;System;Move Forward;เดินหน้า
+GLPC001TO;System;Move Backward;ถอยหลัง
+GLPC002TO;System;Move Left;เดินไปทางซ้าย
+GLPC003TO;System;Move Right;เดินไปทางขวา
+GLPC004TO;System;Jump;กระโดด
+GLPC005TO;System;Attack;โจมตี
+GLPC006TO;System;Use;ใช้
+GLPC007TO;System;Cancel;ยกเลิก
+GLPC008TO;System;LockOn/Float;ล็อคเป้า/ลอยตัว
+GLPC009TO;System;PSI Power1;พลัง PSI 1
+GLPC010TO;System;PSI Power2;พลัง PSI 2
+GLPC011TO;System;PSI Power3;พลัง PSI 3
+GLPC012TO;System;Inventory Menu;เมนูไอเทม
+GLPC013TO;System;PSI Powers Menu;เมนูพลัง PSI
+GLPC014TO;System;First Person View;มุมมองบุคคลที่หนึ่ง
+GLPC015TO;System;Journal;บันทึก
+GLPC016TO;System;Stats;สถิติ
+GLPC017TO;System;Look Up;มองขึ้น
+GLPC018TO;System;Look Down;มองลง
+GLPC019TO;System;Look Left;มองไปทางซ้าย
+GLPC020TO;System;Look Right;มองไปทางขวา
+GLPC021TO;System;Type your nickname. Only letters and numbers allowed.;พิมพ์ชื่อเล่น เฉพาะตัวอักษรและตัวเลขเท่านั้น
+GLPC022TO;System;Press /Enter/ when done.;กด /Enter/ เมื่อเสร็จ
+GLPC023TO;System;Press /Escape/ to cancel.;กด /Escape/ เพื่อยกเลิก
+GLZE018TO;System;This save game appears to be damaged and cannot be used. Press /AButton/ to continue.;ดูเหมือนเซฟเกมนี้จะเสียหาย ใช้ไม่ได้ กด /AButton/ เพื่อเล่นต่อ
+GLZE020TO;System;This profile appears to be damaged and cannot be used. Press /AButton/ to continue.;ดูเหมือนโปรไฟล์นี้จะเสียหาย ใช้ไม่ได้ กด /AButton/ เพื่อเล่นต่อ
+GLZD556TO;System;/AButton/ Zoom in;/AButton/ ซูมเข้า
+GLZD557TO;System;/AButton/ Zoom out;/AButton/ ซูมออก
+GLPC024TO;System;Show To-Do list on screen?;แสดงรายการ To-Do บนหน้าจอไหม?
+GLPC025TO;System;While you were away, your game was automatically paused.;ระหว่างที่คุณไม่อยู่ เกมหยุดเองอัตโนมัติ
+GLPC026TO;System;Ok;ตกลง
+GLPC028TO;System;Defaults;ค่าเริ่มต้น
+GLPC029TO;System;Back;กลับ
+GLPC030TO;System;OPTIONS;ตัวเลือก
+GLPC031TO;System;MAIN MENU;เมนูหลัก
+GLPC032TO;System;EXIT GAME;ออกจากเกม
+GLPC033TO;System;Controls;การควบคุม
+GLPC034TO;System;CONTROLS;การควบคุม
+GLPC035TO;System;Bindings;การตั้งค่าปุ่ม
+GLPC036TO;System;Action Bindings;การตั้งค่าปุ่มการกระทำ
+GLPC037TO;System;Advanced;ขั้นสูง
+GLPC038TO;System;Sensitivity;ความไว
+GLPC039TO;System;Deadzone;Deadzone
+GLPC040TO;System;Camera;กล้อง
+GLPC041TO;System;Camera Settings;การตั้งค่ากล้อง
+GLPC042TO;System;Invert Camera Horiz.;กลับด้านกล้องแนวนอน
+GLPC043TO;System;Invert Camera Vert.;กลับด้านกล้องแนวตั้ง
+GLPC044TO;System;Invert 1st Person;กลับด้านมุมมองบุคคลที่หนึ่ง
+GLPC045TO;System;Show Goal Popups;แสดงเป้าหมาย
+GLPC046TO;System;Graphics;กราฟิก
+GLPC047TO;System;Graphics Options;ตัวเลือกกราฟิก
+GLPC048TO;System;Full Screen;เต็มจอ
+GLPC049TO;System;V.Sync;V.Sync
+GLPC050TO;System;FSAA;FSAA
+GLPC051TO;System;FSFX;FSFX
+GLPC052TO;System;Adv. Shading;Adv. Shading
+GLPC053TO;System;Shadows;เงา
+GLPC054TO;System;Brightness;ความสว่าง
+GLPC055TO;System;Sound;เสียง
+GLPC056TO;System;Sound Settings;การตั้งค่าเสียง
+GLPC057TO;System;Master Volume;ระดับเสียงหลัก
+GLPC058TO;System;FX Volume;ระดับเสียงเอฟเฟกต์
+GLPC059TO;System;Music Volume;ระดับเสียงเพลง
+GLPC060TO;System;Voice Volume;ระดับเสียงพูด
+GLPC061TO;System;Subtitles;คำบรรยาย
+GLPC062TO;System;Hardware Accel.;การเร่งความเร็วด้วยฮาร์ดแวร์
+GLPC063TO;System;Advanced Settings;การตั้งค่าขั้นสูง
+GLPC064TO;System;Quit To Title;ออกไปหน้าชื่อเกม
+GLPC065TO;System;Are you sure you want to quit your game and go back to the title screen? If you haven't saved, your progress will be lost!;แน่ใจนะว่าจะออกจากเกมไปหน้าชื่อเกม? ถ้ายังไม่ได้บันทึก ความคืบหน้าจะหายหมดนะ!
+GLPC066TO;System;Exit To Desktop;ออกจากเกมไปที่หน้า Desktop
+GLPC067TO;System;Are you sure you want to stop playing Psychonauts?;แน่ใจนะ ว่าจะเลิกเล่นเกม?
+CAZF006TO;System;This DOWSING ROD can be used to find deeper, more valuable PSITANIUM ARROWHEADS. Equip the DOWSING ROD and watch and listen to its changing color and sound. This is how it lets you know that you are getting closer to a DEEP ARROWHEAD.;"""แท่งดาวซิ่ง"" สามารถใช้เพื่อหา ""หัวศรไซเทเนียม"" ที่ลึกและมีค่าสูงได้ ถือแท่งดาวซิ่ง แล้วสังเกตสีและการสั่นที่เปลี่ยนไป มันจะบ่งบอกว่ากำลังเข้าใกล้""หัวศรใต้ดิน""แล้ว"
+GLPC068TO;System;Lead PC Programmer;Lead PC Programmer
+GLPC069TO;System;Changes to hardware acceleration will not take effect until you restart the game.;การเปลี่ยนแปลงการเร่งความเร็วด้วยฮาร์ดแวร์จะมีผลเมื่อรีสตาร์ทเกม
+GLPC070TO;System;/AButton/ Play again;/AButton/ เล่นอีกครั้ง
+GLPC071TO;System;Smart Camera;กล้องอัจฉริยะ
+GLPC072TO;System;Altitude Dampening;ลดการเปลี่ยนแปลงระดับความสูง
+GLPC074TO;System;Pitch;โยน
+GLPC075TO;System;Yaw;Yaw
+GLPC076TO;System;Horizontal;แนวนอน
+GLPC077TO;System;Vertical;แนวตั้ง
+GLPC078TO;System;Horizontal Sensitivity;ความไวแนวนอน
+GLPC079TO;System;Vertical Sensitivity;ความไวแนวตั้ง
+GLPC080TO;System;Left /Joystick/;/Joystick/ ซ้าย
+GLPC081TO;System;Right /Joystick/;/Joystick/ ขวา
+GLPC082TO;System;/FirstKey/ or /SecondKey/;/FirstKey/ หรือ /SecondKey/

@@ -1,751 +1,752 @@
 id;character;origin_dialogue;translated_dialogue
-BVCH001LA;Lampita;Matador! Matador! That's the team I'm rooting for!;
-BVCH002LA;Lampita;Yeeeeaaaaahhhh Dingo!;
-BVCH003LA;Lampita;Woo-hoo!;
-BVCH004LA;Lampita;Woo-hoo! C'mon!;
-BVCH005LA;Lampita;Wooo! Hahaha!;
-BVCH006LA;Lampita;Let's go Dingo let's go!;
-BVCH008LA;Lampita;East and west!;
-BVCH009LA;Lampita;He's the best!;
-BVCH010LA;Lampita;Diiiiiiiii-ingo!;
-BVCH011LA;Lampita;Woooo!;
-BVCH012LA;Lampita;Be aggressive! Be-e aggressive!;
-BVCH013LA;Lampita;B-e-a-g-g;
-BVCH014LA;Lampita;r-e-s-s-i-v-e!;
-BVCH015LA;Lampita;Beeeee aggressive! Woo-hoo!;
-BVCH016LA;Lampita;Odio! Odio!;
-BVCH017LA;Lampita;Don't be such a dodio!;
-BVCH019LA;Lampita;Go back to the rodeo!;
-BVCH020LA;Lampita;Yeah! Wooo!;
-BVCH021LA;Lampita;Dingo! Dingo! Don't be shy!;
-BVCH022LA;Lampita;Stab that bull and make him cry!;
-BVCH023LA;Lampita;Put that blade right through his skull.;
-BVCH024LA;Lampita;Murderize that stupid bull!;
-BVCH025LA;Lampita;Yeah, Seniors! Go Seniors! Wooo!;
+BVCH001LA;Lampita;Matador! Matador! That's the team I'm rooting for!;มาธาดอร์! มาธาดอร์! ทีมนี้แหละที่ฉันเชียร์!
+BVCH002LA;Lampita;Yeeeeaaaaahhhh Dingo!;เย้ ดิงโก้!
+BVCH003LA;Lampita;Woo-hoo!;วู้ฮู!
+BVCH004LA;Lampita;Woo-hoo! C'mon!;วู้ฮู! เอาเลย!
+BVCH005LA;Lampita;Wooo! Hahaha!;วู้! ฮ่าๆๆ!
+BVCH006LA;Lampita;Let's go Dingo let's go!;เอาเลย ดิงโก้ เอาเลย!
+BVCH008LA;Lampita;East and west!;ตะวันออกและตะวันตก!
+BVCH009LA;Lampita;He's the best!;เขาเจ๋งที่สุด!
+BVCH010LA;Lampita;Diiiiiiiii-ingo!;ดิ้----งโก้!
+BVCH011LA;Lampita;Woooo!;วู้!
+BVCH012LA;Lampita;Be aggressive! Be-e aggressive!;เอาจริง! เอา--จริง!
+BVCH013LA;Lampita;B-e-a-g-g;บี-อี-เอ-จี-จี!
+BVCH014LA;Lampita;r-e-s-s-i-v-e!;อาร์-อี-เอส-เอส-ไอ-วี-อี!
+BVCH015LA;Lampita;Beeeee aggressive! Woo-hoo!;เอาจริงให้สุด! วู้ฮู!
+BVCH016LA;Lampita;Odio! Odio!;โอดีโอ! โอดีโอ!
+BVCH017LA;Lampita;Don't be such a dodio!;อย่าทำตัวน่าเบื่อแบบนั้นสิ!
+BVCH019LA;Lampita;Go back to the rodeo!;กลับไปขี่ม้าที่งานโรดิโอไป๊!
+BVCH020LA;Lampita;Yeah! Wooo!;เย้! วู้!
+BVCH021LA;Lampita;Dingo! Dingo! Don't be shy!;ดิงโก้! ดิงโก้! อย่าขี้อาย!
+BVCH022LA;Lampita;Stab that bull and make him cry!;แทงกระทิงตัวนั้นแล้วทำให้มันร้องไห้!
+BVCH023LA;Lampita;Put that blade right through his skull.;เอาดาบแทงเข้าไปที่กะโหลกของมันเลย
+BVCH024LA;Lampita;Murderize that stupid bull!;ฆ่ากระทิงโง่ๆ นั่นเลย!
+BVCH025LA;Lampita;Yeah, Seniors! Go Seniors! Wooo!;เย้ รุ่นพี่! เอาเลยรุ่นพี่! วู้!
 BVDO001ED;Edgar;Snnnrl! Ooh-ooh-ug.;Snnnrl! Ooh-ooh-ug.
-BVDO002RA;Raz;Thought so.;
+BVDO002RA;Raz;Thought so.;ว่าแล้ว
 BVDO003ED;Edgar;Where am I?;ฉันอยู่ที่ไหน?
-BVDO004MA;Matador;Thank you for preparing the bull, my humble picador. I shall now finish this beast off easily.;ขอบคุณสำหรับการเตรียมกระทิงให้ข้า ผู้ช่วยแสนต่ำต้อย ฉันจะจัดการสัตว์ร้ายตัวนี้ให้สิ้นซาก
-BVDO005RA;Raz;Edgar, listen. There is no El Odio, no Lampita, no Dingo.;เอ็ดการ์ ฟังนะ ไม่มีเอล โอดิโอ ไม่มีแลมพิตา ไม่มีดิงโก้
-BVDO006RA;Raz;They are all just creations of your rage.;
-BVDO007RA;Raz;You have to let them go or they will torture you forever.;
-BVDO008ED;Edgar;Wha--;อะไรนะ
-BVDO009RA;Raz;That is your romanticized memory of your ex-girlfriend Lana Panzoni, who dumped you for Dean LaGrante way back in high school!;
-BVDO010RA;Raz;They were both cheerleaders for crying out loud!;
-BVDO011RA;Raz;You can't let the junior varsity pep squad ruin your life!;นายจะปล่อยให้พวกกองเชียร์ตัวประกอบมาทำลายชีวิตนายไม่ได้นะ!
-BVDO012DI;Dingo;"Um, what's up with the ""Junior?""";"อืม ทำไมต้อง ""ตัวประกอบ"" ด้วยล่ะ?"
-BVDO013LA;Lampita;Yeah, we were full-on varsity.;ใช่ พวกเราเป็นตัวจริงต่างหาก
-BVDO014DI;Dingo;Gimme a G!;ขอเสียง G!
+BVDO004MA;Matador;Thank you for preparing the bull, my humble picador. I shall now finish this beast off easily.;ขอบใจที่เตรียมกระทิงให้ ผู้ช่วยแสนต่ำต้อย ข้าจะปิดบัญชีเจ้าสัตว์ร้ายนี่เอง!
+BVDO005RA;Raz;Edgar, listen. There is no El Odio, no Lampita, no Dingo.;เอ็ดการ์ ฟังนะ ไม่มีเอล โอดิโอ ไม่มีแลมพิต้า ไม่มีดิงโก้
+BVDO006RA;Raz;They are all just creations of your rage.;ทั้งหมดนั่นเป็นแค่สิ่งที่นายสร้างขึ้นจากความโกรธของนายเอง
+BVDO007RA;Raz;You have to let them go or they will torture you forever.;นายต้องปล่อยพวกเขาไปนะ ไม่งั้นพวกเขาจะทรมานนายไปตลอดกาล
+BVDO008ED;Edgar;Wha--;อะไรนะ?
+BVDO009RA;Raz;That is your romanticized memory of your ex-girlfriend Lana Panzoni, who dumped you for Dean LaGrante way back in high school!;นั่นมันความทรงจำที่สวยหรูเกินจริงของนายเกี่ยวกับแฟนเก่า ลาน่า แพนโซนี่ ที่ทิ้งนายไปคบกับดีน ลากรันเต้ ตั้งแต่สมัยมัธยมแล้ว!
+BVDO010RA;Raz;They were both cheerleaders for crying out loud!;พวกนั้นเป็นเชียร์ลีดเดอร์ทั้งคู่เลยนะ!
+BVDO011RA;Raz;You can't let the junior varsity pep squad ruin your life!;อย่าปล่อยให้กองเชียร์ตัวสำรองมาทำลายชีวิตของนายเลย!
+BVDO012DI;Dingo;"Um, what's up with the ""Junior?""";"เอ่อ ทำไมต้อง ""ตัวสำรอง"" ด้วยอ่ะ?"
+BVDO013LA;Lampita;Yeah, we were full-on varsity.;ใช่ เราเป็นตัวจริงต่างหาก
+BVDO014DI;Dingo;Gimme a G!;ขอเสียง G
 BVDO015LA;Lampita;G!;G!
-BVDO016DI;Dingo;Gimme an O!;ขอเสียง O!
+BVDO016DI;Dingo;Gimme an O!;ขอเสียง O
 BVDO017LA;Lampita;O!;O!
-BVDO018DI;Dingo;Gimme a B!;ขอเสียง B!
+BVDO018DI;Dingo;Gimme a B!;ขอเสียง B
 BVDO019LA;Lampita;B!;B!
-BVDO020DI;Dingo;Gimme a U!;ขอเสียง U!
+BVDO020DI;Dingo;Gimme a U!;ขอเสียง U
 BVDO021LA;Lampita;U!;U!
-BVDO022DI;Dingo;Gimme an L!;ขอเสียง L!
+BVDO022DI;Dingo;Gimme an L!;ขอเสียง L
 BVDO023LA;Lampita;L!;L!
-BVDO024DI;Dingo;Gimme another L!;ขอเสียง L! อีกตัว
-BVDO026DI;Dingo;Gimme an S!;ขอเสียง S!
+BVDO024DI;Dingo;Gimme another L!;ขอเสียง L อีกตัว!
+BVDO026DI;Dingo;Gimme an S!;ขอเสียง S
 BVDO027LA;Lampita;S!;S!
 BVDO028DI;Dingo;What's that spell?;อ่านว่าอะไรนะ?
-BVDO029LA;Lampita;Goooooooooo BULLS! Yeah! Wooo!;Goooooooooo BULLS! Yeah! Wooo!
-BVDO031RA;Raz;Edgar, listen. It's your rage that imprisons you, not them.;
-BVDO032ED;Edgar;They stole my happiness, my life, the state semi finals, everything!;
-BVDO033ED;Edgar;Ahhhhhh!;Ahhhhhh!
-BVDO034RA;Raz;No, wait! Edgar!;ไม่ เดี๋ยว! เอ็ดการ์
-BVDO035LA;Lampita;Olé!;Olï¿½!
-BVDO036DI;Dingo;Ha ha ha! He never learns!;ฮ่าๆๆ มันไม่เคยจำเลย!
-BVDO037RA;Raz;I guess I have to take this Matador out myself before he does too much damage.;
-BVIN001RA;Raz;That's an impressive house of cards you're building there.;หอคอยไพ่ที่นายกำลังสร้างนี่มันน่าประทับใจมาก
-BVIN002ED;Edgar;And still... not high enough to reach the sky, and free her from her prison.;แต่ก็ยัง... ไม่สูงพอที่จะถึงฟ้า และช่วยเธอออกมาจากคุกได้
+BVDO029LA;Lampita;Goooooooooo BULLS! Yeah! Wooo!;Goooooooooo BULLS! เย้! วู้!
+BVDO031RA;Raz;Edgar, listen. It's your rage that imprisons you, not them.;เอ็ดการ์ ฟังนะ ความโกรธของนายต่างหากที่กักขังนายไว้ ไม่ใช่พวกเขา
+BVDO032ED;Edgar;They stole my happiness, my life, the state semi finals, everything!;พวกมันขโมยความสุข ชีวิต รอบรองชนะเลิศระดับรัฐ ทุกสิ่งทุกอย่างของฉันไป!
+BVDO033ED;Edgar;Ahhhhhh!;อ๊ากกก!
+BVDO034RA;Raz;No, wait! Edgar!;ไม่นะ เดี๋ยว! เอ็ดการ์!
+BVDO035LA;Lampita;Olé!;Olé!
+BVDO036DI;Dingo;Ha ha ha! He never learns!;ฮ่าๆๆ! ไม่เคยจำเลย!
+BVDO037RA;Raz;I guess I have to take this Matador out myself before he does too much damage.;สงสัยฉันคงต้องจัดการมาธาดอร์นี่เอง ก่อนที่เขาจะทำอะไรเสียหายไปมากกว่านี้
+BVIN001RA;Raz;That's an impressive house of cards you're building there.;หอคอยไพ่ที่นายกำลังสร้างนี่ น่าประทับใจมาก
+BVIN002ED;Edgar;And still... not high enough to reach the sky, and free her from her prison.;แต่ก็ยัง... ไม่สูงพอที่จะถึงฟ้า และช่วยเธอจากคุกได้
 BVIN003RA;Raz;Who is she?;เธอเป็นใครเหรอ?
-BVIN004ED;Edgar;I--I do not know.;
+BVIN004ED;Edgar;I--I do not know.;ฉะ--ฉันไม่รู้
 BVIN005ED;Edgar;I only know that she is beautiful, perfect, and sad.;ฉันรู้แค่ว่าเธอสวยงาม สมบูรณ์แบบ และโศกเศร้า
-BVIN006ED;Edgar;All day she cries rose petal tears, and I can do nothing to help her because my creation... lacks something.;ทุกวันเธอเอาแต่ร้องไห้เป็นกลีบกุหลาบ และฉันทำอะไรไม่ได้เลย เพราะสิ่งที่ฉันสร้าง... มันขาดอะไรไปบางอย่าง
-BVIN007ED;Edgar;And it will not stand against the bull.;และมันคงไม่สามารถยืนหยัดต่อสู้กับกระทิงได้
+BVIN006ED;Edgar;All day she cries rose petal tears, and I can do nothing to help her because my creation... lacks something.;เธอร้องไห้เป็นกลีบกุหลาบทั้งวัน แต่ฉันทำอะไรไม่ได้เลย เพราะสิ่งที่ฉันสร้าง... มันขาดอะไรไปบางอย่าง
+BVIN007ED;Edgar;And it will not stand against the bull.;และมันยืนหยัดต่อสู้กับกระทิงไม่ได้
 BVIN008RA;Raz;What bull?;กระทิงอะไร?
 BVIN009ED;Edgar;El Odio.;เอล โอดีโอ
-BVIN010RA;Raz;Okay, don't take this the wrong way, but I don't think you're working with a full deck here.;
+BVIN010RA;Raz;Okay, don't take this the wrong way, but I don't think you're working with a full deck here.;อย่าโกรธนะ แต่ฉันว่านายสติไม่ค่อยดีเท่าไหร่แล้วนะเนี่ย
 BVIN011ED;Edgar;Somewhere along the way I feel that I lost something important, but I do not know;ระหว่างทาง ฉันรู้สึกว่าฉันทำอะไรบางอย่างที่สำคัญหายไป แต่ฉันไม่รู้ว่า...
-BVIN012RA;Raz;I think it's your queens. You want me to go look for them?;ฉันว่ามันคือควีนของนายน่ะ นายอยากให้ฉันไปหาไพ่พวกนั้นมาให้ไหม?
+BVIN012RA;Raz;I think it's your queens. You want me to go look for them?;ฉันว่ามันคือควีนของนาย นายอยากให้ฉันไปหามาให้ไหม?
 BVIN013ED;Edgar;Bring me any cards you find! I must complete this tower!;เอาไพ่ใบไหนมาให้ฉันก็ได้! ฉันต้องสร้างหอคอยนี้ให้เสร็จ!
-BVOS001ED;Edgar;Snort.;
-BVOS002ED;Edgar;Rarr.;
-BVOS004ED;Edgar;Snoorrrrrt.;
-BVOS005ED;Edgar;Grunt.;
-BVOT001LA;Lampita;I knew you would save me some day.;ฉันรู้ว่านายต้องมาช่วยฉันในสักวัน
-BVOT002LA;Lampita;He just won't let me go. Tell me, how did you kill him?;เขาจะไม่ปล่อยวันฉันไป บอกฉันสิ นายฆ่าเขาได้ยังไง?
+BVOS001ED;Edgar;Snort.;(เสียงในคอ)
+BVOS002ED;Edgar;Rarr.;Rarr.
+BVOS004ED;Edgar;Snoorrrrrt.;(คว๊ากกก)
+BVOS005ED;Edgar;Grunt.;เฮอะ
+BVOT001LA;Lampita;I knew you would save me some day.;ฉันรู้ว่านายจะต้องมาช่วยฉันสักวัน
+BVOT002LA;Lampita;He just won't let me go. Tell me, how did you kill him?;เขาไม่ยอมปล่อยฉันไป บอกฉันสิ นายฆ่าเขาได้ยังไง?
 BVOT003RA;Raz;Kill who?;ฆ่าใคร?
 BVOT005RA;Raz;I didn't.;ฉันเปล่าฆ่านะ
 BVOT006RA;Raz;Edgar?;เอ็ดการ์เหรอ?
-BVOT007ED;Edgar;Rrrrrr! Rrrrrr!;
+BVOT007ED;Edgar;Rrrrrr! Rrrrrr!;Rrrrrr! Rrrrrr!
 BVVI001DI;Dingo;Ooof!;อุ๊ฟ!
-BVVI002LA;Lampita;Ah-hoo hoo!;Ah-hoo hoo!
-BVVI003RA;Raz;Wait!;
-BVVI004LA;Lampita;It's... all right... it's okay.;มัน...จะไม่เป็นไร...ทุกอย่างจะโอเค
-BVVI005LA;Lampita;We'll win the game... some... other... day oooh hooo hoo!;เราจะต้องชนะ...ใน...สักวันï¿½ oooh hooo hoo!
-BVVI006RA;Raz;Ug, please. Edgar, look at them. They're too pathetic to hurt you any more.;ขอเถอะ เอ็ดการ์ ดูพวกนั้นสิ พวกเขาอ่อนแอเกินกว่าจะมาทำร้ายนายได้อีกแล้วนะ
-BVVI007RA;Raz;Can't you just let it go?;นายจะปล่อยพวกเขาไปไม่ได้เหรอ?
-BVVI008ED;Edgar;How embarrassing. I can't believe I was hung up for so long over these losers.;"น่าอับอายจริง ๆ ฉันไม่อยากจะเชื่อว่าตัวเองมัวแต่สนใจขี้แพ้พวกนี้มานานขนาดนี้"""
-BVVI009LA;Lampita;Um... uh... I--I always loved you more?;เอ่อ... เอิ่ม... ฉะ--ฉันรักนายมากกว่าเสมอนะ?
-BVVI010LA;Lampita;Ahhhhhhhhhhhhhhhhh!;Ahhhhhhhhhhhhhhhhh!
-BVVI012LA;Lampita;(quiet sobbing);
-BVVI013DI;Dingo;Ahahahahaha!;
-BVVI014DI;Dingo;Ahhh-ah!;
-BVAP008RA;Raz;Eh, eh-eh. Eh, eh, eheh!;
-BVAH001AN;Announcer;As a reminder, no one's ever gonna beat Cobra without breaking his concentration;
-BVAH002AN;Announcer;That challenger needs to roll away from those aerial attacks!;
-BVAH003AN;Announcer;Unless that kid can fly, he'll never beat the Dragon roar;
-BVAH004AN;Announcer;Avoiding the Tiger Pounce requires some serious tumbling skills!;
-BVAJ001RA;Raz;I don't want to use that card here. A card laid is a card played.;
-BVAL001RA;Raz;OW!;
-BVAM003RA;Raz;Hey, uh, we really gotta get that billboard painted.;
-BVAM000BD;Bulldog;"Okay, man, here's the plan. Step one: I quit ""we."" Step two: ""We""--which is now just you--runs out there and gets killed painting the billboard.";
-BVAM004RA;Raz;Maybe I can distract the bull while you paint. It's so crazy it just might work.;
-BVAM001BD;Bulldog;Or maybe it's so crazy that it's just extra crazy. There's absolutely no way I'm going out there, man.;
-BVAM005RA;Raz;C'mon, you're a bulldog! Show some backbone. Plus, who wants to go for a walk? Who wants to go for a walk?;
-BVAM002BD;Bulldog;Stupid. Dog. Brain. RRRRRR. ACK. Alright, let's go!;
-BVAM006RA;Raz;"Great! When I say ""Go boy!"" get moving!";
-BVAN001AN;Announcer;"Next up: Junior King ""Kong"" Cobra!";
-BVAN003AN;Announcer;Introducing--fresh from the Thrilla in Manilla, Iowa--;
-BVAN004AN;Announcer;Introducing--fresh from an astonishing victory at the Killings in Billings--;
-BVAN005AN;Announcer;Introducing--back from a crushing victory at Someone Might Lose a Tooth in Duluth--;
-BVAN008AN;Announcer;TIGER!;
-BVAN009AN;Announcer;DRAGON!;
-BVAN010AN;Announcer;EAGLE!;
-BVAN011AN;Announcer;KING 'KONG' COBRA!;
-BVAN012AN;Announcer;FIGHT!;
-BVAN013AN;Announcer;WRESTLE!;
-BVBI007RA;Raz;Go boy!;
-BVBI002BD;Bulldog;I think it turned out pretty well. On the other hand, I'm color blind.;
-BVBI000BD;Bulldog;NO! The painting's ruined!;
-BVBI001BD;Bulldog;Oh, that's the biggest squirrel I've ever seen. Out of my way, kid!;
-BVBM000RA;Raz;You look pretty jumpy. What's the problem?;
-BVBM002BD;Bulldog;I'm supposed to paint an ad for the big fight between Dingo the Matador and the town bull. Only the bull's on a rampage right through where the painting needs to go.;
-BVBM002RA;Raz;Oooo, Dingo the Matador? I need to talk to him!;
-BVBM004BD;Bulldog;His apartment's right upstairs. While you're there, maybe you can convince him to take care of the bull.;
-BVBM007BD;Bulldog;The devil cat has horns!!!! AHHHHHH! AHHHHHH!;
-BVCI000CB;Cobra;Hey Edgar, nice headgear.  Freak.;
-BVCI014RA;Raz;What?;
-BVCI001CB;Cobra;What? You suck, Teglee. You can't beat me. Coach says I can't be beat. Coach says I got mental toughness. You can't break my concentration, wimp.;
-BVCI015RA;Raz;Hey, I'm not Edgar.;
-BVCI002CB;Cobra;Yeah, you're gonna wish you're not Edgar when I'm through.;
-BVCI016RA;Raz;Look, I am NOT Edgar Teglee.  My name's Raz.  I'm a Psychonaut.;
-BVCI003CB;Cobra;You're an idiot, Smeglee. Coach says your psycho girl-crazy lack of focus cost you states.;
-BVCI017RA;Raz;Seriously, I don't want to have to hurt you.;
-BVCI004CB;Cobra;Well since you'd have to break my concentration to even touch me, and since you can't break my concentration, I guess you won't be too disappointed then.;
-BVCO000CL;Collie;What? I can't BELIEVE you're not buying that beautiful painting.;
-BVCO001CL;Collie;Yes, I guess it's hard to look at just one when you're at a delicious smorgasbord such as this!;
-BVCO002CL;Collie;Hup. Where'd you go?;
-BVCO003CL;Collie;Oh, this one's good too!;
-BVCO004CL;Collie;Oh, there you are!;
-BVCO000RA;Raz;I'll take it!;
-BVCO005CL;Collie;(gasp);
-BVCO006CL;Collie;Oh, I don't know if I can let it go!;
-BVCO007CL;Collie;Oh all right. If you're going to give me that puppy dog look!;
-BVCO008CL;Collie;Okay, number one: I am an ARTIST. Don't speak to me of BUSINESS.;
-BVCO009CL;Collie;Number two: True beauty is priceless.;
-BVCO010CL;Collie;Number three: Yes. Come...;
-BVCO011CL;Collie;Sorry but my priceless art has been sold off, cheap, much like the years of my youth.;
-BVCO078CL;Collie;My priceless art has been sold off, cheap, much like the years of my youth.;
-BVCO012CL;Collie;Thank god. I felt like I was being looted.;
-BVCO013CL;Collie;(cough) Pearls before swine. (cough);
-BVCO014CL;Collie;Nothing.;
-BVCO015CL;Collie;Now then, you will, of course, want something else.;
-BVCO002RA;Raz;Hey, how's business? Can I buy some art?;
-BVCO003RA;Raz;Yeah, I saw another dog selling art up the street. Are you guys a chain?;
-BVCO004RA;Raz;Why don't you guys just make a run for it?;
-BVCO016RA;Raz;Could you tell me again about your dog friends?;
-BVCO005RA;Raz;Hey, can you fight bulls? I have a bull problem.;
-BVCO006RA;Raz;Who CAN do it? Who can fight El Odio?;
-BVCO007RA;Raz;Why won't they ask Dingo to help? Is he expensive?;
-BVCO008RA;Raz;WHAT? What happened between Dingo and Edgar?;
-BVCO009RA;Raz;COME ON! Tell me! What's the big scandal???;
-BVCO011RA;Raz;Okay, I bought some art. Now give me the dirt on Dingo.;
-BVCO012RA;Raz;Whoa. That's a great story. You should do a painting about it.;
-BVCO013RA;Raz;I think that Dingo sounds like a jerk.;
-BVCO014RA;Raz;Must be tough.;
-BVCO015RA;Raz;Gotta go.;
-BVCO077CL;Collie;Shoo, get out of here.  Don't bother my customers!;
-BVCO016CL;Collie;Ah, you have met my compadres. When we were young art dogs we would run wild in the street together.;
-BVCO017CL;Collie;But now...;
-BVCO018CL;Collie;You couldn't understand.;
-BVCO019CL;Collie;El Odio imprisons us all. Art is the only escape.;
-BVCO020CL;Collie;And today is the only day...;
-BVCO021CL;Collie;...that it's going to be this cheap. All these prices go up tomorrow because of tourist season.;
-BVCO022CL;Collie;Sorry.;
-BVCO023CL;Collie;Artist here.;
-BVCO024CL;Collie;Delicate hands.;
-BVCO025CL;Collie;And anyway, if you are talking about El Odio, well...;
-BVCO026CL;Collie;There is, of course, only one man who could handle that much bull.;
-BVCO027CL;Collie;I speak of no other than Dingo Inflagrante...;
-BVCO028CL;Collie;...the infamous Matador playboy.;
-BVCO029CL;Collie;Alas, they would never ask him to help. Not in a million years!;
-BVCO030CL;Collie;No. Because of what happened between him and Edgar. Quite a scandal.;
-BVCO031CL;Collie;Tragedy. Betrayal.;
-BVCO032CL;Collie;Art.;
-BVCO033CL;Collie;Love.;
-BVCO034CL;Collie;Pain.;
-BVCO035CL;Collie;Nothing you want to know about.;
-BVCO036CL;Collie;Listen, I deal in truth and beauty, not dirt.;
-BVCO037CL;Collie;But...;
-BVCO038CL;Collie;Maybe if you had bought some art...;
-BVCO039CL;Collie;...then I'd have to come up with some small talk while we're making change, and, you know;
-BVCO040CL;Collie;Mmmm...hmmhmmm...;
-BVCO041CL;Collie;Okay, here's how I heard it.;
-BVCO042CL;Collie;Years ago, when Edgar was a world-renowned painter, he was commissioned by Dingo to immortalize him in black velvet.;
-BVCO043CL;Collie;But while he was sitting for the portrait, Dingo met Edgar's beautiful wife.;
-BVCO044CL;Collie;Who was none other than the top Flamenco dancer Lampita Pasionado!;
-BVCO045CL;Collie;He seduced the dancer, and the two ran off together, leaving Edgar with the unfinished painting...;
-BVCO046CL;Collie;...and a broken heart.;
-BVCO047CL;Collie;Since then, Edgar thinks of nothing but the treacherous pair...;
-BVCO048CL;Collie;...and since then our streets have been ruled by...;
-BVCO049CL;Collie;...El Odio!;
-BVCO050CL;Collie;Yes, that's what we need around here. Some paintings of Dingo and bulls, yeah. Good idea.;
-BVCO051CL;Collie;Ah, he gets an unfair rap because of his looks.;
-BVCO052CL;Collie;As a Collie, I know how hard it is to be resented for your beauty.;
-BVCO053CL;Collie;It's like being forced to wear a golden robe with a diamond 'kick me' sign on the back.;
-BVCO054CL;Collie;Eh. I work it out through my painting.;
-BVCO055CL;Collie;Be good.;
-BVCO056CL;Collie;Since I am trapped here, I like to paint far away island scenes as an escape.;
-BVCO057CL;Collie;Like this adorable tiki hut.;
-BVCO058CL;Collie;Do you think tiki is a fun word to say? I do.;
-BVCO059CL;Collie;I love this painting.;
-BVCO060CL;Collie;Look at the brushwork!;
-BVCO061CL;Collie;I love it so much, if it didn't have it's backside up against the wall, I would sniff it!;
-BVCO062CL;Collie;Yes. A thing of beauty is a joy forever, but... prices like these cannot last.;
-BVCO063CL;Collie;Now that I look at it... I'm not sure if it's for sale at all. It might be too good. I might have to keep it.;
-BVCO064CL;Collie;It's almost as beautiful as me, you have to admit.;
-BVCO065CL;Collie;Please don't breathe directly on this painting. It is very valuable.;
-BVCO066CL;Collie;I cannot look at this painting for too long, or I will cry with joy.;
-BVCO067CL;Collie;Outstanding. That's all I can say.;
-BVCO068CL;Collie;No offense, but you are not good enough for this piece. Please, please do not buy it.;
-BVCO069CL;Collie;I was playing with spatial relationships here.;
-BVCO070CL;Collie;Well, I 'played' in the same way that Beethoven 'played' with dissonance in the 'Eroica Symphony, if you follow me.;
-BVCO071CL;Collie;This one is... well... more of a tone poem.;
+BVVI002LA;Lampita;Ah-hoo hoo!;อา-ฮู ฮู!
+BVVI003RA;Raz;Wait!;เดี๋ยวก่อน!
+BVVI004LA;Lampita;It's... all right... it's okay.;ไม่... เป็นไร... ไม่เป็นไร
+BVVI005LA;Lampita;We'll win the game... some... other... day oooh hooo hoo!;เราจะต้องชนะ...ใน...สักวัน... อู้ว ฮู ฮู!
+BVVI006RA;Raz;Ug, please. Edgar, look at them. They're too pathetic to hurt you any more.;ขอเถอะ เอ็ดการ์ ดูพวกเขาสิ พวกเขาอ่อนแอ เกินกว่าจะทำร้ายนายได้อีกแล้ว
+BVVI007RA;Raz;Can't you just let it go?;ปล่อยพวกเขาไปไม่ได้เหรอ?
+BVVI008ED;Edgar;How embarrassing. I can't believe I was hung up for so long over these losers.;น่าอายจริง ฉันไม่อยากจะเชื่อเลยว่าฉันมัวแต่สนใจพวกขี้แพ้พวกนี้นานขนาดนี้
+BVVI009LA;Lampita;Um... uh... I--I always loved you more?;เอ่อ...เอ่อ... ฉะ--ฉันรักนายมากกว่าเสมอนะ?
+BVVI010LA;Lampita;Ahhhhhhhhhhhhhhhhh!;กรี๊ดดดดดดดดดดดด!
+BVVI012LA;Lampita;(quiet sobbing);(สะอื้นเบาๆ)
+BVVI013DI;Dingo;Ahahahahaha!;อาฮ่าๆๆๆ!
+BVVI014DI;Dingo;Ahhh-ah!;อ๊า-อา!
+BVAP008RA;Raz;Eh, eh-eh. Eh, eh, eheh!;เอ๊ะ เอ๊ เอ้ เอ เอ๊ เอเห้!
+BVAH001AN;Announcer;As a reminder, no one's ever gonna beat Cobra without breaking his concentration;ขอแจ้งให้ทราบอีกครั้งว่า ไม่มีใครสามารถเอาชนะ นักสู้งู ได้ ถ้าไม่ทำลายสมาธิของเขา
+BVAH002AN;Announcer;That challenger needs to roll away from those aerial attacks!;ผู้ท้าชิงคนนั้นต้องหลบการโจมตีทางอากาศให้ได้!
+BVAH003AN;Announcer;Unless that kid can fly, he'll never beat the Dragon roar;ถ้าเด็กคนนั้นบินไม่ได้ เขาจะไม่มีวันชนะเสียงคำรามของ นักสู้มังกร ได้เลย
+BVAH004AN;Announcer;Avoiding the Tiger Pounce requires some serious tumbling skills!;การหลบการตะครุบของ นักสู้เสือ ต้องใช้ทักษะการกลิ้งตัวขั้นเทพ!
+BVAJ001RA;Raz;I don't want to use that card here. A card laid is a card played.;ฉันไม่อยากใช้ไพ่ใบนี้ที่นี่ ไพ่ที่วางลงไปแล้ว ก็คือไพ่ที่เล่นไปแล้ว
+BVAL001RA;Raz;OW!;โอ๊ย!
+BVAM003RA;Raz;Hey, uh, we really gotta get that billboard painted.;นี่ พวกเราต้องรีบไปทาสีป้ายโฆษณานั่นนะ
+BVAM000BD;Bulldog;"Okay, man, here's the plan. Step one: I quit ""we."" Step two: ""We""--which is now just you--runs out there and gets killed painting the billboard.";"โอเค เพื่อน นี่คือแผน ขั้นตอนที่หนึ่ง: ฉันขอลาออกจาก ""พวกเรา"" ขั้นตอนที่สอง: ""พวกเรา""--ซึ่งตอนนี้ก็คือนายนั่นแหละ--วิ่งออกไปทาสีป้ายโฆษณาแล้วก็โดนกระทิงขวิดตาย"
+BVAM004RA;Raz;Maybe I can distract the bull while you paint. It's so crazy it just might work.;บางทีฉันอาจจะล่อกระทิงให้ไปทางอื่นขณะที่นายทาสี มันอาจจะบ้าไปหน่อย แต่มันก็อาจจะเวิร์คก็ได้นะ
+BVAM001BD;Bulldog;Or maybe it's so crazy that it's just extra crazy. There's absolutely no way I'm going out there, man.;หรือไม่มันก็อาจจะบ้าเกินไปจนไม่รู้จะบ้ายังไงแล้ว ฉันไม่มีทางออกไปตรงนั้นเด็ดขาด เว้ย
+BVAM005RA;Raz;C'mon, you're a bulldog! Show some backbone. Plus, who wants to go for a walk? Who wants to go for a walk?;น่า นายเป็น บูลด็อก นะ! แสดงความกล้าหาญหน่อยสิ แถมใครอยากไปเดินเล่นบ้าง? ใครอยากไปเดินเล่น?
+BVAM002BD;Bulldog;Stupid. Dog. Brain. RRRRRR. ACK. Alright, let's go!;โง่เอ๊ย หมาเอ๊ย สมองหมา RRRRRR แอ้ก โอเค ไปก็ไป!
+BVAM006RA;Raz;"Great! When I say ""Go boy!"" get moving!";"เยี่ยม! พอฉันพูดว่า ""ไปเลยเพื่อน!"" นายก็รีบวิ่งเลยนะ!"
+BVAN001AN;Announcer;"Next up: Junior King ""Kong"" Cobra!";"ต่อไป ขอเชิญพบกับ จูเนียร์ คิง ""คอง"" นักสู้งู!"
+BVAN003AN;Announcer;Introducing--fresh from the Thrilla in Manilla, Iowa--;ขอแนะนำ สดๆ ร้อนๆ จาก Thrilla in Manilla, Iowa--
+BVAN004AN;Announcer;Introducing--fresh from an astonishing victory at the Killings in Billings--;ขอแนะนำ สดๆ ร้อนๆ จากชัยชนะอันน่าทึ่งที่ Killings in Billings--
+BVAN005AN;Announcer;Introducing--back from a crushing victory at Someone Might Lose a Tooth in Duluth--;ขอแนะนำ กลับมาจากการคว้าชัยชนะอย่างท่วมท้นที่ Someone Might Lose a Tooth in Duluth--
+BVAN008AN;Announcer;TIGER!;นักสู้เสือ!
+BVAN009AN;Announcer;DRAGON!;นักสู้มังกร!
+BVAN010AN;Announcer;EAGLE!;นักสู้เหยี่ยว!
+BVAN011AN;Announcer;KING 'KONG' COBRA!;คิง 'คอง' นักสู้งู!
+BVAN012AN;Announcer;FIGHT!;สู้!
+BVAN013AN;Announcer;WRESTLE!;ปล้ำ!
+BVBI007RA;Raz;Go boy!;ไปเลยเพื่อน!
+BVBI002BD;Bulldog;I think it turned out pretty well. On the other hand, I'm color blind.;ฉันว่ามันออกมาดูดีเลยนะ แต่ในอีกด้านหนึ่ง ฉันมันตาบอดสีน่ะ
+BVBI000BD;Bulldog;NO! The painting's ruined!;ไม่นะ! ภาพวาดพังหมดแล้ว!
+BVBI001BD;Bulldog;Oh, that's the biggest squirrel I've ever seen. Out of my way, kid!;โอ้ นั่นมันกระรอกที่ตัวใหญ่ที่สุดเท่าที่ฉันเคยเห็นมาเลยนะ หลีกทางหน่อย ไอ้หนู!
+BVBM000RA;Raz;You look pretty jumpy. What's the problem?;ดูนายท่าทางกระวนกระวายนะ มีปัญหาอะไรเหรอ?
+BVBM002BD;Bulldog;I'm supposed to paint an ad for the big fight between Dingo the Matador and the town bull. Only the bull's on a rampage right through where the painting needs to go.;ฉันต้องทาสีโฆษณาสำหรับการต่อสู้ครั้งใหญ่ระหว่าง ดิงโก้ มาธาดอร์ กับกระทิงประจำเมือง แต่กระทิงตัวนั้นกำลังอาละวาดไปทั่วบริเวณที่จะต้องทาสี
+BVBM002RA;Raz;Oooo, Dingo the Matador? I need to talk to him!;โอ้ ดิงโก้ มาธาดอร์เหรอ? ฉันต้องคุยกับเขาซะแล้ว!
+BVBM004BD;Bulldog;His apartment's right upstairs. While you're there, maybe you can convince him to take care of the bull.;ห้องพักของเขาอยู่ชั้นบนนั่นแหละ ถ้านายไปหาเขา ก็ลองชวนเขาให้ช่วยจัดการกระทิงนั่นหน่อยสิ
+BVBM007BD;Bulldog;The devil cat has horns!!!! AHHHHHH! AHHHHHH!;แมวปีศาจมีเขา!!!! กรี๊ดดดดดด! กรี๊ดดดดด!
+BVCI000CB;Cobra;Hey Edgar, nice headgear.  Freak.;ไง เอ็ดการ์ หมวกสวยดีนะ ไอ้ประหลาด
+BVCI014RA;Raz;What?;อะไรนะ?
+BVCI001CB;Cobra;What? You suck, Teglee. You can't beat me. Coach says I can't be beat. Coach says I got mental toughness. You can't break my concentration, wimp.;อะไร นายมันห่วยแตก เตกลี นายไม่มีทางชนะฉันได้ โค้ช บอกว่าฉันไม่มีใครเอาชนะได้ โค้ช บอกว่าฉันมีความแข็งแกร่งทางจิตใจ นายไม่มีทางทำลายสมาธิฉันได้ ไอ้ขี้แพ้
+BVCI015RA;Raz;Hey, I'm not Edgar.;นี่ ฉันไม่ใช่ เอ็ดการ์ นะ
+BVCI002CB;Cobra;Yeah, you're gonna wish you're not Edgar when I'm through.;ใช่ นายจะต้องเสียใจที่ไม่ใช่ เอ็ดการ์ แน่ๆ พอฉันจัดการนายเสร็จ
+BVCI016RA;Raz;Look, I am NOT Edgar Teglee.  My name's Raz.  I'm a Psychonaut.;ฟังนะ ฉันไม่ใช่ เอ็ดการ์ เตกลี ชื่อของฉันคือ แรซ ฉันเป็นนักพลังจิต
+BVCI003CB;Cobra;You're an idiot, Smeglee. Coach says your psycho girl-crazy lack of focus cost you states.;นายมันไอ้โง่ สเมกลี โค้ช บอกว่า ความบ้าผู้หญิงของนายทำให้ไม่มีสมาธิ และทำให้นายพลาดแชมป์ระดับรัฐไป
+BVCI017RA;Raz;Seriously, I don't want to have to hurt you.;พูดจริงนะ ฉันไม่อยากทำร้ายนายเลย
+BVCI004CB;Cobra;Well since you'd have to break my concentration to even touch me, and since you can't break my concentration, I guess you won't be too disappointed then.;ก็ในเมื่อนายจะต้องทำลายสมาธิของฉันเพื่อที่จะแตะตัวฉันได้ แต่ในเมื่อนายทำลายสมาธิของฉันไม่ได้ ฉันว่านายคงจะไม่ผิดหวังมากเท่าไหร่หรอก
+BVCO000CL;Collie;What? I can't BELIEVE you're not buying that beautiful painting.;อะไรนะ? ฉันไม่อยากจะเชื่อเลยว่านายจะไม่ซื้อภาพวาดที่สวยงามภาพนั้น
+BVCO001CL;Collie;Yes, I guess it's hard to look at just one when you're at a delicious smorgasbord such as this!;ใช่ ฉันว่ามันคงยากที่จะมองแค่ภาพเดียว ในเมื่อที่นี่มีภาพสวยๆ ให้เลือกมากมายขนาดนี้!
+BVCO002CL;Collie;Hup. Where'd you go?;ฮึ้บ นายหายไปไหนแล้ว?
+BVCO003CL;Collie;Oh, this one's good too!;โอ้ ภาพนี้ก็ดีเหมือนกัน!
+BVCO004CL;Collie;Oh, there you are!;โอ้ นี่ไงนาย!
+BVCO000RA;Raz;I'll take it!;ผมเอาภาพนี้ครับ!
+BVCO005CL;Collie;(gasp);(อุทาน)
+BVCO006CL;Collie;Oh, I don't know if I can let it go!;โอ้ ฉันไม่รู้ว่าฉันจะปล่อยมันไปได้รึเปล่านะ!
+BVCO007CL;Collie;Oh all right. If you're going to give me that puppy dog look!;โอ้ ก็ได้ ถ้า นายจะมองฉันด้วยสายตาแบบลูกหมาแบบนั้นน่ะนะ!
+BVCO008CL;Collie;Okay, number one: I am an ARTIST. Don't speak to me of BUSINESS.;โอเค ข้อแรก: ฉันเป็นศิลปิน อย่ามาพูดเรื่องธุรกิจกับฉัน
+BVCO009CL;Collie;Number two: True beauty is priceless.;ข้อสอง: ความงามที่แท้จริงนั้นประเมินค่าไม่ได้
+BVCO010CL;Collie;Number three: Yes. Come...;ข้อสาม: ใช่ เข้ามาเลย...
+BVCO011CL;Collie;Sorry but my priceless art has been sold off, cheap, much like the years of my youth.;เสียใจด้วยนะ แต่ผลงานศิลปะที่ประเมินค่าไม่ได้ของฉันขายออกไปหมดแล้ว ในราคาถูกๆ เหมือนกับช่วงเวลาในวัยเยาว์ของฉันเลย
+BVCO078CL;Collie;My priceless art has been sold off, cheap, much like the years of my youth.;ผลงานศิลปะที่ประเมินค่าไม่ได้ของฉันขายออกไปหมดแล้ว ในราคาถูกๆ เหมือนกับช่วงเวลาในวัยเยาว์ของฉันเลย
+BVCO012CL;Collie;Thank god. I felt like I was being looted.;ขอบคุณพระเจ้า ฉันรู้สึกเหมือนโดนปล้นเลย
+BVCO013CL;Collie;(cough) Pearls before swine. (cough);(ไอ) เอาไข่มุกให้สุกร (ไอ)
+BVCO014CL;Collie;Nothing.;ไม่มีอะไร
+BVCO015CL;Collie;Now then, you will, of course, want something else.;แล้วทีนี้ แน่นอนว่า นายคงอยากได้อะไรอย่างอื่นอีก
+BVCO002RA;Raz;Hey, how's business? Can I buy some art?;สวัสดีครับ เป็นยังไงบ้าง ขายดีไหม ผมขอซื้อภาพหน่อยได้ไหมครับ?
+BVCO003RA;Raz;Yeah, I saw another dog selling art up the street. Are you guys a chain?;ครับ ผมเห็นหมาอีกตัวขายรูปอยู่บนถนน พวกคุณเป็นเครือข่ายเดียวกันเหรอครับ?
+BVCO004RA;Raz;Why don't you guys just make a run for it?;ทำไมนายไม่หนีไปซะล่ะ?
+BVCO016RA;Raz;Could you tell me again about your dog friends?;เล่าเรื่องเพื่อนหมาของนายให้ฟังอีกทีได้ไหม?
+BVCO005RA;Raz;Hey, can you fight bulls? I have a bull problem.;นี่ นายสู้กับกระทิงได้ไหม? ฉันมีปัญหากับกระทิงน่ะ
+BVCO006RA;Raz;Who CAN do it? Who can fight El Odio?;ใครทำได้บ้าง? ใครสู้กับ เอล โอดีโอ ได้?
+BVCO007RA;Raz;Why won't they ask Dingo to help? Is he expensive?;ทำไมพวกเขาไม่ขอให้ ดิงโก้ ช่วยล่ะ? เขาเรียกค่าตัวแพงเหรอ?
+BVCO008RA;Raz;WHAT? What happened between Dingo and Edgar?;อะไรนะ? เกิดอะไรขึ้นระหว่าง ดิงโก้ กับ เอ็ดการ์ น่ะ?
+BVCO009RA;Raz;COME ON! Tell me! What's the big scandal???;เร็วเข้า! บอกมา! เรื่องอื้อฉาวอะไรกัน???
+BVCO011RA;Raz;Okay, I bought some art. Now give me the dirt on Dingo.;โอเค ผมซื้อรูปแล้ว ทีนี้บอกเรื่องแย่ๆ ของ ดิงโก้ มา
+BVCO012RA;Raz;Whoa. That's a great story. You should do a painting about it.;ว้าว เรื่องราวน่าทึ่งมาก นายควรจะวาดรูปเกี่ยวกับเรื่องนั้นนะ
+BVCO013RA;Raz;I think that Dingo sounds like a jerk.;ฉันว่า ดิงโก้ ฟังดูเหมือนคนแย่ๆ เลยนะ
+BVCO014RA;Raz;Must be tough.;คงจะยากน่าดู
+BVCO015RA;Raz;Gotta go.;ผมไปก่อนนะครับ
+BVCO077CL;Collie;Shoo, get out of here.  Don't bother my customers!;ชิ่ว ออกไปจากตรงนี้ อย่ามารบกวนลูกค้าของฉันนะ!
+BVCO016CL;Collie;Ah, you have met my compadres. When we were young art dogs we would run wild in the street together.;อ้อ นายคงเจอเพื่อนๆ ของฉันแล้วสินะ ตอนที่เรายังเป็นหมาศิลปะรุ่นเยาว์ เราจะวิ่งเล่นอย่างอิสระบนท้องถนนด้วยกัน
+BVCO017CL;Collie;But now...;แต่ตอนนี้...
+BVCO018CL;Collie;You couldn't understand.;นายคงไม่เข้าใจหรอก
+BVCO019CL;Collie;El Odio imprisons us all. Art is the only escape.;เอล โอดีโอ กักขังพวกเราทุกคนไว้ ศิลปะคือทางออกเดียว
+BVCO020CL;Collie;And today is the only day...;และวันนี้เป็นวันเดียวเท่านั้น...
+BVCO021CL;Collie;...that it's going to be this cheap. All these prices go up tomorrow because of tourist season.;...ที่ราคาจะถูกขนาดนี้ พรุ่งนี้ราคาจะขึ้นหมด เพราะเป็นฤดูท่องเที่ยวแล้ว
+BVCO022CL;Collie;Sorry.;เสียใจด้วยนะ
+BVCO023CL;Collie;Artist here.;ศิลปินอยู่นี่
+BVCO024CL;Collie;Delicate hands.;มือที่อ่อนโยน
+BVCO025CL;Collie;And anyway, if you are talking about El Odio, well...;และยังไงก็ตาม ถ้านายกำลังพูดถึง เอล โอดีโอ ล่ะก็...
+BVCO026CL;Collie;There is, of course, only one man who could handle that much bull.;แน่นอนว่ามีแค่คนเดียวเท่านั้นที่จะรับมือกับเรื่องแย่ๆ เหล่านั้นได้
+BVCO027CL;Collie;I speak of no other than Dingo Inflagrante...;ฉันกำลังพูดถึง ดิงโก้ อินฟลาแกรนเต้...
+BVCO028CL;Collie;...the infamous Matador playboy.;...มาธาดอร์จอมเจ้าชู้ผู้ฉาวโฉ่
+BVCO029CL;Collie;Alas, they would never ask him to help. Not in a million years!;แต่พวกเขาจะไม่มีวันขอให้เขาช่วยหรอก ไม่มีทาง!
+BVCO030CL;Collie;No. Because of what happened between him and Edgar. Quite a scandal.;ไม่มีทาง เพราะเรื่องที่เกิดขึ้นระหว่างเขากับ เอ็ดการ์ มันเป็นเรื่องอื้อฉาวมาก
+BVCO031CL;Collie;Tragedy. Betrayal.;โศกนาฏกรรม การทรยศ
+BVCO032CL;Collie;Art.;ศิลปะ
+BVCO033CL;Collie;Love.;ความรัก
+BVCO034CL;Collie;Pain.;ความเจ็บปวด
+BVCO035CL;Collie;Nothing you want to know about.;ไม่มีอะไรที่ นาย อยากรู้เกี่ยวกับเรื่องนั้นหรอก
+BVCO036CL;Collie;Listen, I deal in truth and beauty, not dirt.;ฟังนะ ฉันขายความจริงและความงาม ไม่ใช่เรื่องแย่ๆ
+BVCO037CL;Collie;But...;แต่ว่า...
+BVCO038CL;Collie;Maybe if you had bought some art...;บางทีถ้านายซื้อรูปไปบ้าง...
+BVCO039CL;Collie;...then I'd have to come up with some small talk while we're making change, and, you know;...ฉันก็คงต้องหาเรื่องคุยเล็กๆ น้อยๆ ตอนที่เรากำลังทอนเงินกัน แล้ว นาย ก็จะรู้...
+BVCO040CL;Collie;Mmmm...hmmhmmm...;อืม...หืม...
+BVCO041CL;Collie;Okay, here's how I heard it.;โอเค นี่คือเรื่องที่ฉันได้ยินมา
+BVCO042CL;Collie;Years ago, when Edgar was a world-renowned painter, he was commissioned by Dingo to immortalize him in black velvet.;เมื่อหลายปีก่อน ตอนที่ เอ็ดการ์ เป็นจิตรกรชื่อดังระดับโลก เขาได้รับการว่าจ้างจาก ดิงโก้ ให้วาดภาพเหมือนของเขาด้วยสีดำบนผ้ากำมะหยี่
+BVCO043CL;Collie;But while he was sitting for the portrait, Dingo met Edgar's beautiful wife.;แต่ในระหว่างที่เขากำลังนั่งให้วาดภาพเหมือน ดิงโก้ ก็ได้พบกับภรรยาที่สวยงามของ เอ็ดการ์
+BVCO044CL;Collie;Who was none other than the top Flamenco dancer Lampita Pasionado!;ซึ่งก็คือ แลมพิต้า พาซิโอนาโด นักเต้นฟลาเมงโก้ชื่อดัง!
+BVCO045CL;Collie;He seduced the dancer, and the two ran off together, leaving Edgar with the unfinished painting...;เขาหลอกล่อนักเต้นคนนั้น และทั้งคู่ก็หนีไปด้วยกัน ทิ้งให้ เอ็ดการ์ อยู่กับภาพวาดที่ยังไม่เสร็จ...
+BVCO046CL;Collie;...and a broken heart.;...และหัวใจที่แตกสลาย
+BVCO047CL;Collie;Since then, Edgar thinks of nothing but the treacherous pair...;ตั้งแต่นั้นมา เอ็ดการ์ ก็คิดถึงแต่คู่ทรยศคู่นั้น...
+BVCO048CL;Collie;...and since then our streets have been ruled by...;...และตั้งแต่นั้นมา ถนนของเราก็ถูกปกครองโดย...
+BVCO049CL;Collie;...El Odio!;...เอล โอดีโอ!
+BVCO050CL;Collie;Yes, that's what we need around here. Some paintings of Dingo and bulls, yeah. Good idea.;ใช่ นั่นแหละคือสิ่งที่เราต้องการแถวนี้ รูปวาดของ ดิงโก้ และกระทิง ใช่เลย ไอเดียดี
+BVCO051CL;Collie;Ah, he gets an unfair rap because of his looks.;อ่า เขาโดนตัดสินอย่างไม่ยุติธรรมเพราะรูปลักษณ์ภายนอกของเขา
+BVCO052CL;Collie;As a Collie, I know how hard it is to be resented for your beauty.;ในฐานะ คอลลี่ ฉันรู้ดีว่ามันยากแค่ไหนที่จะถูกเกลียดเพราะความสวยของตัวเอง
+BVCO053CL;Collie;It's like being forced to wear a golden robe with a diamond 'kick me' sign on the back.;มันเหมือนกับการถูกบังคับให้ใส่เสื้อคลุมสีทองที่มีป้ายเพชร 'เตะฉัน' ติดอยู่ด้านหลัง
+BVCO054CL;Collie;Eh. I work it out through my painting.;เอ้อ ฉันจัดการมันด้วยการวาดภาพ
+BVCO055CL;Collie;Be good.;ดูแลตัวเองด้วยนะ
+BVCO056CL;Collie;Since I am trapped here, I like to paint far away island scenes as an escape.;ในเมื่อฉันติดอยู่ที่นี่ ฉันก็เลยชอบวาดภาพทิวทัศน์เกาะที่อยู่ห่างไกลเพื่อเป็นการหลีกหนี
+BVCO057CL;Collie;Like this adorable tiki hut.;อย่างเช่น กระท่อมติ๊กิน่ารักหลังนี้
+BVCO058CL;Collie;Do you think tiki is a fun word to say? I do.; นาย คิดว่าคำว่า ติกิ เป็นคำที่สนุกที่จะพูดไหม? ฉันว่ามันสนุกนะ
+BVCO059CL;Collie;I love this painting.;ฉันรักภาพวาดนี้
+BVCO060CL;Collie;Look at the brushwork!;ดูเทคนิคการใช้แปรงสิ!
+BVCO061CL;Collie;I love it so much, if it didn't have it's backside up against the wall, I would sniff it!;ฉันรักมันมาก ถ้าด้านหลังของมันไม่ได้ติดกับผนัง ฉันจะดมมันเลย!
+BVCO062CL;Collie;Yes. A thing of beauty is a joy forever, but... prices like these cannot last.;ใช่ สิ่งที่สวยงามคือความสุขตลอดกาล แต่... ราคาระดับนี้คงอยู่ได้ไม่นานหรอก
+BVCO063CL;Collie;Now that I look at it... I'm not sure if it's for sale at all. It might be too good. I might have to keep it.;พอฉันมองมันอีกครั้ง... ฉันไม่แน่ใจว่ามันมีไว้ขายรึเปล่า มันอาจจะดีเกินไป ฉันอาจจะต้องเก็บมันไว้เอง
+BVCO064CL;Collie;It's almost as beautiful as me, you have to admit.;ก็ต้องยอมรับว่ามันเกือบจะสวยเท่าฉันเลยนะ
+BVCO065CL;Collie;Please don't breathe directly on this painting. It is very valuable.;ได้โปรดอย่าหายใจรดภาพวาดนี้นะ มันมีค่ามากเลย
+BVCO066CL;Collie;I cannot look at this painting for too long, or I will cry with joy.;ฉันมองภาพวาดนี้นานเกินไปไม่ได้ ไม่งั้นฉันจะร้องไห้ออกมาด้วยความสุข
+BVCO067CL;Collie;Outstanding. That's all I can say.;สุดยอด นี่คือทั้งหมดที่ฉันจะพูดได้
+BVCO068CL;Collie;No offense, but you are not good enough for this piece. Please, please do not buy it.;อย่าหาว่าอย่างนั้นอย่างนี้เลยนะ แต่นายยังดีไม่พอสำหรับงานชิ้นนี้ ได้โปรด อย่าซื้อมันไปเลย
+BVCO069CL;Collie;I was playing with spatial relationships here.;ฉันกำลังเล่นกับความสัมพันธ์เชิงพื้นที่อยู่น่ะ
+BVCO070CL;Collie;Well, I 'played' in the same way that Beethoven 'played' with dissonance in the 'Eroica Symphony, if you follow me.;"อืม ฉัน ""เล่น"" ในแบบเดียวกับที่บีโธเฟน ""เล่น"" กับความขัดแย้งใน ""Eroica Symphony"" ถ้านายตามฉันทันน่ะนะ"
+BVCO071CL;Collie;This one is... well... more of a tone poem.;อันนี้มัน... เอ่อ... เป็นเหมือนบทกวีมากกว่า
 BVCO072CL;Collie;What's important in this piece is not what I painted, but what I did NOT paint. Know what I mean?;"สิ่งที่สำคัญในงานชิ้นนี้ไม่ใช่สิ่งที่ฉันวาด แต่เป็นสิ่งที่ฉัน ""ไม่ได้วาด"" รู้ไหมว่าฉันหมายถึงอะไร?"
-BVCO073CL;Collie;Well, I guess I COULD let this one go...;
-BVCO074CL;Collie;Try to handle it only by the edges.;
-BVCO076CL;Collie;Step into my world of beauty.;
-BVCP016RA;Raz;Tell me that story about Dingo and Lampita again!;
-BVCR000CB;Cobra;You can't hurt me, Smeglee!;
-BVCR000RA;Raz;Look, mister, I AM NOT EDGAR TEGLEE!;
-BVDA082DA;Dalmatian;Get outta here you punks!  Leave my customer alone!;
-BVDA000DA;Dalmatian;What? You want more?;
-BVDA001DA;Dalmatian;Ha-huh.  Couldn't look at that one any more, ahh?;
-BVDA002DA;Dalmatian;Look, give it up. None of them are any good.;
-BVDA003DA;Dalmatian;Each one worse than the last...;
-BVDA004DA;Dalmatian;You're kidding.;
-BVDA001RA;Raz;No, I want it.;
-BVDA005DA;Dalmatian;Well, there's no accounting for taste I guess.;
-BVDA006DA;Dalmatian;Right this way!;
-BVDA007DA;Dalmatian;Sorry. I'm sold out.;
-BVDA008DA;Dalmatian;Oh, wait. To be honest, I'm NOT sorry about that. I am happy about that.;
-BVDA009DA;Dalmatian;You bought it all so YOU are the sorry one, my friend.;
-BVDA010DA;Dalmatian;Don't tell anyone who painted these, okay?;
-BVDA014DA;Dalmatian;Goooood riddance!;
-BVDA012DA;Dalmatian;Well, maybe you can write it off on your taxes as a loss.;
-BVDA013DA;Dalmatian;A catastrophic loss, even.;
-BVDA015DA;Dalmatian;Enjoy that!   Heeheeeheee.;
-BVDA016DA;Dalmatian;Well, with some luck, and a lot of self-abuse on your part, I have managed to sell out.;
-BVDA017DA;Dalmatian;My thanks to your poor judgment.;
-BVDA002RA;Raz;Hi. I want to buy a painting;
-BVDA003RA;Raz;No, really. I'd like some art.;
-BVDA004RA;Raz;You're going to turn away a paying customer?;
-BVDA005RA;Raz;Edgar Teglee sent me. You know, the famous painter? How about a discount?;
-BVDA006RA;Raz;Pfft, you don't give discounts? Or pffft, you don't think he's famous?;
-BVDA007RA;Raz;Hey, there's no shame in hiding from wrestlers. They're trouble. Especially the wild animal type.;
-BVDA008RA;Raz;No. I just meant wrestlers can be tough. I didn't mean you.;
-BVDA009RA;Raz;Yes. I would like to wrestle. Let's go.;
-BVDA010RA;Raz;Yeah, I want some art.;
-BVDA011RA;Raz;No, I want to talk about Edgar. Has he always had a problem with wrestlers?;
-BVDA012RA;Raz;Has Edgar always had a problem with wrestlers?;
-BVDA013RA;Raz;Why did he choke? Did they get him in one of those pile driver things?;
-BVDA014RA;Raz;How sad. Especially since it all happened to him again with Dingo and Lampita.;
-BVDA016RA;Raz;So tell me that again? Edgar was a bad wrestler?;
-BVDA015RA;Raz;See ya.;
-BVDA044DA;Dalmatian;No you don't.;
-BVDA045DA;Dalmatian;Came to the wrong place then. All we got here is junk.;
-BVDA046DA;Dalmatian;Hm. Your argument has many strong points.;
-BVDA047DA;Dalmatian;Especially around that area where you said the word paying;
-BVDA048DA;Dalmatian;I liked that.;
-BVDA050DA;Dalmatian;Well, I guess it might cheer up the joint to get rid of some of these eyesores outta here.;
-BVDA051DA;Dalmatian;Come on, I'll give you a tour of the atrocities. I just hope you got a strong stomach.;
-BVDA018DA;Dalmatian;Famous painter? Edgar?;
-BVDA019DA;Dalmatian;Pffft! Yeah, right!;
-BVDA020DA;Dalmatian;Look, I'm sorry, but eating lunch every day in the art teacher's room does not make you a famous painter.;
-BVDA021DA;Dalmatian;Anyway, he only did that to hide out from the school wrestling team.;
-BVDA022DA;Dalmatian;Oh, whaddya mean wild animals? Like dogs, eh?;
-BVDA023DA;Dalmatian;Oh, you got a problem with me now?;
-BVDA024DA;Dalmatian;Oh, you don't think I'm tough now?;
-BVDA025DA;Dalmatian;Why, 'cause I'm a Dalmatian?;
-BVDA026DA;Dalmatian;Hey, we can't all be St. Bernards and Bulldogs, you know!;
-BVDA027DA;Dalmatian;(Sigh.);
-BVDA028DA;Dalmatian;Look, man. Are you gonna buy something or what?;
-BVDA029DA;Dalmatian;No way. In fact, he used to be the captain of his high school wrestling team!;
-BVDA030DA;Dalmatian;He took them all the way to the state semi-finals one year, and then he...;
-BVDA031DA;Dalmatian;...he choked.;
-BVDA032DA;Dalmatian;Cost the team the entire match.;
-BVDA034DA;Dalmatian;No, Edgar's girlfriend Lana Panzoni dumped him after the first period for Dean Legrante, the head of her cheerleading squad.;
-BVDA035DA;Dalmatian;Teglee was worthless after that.;
-BVDA036DA;Dalmatian;The other team just tossed him around the rest of the day like a half sack of pork rinds.;
-BVDA037DA;Dalmatian;Oh, man. His squad hated him after that. The whole school did.;
-BVDA038DA;Dalmatian;Ohhhhhhh. Riiigggght.;
-BVDA039DA;Dalmatian;Yeah, they exist.;
-BVDA040DA;Dalmatian;Not made up at all, those two.;
-BVDA041DA;Dalmatian;Sheesh.;
-BVDA042DA;Dalmatian;Hey, I got some original Picassos over here if you're interested, by the way...;
-BVDA043DA;Dalmatian;Yes, run! Run from the horror!;
-BVDA049DA;Dalmatian;Thanks.;
-BVDA052DA;Dalmatian;Hey, I can call it that. You can't.;
-BVDA053DA;Dalmatian;Well, not until you pay for it at least.;
-BVDA054DA;Dalmatian;Okay what I was going for here was a creeping vine. The kind that grows up walls?;
-BVDA055DA;Dalmatian;But it just ended up looking like a truck driver's hairy back.;
-BVDA056DA;Dalmatian;But without the charisma.;
-BVDA057DA;Dalmatian;This, believe it or not, is supposed to be a rose.;
-BVDA058DA;Dalmatian;You know, if you gave a woman a rose that looked like this, she'd slap you.;
-BVDA059DA;Dalmatian;Ya see what I'm talking about?;
-BVDA060DA;Dalmatian;This stuff reeks.;
-BVDA061DA;Dalmatian;Ew.;
-BVDA062DA;Dalmatian;I recommend you don't look directly at this one. It is so awful, you could mess up your eyes.;
-BVDA063DA;Dalmatian;Ewww, so bad...;
-BVDA064DA;Dalmatian;Whoa! I forgot how crummy this one was.;
-BVDA065DA;Dalmatian;I can't believe I painted this.;
-BVDA066DA;Dalmatian;Ach!;
-BVDA067DA;Dalmatian;This one is so bad, someone should take a rolled-up newspaper and smack it.;
-BVDA068DA;Dalmatian;Seriously. What a load.;
-BVDA069DA;Dalmatian;This looks like electric clown barf in space.;
-BVDA070DA;Dalmatian;Terrible!;
-BVDA071DA;Dalmatian;Uhhh, uhhh I'm sorry you had to see this.;
-BVDA072DA;Dalmatian;Ug.;
-BVDA073DA;Dalmatian;I deserve to get my nose rubbed in this one.;
-BVDA074DA;Dalmatian;This painting reminds me of my grandpa's last year alive...;
-BVDA075DA;Dalmatian;...just one terrible stroke on top of another.;
-BVDA076DA;Dalmatian;Really, I should just take this one out back and bury it.;
-BVDA077DA;Dalmatian;Ech! Somebody light a match! This one really stinks.;
-BVDA078DA;Dalmatian;Woof! That's all I gotta say about that.;
-BVDA079DA;Dalmatian;Black velvet hasn't been abused like this since the last time Mom got drunk in her prom dress.;
-BVDA080DA;Dalmatian;Just awful!;
-BVDA081DA;Dalmatian;Bleech!;
-BVDI008RA;Raz;Yow. What's that smell?;
-BVDI000DR;Dragon;That smells like fear, boy!;
-BVDI009RA;Raz;Yeah... No, I mean that fart smell.;
-BVDI001DR;Dragon;That's fear! RAWRRRR!;
-BVDI010RA;Raz;No, I'm talking about an actual smell. It's like if stink bombs laid eggs and then those went bad.;
-BVDI002DR;Dragon;That's sulfur. It's part of the dragon costume, kid.;
-BVED000ED;Edgar;If you are curious about the load-bearing capacity of cardhouses, please conduct your experiments on SOMEONE ELSE'S HOUSE OF CARDS!;
-BVED001ED;Edgar;The cards are large, yes, but it is still a house of cards. KEEP OFF!;
-BVED002ED;Edgar;Jumping on the house of cards, stumbling into the house of cards, driving your glowing ball through the house of cards: none of these activities help me.;
-BVED003ED;Edgar;Please, boy, I must have those queens!;
-BVED004ED;Edgar;Perfect! One step closer... to her.;
-BVED005ED;Edgar;Ah, that is exactly the card I need!;
-BVED000RA;Raz;Wow. It looks like you can walk right up there now, Edgar.;
-BVED004RA;Raz;Here you go, Edgar.;
-BVED005RA;Raz;I got some cards for you, Edgar.;
-BVED006RA;Raz;This one was a real pain in the butt to get.;
-BVED007RA;Raz;I hope these things are worth it, Edgar.;
-BVEI000EA;Eagle;Ca-caw.;
-BVEI013RA;Raz;That's it? Ca--MAN! That's ss-;
-BVEI001EA;Eagle;Ca-caw. Ca-caw.;
-BVEQ002ED;Edgar;Thank you! I'll take any other cards you have as well.;
-BVHO000RA;Raz;Now that looks like a good place to hang a painting!;
-BVMB000BD;Bulldog;Oh my god, I'm deaf!;
-BVMB012RA;Raz;Can you hear me? You're getting sleepy.  But not too sleepy to go paint the billboard.;
-BVMB002BD;Bulldog;"What? Oh my god. Hey, ""god"" is ""dog"" spelled backwards!";
-BVMB003BD;Bulldog;"Whoa, whoa wait a minute. ""God"" is ""cat"" spelled backwards! Oh no. No no no no no.";
-BVMB004BD;Bulldog;I'm shaving just like daddy!;
-BVMB013RA;Raz;I think I solved your problem. Watch this.;
-BVMB000MA;Matador;I had my doubts, but--;
-BVMB001MA;Matador;But I'm right as usual. Really nice job, genius. Now go back out there and finish the job.;
-BVMI002MA;Matador;Ah, the towel boy.  Oh, it's you.  Get out.;
-BVMI001MA;Matador;I see the sign's not finished. That's what I get for trusting a bullfight to an eight year old.;
-BVMO000MA;Matador;Hmmm. It's not great.;
-BVMO001MA;Matador;But I suppose it's just barely good enough. Come see me if you still want your reward.;
-BVMO000RA;Raz;You know, your advice didn't work.;
-BVMO002MA;Matador;Really? Then here's some new advice: I don't know what you're talking about.;
-BVMO001RA;Raz;How about that reward?;
-BVMO003MA;Matador;Fine, then. One autograph.;
-BVMP005MA;Matador;Ah, you must be the towel boy!;
-BVMP008MA;Matador;You want an autograph? I don't just hand those out.;
-BVMP009MA;Matador;And that's a good lesson for you: anticipate disappointment. Take me: I'm the greatest bullfighter who's ever lived. Yet my upcoming match against the town bull has received virtually no marketing support.;
-BVMP010MA;Matador;A towering advertisement was supposed to have been painted just outside my window. But, as you can see, the job hasn't even been started.;
-BVMP005RA;Raz;I think that bull is trampling anyone who tries to paint on the wall. Maybe you could stop it.;
-BVMP011MA;Matador;Hmmm ...  so instead of challenging the bull before a stadium packed with screaming women, you want me to fight it on the street in front of one dog and one child wearing a crude towel boy disguise. That's a terrible idea.;
-BVRO005RA;Raz;I should find a proper hook for this painting, so it will come to life like that dog said.;
-BVRO000RA;Raz;I should give this rose to someone who'd appreciate it.;
-BVRO001RA;Raz;I'll bet there's a lonely lady out there somewhere who could use a little cheering up.;
-BVRO002RA;Raz;Maybe one of those ladies hiding behind the shutters?;
-BVST010RA;Raz;Hey, have you seen any REALLY BIG playing cards around here?;
-BVST012RA;Raz;I'd like to buy some more art.;
-BVST000SB;St.Bernard;No? Uh, okay.;
-BVST001SB;St.Bernard;Where'd ya go?;
-BVST003SB;St.Bernard;Moving right along...;
-BVST004SB;St.Bernard;Yeah, yeah. Check 'em all out of course. I got nowhere to go.;
-BVST005SB;St.Bernard;What? You don't say?;
-BVST006SB;St.Bernard;Heck! Alright then!;
-BVST007SB;St.Bernard;Really? Uh, uh, sure!;
-BVST008SB;St.Bernard;Hold on. Uh, let me get my salesman thing going here...;
-BVST009SB;St.Bernard;I'd love to, but I'm all sold out!;
-BVST010SB;St.Bernard;I guess my rep WAS right. This IS my year!;
-BVST068SB;St.Bernard;I'm all sold out!;
-BVST012SB;St.Bernard;Enjoy your new art there!;
-BVST013SB;St.Bernard;You hang that in just the right spot, I promise you it will really come to life for ya!;
-BVST011SB;St.Bernard;Oh, ok.;
-BVST016SB;St.Bernard;Struck out again.;
-BVST017SB;St.Bernard;Is it my painting? My salesmanship? Me?;
-BVST018SB;St.Bernard;Good, good, good.  There you go!;
-BVST019SB;St.Bernard;You want, like, a ribbon around that or something?  No?  Okay.;
-BVST020SB;St.Bernard;Made a good choice there I think.;
-BVST001RA;Raz;Hey, can I buy some art?;
-BVST003RA;Raz;I think I hate that bull a lot.;
-BVST004RA;Raz;Hi. Could you please paint me a big gun please?;
-BVST005RA;Raz;Okay, I'm off.;
-BVST006RA;Raz;Uh-huh. So, the cards? You know where they are?;
-BVST007RA;Raz;Those are exactly the cards I need! Where are they?;
-BVST011RA;Raz;Where did you say those cards were again?;
-BVST008RA;Raz;What do you mean trapped? Are you a prisoner of art just like Edgar?;
-BVST009RA;Raz;Okay, promise me you won't take this the wrong way, but you ARE a dog.;
-BVST021SB;St.Bernard;Oh, man. I wish.  That would solve that would solve a lot of my problems.;
-BVST022SB;St.Bernard;But no this is everything I know how to paint right here.;
-BVST023SB;St.Bernard;Man, that's embarrassing...;
-BVST024SB;St.Bernard;Now that takes me back. Poker night with the guys... Man, I miss those dogs.;
-BVST025SB;St.Bernard;Oh, right. Well, I do know about these four lost queens...;
-BVST026SB;St.Bernard;But that's all. Can't do much with four queens, can ya?;
-BVST027SB;St.Bernard;Forget about it! They're guarded by some pretty nasty characters. Not to mention El Odio.;
-BVST028SB;St.Bernard;You're better off just hanging out here and turning your head just a teensy bit to the left.;
-BVST029SB;St.Bernard;Oh, trust me. You'll hate him even more as time goes by. When he first trapped me in this alley, I thought he was only mildly annoying.;
-BVST030SB;St.Bernard;I'm a prisoner of that stupid bull!;
-BVST031SB;St.Bernard;I don't wanna get gored, so I hide out in the alley, like a...;
-BVST032SB;St.Bernard;...like a low-down dog!;
-BVST033SB;St.Bernard;Yeah but I'm a SAINT BERNARD, man!;
-BVST034SB;St.Bernard;I should be up in the highlands, above the tree line!;
-BVST035SB;St.Bernard;Keg of brandy around my friggin' neck! Seeing the world!;
-BVST036SB;St.Bernard;And finding more things to paint than this junk.;
-BVST037SB;St.Bernard;Which is all for sale by the way.;
-BVST038SB;St.Bernard;Well, see ya. Keep off the street now.;
-BVST039SB;St.Bernard;Ahem.;
-BVST040SB;St.Bernard;Ah, the guitar. Mysterious and musical and...;
-BVST041SB;St.Bernard;...blue. Look at it there, with it's;
-BVST042SB;St.Bernard;With it's strings. Uh;
-BVST043SB;St.Bernard;Nothing woos the ladies quite like a guitar, am I right?;
-BVST044SB;St.Bernard;(Am I? I really can't remember. Been in this alley a long time.);
-BVST045SB;St.Bernard;Anyway, how about it? Eh? Guitar? Yeah?;
-BVST046SB;St.Bernard;I'll make ya a special deal.;
-BVST047SB;St.Bernard;Yes, yes. Uhh, the rose...;
-BVST048SB;St.Bernard;Timeless symbol of the... of the... flower...;
-BVST049SB;St.Bernard;...of love...;
-BVST050SB;St.Bernard;Um... romance, and uh...;
-BVST051SB;St.Bernard;This one's real cheap.;
-BVST052SB;St.Bernard;Oh, that's a good'un.;
-BVST053SB;St.Bernard;Yep.;
-BVST054SB;St.Bernard;Got a lot of... undertones.;
-BVST055SB;St.Bernard;I painted this one with my left hand, not sure if you can tell.;
-BVST056SB;St.Bernard;Pretty sure that's gonna go up in value pretty soon.;
-BVST057SB;St.Bernard;Put this one in your front hall, maybe with a...;
-BVST058SB;St.Bernard;...like a little bowl of dried... you know... leaves, what have you.;
-BVST059SB;St.Bernard;Looks real nice. Seen it at my aunt's house.;
-BVST061SB;St.Bernard;Hey, what else can I get ya?;
-BVST062SB;St.Bernard;You can't have too much art, can ya?;
-BVST063SB;St.Bernard;Hold on. Let me get my salesman thing going here...;
-BVST064SB;St.Bernard;Darn. I was hoping for a lady.;
-BVST065SB;St.Bernard;Been a long time since I've painted a nice, fat lady.;
-BVST066SB;St.Bernard;Oh well! Hold that pose!;
-BVTI000TI;Tiger;Wake up, little man, time to go nighty night.;
-BVTI000RA;Raz;I AM awake.;
-BVTI001TI;Tiger;Good, because it is bedtime for you, snack-size.;
-BVTI001RA;Raz;What're you talking about?;
-BVTI002TI;Tiger;You will fight me for my card, yes?;
-BVTI002RA;Raz;Well, I AM looking for some cards.;
-BVTI003TI;Tiger;Then, small fry, I am afraid the Sandman is going to have to bend way over to reach you because you are so awfully itty-bitty and then--;
-BVTI003RA;Raz;All right, I get it.  Just shut up and let's go.;
-BVTI007TI;Tiger;Then I will shut up, but only so I can enjoy the microscopic spectacle of your attempts to make me shut up.;
-BVTR000TI;Tiger;I am going to tear you tiny limb from tiny limb.;
-BVTR001TI;Tiger;As you can see, I have not yet shut up.;
-BVTR002TI;Tiger;It looks like you will be the one who will be doing the shutting up.;
-BVTR003TI;Tiger;Sh-Shut up.;
-BVWP000RA;Raz;Alright! The Queen of Clubs! Now I have to give this to Edgar!;
-BVWP001RA;Raz;Okay, I got the Queen of Hearts. Edgar will want this.;
-BVWP002RA;Raz;The Queen of Diamonds is all mine! Uh... until I give it to Edgar.;
-BVWP003RA;Raz;Hmmm. The Queen of Spades. I should get rid of this card quickly. It seems like bad luck.;
-BVWP004RA;Raz;All right. That's all four cards. Once I give the last one to Edgar he should be able to fix his tower.;
-BVWP005RA;Raz;Ha! Sleep tight, kitty.;
-BVWP006RA;Raz;Man, I can STILL smell that guy!;
-BVWP007RA;Raz;"No more ""ca-caws"" out of you, fatty.";
-BVWP008RA;Raz;I beat you just like I did in high school, loser!;
-BVWP009RA;Raz;Wait... who am I?;
-BVWP010RA;Raz;Aaaaaaaaa-hfff!;
-BVWS000RA;Raz;Red roses. Works every time.;
-BVWS001RA;Raz;Excuse me ma'am, but could I hide out in there with you? This bull is coming down the street...;
-BVWS002RA;Raz;Help! Let me in!;
-BVWS003RA;Raz;Please, ma'am. Do not be afraid. Do I look dangerous to you?;
-BVWS004RA;Raz;Hmmm. Maybe if I could charm the lady behind those shutters somehow.;
-BVWT003SB;St.Bernard;Oh, now you're lucky I got a gentle disposition.;
-BVWT006SB;St.Bernard;Arf!;
-BVWT007SB;St.Bernard;Yow!;
-BVWT009CL;Collie;Tsk! Everyone's a critic!;
-BVWT011CL;Collie;Ooof!;
-BVWT015DA;Dalmatian;Owf, I deserve much worse than that for painting this stuff.;
-BVWT022RA;Raz;Snap out of it!;
-BVWT023BD;Bulldog;That doesn't help!;
-BVWT025MA;Matador;Ooh. Good thing you cannot reach my face. Then I'd be mad.;
-BVWT027ED;Edgar;Ahhh! Have you fallen in league with that infernal Bull?;
-BVWT029RA;Raz;That's strange.;
-BVWT030RA;Raz;I'm starting to feel like I'm back in high school.;
-BVWT031RA;Raz;Which is weird, because I'm only ten.;
-BVWT033RA;Raz;Ca-caw.;
-BVWT035RA;Raz;"Soon they'll be ""Dragon"" your ass outta here! Ha ha.";
-BVWT036RA;Raz;Hey, are you awake? Did you hear that?;
-BVWU002CB;Cobra;Where'd you go, Smeglee?;
-BVWU003DR;Dragon;Ohh-hoh-hoh... you can run, coward, but you cannot hide!;
-BVWU004TI;Tiger;You are so tiny, I cannot even see you anymore.;
-BVWU006EA;Eagle;Ca-caw?;
-BVWV008BD;Bulldog;Man, I can't take anymore. Why don't you confuse something else?;
-BVWV010BD;Bulldog;I think I built up a resistance to these things. Why don't you try it on the bull.;
-BVWW002MA;Matador;I do not have time for this nonsense.;
-BVWW003MA;Matador;You know what would look good in that frame? My reflection in a mirror.;
-BVWW004MA;Matador;Are you going somewhere? Never mind, I don't care.;
-BVWW005MA;Matador;You're an eight year old boy, so, regretfully, I must decline.;
-BVWW006MA;Matador;I can get those from my pet any time I want.;
-BVWW007MA;Matador;A crow feather? What are you thinking?;
-BVWW008ED;Edgar;Please stop wasting my time.;
-BVWW009ED;Edgar;The last thing I need is more art. Bring me those queens!;
-BVWW010ED;Edgar;A playing card! No wait, what is that? Never mind, just bring me the queens!;
-BVWW011ED;Edgar;Ah, the rose. Symbol of desire. Such as my desire for more queens. Stop wasting time!;
-BVWW012ED;Edgar;Stop bothering me with? What is that anyway?;
-BVWW013ED;Edgar;I'm interested in one thing: Queens.;
-BVWW014SB;St.Bernard;What made you think I'd be interested in this?;
-BVWW015SB;St.Bernard;Sorry, buddy, all sales are final.;
-BVWW016SB;St.Bernard;Sorry, I don't deal in found art.;
-BVWW017SB;St.Bernard;Touching, but I'm not interested.;
-BVWW018CL;Collie;Ah, that's exquisitely not interesting to me.;
-BVWW019CL;Collie;Luggage? I'm afraid we're all trapped here, my dear young optimist.;
-BVWW020CL;Collie;I am a mammal, so you're close. But perhaps you should save that for someone of your own species.;
-BVWW021CL;Collie;Sniff each others bums and eat our own sick, yes of course, but not all of us are interested in poker.;
-BVWW022CL;Collie;What a curious thing! Though, oddly, I'm not curious about it in the least.;
-BVWW023CL;Collie;If you find the bird that belongs to that feather, be a good lad and just stuff it right into my mouth.;
-BVWW024DA;Dalmatian;Look, I'm not interested in your junk.;
-BVWW025DA;Dalmatian;This ain't the Bad Art Mutual Appreciation Society. Get out of here with that awful thing.;
-BVWW026DA;Dalmatian;That would be a striking comment on man's eternal struggle against luggage. If man had an eternal struggle against luggage.;
-BVWW027DA;Dalmatian;You do realize I'm a boy dog, right? I'm just askin'.;
-BVWW028BD;Bulldog;What am I supposed to do with that, man?;
-BVWW029BD;Bulldog;I dispense the art, man. I don't receive it.;
-BVWW030BD;Bulldog;Oh... ah... if you really loved me, you'd give me some raw hamburger.;
-BVWW031RA;Raz;I think he's in no condition to do anything with this stuff.;
-BVWW032CB;Cobra;Bribes aren't gonna make me hurt you any less, Smeglee.;
-BVWW033CB;Cobra;Nice picture. Now put it away or people are gonna have to x-ray your colon to look at it.;
-BVWW034CB;Cobra;When they bag you up, I'm sure the paramedics'll appreciate that you brought your own toe tag.;
-BVWW035CB;Cobra;Oh, yeah, sweetheart. You're really dead now.;
-BVWW036DR;Dragon;Is this some kind of trick?;
-BVWW037DR;Dragon;Did you paint this? Let's find out if it's more valuable when you're dead.;
-BVWW038DR;Dragon;I see you're going on a trip. Destination: FEAR!;
-BVWW039DR;Dragon;Ah, the sweet smell of FE--wait a minute, are you trying to give me a flower?;
-BVWW040EA;Eagle;Ca-caw;
-BVWW041TI;Tiger;Show and tell is over, little man, now it's NAPTIME!;
-BVWW042TI;Tiger;AHHH! Your foul art is more painful than your teensy fists!;
-BVWW043TI;Tiger;Good thing you packed a bag, because I am going to punch you into next week. Haha-haha. Time out! I cracked myself up.;
-BVWW044RA;Raz;Hey, you? thing. Check this out? Not interested, eh?;
-BVWW045RA;Raz;I don't even know what this thing is, much less if it likes art.;
-BVWW046RA;Raz;It's a mystery what this thing is, but it's a bigger mystery why I'm trying to make it fall in love with me.;
-BVWW047RA;Raz;Anybody in there need some art? Hello?;
-BVWW048RA;Raz;Luggage inspector! Open up! Hello?;
-BVWW049RA;Raz;Did someone here order a single playing card? Because that's what it says right here on my sheet. Open up!;
-BVWW050RA;Raz;Anybody here interested in a magical rubber sack?;
-BVWW051RA;Raz;Feather man! Fresh from birds. Get a feather for the grandkids! C'mon, open the window...;
-BVWW052RA;Raz;I think I have to get something out of this, not stuff something into it.;
-BVWX002RA;Raz;Aaaaaaah-oof!;
-BVWX003SB;St.Bernard;Oh my god! Are you all right?;
-BVWX004SB;St.Bernard;Poor little guy!;
-BVWX006SB;St.Bernard;Hmmm... little nick on the frame...;
-BVWX007RA;Raz;Ohhhhh--ohhh.;
-BVWX009SB;St.Bernard;...maybe I can cover that up with a price tag or something...;
-BVWX011RA;Raz;Hey, how do you get out of this alley?;
-BVWX012SB;St.Bernard;We're trapped in here, son. Art is our only escape.;
-BVWX013RA;Raz;Is that like a metaphor? Or do you mean that if I take one of these paintings I can use it to get out of here?;
-BVWX014SB;St.Bernard;If you TAKE one of these paintings I'll bite you on the leg.;
-BVWX015SB;St.Bernard;If you BUY one, it could help you get out of here.;
-BVWX017SB;St.Bernard;They're magic!;
-BVWX019SB;St.Bernard;Here's one of my newest acquisitions.;
-BVWX020SB;St.Bernard;Perfect condition.;
-BVWX021SB;St.Bernard;It's the kind of piece that really makes a room seem larger, you know?;
-BVWX022SB;St.Bernard;Yep.;
-BVWX024SB;St.Bernard;Okay, okay. YES there is a small nick on the frame. Okay?;
-BVWX025SB;St.Bernard;It's an antique!;
-BVWX026SB;St.Bernard;What do you want from me?;
-BVWX027SB;St.Bernard;Art isn't about perfection, you know!;
-BVWX028SB;St.Bernard;I marked it down already!;
-BVWX029SB;St.Bernard;At that price, you really need to let yourself be charmed by its flaws.;
-BVWX031RA;Raz;I don't think I can swing these downtown gallery prices.;
-BVWX032SB;St.Bernard;Okay, I know you don't believe that these are magical paintings, so I'm gonna GIVE you one free. As a sample.;
-BVWX033SB;St.Bernard;Hang it up on that hook over there and you'll see.;
-BVWX034SB;St.Bernard;Then come back and buy the rest, because they all do something special.;
-BVWX036RA;Raz;Nice! Now I can get Edgar's cards!;
-BVWX037SB;St.Bernard;To find the cards, go in the OPPOSITE DIRECTION of the bull, but I warn you-;
-BVWX038SB;St.Bernard;El Odio is a force of nature. You can't stop him. You can't hurt him.;
-BVWX039SB;St.Bernard;Only in the bullfighting ring can he die, and then only by the sword of the Matador.;
-BVWX040RA;Raz;Okay, I'll STEER clear of him. Heh heh.;
-BVWX042SB;St.Bernard;Oh, you interested in that one? Great!;
-BVWX044CL;Collie;I see you have taken a fancy to one of my favorite works.;
-BVWX046DA;Dalmatian;Careful! Don't touch it! Ooo... you might catch a disease!;
-BVTI008RA;Raz;Shut Up;
-BVTI009RA;Raz;No, you shut up;
-BVTR004TI;Tiger;No, you shut up.;
-BVWW053RA;Raz;Hey Bull! Do you want a hey!;
-BVDA033RA;Raz;Cause you gotta hold your breath during those.;
-BVED006ED;Edgar;With this card, I can almost reach her.  You must hurry back with the last queen!;
-BVMP000MA;Matador;Here's a better one: you go get that billboard painted, and I'll reward you handsomely.;
-BVMP001MA;Matador;Which is how I do everything.;
-BVMP002MA;Matador;As an advance, I'll give you one of my secret weapons.  Use it if anyone gets stubborn.;
-BVMO005RA;Raz;You know, my bulldog friend could still paint a beer gut on that poster out there--;
-BVMO006MA;Matador;Alright! Here! Take this! But I warn you, I won't be able to sign it.;
-BVAA000RA;Raz;Looks like a hook. If I only had a painting I could hang it up there.;
-BVAA001RA;Raz;Hm. Now which one of my black velvet paintings would work here?;
-BVWT000RA;Raz;Hey, I don't want this painting anymore.;
-BVDA011DA;Dalmatian;Oh, okay.;
-BVAC000RA;Raz;Hey, I just think its great that you took that ass-kicking I handed to you, and turned that defeat into something positive. Like gardening.;
-BVAD000RA;Raz;You should really go out there and stop that bull.;
-BVAD001MA;Matador;El Odio and I will fight some day, in the ring! And he will die!;
-BVAD002MA;Matador;But not until we have a good media buzz first! So...;
-BVAD003MA;Matador;Get out there and make that lazy dog paint my billboard!;
-BVAE000CB;Cobra;Ha! Feel that!;
-BVAE001CB;Cobra;Cuz I didn't! You can't hurt me at all!;
-BVAE002CB;Cobra;Because the Coach taught me how to concentrate on not feeling the pain.;
-BVAE003CB;Cobra;Not like you, Schmeglee!;
-BVAE004CB;Cobra;You feel everything!;
-BVAE005CB;Cobra;Like when your girlfriend Lana dumped you for that cheerleader guy.;
-BVAE006CB;Cobra;You felt that so bad, you blew the state semi finals!;
-BVAE007CB;Cobra;You let all us wrestlers down!;
-BVAE008CB;Cobra;That's why we hate you!;
-BVAE009CB;Cobra;You got confused, Teglee! You let your guard down!;
-BVAE010CB;Cobra;And then you got torn apart, like this!;
-BVAE011CB;Cobra;I can't feel a thing! ;
-BVAE012CB;Cobra;You'll never break my concentration.;
-BVAE013CB;Cobra;MY head will never get all clouded up and confused like yours!;
-BVAE014CB;Cobra;I'm telling you, it's impossible!;
-BVAE015CB;Cobra;The Coach says if you stay focused, you can't be beat.;
-BVAE016CB;Cobra;Give it up Schmeglee.;
-BVAE017CB;Cobra;Feel that?;
-BVAE018CB;Cobra;How 'bout that?;
-BVAE019CB;Cobra;How's that feel?;
-BVAE020CB;Cobra;Aw does that hurt?;
-BVAE021CB;Cobra;Does that hurt little Edgar?;
-BVAE022CB;Cobra;Does that hurt 'ums feelings?;
-BVAF000RA;Raz;Here you go, Edgar. The last card.;
-BVAF001ED;Edgar;Thank you. You said you would get them and you did.;
-BVAF002ED;Edgar;Not everyone is as true to their word, you know.;
-BVAF003RA;Raz;Well, now you can finish your tower.;
-BVAF004ED;Edgar;Yes, now this can all end, once and for all.;
-BVAG000MA;Matador;El Odio is a fierce, magical creature. He can only be harmed by the traditional bullfighting weapons.;
-BVAG001RA;Raz;Oh no. I can't believe I stuck four of those barbed poles in his back!;
-BVAG002MA;Matador;"They're called ""Banderillas!""";
-BVAG003RA;Raz;I gotta get those out of there and protect Edgar. If something happens to him while I'm in his mind, I'll get the boot!;
-BVAG004MA;Matador;Silly boy. I do not think I am a bull. Do you?;
-BVAG005MA;Matador;These magic weapons cannot hurt me.;
-BVAG006MA;Matador;Ohhhoo ohhh;
-BVAG007MA;Matador;I am the mighty EL ODIO!;
-BVAG008MA;Matador;I have all the power OF THE BULL!;
-BVAG009RA;Raz;Hm... And all the weaknesses I'll bet...;
-BVAG010MA;Matador;Look out!;
-BVAG011MA;Matador;Here comes El Odio!;
-BVAG012MA;Matador;Ahhhhhh!;
-BVAG013MA;Matador;Ow! ;
-BVAG014MA;Matador;El Odio is hit!;
-BVAG015MA;Matador;El Odio doesn't like that!;
-BVAG016MA;Matador;Right in El Odio's butt!;
-BVAG017MA;Matador;El Odio... is... DYING.;
-BVAI000RA;Raz;Hnnn! ;
-BVAI001RA;Raz;I can't pick those up by hand. I think TK is the thing.;
-BVAK000RA;Raz;Hey, great to see you guys all together!;
-BVAK001ED;Edgar;Shhh! ;
-BVAK002ED;Edgar;Not now, Razputin. There is a lot of money on the table.;
-BVAK003RA;Raz;Oh, okay, I was just gonna hang out for a bit. Is that bull--;
-BVAK004ED;Edgar;Long gone, my friend. The place is yours. If you'll excuse me;
-BVAK005RA;Raz;Okay. Hey, great hand. Good thing we found all those queens, eh?;
-BVAK006ED;Edgar;Ahhhh!;
-BVAC001CB;Cobra;(grunt);
-BVAC004RA;Raz;Hey, you're into girly things like gardening--how do you like my art?;
-BVAC005RA;Raz;Hey, I stole this rose from your garden. That cool?;
-BVAC006CB;Cobra;Grrrrr!;
-BVZA001TO;System;I saw another dog selling art up the street. Are you guys a chain?;
-BVZA002TO;System;Could you tell me again about your dog friends?;
-BVZA003TO;System;Hey, can you fight bulls? I have a bull problem;
-BVZA004TO;System;Who CAN do it? Who can fight El Odio?;
-BVZA005TO;System;WHAT? What happened between Dingo and Edgar?;
-BVZA006TO;System;Tell me that story about Dingo and Lampita again!;
-BVZA007TO;System;I think that Dingo sounds like a jerk.;
-BVZA008TO;System;Must be tough.;
-BVZA009TO;System;Gotta go.;
-BVZA010TO;System;Can I ask you a question?;
-BVZA011TO;System;Hi. I want to buy a painting.;
-BVZA012TO;System;Edgar Teglee sent me. You know, the famous painter? How about a discount?;
-BVZA013TO;System;Yeah, I want some art.;
-BVZA014TO;System;No, I want to talk Edgar. Has he always had a problem with wrestlers?;
-BVZA015TO;System;Has Edgar always had a problem with wrestlers?;
-BVZA016TO;System;Why did he choke? Did they get him in one of those pile driver things?;
-BVZA017TO;System;How sad. Especially since it all happened to him again with Dingo and Lampita.;
-BVZA018TO;System;So tell me that again? Edgar was a bad wrestler?;
-BVZA019TO;System;See ya.;
-BVZA020TO;System;Can I buy some more art?;
-BVZA021TO;System;Hey, can I buy some art?;
-BVZA022TO;System;Hey, have you seen any REALLY BIG playing cards around here?;
-BVZA023TO;System;I think I hate that bull a lot.;
-BVZA024TO;System;Hi. Could you please paint me a big gun please?;
-BVZA025TO;System;Uh-huh. So, the cards? You know where they are?;
-BVZA026TO;System;Those are exactly the cards I need! Where are they?;
-BVZA027TO;System;Where did you say those cards were again?;
-BVZA028TO;System;What do you mean trapped? Are you a prisoner of art just like Edgar?;
-BVZE000TO;System;Not enough /Arrowhead/;
-BVZF000TO;System;Press /YButton/ to pick up feather.;
-BVZF001TO;System;Press /YButton/ to talk to the Matador.;
-BVZF002TO;System;The Painter;
-BVZF003TO;System;Press /LeftFlipper/ to lock focus.;
-BVZF004TO;System;Press /YButton/ to lower the fire escape.;
-BVZF005TO;System;Press /YButton/ to take the painting down.;
-BVZG000TO;System;Remember, the Eagle cannot hunt what the Eagle cannot see.;
-BVZG001TO;System;Wanna hang a painting?  Face the hook and press /YButton/ to activate.;
-BVZG002TO;System;Put the painting in your knapsack for later use, press /BButton/;
-BVZG003TO;System;To select this item later, press /DPadDown/, select the item, then press /AButton/;
-BVZG004TO;System;Telekinesis can reach objects that are just beyond reach.  Press /BlackButton/ to activate it.;
-BVZG005TO;System;Lock on to any enemy by holding /LeftFlipper/.  While locked, dodge attacks by pressing jump /AButton/ and a direction.;
-BVZG006TO;System;The shield power can protect you against the most devilish attacks.;
-BVZA030TO;System;Why don't you guys just make a run for it?;
-BVZA031TO;System;Hey, how's business? Can I buy some art?;
-BVZA032TO;System;Why won't they ask Dingo to help? Is he expensive?;
-BVZA033TO;System;COME ON! Tell me! What's the big scandal???;
-BVZA034TO;System;Whoa. That's a great story. You should do a painting about it.;
-BVZA035TO;System;No, really. I'd like some art.;
-BVZA036TO;System;You're going to turn away a paying customer?;
-BVZA037TO;System;Pfft, you don't give discounts? Or pffft, you don't think he's famous?;
-BVZA038TO;System;Hey, there's no shame in hiding from wrestlers. They're trouble. Especially the wild animal type.;
-BVZA039TO;System;No. I just meant wrestlers can be tough. I didn't mean you.;
-BVZA040TO;System;Yes. I would like to wrestle. Let's go.;
-BVZA041TO;System;Okay, I'm off.;
-BVZA042TO;System;Okay, promise you won't take this the wrong way, but you ARE a dog.;
-BVZB000TO;System;Guitar Painting;
-BVZB001TO;System;Rose;
-BVZF006TO;System;Press /YButton/ to hang painting.;
-BVZF008TO;System;You can cloud the minds of others using the power of CONFUSION. But if you use it too much, you will need to pick up more CONFUSION GRENADES to energize the confusing aspect of your mind. /ConfusionAmmo/;
+BVCO073CL;Collie;Well, I guess I COULD let this one go...;เอาล่ะ ฉันว่าฉันปล่อยงานชิ้นนี้ไปก็ได้นะ...
+BVCO074CL;Collie;Try to handle it only by the edges.;พยายามจับแค่ขอบๆ นะ
+BVCO076CL;Collie;Step into my world of beauty.;ก้าวเข้ามาในโลกแห่งความงามของฉันสิ
+BVCP016RA;Raz;Tell me that story about Dingo and Lampita again!;เล่าเรื่องของ ดิงโก้ กับ แลมพิต้า ให้ฟังอีกทีสิ!
+BVCR000CB;Cobra;You can't hurt me, Smeglee!;แกทำอะไรฉันไม่ได้หรอก สเมกลี!
+BVCR000RA;Raz;Look, mister, I AM NOT EDGAR TEGLEE!;นี่คุณ ผมไม่ใช่ เอ็ดการ์ เทกลี นะ!
+BVDA082DA;Dalmatian;Get outta here you punks!  Leave my customer alone!;ออกไปจากที่นี่เลย พวกอันธพาล! ปล่อยลูกค้าฉันไป!
+BVDA000DA;Dalmatian;What? You want more?;อะไรนะ อยากได้อีกเหรอ?
+BVDA001DA;Dalmatian;Ha-huh.  Couldn't look at that one any more, ahh?;ฮ่าๆๆ ดูมันต่อไปไม่ไหวแล้วล่ะสิ?
+BVDA002DA;Dalmatian;Look, give it up. None of them are any good.;ฟังนะ ยอมแพ้ซะเถอะ ไม่มีอันไหนดีเลยสักอัน
+BVDA003DA;Dalmatian;Each one worse than the last...;แต่ละอันแย่กว่าอันที่แล้ว...
+BVDA004DA;Dalmatian;You're kidding.;ล้อเล่นน่า
+BVDA001RA;Raz;No, I want it.;ไม่ ผมจะเอา
+BVDA005DA;Dalmatian;Well, there's no accounting for taste I guess.;เออ รสนิยมใครก็รสนิยมมันสินะ
+BVDA006DA;Dalmatian;Right this way!;เชิญทางนี้เลย!
+BVDA007DA;Dalmatian;Sorry. I'm sold out.;ขอโทษที ขายหมดแล้ว
+BVDA008DA;Dalmatian;Oh, wait. To be honest, I'm NOT sorry about that. I am happy about that.;โอ้ เดี๋ยวก่อนนะ เอาจริงๆ ฉันไม่ได้รู้สึกเสียใจเลยสักนิด ฉันดีใจต่างหาก
+BVDA009DA;Dalmatian;You bought it all so YOU are the sorry one, my friend.;นายซื้อไปหมดแล้ว ดังนั้นนายต่างหากที่จะต้องเสียใจ เพื่อนเอ๋ย
+BVDA010DA;Dalmatian;Don't tell anyone who painted these, okay?;อย่าบอกใครนะว่าใครเป็นคนวาด เข้าใจไหม?
+BVDA014DA;Dalmatian;Goooood riddance!;ไปให้พ้นๆ!
+BVDA012DA;Dalmatian;Well, maybe you can write it off on your taxes as a loss.;อืม บางทีนายอาจจะเอาไปลดหย่อนภาษีเป็นค่าเสียหายได้นะ
+BVDA013DA;Dalmatian;A catastrophic loss, even.;ความเสียหายร้ายแรงเลยล่ะ
+BVDA015DA;Dalmatian;Enjoy that!   Heeheeeheee.;สนุกกับมันนะ! ฮี่ๆๆๆ
+BVDA016DA;Dalmatian;Well, with some luck, and a lot of self-abuse on your part, I have managed to sell out.;ด้วยโชคช่วยและ...การทำร้ายตัวเองของนาย...ฉันก็ขายหมดแล้ว
+BVDA017DA;Dalmatian;My thanks to your poor judgment.;ขอบคุณสำหรับการตัดสินใจที่ผิดพลาดของนาย
+BVDA002RA;Raz;Hi. I want to buy a painting;สวัสดีครับ ผมอยากซื้อภาพวาด
+BVDA003RA;Raz;No, really. I'd like some art.;ไม่ครับ จริงๆ ผมอยากได้งานศิลปะ
+BVDA004RA;Raz;You're going to turn away a paying customer?;คุณจะปฏิเสธลูกค้าที่พร้อมจ่ายเงินเนี่ยนะ?
+BVDA005RA;Raz;Edgar Teglee sent me. You know, the famous painter? How about a discount?;เอ็ดการ์ เทกลี ส่งผมมา เขาน่ะนักวาดภาพชื่อดังเลยนะ ลดราคาให้หน่อยได้ไหม?
+BVDA006RA;Raz;Pfft, you don't give discounts? Or pffft, you don't think he's famous?;ปั๊ดโธ่ ไม่ลดราคาให้เหรอ? หรือว่าไม่คิดว่าเขาดังกันแน่?
+BVDA007RA;Raz;Hey, there's no shame in hiding from wrestlers. They're trouble. Especially the wild animal type.;เฮ้ ไม่มีอะไรน่าอายหรอกที่จะหนีนักมวยปล้ำ พวกนั้นมันตัวปัญหา โดยเฉพาะพวกประเภทสัตว์ป่าน่ะ
+BVDA008RA;Raz;No. I just meant wrestlers can be tough. I didn't mean you.;เปล่าครับ ผมแค่หมายถึงนักมวยปล้ำอาจจะแข็งแกร่ง ผมไม่ได้หมายถึงคุณ
+BVDA009RA;Raz;Yes. I would like to wrestle. Let's go.;ครับ ผมอยากปล้ำ ไปกันเลย
+BVDA010RA;Raz;Yeah, I want some art.;เออ ผมอยากได้งานศิลปะ
+BVDA011RA;Raz;No, I want to talk about Edgar. Has he always had a problem with wrestlers?;ไม่ครับ ผมแค่อยากคุยเรื่องเอ็ดการ์ เขามีปัญหากับนักมวยปล้ำมาตลอดเลยเหรอ?
+BVDA012RA;Raz;Has Edgar always had a problem with wrestlers?;เอ็ดการ์มีปัญหากับนักมวยปล้ำมาตลอดเลยเหรอ?
+BVDA013RA;Raz;Why did he choke? Did they get him in one of those pile driver things?;ทำไมเขาถึงช็อคหมดสติ? พวกนั้นเล่นท่าไพล์ไดรเวอร์ใส่เขารึเปล่า?
+BVDA014RA;Raz;How sad. Especially since it all happened to him again with Dingo and Lampita.;น่าเศร้าจัง โดยเฉพาะอย่างยิ่งเมื่อมันเกิดขึ้นกับเขาอีกครั้งกับ ดิงโก้ และ แลมพิต้า
+BVDA016RA;Raz;So tell me that again? Edgar was a bad wrestler?;เล่าให้ฟังอีกทีได้ไหม? เอ็ดการ์เป็นนักมวยปล้ำที่แย่เหรอ?
+BVDA015RA;Raz;See ya.;เจอกันครับ
+BVDA044DA;Dalmatian;No you don't.;ไม่ได้หรอก
+BVDA045DA;Dalmatian;Came to the wrong place then. All we got here is junk.;งั้นก็มาผิดที่แล้ว ที่นี่มีแต่ของห่วยๆ ทั้งนั้น
+BVDA046DA;Dalmatian;Hm. Your argument has many strong points.;อืมมม ข้อโต้แย้งของนายก็มีเหตุผลนะเนี่ย
+BVDA047DA;Dalmatian;Especially around that area where you said the word paying;โดยเฉพาะตรงที่นายพูดคำว่า... จ่าย...
+BVDA048DA;Dalmatian;I liked that.;ฉันชอบนะ
+BVDA050DA;Dalmatian;Well, I guess it might cheer up the joint to get rid of some of these eyesores outta here.;อืม ฉันว่ามันคงทำให้ที่นี่ดูดีขึ้นนะ ถ้าเอางานที่น่าเกลียดพวกนี้ออกไป
+BVDA051DA;Dalmatian;Come on, I'll give you a tour of the atrocities. I just hope you got a strong stomach.;มาสิ ฉันจะพาทัวร์ชมความวิบัติ ฉันแค่หวังว่านายจะมีกระเพาะที่แข็งแรงพอ
+BVDA018DA;Dalmatian;Famous painter? Edgar?;นักวาดภาพชื่อดัง? เอ็ดการ์เนี่ยนะ?
+BVDA019DA;Dalmatian;Pffft! Yeah, right!;ปั๊ดโธ่! ใช่สิ!
+BVDA020DA;Dalmatian;Look, I'm sorry, but eating lunch every day in the art teacher's room does not make you a famous painter.;ฟังนะ ฉันขอโทษด้วย แต่การกินข้าวเที่ยงในห้องครูสอนศิลปะทุกวันไม่ได้ทำให้นายเป็นนักวาดภาพชื่อดังหรอกนะ
+BVDA021DA;Dalmatian;Anyway, he only did that to hide out from the school wrestling team.;ยังไงก็ตาม เขาทำอย่างนั้นแค่เพื่อหนีทีมนักมวยปล้ำของโรงเรียน
+BVDA022DA;Dalmatian;Oh, whaddya mean wild animals? Like dogs, eh?;โอ้ นายหมายถึงสัตว์ป่าเหรอ? อย่างพวกสุนัขเนี่ยนะ?
+BVDA023DA;Dalmatian;Oh, you got a problem with me now?;โอ้ ตอนนี้นายมีปัญหากับฉันเหรอ?
+BVDA024DA;Dalmatian;Oh, you don't think I'm tough now?;โอ้ ตอนนี้นายไม่คิดว่าฉันแกร่งแล้วเหรอ?
+BVDA025DA;Dalmatian;Why, 'cause I'm a Dalmatian?;ทำไมล่ะ เพราะฉันเป็น ดัลเมเชี่ยน งั้นเหรอ?
+BVDA026DA;Dalmatian;Hey, we can't all be St. Bernards and Bulldogs, you know!;เฮ้ พวกเราทุกคนเป็น เซนต์เบอร์นาร์ด กับ บูลด็อก ไม่ได้หรอกนะ!
+BVDA027DA;Dalmatian;(Sigh.);(ถอนหายใจ)
+BVDA028DA;Dalmatian;Look, man. Are you gonna buy something or what?;ฟังนะ จะซื้ออะไรไหมเนี่ย?
+BVDA029DA;Dalmatian;No way. In fact, he used to be the captain of his high school wrestling team!;ไม่มีทาง ความจริงแล้วเขาเคยเป็นกัปตันทีมมวยปล้ำของโรงเรียนมัธยมด้วยซ้ำ!
+BVDA030DA;Dalmatian;He took them all the way to the state semi-finals one year, and then he...;เขาพาทีมไปถึงรอบรองชนะเลิศระดับรัฐได้ในปีหนึ่ง แล้วเขาก็...
+BVDA031DA;Dalmatian;...he choked.;...ช็อคหมดสติ
+BVDA032DA;Dalmatian;Cost the team the entire match.;ทำให้ทีมแพ้ทั้งแมตช์
+BVDA034DA;Dalmatian;No, Edgar's girlfriend Lana Panzoni dumped him after the first period for Dean Legrante, the head of her cheerleading squad.;ไม่ แฟนของเอ็ดการ์ ลาน่า แพนโซนี่ ทิ้งเขาหลังจากช่วงแรกให้กับ ดีน เลกรานเต้ หัวหน้าทีมเชียร์ของเธอ
+BVDA035DA;Dalmatian;Teglee was worthless after that.;หลังจากนั้น เทกลี ก็หมดค่าไปเลย
+BVDA036DA;Dalmatian;The other team just tossed him around the rest of the day like a half sack of pork rinds.;ทีมตรงข้ามโยนเขาไปมาทั้งวันเหมือนถุงแคบหมูครึ่งถุง
+BVDA037DA;Dalmatian;Oh, man. His squad hated him after that. The whole school did.;โอ้ แย่เลย หลังจากนั้นเพื่อนร่วมทีมก็เกลียดเขา ทั้งโรงเรียนก็ด้วย
+BVDA038DA;Dalmatian;Ohhhhhhh. Riiigggght.;อ๋อออออ ใช่เลย
+BVDA039DA;Dalmatian;Yeah, they exist.;ใช่ พวกเขามีตัวตนอยู่จริง
+BVDA040DA;Dalmatian;Not made up at all, those two.;ไม่ได้แต่งขึ้นมาเลยสักนิด ทั้งสองคนน่ะ
+BVDA041DA;Dalmatian;Sheesh.;ให้ตายสิ
+BVDA042DA;Dalmatian;Hey, I got some original Picassos over here if you're interested, by the way...;เฮ้ ฉันมีปิกัสโซ่ตัวจริงอยู่ตรงนี้ด้วยนะ ถ้านายสนใจน่ะ...
+BVDA043DA;Dalmatian;Yes, run! Run from the horror!;ใช่ วิ่งเลย! วิ่งหนีจากความสยอง!
+BVDA049DA;Dalmatian;Thanks.;ขอบใจ
+BVDA052DA;Dalmatian;Hey, I can call it that. You can't.;เฮ้ ฉันเรียกมันแบบนั้นได้ แต่นายไม่ได้
+BVDA053DA;Dalmatian;Well, not until you pay for it at least.;อืม อย่างน้อยก็จนกว่านายจะจ่ายเงินน่ะนะ
+BVDA054DA;Dalmatian;Okay what I was going for here was a creeping vine. The kind that grows up walls?;โอเค สิ่งที่ฉันจะสื่อในที่นี้คือไม้เลื้อยชนิดที่เลื้อยขึ้นกำแพงน่ะ
+BVDA055DA;Dalmatian;But it just ended up looking like a truck driver's hairy back.;แต่มันกลับดูเหมือนหลังขนดกของคนขับรถบรรทุกซะมากกว่า
+BVDA056DA;Dalmatian;But without the charisma.;แต่ไม่มีเสน่ห์ดึงดูด
+BVDA057DA;Dalmatian;This, believe it or not, is supposed to be a rose.;เชื่อหรือไม่ว่านี่ควรจะเป็นดอกกุหลาบ
+BVDA058DA;Dalmatian;You know, if you gave a woman a rose that looked like this, she'd slap you.;รู้ไหม ถ้านายให้ดอกกุหลาบที่หน้าตาแบบนี้กับผู้หญิง เธอจะตบหน้านาย
+BVDA059DA;Dalmatian;Ya see what I'm talking about?;เห็นยังว่าฉันกำลังพูดถึงอะไร?
+BVDA060DA;Dalmatian;This stuff reeks.;ของพวกนี้มันเหม็น
+BVDA061DA;Dalmatian;Ew.;อี๋
+BVDA062DA;Dalmatian;I recommend you don't look directly at this one. It is so awful, you could mess up your eyes.;ฉันแนะนำว่าอย่ามองอันนี้ตรงๆ มันแย่มากจนอาจจะทำให้ตานายเสียได้
+BVDA063DA;Dalmatian;Ewww, so bad...;อี๋ แย่สุดๆ...
+BVDA064DA;Dalmatian;Whoa! I forgot how crummy this one was.;ว้าว! ฉันลืมไปเลยว่าอันนี้มันห่วยขนาดไหน
+BVDA065DA;Dalmatian;I can't believe I painted this.;ฉันไม่อยากจะเชื่อเลยว่าฉันเป็นคนวาดนี่
+BVDA066DA;Dalmatian;Ach!;อั๊ค!
+BVDA067DA;Dalmatian;This one is so bad, someone should take a rolled-up newspaper and smack it.;อันนี้มันแย่มาก ใครสักคนควรจะเอาม้วนหนังสือพิมพ์มาตีมัน
+BVDA068DA;Dalmatian;Seriously. What a load.;จริงจังเลยนะ อะไรวะเนี่ย
+BVDA069DA;Dalmatian;This looks like electric clown barf in space.;นี่มันเหมือนอ้วกตัวตลกไฟฟ้าในอวกาศ
+BVDA070DA;Dalmatian;Terrible!;แย่!
+BVDA071DA;Dalmatian;Uhhh, uhhh I'm sorry you had to see this.;เอ่อ เอ่อ ฉันขอโทษที่นายต้องมาเห็นอะไรแบบนี้
+BVDA072DA;Dalmatian;Ug.;อุ้ก
+BVDA073DA;Dalmatian;I deserve to get my nose rubbed in this one.;ฉันสมควรโดนจับเอาหน้ามาถูๆ กับภาพนี้
+BVDA074DA;Dalmatian;This painting reminds me of my grandpa's last year alive...;ภาพวาดนี้ทำให้ฉันนึกถึงปีสุดท้ายที่คุณปู่ยังมีชีวิตอยู่...
+BVDA075DA;Dalmatian;...just one terrible stroke on top of another.;...แค่เส้นที่แย่ๆ ซ้อนทับกันไปมา
+BVDA076DA;Dalmatian;Really, I should just take this one out back and bury it.;จริงๆ ฉันควรจะเอางานชิ้นนี้ไปฝังไว้ข้างหลังบ้านซะ
+BVDA077DA;Dalmatian;Ech! Somebody light a match! This one really stinks.;เอ็ค! ใครก็ได้จุดไฟแช็กที อันนี้มันเหม็นจริงๆ
+BVDA078DA;Dalmatian;Woof! That's all I gotta say about that.;โว้ว! ฉันมีแค่นี้แหละที่จะพูดถึงมัน
+BVDA079DA;Dalmatian;Black velvet hasn't been abused like this since the last time Mom got drunk in her prom dress.;กำมะหยี่สีดำไม่เคยถูกทำร้ายแบบนี้เลย ตั้งแต่ครั้งล่าสุดที่แม่เมาแล้วใส่ชุดพรอม
+BVDA080DA;Dalmatian;Just awful!;แย่สุดๆ!
+BVDA081DA;Dalmatian;Bleech!;บลีช!
+BVDI008RA;Raz;Yow. What's that smell?;โย่ว กลิ่นอะไรน่ะ?
+BVDI000DR;Dragon;That smells like fear, boy!;นั่นมันกลิ่นความกลัวไง เจ้าหนู!
+BVDI009RA;Raz;Yeah... No, I mean that fart smell.;ใช่... ไม่ ผมหมายถึงกลิ่นผายน่ะ
+BVDI001DR;Dragon;That's fear! RAWRRRR!;นั่นมันความกลัว! แฮ่!
+BVDI010RA;Raz;No, I'm talking about an actual smell. It's like if stink bombs laid eggs and then those went bad.;ไม่ ผมกำลังพูดถึงกลิ่นจริงๆ มันเหมือนกับระเบิดเหม็นวางไข่ แล้วไข่พวกนั้นเสีย
+BVDI002DR;Dragon;That's sulfur. It's part of the dragon costume, kid.;นั่นมันกำมะถัน มันเป็นส่วนหนึ่งของชุดมังกรไง เด็กน้อย
+BVED000ED;Edgar;If you are curious about the load-bearing capacity of cardhouses, please conduct your experiments on SOMEONE ELSE'S HOUSE OF CARDS!;ถ้านายอยากรู้ว่าบ้านไพ่รับน้ำหนักได้แค่ไหน กรุณาไปทดลองกับบ้านไพ่ของคนอื่น!
+BVED001ED;Edgar;The cards are large, yes, but it is still a house of cards. KEEP OFF!;ไพ่มันใหญ่น่ะใช่ แต่มันก็ยังเป็นบ้านไพ่อยู่ดี อย่ามายุ่ง!
+BVED002ED;Edgar;Jumping on the house of cards, stumbling into the house of cards, driving your glowing ball through the house of cards: none of these activities help me.;กระโดดใส่บ้านไพ่ สะดุดล้มใส่บ้านไพ่ ขับลูกบอลเรืองแสงทะลุบ้านไพ่ กิจกรรมพวกนี้ไม่ได้ช่วยอะไรฉันเลย
+BVED003ED;Edgar;Please, boy, I must have those queens!;ได้โปรด เถอะ แรซ ฉันต้องได้ไพ่ควีนพวกนั้น!
+BVED004ED;Edgar;Perfect! One step closer... to her.;เยี่ยม! เข้าใกล้เธอไปอีกก้าว...
+BVED005ED;Edgar;Ah, that is exactly the card I need!;อ่า นั่นมันไพ่ที่ฉันต้องการเลย!
+BVED000RA;Raz;Wow. It looks like you can walk right up there now, Edgar.;ว้าว ดูเหมือนว่าตอนนี้คุณจะเดินขึ้นไปตรงนั้นได้แล้วนะ เอ็ดการ์
+BVED004RA;Raz;Here you go, Edgar.;อ่ะ นี่ครับ เอ็ดการ์
+BVED005RA;Raz;I got some cards for you, Edgar.;ผมได้ไพ่มาให้คุณ เอ็ดการ์
+BVED006RA;Raz;This one was a real pain in the butt to get.;ใบนี้ได้มายากลำบากมากเลยครับ
+BVED007RA;Raz;I hope these things are worth it, Edgar.;ผมหวังว่าของพวกนี้มันจะคุ้มค่านะ เอ็ดการ์
+BVEI000EA;Eagle;Ca-caw.;ก้า กาว
+BVEI013RA;Raz;That's it? Ca--MAN! That's ss-;แค่นี้เหรอ? ก้า--ให้ตาย! แย่-
+BVEI001EA;Eagle;Ca-caw. Ca-caw.;ก้า กาว ก้า กาว
+BVEQ002ED;Edgar;Thank you! I'll take any other cards you have as well.;ขอบใจ! ฉันจะเอาไพ่ใบอื่นที่นายมีด้วย
+BVHO000RA;Raz;Now that looks like a good place to hang a painting!;นั่นดูเหมือนที่แขวนภาพที่ดีเลยนะ!
+BVMB000BD;Bulldog;Oh my god, I'm deaf!;โอ้พระเจ้า ฉันหูหนวก!
+BVMB012RA;Raz;Can you hear me? You're getting sleepy.  But not too sleepy to go paint the billboard.;ได้ยินผมไหม? นายกำลังง่วง แต่ง่วงเกินกว่าที่จะไปวาดป้ายโฆษณาไม่ได้นะ
+BVMB002BD;Bulldog;"What? Oh my god. Hey, ""god"" is ""dog"" spelled backwards!";"อะไรนะ? โอ้พระเจ้า เฮ้ ""god"" คือ ""dog"" ที่สะกดกลับด้านนี่นา!"
+BVMB003BD;Bulldog;"Whoa, whoa wait a minute. ""God"" is ""cat"" spelled backwards! Oh no. No no no no no.";"เดี๋ยวก่อนๆๆ ""God"" คือ ""cat"" ที่สะกดกลับด้าน! ไม่นะ ไม่ๆๆๆๆๆ"
+BVMB004BD;Bulldog;I'm shaving just like daddy!;ฉันกำลังโกนหนวดเหมือนพ่อเลย!
+BVMB013RA;Raz;I think I solved your problem. Watch this.;ผมคิดว่าผมแก้ปัญหาให้นายได้แล้ว ดูนี่สิ
+BVMB000MA;Matador;I had my doubts, but--;ฉันเคยสงสัย แต่--
+BVMB001MA;Matador;But I'm right as usual. Really nice job, genius. Now go back out there and finish the job.;แต่ฉันก็ถูกเสมอ ทำได้ดีมาก อัจฉริยะ ตอนนี้กลับไปทำให้เสร็จซะ
+BVMI002MA;Matador;Ah, the towel boy.  Oh, it's you.  Get out.;อ่า เด็กเช็ดตัวเหรอ โอ้ นายเองนี่นา ออกไป
+BVMI001MA;Matador;I see the sign's not finished. That's what I get for trusting a bullfight to an eight year old.;เห็นแล้วว่าป้ายยังไม่เสร็จ นี่แหละผลของการไว้ใจให้เด็กอายุ 8 ขวบมาจัดการเรื่องสู้วัวกระทิง
+BVMO000MA;Matador;Hmmm. It's not great.;อืมมม ไม่ได้ดีเลิศอะไร
+BVMO001MA;Matador;But I suppose it's just barely good enough. Come see me if you still want your reward.;แต่ฉันว่ามันก็พอใช้ได้ มาหาฉันถ้ายังอยากได้รางวัล
+BVMO000RA;Raz;You know, your advice didn't work.;รู้ไหม คำแนะนำของคุณไม่ได้ผล
+BVMO002MA;Matador;Really? Then here's some new advice: I don't know what you're talking about.;จริงเหรอ? งั้นก็ฟังคำแนะนำใหม่นะ ฉันไม่รู้ว่านายกำลังพูดถึงอะไร
+BVMO001RA;Raz;How about that reward?;แล้วเรื่องรางวัลล่ะครับ?
+BVMO003MA;Matador;Fine, then. One autograph.;เอาก็เอา ลายเซ็นหนึ่งลายเซ็น
+BVMP005MA;Matador;Ah, you must be the towel boy!;อ่า นายต้องเป็นเด็กเช็ดตัวแน่ๆ!
+BVMP008MA;Matador;You want an autograph? I don't just hand those out.;อยากได้ลายเซ็นเหรอ? ฉันไม่ได้แจกให้ใครง่ายๆ นะ
+BVMP009MA;Matador;And that's a good lesson for you: anticipate disappointment. Take me: I'm the greatest bullfighter who's ever lived. Yet my upcoming match against the town bull has received virtually no marketing support.;และนี่ก็เป็นบทเรียนที่ดีสำหรับนาย เตรียมใจรับความผิดหวังไว้ซะ ดูฉันสิ ฉันเป็นนักสู้วัวกระทิงที่ยิ่งใหญ่ที่สุดเท่าที่เคยมีมา แต่การแข่งขันที่จะถึงนี้ของฉันกับวัวประจำเมืองกลับไม่ได้รับการสนับสนุนด้านการตลาดเลย
+BVMP010MA;Matador;A towering advertisement was supposed to have been painted just outside my window. But, as you can see, the job hasn't even been started.;ควรจะมีป้ายโฆษณาขนาดใหญ่ตั้งอยู่ข้างนอกหน้าต่างของฉัน แต่นายก็เห็นแล้วว่างานยังไม่ได้เริ่มเลยด้วยซ้ำ
+BVMP005RA;Raz;I think that bull is trampling anyone who tries to paint on the wall. Maybe you could stop it.;ผมคิดว่าวัวตัวนั้นกำลังขยี้ทุกคนที่พยายามวาดภาพบนกำแพง คุณน่าจะหยุดมันได้นะ
+BVMP011MA;Matador;Hmmm ...  so instead of challenging the bull before a stadium packed with screaming women, you want me to fight it on the street in front of one dog and one child wearing a crude towel boy disguise. That's a terrible idea.;อืมมม แทนที่จะท้าทายวัวต่อหน้าสนามกีฬาที่เต็มไปด้วยเสียงกรีดร้องของผู้หญิง นายกลับอยากให้ฉันสู้กับมันบนถนนต่อหน้าสุนัขหนึ่งตัวกับเด็กที่แต่งตัวเป็นเด็กเช็ดตัวแบบหยาบๆ นี่มันความคิดที่แย่มาก
+BVRO005RA;Raz;I should find a proper hook for this painting, so it will come to life like that dog said.;ฉันควรหาตะขอที่เหมาะสมสำหรับภาพนี้ เพื่อให้มันมีชีวิตขึ้นมาเหมือนที่หมาตัวนั้นบอก
+BVRO000RA;Raz;I should give this rose to someone who'd appreciate it.;ฉันควรจะให้ดอกกุหลาบนี้กับใครสักคนที่เห็นคุณค่าของมัน
+BVRO001RA;Raz;I'll bet there's a lonely lady out there somewhere who could use a little cheering up.;ฉันพนันได้เลยว่าต้องมีผู้หญิงขี้เหงาที่ไหนสักแห่งที่ต้องการกำลังใจเล็กๆ น้อยๆ
+BVRO002RA;Raz;Maybe one of those ladies hiding behind the shutters?;บางทีอาจจะเป็นผู้หญิงที่ซ่อนตัวอยู่หลังบานประตูหน้าต่างพวกนั้น?
+BVST010RA;Raz;Hey, have you seen any REALLY BIG playing cards around here?;เฮ้ แถวนี้มีใครเห็นไพ่ใบใหญ่ๆ บ้างไหมครับ?
+BVST012RA;Raz;I'd like to buy some more art.;ผมอยากจะซื้องานศิลปะเพิ่มอีกหน่อยครับ
+BVST000SB;St.Bernard;No? Uh, okay.;ไม่เหรอ? เอ่อ โอเค
+BVST001SB;St.Bernard;Where'd ya go?;จะไปไหนแล้ว?
+BVST003SB;St.Bernard;Moving right along...;ไปต่อเลยนะ...
+BVST004SB;St.Bernard;Yeah, yeah. Check 'em all out of course. I got nowhere to go.;เออๆ ดูให้หมดเลยก็ได้ ฉันไม่ได้ไปไหนอยู่แล้ว
+BVST005SB;St.Bernard;What? You don't say?;อะไรนะ? จริงเหรอเนี่ย?
+BVST006SB;St.Bernard;Heck! Alright then!;ให้ตายสิ! เอาล่ะ!
+BVST007SB;St.Bernard;Really? Uh, uh, sure!;จริงเหรอ? เอ่อ เอ่อ ได้สิ!
+BVST008SB;St.Bernard;Hold on. Uh, let me get my salesman thing going here...;เดี๋ยวก่อนนะ เอ่อ ขอเข้าโหมดเซลส์แมนก่อน...
+BVST009SB;St.Bernard;I'd love to, but I'm all sold out!;ฉันอยากจะขายให้นะ แต่ขายหมดแล้ว!
+BVST010SB;St.Bernard;I guess my rep WAS right. This IS my year!;สงสัยชื่อเสียงของฉันจะดีจริงแฮะ ปีนี้เป็นปีของฉันจริงๆ ด้วย!
+BVST068SB;St.Bernard;I'm all sold out!;ขายหมดแล้ว!
+BVST012SB;St.Bernard;Enjoy your new art there!;สนุกกับงานศิลปะชิ้นใหม่นะ!
+BVST013SB;St.Bernard;You hang that in just the right spot, I promise you it will really come to life for ya!;ถ้านายแขวนมันในที่ที่เหมาะสม ฉันรับรองเลยว่ามันจะมีชีวิตขึ้นมาจริงๆ!
+BVST011SB;St.Bernard;Oh, ok.;อ๋อ โอเค
+BVST016SB;St.Bernard;Struck out again.;แห้วอีกแล้ว
+BVST017SB;St.Bernard;Is it my painting? My salesmanship? Me?;เป็นเพราะภาพวาดของฉัน? ทักษะการขายของฉัน? หรือตัวฉันเอง?
+BVST018SB;St.Bernard;Good, good, good.  There you go!;ดี ดี ดี เอาไปเลย!
+BVST019SB;St.Bernard;You want, like, a ribbon around that or something?  No?  Okay.;จะเอาริบบิ้นผูกให้ด้วยไหม? ไม่เหรอ? โอเค
+BVST020SB;St.Bernard;Made a good choice there I think.;ฉันว่านายเลือกได้ดีเลยนะ
+BVST001RA;Raz;Hey, can I buy some art?;เฮ้ ผมขอซื้องานศิลปะหน่อยได้ไหม?
+BVST003RA;Raz;I think I hate that bull a lot.;ผมว่าผมเกลียดวัวตัวนั้นมากๆ เลย
+BVST004RA;Raz;Hi. Could you please paint me a big gun please?;สวัสดีครับ ช่วยวาดปืนใหญ่ให้ผมหน่อยได้ไหมครับ?
+BVST005RA;Raz;Okay, I'm off.;โอเค ผมไปแล้วนะ
+BVST006RA;Raz;Uh-huh. So, the cards? You know where they are?;อือฮึ แล้วเรื่องไพ่? คุณรู้ไหมว่ามันอยู่ที่ไหน?
+BVST007RA;Raz;Those are exactly the cards I need! Where are they?;นั่นมันไพ่ที่ผมต้องการเลย! มันอยู่ที่ไหน?
+BVST011RA;Raz;Where did you say those cards were again?;คุณบอกว่าไพ่พวกนั้นอยู่ที่ไหนอีกทีนะครับ?
+BVST008RA;Raz;What do you mean trapped? Are you a prisoner of art just like Edgar?;คุณหมายความว่าไงที่ว่าติดกับดัก? คุณเป็นนักโทษของศิลปะเหมือนกับเอ็ดการ์เหรอครับ?
+BVST009RA;Raz;Okay, promise me you won't take this the wrong way, but you ARE a dog.;โอเค สัญญากับผมนะว่าจะไม่โกรธ แต่คุณก็เป็นหมาจริงๆ นี่นา
+BVST021SB;St.Bernard;Oh, man. I wish.  That would solve that would solve a lot of my problems.;โอ้ แย่เลย ฉันหวังว่าอย่างนั้นนะ มันจะแก้... มันจะแก้ปัญหาของฉันได้เยอะเลย
+BVST022SB;St.Bernard;But no this is everything I know how to paint right here.;แต่เปล่าเลย นี่คือทั้งหมดที่ฉันรู้ว่าจะวาดอะไร
+BVST023SB;St.Bernard;Man, that's embarrassing...;ให้ตายสิ น่าอายจัง...
+BVST024SB;St.Bernard;Now that takes me back. Poker night with the guys... Man, I miss those dogs.;นั่นทำให้ฉันนึกถึงคืนเล่นโป๊กเกอร์กับพวกเพื่อนๆ ฉันคิดถึงพวกมันจัง
+BVST025SB;St.Bernard;Oh, right. Well, I do know about these four lost queens...;โอ้ ใช่แล้ว ฉันรู้เรื่องควีนที่หายไปสี่ใบนะ...
+BVST026SB;St.Bernard;But that's all. Can't do much with four queens, can ya?;แต่แค่นั้นแหละ ทำอะไรมากไม่ได้หรอกนะกับควีนสี่ใบ
+BVST027SB;St.Bernard;Forget about it! They're guarded by some pretty nasty characters. Not to mention El Odio.;ลืมมันไปเถอะ! พวกมันถูกเฝ้าโดยตัวละครที่ร้ายกาจพอสมควร ยังไม่รวมถึง เอล โอดีโอ อีก
+BVST028SB;St.Bernard;You're better off just hanging out here and turning your head just a teensy bit to the left.;นายอยู่ตรงนี้แล้วหันหัวไปทางซ้ายนิดหน่อยจะดีกว่า
+BVST029SB;St.Bernard;Oh, trust me. You'll hate him even more as time goes by. When he first trapped me in this alley, I thought he was only mildly annoying.;เชื่อฉันเถอะ นายจะเกลียดมันมากขึ้นเมื่อเวลาผ่านไป ตอนที่มันขังฉันไว้ในตรอกนี้ครั้งแรก ฉันคิดว่ามันแค่รำคาญนิดหน่อย
+BVST030SB;St.Bernard;I'm a prisoner of that stupid bull!;ข้าติดแหง็กเพราะไอ้วัวโง่นั่น!
+BVST031SB;St.Bernard;I don't wanna get gored, so I hide out in the alley, like a...;ข้าไม่อยากโดนขวิด ข้าเลยต้องมาหลบในซอยเนี่ย เหมือนกับ...
+BVST032SB;St.Bernard;...like a low-down dog!;...เหมือนหมาข้างถนน!
+BVST033SB;St.Bernard;Yeah but I'm a SAINT BERNARD, man!;แต่ข้าเป็น เซนต์เบอร์นาร์ด นะเว้ย!
+BVST034SB;St.Bernard;I should be up in the highlands, above the tree line!;ข้าควรจะอยู่บนที่สูง เหนือแนวต้นไม้!
+BVST035SB;St.Bernard;Keg of brandy around my friggin' neck! Seeing the world!;มีถังบรั่นดีห้อยคอ แล้วก็เที่ยวรอบโลก!
+BVST036SB;St.Bernard;And finding more things to paint than this junk.;แล้วก็หาสิ่งที่น่าเอามาวาดรูปมากกว่าของห่วยๆ พวกนี้
+BVST037SB;St.Bernard;Which is all for sale by the way.;อ้อ แล้วของพวกนี้ข้าขายหมดนะ
+BVST038SB;St.Bernard;Well, see ya. Keep off the street now.;เออ ไปละ อย่ามาเกะกะแถวนี้ล่ะ
+BVST039SB;St.Bernard;Ahem.;แฮ่ม!
+BVST040SB;St.Bernard;Ah, the guitar. Mysterious and musical and...;อ่า กีตาร์ ช่างลึกลับ เต็มไปด้วยเสียงเพลง และ...
+BVST041SB;St.Bernard;...blue. Look at it there, with it's;...เศร้า ดูมันสิ พร้อมกับ...
+BVST042SB;St.Bernard;With it's strings. Uh;สายของมัน เอ่อ...
+BVST043SB;St.Bernard;Nothing woos the ladies quite like a guitar, am I right?;ไม่มีอะไรจะทำให้สาวๆ เคลิ้มได้เท่ากีตาร์อีกแล้ว จริงไหม?
+BVST044SB;St.Bernard;(Am I? I really can't remember. Been in this alley a long time.);(จริงเหรอ? ข้าจำไม่ได้แล้วแฮะ อยู่ในซอยนี้นานเกินไป)
+BVST045SB;St.Bernard;Anyway, how about it? Eh? Guitar? Yeah?;เอาน่า สนใจไหม? ว่าไง? กีตาร์? เอาหน่อย?
+BVST046SB;St.Bernard;I'll make ya a special deal.;ข้าจะให้ราคาพิเศษเลย
+BVST047SB;St.Bernard;Yes, yes. Uhh, the rose...;ใช่ๆ อ่า กุหลาบ...
+BVST048SB;St.Bernard;Timeless symbol of the... of the... flower...;สัญลักษณ์เหนือกาลเวลาของ... ของ... ดอกไม้...
+BVST049SB;St.Bernard;...of love...;...แห่งความรัก...
+BVST050SB;St.Bernard;Um... romance, and uh...;อืม... ความโรแมนติก และ อ่า...
+BVST051SB;St.Bernard;This one's real cheap.;อันนี้ราคาถูกสุดๆ
+BVST052SB;St.Bernard;Oh, that's a good'un.;โอ้ อันนี้ดีเลย
+BVST053SB;St.Bernard;Yep.;ใช่
+BVST054SB;St.Bernard;Got a lot of... undertones.;มี... ลูกเล่นเยอะ
+BVST055SB;St.Bernard;I painted this one with my left hand, not sure if you can tell.;ข้าว่ารูปนี้ด้วยมือซ้าย ไม่รู้ว่าเจ้าดูออกรึเปล่า
+BVST056SB;St.Bernard;Pretty sure that's gonna go up in value pretty soon.;ข้ามั่นใจเลยว่าราคามันจะขึ้นเร็วๆ นี้แน่
+BVST057SB;St.Bernard;Put this one in your front hall, maybe with a...;เอาอันนี้ไปแขวนในห้องโถง แล้วก็อาจจะ...
+BVST058SB;St.Bernard;...like a little bowl of dried... you know... leaves, what have you.;...มีถ้วยเล็กๆ ใส่... เอ่อ... ใบไม้แห้ง อะไรแบบนั้น
+BVST059SB;St.Bernard;Looks real nice. Seen it at my aunt's house.;ดูดีเลยนะ ข้าเห็นที่บ้านป้าข้า
+BVST061SB;St.Bernard;Hey, what else can I get ya?;เฮ้ อยากได้อะไรอีกไหม?
+BVST062SB;St.Bernard;You can't have too much art, can ya?;ไม่มีใครมีงานศิลปะเยอะเกินไปหรอก จริงไหม?
+BVST063SB;St.Bernard;Hold on. Let me get my salesman thing going here...;เดี๋ยวนะ ขอข้าทำตัวเป็นเซลส์แมนก่อน...
+BVST064SB;St.Bernard;Darn. I was hoping for a lady.;แย่จริง ข้าหวังว่าจะเป็นผู้หญิงซะอีก
+BVST065SB;St.Bernard;Been a long time since I've painted a nice, fat lady.;ไม่ได้วาดรูปผู้หญิงอ้วนๆ มานานแล้วสิ
+BVST066SB;St.Bernard;Oh well! Hold that pose!;เอาน่า! ค้างท่าไว้!
+BVTI000TI;Tiger;Wake up, little man, time to go nighty night.;ตื่นได้แล้ว ไอ้หนู ถึงเวลานอนแล้ว
+BVTI000RA;Raz;I AM awake.;ผมตื่นแล้วครับ
+BVTI001TI;Tiger;Good, because it is bedtime for you, snack-size.;ดี เพราะถึงเวลานอนของแกแล้ว ไอ้ตัวเล็ก
+BVTI001RA;Raz;What're you talking about?;ลุงพูดอะไรเนี่ย?
+BVTI002TI;Tiger;You will fight me for my card, yes?;แกจะสู้กับข้าเพื่อแย่งการ์ด ใช่ไหม?
+BVTI002RA;Raz;Well, I AM looking for some cards.;ก็...ผมกำลังหาการ์ดอยู่จริงๆ นั่นแหละ
+BVTI003TI;Tiger;Then, small fry, I am afraid the Sandman is going to have to bend way over to reach you because you are so awfully itty-bitty and then--;ถ้าอย่างนั้น เจ้าหนู ข้าเกรงว่าพนักงานส่งทรายคงต้องก้มลงมาเยอะหน่อย เพราะแกมันตัวเล็กจิ๋วหลิวเหลือเกิน แล้วก็...
+BVTI003RA;Raz;All right, I get it.  Just shut up and let's go.;รู้แล้วน่า หุบปากแล้วมาสู้กันเลย
+BVTI007TI;Tiger;Then I will shut up, but only so I can enjoy the microscopic spectacle of your attempts to make me shut up.;ถ้าอย่างนั้นข้าจะหุบปาก แต่ข้าจะดูแกร้องขอให้ข้าหุบปากอย่างสนุกสนาน
+BVTR000TI;Tiger;I am going to tear you tiny limb from tiny limb.;ข้าจะฉีกแขนขาเล็กๆ ของแกออกเป็นชิ้นๆ เลย
+BVTR001TI;Tiger;As you can see, I have not yet shut up.;เห็นไหมว่าข้ายังไม่หุบปากเลย
+BVTR002TI;Tiger;It looks like you will be the one who will be doing the shutting up.;ดูเหมือนว่าแกต่างหากที่จะเป็นฝ่ายหุบปาก
+BVTR003TI;Tiger;Sh-Shut up.;หุ...หุบปาก
+BVWP000RA;Raz;Alright! The Queen of Clubs! Now I have to give this to Edgar!;เยี่ยม! ควีนดอกจิก! ทีนี้ก็ต้องเอาไปให้ เอ็ดการ์ แล้ว!
+BVWP001RA;Raz;Okay, I got the Queen of Hearts. Edgar will want this.;โอเค ได้ควีนโพแดงมาแล้ว เอ็ดการ์ ต้องอยากได้แน่ๆ
+BVWP002RA;Raz;The Queen of Diamonds is all mine! Uh... until I give it to Edgar.;ควีนข้าวหลามตัดเป็นของผม! เอ่อ... จนกว่าจะเอาไปให้ เอ็ดการ์ นะ
+BVWP003RA;Raz;Hmmm. The Queen of Spades. I should get rid of this card quickly. It seems like bad luck.;หืม ควีนโพดำ รีบๆ เอาการ์ดนี้ไปทิ้งดีกว่า ท่าทางจะโชคร้าย
+BVWP004RA;Raz;All right. That's all four cards. Once I give the last one to Edgar he should be able to fix his tower.;เอาล่ะ ได้มาครบทั้งสี่ใบแล้ว พอเอาใบสุดท้ายไปให้ เอ็ดการ์ เขาก็น่าจะซ่อม หอคอย ให้เสร็จได้
+BVWP005RA;Raz;Ha! Sleep tight, kitty.;ฮ่า! นอนหลับฝันดีนะ เจ้าแมว
+BVWP006RA;Raz;Man, I can STILL smell that guy!;ให้ตายสิ ผมยังได้กลิ่นหมอนั่นอยู่เลย!
+BVWP007RA;Raz;"No more ""ca-caws"" out of you, fatty.";"จะไม่มีเสียง ""กา กา"" ออกมาจากแกอีกแล้ว ไอ้ตุ้ยนุ้ย"
+BVWP008RA;Raz;I beat you just like I did in high school, loser!;ผมชนะแกเหมือนที่เคยชนะตอนมัธยมเลย ไอ้ขี้แพ้!
+BVWP009RA;Raz;Wait... who am I?;เดี๋ยวนะ... ผมเป็นใคร?
+BVWP010RA;Raz;Aaaaaaaaa-hfff!;อ๊ากกกกกก!
+BVWS000RA;Raz;Red roses. Works every time.;กุหลาบแดง ได้ผลทุกที
+BVWS001RA;Raz;Excuse me ma'am, but could I hide out in there with you? This bull is coming down the street...;ขอโทษนะครับ คุณผู้หญิง ผมขอเข้าไปหลบข้างในด้วยได้ไหม? มีวัวกำลังวิ่งมาทางนี้...
+BVWS002RA;Raz;Help! Let me in!;ช่วยด้วย! ให้ผมเข้าไปหน่อย!
+BVWS003RA;Raz;Please, ma'am. Do not be afraid. Do I look dangerous to you?;ได้โปรดเถอะครับ คุณผู้หญิง อย่ากลัวเลย ผมดูน่ากลัวขนาดนั้นเลยเหรอ?
+BVWS004RA;Raz;Hmmm. Maybe if I could charm the lady behind those shutters somehow.;หืม... หรือว่าผมจะใช้เสน่ห์มัดใจคุณผู้หญิงที่อยู่หลังบานประตูนั้นดีนะ
+BVWT003SB;St.Bernard;Oh, now you're lucky I got a gentle disposition.;โอ้ โชคดีนะที่ข้าเป็นคนใจดี
+BVWT006SB;St.Bernard;Arf!;โฮ่ง!
+BVWT007SB;St.Bernard;Yow!;โอ๊ย!
+BVWT009CL;Collie;Tsk! Everyone's a critic!;จึ้! ใครๆ ก็เป็นนักวิจารณ์!
+BVWT011CL;Collie;Ooof!;โอ๊ย!
+BVWT015DA;Dalmatian;Owf, I deserve much worse than that for painting this stuff.;โอ๊ย ข้าสมควรโดนหนักกว่านี้อีก ที่วาดรูปอะไรแบบนี้
+BVWT022RA;Raz;Snap out of it!;ได้สติหน่อย!
+BVWT023BD;Bulldog;That doesn't help!;ไม่ได้ช่วยอะไรเลย!
+BVWT025MA;Matador;Ooh. Good thing you cannot reach my face. Then I'd be mad.;โอ้ ดีนะที่นายเอื้อมมาไม่ถึงหน้าผม ไม่งั้นผมโกรธแน่
+BVWT027ED;Edgar;Ahhh! Have you fallen in league with that infernal Bull?;อ๊าก! แกไปเข้าพวกกับไอ้วัวปีศาจนั่นแล้วเหรอ?
+BVWT029RA;Raz;That's strange.;แปลกจัง
+BVWT030RA;Raz;I'm starting to feel like I'm back in high school.;ผมเริ่มรู้สึกเหมือนกลับไปสมัยมัธยมเลย
+BVWT031RA;Raz;Which is weird, because I'm only ten.;ซึ่งมันแปลกมาก เพราะผมเพิ่งจะสิบขวบเอง
+BVWT033RA;Raz;Ca-caw.;กา-กา
+BVWT035RA;Raz;"Soon they'll be ""Dragon"" your ass outta here! Ha ha.";"เดี๋ยวพวก ""นักสู้มังกร"" ก็จะมาเตะก้นแกออกไปจากที่นี่! ฮ่า ฮ่า"
+BVWT036RA;Raz;Hey, are you awake? Did you hear that?;เฮ้ ตื่นรึเปล่า? ได้ยินอะไรไหม?
+BVWU002CB;Cobra;Where'd you go, Smeglee?;หนีไปไหน ไอ้ชมิกกลี?
+BVWU003DR;Dragon;Ohh-hoh-hoh... you can run, coward, but you cannot hide!;โอ้ โฮะ โฮะ... แกหนีไปได้ ไอ้ขี้ขลาด แต่แกซ่อนตัวไม่ได้!
+BVWU004TI;Tiger;You are so tiny, I cannot even see you anymore.;แกมันตัวเล็กมาก จนข้ามองไม่เห็นแล้ว
+BVWU006EA;Eagle;Ca-caw?;กา-กา?
+BVWV008BD;Bulldog;Man, I can't take anymore. Why don't you confuse something else?;ให้ตายสิ ข้าทนไม่ไหวแล้ว ทำไมนายไม่ไปทำให้คนอื่นสับสนบ้างล่ะ?
+BVWV010BD;Bulldog;I think I built up a resistance to these things. Why don't you try it on the bull.;ข้าว่าข้าเริ่มทนกับเรื่องพวกนี้ได้แล้ว ทำไมนายไม่ลองไปใช้กับวัวดูล่ะ?
+BVWW002MA;Matador;I do not have time for this nonsense.;ผมไม่มีเวลาสำหรับเรื่องไร้สาระพวกนี้
+BVWW003MA;Matador;You know what would look good in that frame? My reflection in a mirror.;รู้ไหมว่าอะไรที่จะดูดีในกรอบรูปนั่น? เงาของผมในกระจกไง
+BVWW004MA;Matador;Are you going somewhere? Never mind, I don't care.;นายจะไปไหนเหรอ? ช่างเถอะ ผมไม่สนหรอก
+BVWW005MA;Matador;You're an eight year old boy, so, regretfully, I must decline.;นายเป็นแค่เด็กแปดขวบ เพราะฉะนั้น ผมต้องปฏิเสธอย่างเสียใจด้วย
+BVWW006MA;Matador;I can get those from my pet any time I want.;ผมเอาจากสัตว์เลี้ยงของผมเมื่อไหร่ก็ได้
+BVWW007MA;Matador;A crow feather? What are you thinking?;ขนนกกา? นายคิดอะไรอยู่?
+BVWW008ED;Edgar;Please stop wasting my time.;ได้โปรดอย่าเสียเวลาของผมเลย
+BVWW009ED;Edgar;The last thing I need is more art. Bring me those queens!;สิ่งที่ผมต้องการน้อยที่สุดคืองานศิลปะ เอา ควีน มาให้ผม!
+BVWW010ED;Edgar;A playing card! No wait, what is that? Never mind, just bring me the queens!;ไพ่! เดี๋ยวนะ นั่นอะไร? ช่างเถอะ เอา ควีน มาให้ผมก็พอ!
+BVWW011ED;Edgar;Ah, the rose. Symbol of desire. Such as my desire for more queens. Stop wasting time!;อ่า กุหลาบ สัญลักษณ์แห่งความปรารถนา อย่างเช่นความปรารถนาของผมที่จะได้ ควีน เพิ่มอีก เลิกเสียเวลาได้แล้ว!
+BVWW012ED;Edgar;Stop bothering me with? What is that anyway?;เลิกมายุ่งกับผมด้วย... นั่นมันอะไรกัน?
+BVWW013ED;Edgar;I'm interested in one thing: Queens.;ผมสนใจอยู่แค่เรื่องเดียว ควีน
+BVWW014SB;St.Bernard;What made you think I'd be interested in this?;อะไรทำให้แกคิดว่าข้าจะสนใจเรื่องนี้?
+BVWW015SB;St.Bernard;Sorry, buddy, all sales are final.;ขอโทษด้วยเพื่อน ขายแล้วขายเลย
+BVWW016SB;St.Bernard;Sorry, I don't deal in found art.;ขอโทษที ข้าไม่ซื้อขายงานศิลปะที่เจอตามทาง
+BVWW017SB;St.Bernard;Touching, but I'm not interested.;ซึ้งนะ แต่ข้าไม่สนใจ
+BVWW018CL;Collie;Ah, that's exquisitely not interesting to me.;อ่า ช่างเป็นการไม่น่าสนใจอย่างประณีต
+BVWW019CL;Collie;Luggage? I'm afraid we're all trapped here, my dear young optimist.;กระเป๋าเดินทางเหรอ? ฉันว่าพวกเราติดอยู่ที่นี่กันหมดแล้วนะ หนู น้อยผู้มองโลกในแง่ดี
+BVWW020CL;Collie;I am a mammal, so you're close. But perhaps you should save that for someone of your own species.;ฉันเป็นสัตว์เลี้ยงลูกด้วยนม ก็ถือว่าใกล้อยู่ แต่เธอเก็บไว้ให้พวกเดียวกันเองเถอะ
+BVWW021CL;Collie;Sniff each others bums and eat our own sick, yes of course, but not all of us are interested in poker.;ดมก้นกัน กินอ้วกตัวเอง ใช่ แน่นอน แต่พวกเราไม่ได้สนใจ โป๊กเกอร์ กันทุกคนหรอกนะ
+BVWW022CL;Collie;What a curious thing! Though, oddly, I'm not curious about it in the least.;ช่างเป็นอะไรที่น่าสงสัย! ถึงอย่างนั้น ฉันก็ไม่ได้อยากรู้อะไรเลยสักนิด
+BVWW023CL;Collie;If you find the bird that belongs to that feather, be a good lad and just stuff it right into my mouth.;ถ้าเธอเจอนกที่เป็นเจ้าของขนนั่น ก็เอามายัดใส่ปากฉันเลยนะ เด็กดี
+BVWW024DA;Dalmatian;Look, I'm not interested in your junk.;ฟังนะ ข้าไม่สนของห่วยๆ ของแกหรอก
+BVWW025DA;Dalmatian;This ain't the Bad Art Mutual Appreciation Society. Get out of here with that awful thing.;ที่นี่ไม่ใช่สมาคมคนรักงานศิลปะห่วยๆ เอางานแย่ๆ นั่นออกไปจากที่นี่เลย
+BVWW026DA;Dalmatian;That would be a striking comment on man's eternal struggle against luggage. If man had an eternal struggle against luggage.;นั่นจะเป็นการแสดงความคิดเห็นที่น่าทึ่งเกี่ยวกับ การต่อสู้ชั่วนิรันดร์ของมนุษย์กับกระเป๋าเดินทาง ถ้ามนุษย์มีการต่อสู้ชั่วนิรันดร์กับกระเป๋าเดินทางนะ
+BVWW027DA;Dalmatian;You do realize I'm a boy dog, right? I'm just askin'.;นายรู้ใช่ไหมว่าข้าเป็นหมาผู้ชาย? แค่ถามเฉยๆ น่ะ
+BVWW028BD;Bulldog;What am I supposed to do with that, man?;ข้าต้องเอาไปทำอะไรวะนั่น?
+BVWW029BD;Bulldog;I dispense the art, man. I don't receive it.;ข้าเป็นคนขายงานศิลปะ ไม่ใช่คนซื้อ
+BVWW030BD;Bulldog;Oh... ah... if you really loved me, you'd give me some raw hamburger.;โอ้... อ่า... ถ้านายรักข้าจริง นายต้องให้แฮมเบอร์เกอร์ดิบๆ ข้าสิ
+BVWW031RA;Raz;I think he's in no condition to do anything with this stuff.;ผมว่าเขาอยู่ในสภาพที่จะทำอะไรกับของพวกนี้ไม่ได้หรอก
+BVWW032CB;Cobra;Bribes aren't gonna make me hurt you any less, Smeglee.;เอาของมาให้ก็ไม่ได้ทำให้ข้าเจ็บแกรน้อยลงหรอกนะ ไอ้ชมิกกลี
+BVWW033CB;Cobra;Nice picture. Now put it away or people are gonna have to x-ray your colon to look at it.;รูปสวยดีนี่ เก็บไปซะ ก่อนที่คนอื่นจะต้องเอ็กซ์เรย์ลำไส้ใหญ่ของแกเพื่อดูมัน
+BVWW034CB;Cobra;When they bag you up, I'm sure the paramedics'll appreciate that you brought your own toe tag.;ตอนที่เขาเก็บแกใส่ถุง ข้ามั่นใจเลยว่าหน่วยแพทย์คงจะขอบคุณที่แกเตรียมป้ายชื่อมาเอง
+BVWW035CB;Cobra;Oh, yeah, sweetheart. You're really dead now.;โอ้ ใช่แล้ว ที่รัก ตอนนี้แกตายแน่
+BVWW036DR;Dragon;Is this some kind of trick?;นี่มันเป็นการหลอกลวงอะไรหรือเปล่า?
+BVWW037DR;Dragon;Did you paint this? Let's find out if it's more valuable when you're dead.;แกวาดรูปนี้เหรอ? มาดูกันว่ามันจะมีค่ามากขึ้นไหมตอนแกตาย
+BVWW038DR;Dragon;I see you're going on a trip. Destination: FEAR!;ข้าเห็นว่าแกกำลังจะไปเที่ยว จุดหมายปลายทาง ความกลัว!
+BVWW039DR;Dragon;Ah, the sweet smell of FE--wait a minute, are you trying to give me a flower?;อ่า กลิ่นหอมหวานของ ควา--เดี๋ยวนะ แกพยายามจะให้ดอกไม้ข้าเหรอ?
+BVWW040EA;Eagle;Ca-caw;กา-กา
+BVWW041TI;Tiger;Show and tell is over, little man, now it's NAPTIME!;หมดเวลาโชว์แล้ว ไอ้หนู ถึงเวลานอนกลางวันแล้ว!
+BVWW042TI;Tiger;AHHH! Your foul art is more painful than your teensy fists!;อ๊าก! งานศิลปะแย่ๆ ของแกมันเจ็บปวดกว่ากำปั้นเล็กๆ ของแกอีก!
+BVWW043TI;Tiger;Good thing you packed a bag, because I am going to punch you into next week. Haha-haha. Time out! I cracked myself up.;ดีนะที่แกเก็บกระเป๋า เพราะข้าจะต่อยแกไปถึงอาทิตย์หน้าเลย ฮ่า ฮ่า ฮ่า ข้าขอพักก่อน ข้าขำตัวเอง
+BVWW044RA;Raz;Hey, you? thing. Check this out? Not interested, eh?;เฮ้ ตัวอะไรสักอย่าง ลองดูนี่หน่อยไหม? ไม่สนใจเหรอ?
+BVWW045RA;Raz;I don't even know what this thing is, much less if it likes art.;ผมไม่รู้ด้วยซ้ำว่านี่มันตัวอะไร แล้วมันจะชอบงานศิลปะไหมเนี่ย
+BVWW046RA;Raz;It's a mystery what this thing is, but it's a bigger mystery why I'm trying to make it fall in love with me.;มันเป็นปริศนาว่านี่มันตัวอะไร แต่ที่น่าสงสัยยิ่งกว่าคือทำไมผมถึงพยายามทำให้มันตกหลุมรักผม
+BVWW047RA;Raz;Anybody in there need some art? Hello?;มีใครต้องการงานศิลปะไหมครับ? ฮัลโหล?
+BVWW048RA;Raz;Luggage inspector! Open up! Hello?;เจ้าหน้าที่ตรวจกระเป๋าเดินทาง! เปิดประตูหน่อย! ฮัลโหล?
+BVWW049RA;Raz;Did someone here order a single playing card? Because that's what it says right here on my sheet. Open up!;มีใครสั่งไพ่ใบเดียวไว้ไหมครับ? เพราะมันเขียนไว้อย่างนั้นในใบนี่ เปิดประตูหน่อย!
+BVWW050RA;Raz;Anybody here interested in a magical rubber sack?;มีใครสนใจถุงยางวิเศษบ้างไหมครับ?
+BVWW051RA;Raz;Feather man! Fresh from birds. Get a feather for the grandkids! C'mon, open the window...;คนขนนก! สดๆ จากนกเลย เอาขนนกไปให้หลานๆ สิ! เร็วๆ เปิดหน้าต่างหน่อย...
+BVWW052RA;Raz;I think I have to get something out of this, not stuff something into it.;ผมว่าผมต้องเอาอะไรออกจากที่นี่ ไม่ใช่เอาอะไรยัดเข้าไป
+BVWX002RA;Raz;Aaaaaaah-oof!;อ๊ากกกกก!
+BVWX003SB;St.Bernard;Oh my god! Are you all right?;โอ้ พระเจ้า! เจ้าเป็นอะไรไหม?
+BVWX004SB;St.Bernard;Poor little guy!;น่าสงสารจัง ไอ้หนู!
+BVWX006SB;St.Bernard;Hmmm... little nick on the frame...;หืม... รอยบิ่นเล็กๆ บนกรอบรูป...
+BVWX007RA;Raz;Ohhhhh--ohhh.;โอ้...โอ้
+BVWX009SB;St.Bernard;...maybe I can cover that up with a price tag or something...;...หรือข้าจะเอาราคามาแปะทับไว้ดีนะ...
+BVWX011RA;Raz;Hey, how do you get out of this alley?;เฮ้ ออกจากซอยนี้ยังไงน่ะ?
+BVWX012SB;St.Bernard;We're trapped in here, son. Art is our only escape.;พวกเราติดอยู่ที่นี่ลูก งานศิลปะคือทางออกเดียวของเรา
+BVWX013RA;Raz;Is that like a metaphor? Or do you mean that if I take one of these paintings I can use it to get out of here?;นั่นมันเป็นแค่คำเปรียบเทียบเหรอ? หรือว่าลุงหมายความว่าถ้าผมเอารูปพวกนี้ไป ผมจะใช้มันออกไปจากที่นี่ได้?
+BVWX014SB;St.Bernard;If you TAKE one of these paintings I'll bite you on the leg.;ถ้าแก ขโมย รูปพวกนี้ไป ข้าจะกัดขาแก
+BVWX015SB;St.Bernard;If you BUY one, it could help you get out of here.;ถ้าแก ซื้อ มันไป มันอาจจะช่วยให้แกออกไปจากที่นี่ได้
+BVWX017SB;St.Bernard;They're magic!;มันมีเวทมนตร์!
+BVWX019SB;St.Bernard;Here's one of my newest acquisitions.;นี่คืองานที่ข้าเพิ่งได้มาใหม่ๆ เลย
+BVWX020SB;St.Bernard;Perfect condition.;สภาพสมบูรณ์
+BVWX021SB;St.Bernard;It's the kind of piece that really makes a room seem larger, you know?;มันเป็นงานที่ทำให้ห้องดูใหญ่ขึ้น เจ้าก็รู้ใช่ไหม?
+BVWX022SB;St.Bernard;Yep.;ใช่
+BVWX024SB;St.Bernard;Okay, okay. YES there is a small nick on the frame. Okay?;โอเค โอเค ใช่ มันมีรอยบิ่นเล็กๆ บนกรอบรูป โอเคไหม?
+BVWX025SB;St.Bernard;It's an antique!;มันเป็นของเก่า!
+BVWX026SB;St.Bernard;What do you want from me?;แกต้องการอะไรจากข้า?
+BVWX027SB;St.Bernard;Art isn't about perfection, you know!;งานศิลปะไม่ได้อยู่ที่ความสมบูรณ์แบบนะเว้ย!
+BVWX028SB;St.Bernard;I marked it down already!;ข้าลดราคาให้แล้วนะ!
+BVWX029SB;St.Bernard;At that price, you really need to let yourself be charmed by its flaws.;ราคานี้แล้ว แกต้องปล่อยให้เสน่ห์ของมันดึงดูดแกสิ
+BVWX031RA;Raz;I don't think I can swing these downtown gallery prices.;ผมว่าผมคงจ่ายราคาแกลเลอรี่ในเมืองไม่ไหว
+BVWX032SB;St.Bernard;Okay, I know you don't believe that these are magical paintings, so I'm gonna GIVE you one free. As a sample.;โอเค ข้ารู้ว่าแกไม่เชื่อว่ารูปพวกนี้มีเวทมนตร์ เพราะฉะนั้นข้าจะ ให้ แกฟรีๆ หนึ่งรูป เป็นตัวอย่าง
+BVWX033SB;St.Bernard;Hang it up on that hook over there and you'll see.;เอาไปแขวนบนตะขอตรงนั้น แล้วแกจะเห็นเอง
+BVWX034SB;St.Bernard;Then come back and buy the rest, because they all do something special.;แล้วค่อยกลับมาซื้อที่เหลือ เพราะมันทำอะไรพิเศษได้หมดเลย
+BVWX036RA;Raz;Nice! Now I can get Edgar's cards!;เยี่ยม! ทีนี้ผมก็จะได้การ์ดของ เอ็ดการ์ แล้ว!
+BVWX037SB;St.Bernard;To find the cards, go in the OPPOSITE DIRECTION of the bull, but I warn you-;ถ้าจะหาการ์ด ให้ไปใน ทิศทางตรงกันข้าม กับวัว แต่ข้าเตือนแกไว้ก่อนนะว่า...
+BVWX038SB;St.Bernard;El Odio is a force of nature. You can't stop him. You can't hurt him.;เอล โอดีโอ คือพลังธรรมชาติ แกหยุดเขาไม่ได้ ทำร้ายเขาไม่ได้
+BVWX039SB;St.Bernard;Only in the bullfighting ring can he die, and then only by the sword of the Matador.;เขาจะตายได้แค่ใน สนามสู้วัวกระทิง และก็ต้องเป็นดาบของ มาธาดอร์ เท่านั้น
+BVWX040RA;Raz;Okay, I'll STEER clear of him. Heh heh.;โอเค ผมจะ เลี่ยง เขาให้ดีที่สุด แฮ่ๆ
+BVWX042SB;St.Bernard;Oh, you interested in that one? Great!;โอ้ แกสนใจอันนั้นเหรอ? เยี่ยมเลย!
+BVWX044CL;Collie;I see you have taken a fancy to one of my favorite works.;ฉันเห็นว่าเธอสนใจงานชิ้นโปรดของฉันชิ้นหนึ่ง
+BVWX046DA;Dalmatian;Careful! Don't touch it! Ooo... you might catch a disease!;ระวัง! อย่าจับนะ! อู้ว... นายอาจจะติดโรคได้!
+BVTI008RA;Raz;Shut Up;หุบปาก
+BVTI009RA;Raz;No, you shut up;ไม่ ลุงหุบปากไปเลย
+BVTR004TI;Tiger;No, you shut up.;ไม่ แกหุบปากไปเลย
+BVWW053RA;Raz;Hey Bull! Do you want a hey!;เฮ้ วัว! อยากได้... เฮ้!
+BVDA033RA;Raz;Cause you gotta hold your breath during those.;ก็เพราะว่าต้องกลั้นหายใจตอนทำไงล่ะ
+BVED006ED;Edgar;With this card, I can almost reach her.  You must hurry back with the last queen!;ด้วยการ์ดใบนี้ ข้าก็เกือบจะเอื้อมถึงนางแล้ว เจ้ารีบกลับไปเอา ควีน ใบสุดท้ายมาให้ข้าเร็ว!
+BVMP000MA;Matador;Here's a better one: you go get that billboard painted, and I'll reward you handsomely.;นี่มีอะไรที่ดีกว่านั้น ไปทำให้ไอ้หมานั่นวาดป้ายโฆษณาให้ผม แล้วผมจะให้รางวัลอย่างงาม
+BVMP001MA;Matador;Which is how I do everything.;ซึ่งนั่นคือวิธีที่ผมทำทุกอย่าง
+BVMP002MA;Matador;As an advance, I'll give you one of my secret weapons.  Use it if anyone gets stubborn.;เป็นค่าจ้างล่วงหน้า ผมจะให้ อาวุธลับ ของผมไปชิ้นนึง ใช้มันถ้าใครดื้อด้าน
+BVMO005RA;Raz;You know, my bulldog friend could still paint a beer gut on that poster out there--;รู้ไหม เพื่อน บูลด็อก ของผมยังวาดพุงเบียร์บนโปสเตอร์ข้างนอกนั่นได้นะ
+BVMO006MA;Matador;Alright! Here! Take this! But I warn you, I won't be able to sign it.;เอาล่ะ! นี่! เอาไป! แต่ผมเตือนไว้ก่อนนะว่าผมจะเซ็นชื่อไม่ได้
+BVAA000RA;Raz;Looks like a hook. If I only had a painting I could hang it up there.;เหมือนตะขอ ถ้าผมมีรูปภาพ ผมจะเอาไปแขวนไว้ตรงนั้น
+BVAA001RA;Raz;Hm. Now which one of my black velvet paintings would work here?;หืม แล้วรูปภาพกำมะหยี่สีดำรูปไหนของผมที่จะเหมาะกับตรงนี้?
+BVWT000RA;Raz;Hey, I don't want this painting anymore.;เฮ้ ผมไม่อยากได้รูปนี้แล้ว
+BVDA011DA;Dalmatian;Oh, okay.;อ้อ โอเค
+BVAC000RA;Raz;Hey, I just think its great that you took that ass-kicking I handed to you, and turned that defeat into something positive. Like gardening.;เฮ้ ผมว่ามันเจ๋งมากเลยนะที่ลุงโดนผมเตะก้น แล้วเปลี่ยนความพ่ายแพ้เป็นอะไรที่สร้างสรรค์ อย่างเช่น ทำสวน
+BVAD000RA;Raz;You should really go out there and stop that bull.;ลุงควรจะออกไปหยุดไอ้วัวนั่นนะ
+BVAD001MA;Matador;El Odio and I will fight some day, in the ring! And he will die!;เอล โอดีโอ กับผมจะสู้กันสักวัน ในสนาม! แล้วเขาก็จะตาย!
+BVAD002MA;Matador;But not until we have a good media buzz first! So...;แต่ไม่ใช่จนกว่าจะมีข่าวครึกโครมก่อน! เพราะฉะนั้น...
+BVAD003MA;Matador;Get out there and make that lazy dog paint my billboard!;ออกไปทำให้ไอ้หมาขี้เกียจนั่นวาดป้ายโฆษณาให้ผม!
+BVAE000CB;Cobra;Ha! Feel that!;ฮ่า! รู้สึกไหมล่ะ!
+BVAE001CB;Cobra;Cuz I didn't! You can't hurt me at all!;เพราะข้าไม่รู้สึกอะไรเลย! แกทำอะไรข้าไม่ได้หรอก!
+BVAE002CB;Cobra;Because the Coach taught me how to concentrate on not feeling the pain.;เพราะ โค้ช สอนให้ข้ารู้จักการตั้งสมาธิไม่ให้รู้สึกเจ็บปวด
+BVAE003CB;Cobra;Not like you, Schmeglee!;ไม่เหมือนแก ไอ้ชมิกกลี!
+BVAE004CB;Cobra;You feel everything!;แกรู้สึกทุกอย่าง!
+BVAE005CB;Cobra;Like when your girlfriend Lana dumped you for that cheerleader guy.;อย่างตอนที่แฟนแก แลมพิต้า ทิ้งแกไปคบกับนักเชียร์
+BVAE006CB;Cobra;You felt that so bad, you blew the state semi finals!;แกรู้สึกแย่มากจนทำรอบรองชนะเลิศระดับรัฐพัง!
+BVAE007CB;Cobra;You let all us wrestlers down!;แกทำให้พวกนักมวยปล้ำผิดหวัง!
+BVAE008CB;Cobra;That's why we hate you!;นี่แหละคือเหตุผลที่พวกเราเกลียดนาย!
+BVAE009CB;Cobra;You got confused, Teglee! You let your guard down!;นายสับสนเองแท้ๆ, ทีกลี! การ์ดตกเองนี่หว่า!
+BVAE010CB;Cobra;And then you got torn apart, like this!;แล้วก็โดนขย้ำเป็นชิ้นๆ แบบนี้ไงล่ะ!
+BVAE011CB;Cobra;I can't feel a thing! ;ข้าไม่รู้สึกอะไรเลย!
+BVAE012CB;Cobra;You'll never break my concentration.;ไม่มีทางทำลายสมาธิข้าได้หรอก
+BVAE013CB;Cobra;MY head will never get all clouded up and confused like yours!;หัวของข้าไม่มีวันสับสนมึนงงเหมือนของแกแน่!
+BVAE014CB;Cobra;I'm telling you, it's impossible!;บอกเลยนะว่าเป็นไปไม่ได้!
+BVAE015CB;Cobra;The Coach says if you stay focused, you can't be beat.;ท่านโค้ชบอกว่าถ้านายมีสมาธิ, จะไม่มีใครเอาชนะนายได้
+BVAE016CB;Cobra;Give it up Schmeglee.;ยอมแพ้ไปซะ ชเมกลี
+BVAE017CB;Cobra;Feel that?;รู้สึกถึงมันไหม?
+BVAE018CB;Cobra;How 'bout that?;เป็นไงล่ะ?
+BVAE019CB;Cobra;How's that feel?;รู้สึกยังไงบ้าง?
+BVAE020CB;Cobra;Aw does that hurt?;โอ๋ๆ เจ็บเหรอจ๊ะ?
+BVAE021CB;Cobra;Does that hurt little Edgar?;เจ็บไหมจ๊ะ เจ้าหนู เอ็ดการ์?
+BVAE022CB;Cobra;Does that hurt 'ums feelings?;ทำร้ายความรู้สึกคนอื่นเป็นไงล่ะ?
+BVAF000RA;Raz;Here you go, Edgar. The last card.;นี่ครับ เอ็ดการ์, การ์ดใบสุดท้าย
+BVAF001ED;Edgar;Thank you. You said you would get them and you did.;ขอบคุณนะ แรซ, เธอบอกว่าจะเอามันมาให้ได้, แล้วเธอก็ทำได้จริงๆ
+BVAF002ED;Edgar;Not everyone is as true to their word, you know.;ไม่ใช่ทุกคนที่จะรักษาสัญญาหรอกนะ, แรซรู้ไหม
+BVAF003RA;Raz;Well, now you can finish your tower.;งั้นตอนนี้คุณก็สร้างหอคอยให้เสร็จได้แล้วสิครับ
+BVAF004ED;Edgar;Yes, now this can all end, once and for all.;ใช่แล้ว, ตอนนี้ทุกอย่างจะจบลง, ในที่สุด
+BVAG000MA;Matador;El Odio is a fierce, magical creature. He can only be harmed by the traditional bullfighting weapons.;El Odio เป็นสัตว์ร้ายที่มีเวทมนตร์ เขาจะได้รับอันตรายจากอาวุธสู้วัวกระทิงแบบดั้งเดิมเท่านั้น
+BVAG001RA;Raz;Oh no. I can't believe I stuck four of those barbed poles in his back!;แย่แล้ว! ไม่อยากจะเชื่อเลยว่าผมปักไอ้แท่งหนามๆ พวกนั้นไปบนหลังเขาตั้งสี่อัน!
+BVAG002MA;Matador;"They're called ""Banderillas!""";"เขาเรียกว่า ""Banderillas!"""
+BVAG003RA;Raz;I gotta get those out of there and protect Edgar. If something happens to him while I'm in his mind, I'll get the boot!;ผมต้องเอาพวกนั้นออกไปแล้วปกป้อง เอ็ดการ์ ให้ได้ ถ้าเกิดอะไรขึ้นกับเขาตอนที่ผมอยู่ในโลกจิตของเขา, ผมโดนไล่ออกแน่!
+BVAG004MA;Matador;Silly boy. I do not think I am a bull. Do you?;เด็กน้อย, ข้าไม่คิดว่าข้าเป็นวัวนะ เจ้าว่าไง?
+BVAG005MA;Matador;These magic weapons cannot hurt me.;อาวุธเวทมนตร์พวกนี้ทำร้ายข้าไม่ได้หรอก
+BVAG006MA;Matador;Ohhhoo ohhh;โอ้โห โอ้...
+BVAG007MA;Matador;I am the mighty EL ODIO!;ข้าคือ EL ODIO ผู้ยิ่งใหญ่!
+BVAG008MA;Matador;I have all the power OF THE BULL!;ข้ามีพลังทั้งหมดแห่งวัวกระทิง!
+BVAG009RA;Raz;Hm... And all the weaknesses I'll bet...;หืม... แล้วก็คงมีจุดอ่อนทั้งหมดด้วยสินะ...
+BVAG010MA;Matador;Look out!;ระวัง!
+BVAG011MA;Matador;Here comes El Odio!;El Odio มาแล้ว!
+BVAG012MA;Matador;Ahhhhhh!;อ๊าก!
+BVAG013MA;Matador;Ow! ;โอ๊ย!
+BVAG014MA;Matador;El Odio is hit!;El Odio โดนแล้ว!
+BVAG015MA;Matador;El Odio doesn't like that!;El Odio ไม่ชอบแบบนี้!
+BVAG016MA;Matador;Right in El Odio's butt!;ตรงก้นของ El Odio พอดี!
+BVAG017MA;Matador;El Odio... is... DYING.;El Odio... กำลัง... จะตาย...
+BVAI000RA;Raz;Hnnn! ;ฮึ่ม!
+BVAI001RA;Raz;I can't pick those up by hand. I think TK is the thing.;ผมหยิบพวกนั้นด้วยมือเปล่าไม่ได้ สงสัยต้องใช้พลัง TK สินะ
+BVAK000RA;Raz;Hey, great to see you guys all together!;เฮ้, ดีใจจังที่เห็นพวกคุณอยู่ด้วยกัน!
+BVAK001ED;Edgar;Shhh! ;ชู่ว์!
+BVAK002ED;Edgar;Not now, Razputin. There is a lot of money on the table.;ไม่ใช่ตอนนี้, แรซปูติน บนโต๊ะมีเงินเดิมพันเยอะแยะ
+BVAK003RA;Raz;Oh, okay, I was just gonna hang out for a bit. Is that bull--;อ๋อ, โอเค, ผมแค่อยากจะมานั่งเล่นด้วยหน่อย ไอ้กระทิงนั่น--
+BVAK004ED;Edgar;Long gone, my friend. The place is yours. If you'll excuse me;ไปนานแล้วเพื่อน ที่นี่เป็นของเธอแล้ว ถ้าไม่รังเกียจ...
+BVAK005RA;Raz;Okay. Hey, great hand. Good thing we found all those queens, eh?;โอเค เฮ้ มือดีนี่ โชคดีที่เราเจอควีนทั้งหมดเลย ว่าไหม?
+BVAK006ED;Edgar;Ahhhh!;อ๊าก!
+BVAC001CB;Cobra;(grunt);(คำราม)
+BVAC004RA;Raz;Hey, you're into girly things like gardening--how do you like my art?;นี่, นายชอบเรื่องผู้หญิงๆ อย่างการทำสวนนี่นา ชอบงานศิลปะของผมไหม?
+BVAC005RA;Raz;Hey, I stole this rose from your garden. That cool?;นี่, ผมขโมยดอกกุหลาบจากสวนนายมา เท่ไหมล่ะ?
+BVAC006CB;Cobra;Grrrrr!;ครืด!
+BVZA001TO;System;I saw another dog selling art up the street. Are you guys a chain?;ฉันเห็นหมาอีกตัวขายงานศิลปะอยู่บนถนน พวกนายเป็นเครือข่ายกันเหรอ?
+BVZA002TO;System;Could you tell me again about your dog friends?;เล่าเรื่องเพื่อนหมาของนายให้ฟังอีกทีได้ไหม?
+BVZA003TO;System;Hey, can you fight bulls? I have a bull problem;นี่, นายสู้วัวกระทิงได้ไหม? ฉันมีปัญหากับวัวกระทิงน่ะ
+BVZA004TO;System;Who CAN do it? Who can fight El Odio?;ใครทำได้บ้าง? ใครสู้กับ El Odio ได้?
+BVZA005TO;System;WHAT? What happened between Dingo and Edgar?;อะไรนะ? เกิดอะไรขึ้นระหว่าง ดิงโก้ กับ เอ็ดการ์?
+BVZA006TO;System;Tell me that story about Dingo and Lampita again!;เล่าเรื่อง ดิงโก้ กับ แลมพิต้า ให้ฟังอีกทีสิ!
+BVZA007TO;System;I think that Dingo sounds like a jerk.;ฉันว่า ดิงโก้ ฟังดูเป็นคนแย่ๆ นะ
+BVZA008TO;System;Must be tough.;คงจะลำบากน่าดู
+BVZA009TO;System;Gotta go.;ต้องไปแล้วล่ะ
+BVZA010TO;System;Can I ask you a question?;ถามอะไรหน่อยได้ไหม?
+BVZA011TO;System;Hi. I want to buy a painting.;สวัสดีค่ะ ฉันอยากซื้อภาพวาด
+BVZA012TO;System;Edgar Teglee sent me. You know, the famous painter? How about a discount?;เอ็ดการ์ ทีกลี ส่งฉันมา เธอน่าจะรู้จัก จิตรกรชื่อดังคนนั้นนะ? มีส่วนลดให้ไหม?
+BVZA013TO;System;Yeah, I want some art.;ใช่, ฉันอยากได้งานศิลปะ
+BVZA014TO;System;No, I want to talk Edgar. Has he always had a problem with wrestlers?;ไม่ ฉันอยากคุยเรื่อง เอ็ดการ์ เขามีปัญหากับนักมวยปล้ำมาตลอดเลยเหรอ?
+BVZA015TO;System;Has Edgar always had a problem with wrestlers?;เอ็ดการ์ มีปัญหากับนักมวยปล้ำมาตลอดเลยเหรอ?
+BVZA016TO;System;Why did he choke? Did they get him in one of those pile driver things?;ทำไมเขาถึงสำลัก? พวกนั้นเล่นท่าไพล์ไดรเวอร์ใส่เขารึเปล่า?
+BVZA017TO;System;How sad. Especially since it all happened to him again with Dingo and Lampita.;น่าเศร้าจัง โดยเฉพาะอย่างยิ่งเมื่อมันเกิดขึ้นกับเขาอีกครั้งกับ ดิงโก้ และ แลมพิต้า
+BVZA018TO;System;So tell me that again? Edgar was a bad wrestler?;งั้นเล่าใหม่อีกทีสิ เอ็ดการ์ เป็นนักมวยปล้ำที่แย่เหรอ?
+BVZA019TO;System;See ya.;เจอกันใหม่
+BVZA020TO;System;Can I buy some more art?;ซื้อภาพวาดเพิ่มได้ไหม?
+BVZA021TO;System;Hey, can I buy some art?;นี่, ซื้อภาพวาดหน่อยได้ไหม?
+BVZA022TO;System;Hey, have you seen any REALLY BIG playing cards around here?;นี่, แถวนี้มีใครเห็นไพ่ใบใหญ่ๆ บ้างไหม?
+BVZA023TO;System;I think I hate that bull a lot.;ฉันว่าฉันเกลียดวัวกระทิงตัวนั้นมากๆ เลย
+BVZA024TO;System;Hi. Could you please paint me a big gun please?;สวัสดีค่ะ ช่วยวาดรูปปืนใหญ่ให้ฉันหน่อยได้ไหมคะ?
+BVZA025TO;System;Uh-huh. So, the cards? You know where they are?;อืมฮึ แล้วไพ่ล่ะ? รู้ไหมว่ามันอยู่ที่ไหน?
+BVZA026TO;System;Those are exactly the cards I need! Where are they?;นั่นมันไพ่ที่ฉันต้องการเลย! มันอยู่ที่ไหน?
+BVZA027TO;System;Where did you say those cards were again?;เมื่อกี๊บอกว่าไพ่พวกนั้นอยู่ที่ไหนนะ?
+BVZA028TO;System;What do you mean trapped? Are you a prisoner of art just like Edgar?;หมายความว่าไง ติดกับดัก? นายเป็นนักโทษของศิลปะเหมือนกับ เอ็ดการ์ งั้นเหรอ?
+BVZE000TO;System;Not enough /Arrowhead/;/Arrowhead/ ไม่พอ
+BVZF000TO;System;Press /YButton/ to pick up feather.;กด /YButton/ เพื่อเก็บขนนก
+BVZF001TO;System;Press /YButton/ to talk to the Matador.;กด /YButton/ เพื่อคุยกับ มาธาดอร์
+BVZF002TO;System;The Painter;จิตรกร
+BVZF003TO;System;Press /LeftFlipper/ to lock focus.;กด /LeftFlipper/ เพื่อล็อคเป้า
+BVZF004TO;System;Press /YButton/ to lower the fire escape.;กด /YButton/ เพื่อลดบันไดหนีไฟ
+BVZF005TO;System;Press /YButton/ to take the painting down.;กด /YButton/ เพื่อเอาภาพวาดลง
+BVZG000TO;System;Remember, the Eagle cannot hunt what the Eagle cannot see.;จำไว้ว่า นักสู้เหยี่ยว จะล่าสิ่งที่มองไม่เห็นไม่ได้
+BVZG001TO;System;Wanna hang a painting?  Face the hook and press /YButton/ to activate.;อยากแขวนภาพวาดเหรอ? หันหน้าเข้าหาตะขอแล้วกด /YButton/ เพื่อใช้งาน
+BVZG002TO;System;Put the painting in your knapsack for later use, press /BButton/;ใส่ภาพวาดไว้ในกระเป๋าเป้เพื่อใช้ภายหลัง กด /BButton/
+BVZG003TO;System;To select this item later, press /DPadDown/, select the item, then press /AButton/;หากต้องการเลือกไอเทมนี้ในภายหลัง ให้กด /DPadDown/, เลือกไอเทม, จากนั้นกด /AButton/
+BVZG004TO;System;Telekinesis can reach objects that are just beyond reach.  Press /BlackButton/ to activate it.;พลัง Telekinesis สามารถเข้าถึงวัตถุที่อยู่ไกลเกินเอื้อม กด /BlackButton/ เพื่อใช้งาน
+BVZG005TO;System;Lock on to any enemy by holding /LeftFlipper/.  While locked, dodge attacks by pressing jump /AButton/ and a direction.;ล็อคเป้าศัตรูโดยกด /LeftFlipper/ ค้างไว้ ขณะล็อคเป้า ให้หลบการโจมตีโดยกดกระโดด /AButton/ และทิศทาง
+BVZG006TO;System;The shield power can protect you against the most devilish attacks.;พลังโล่สามารถปกป้องคุณจากการโจมตีที่ร้ายกาจที่สุดได้
+BVZA030TO;System;Why don't you guys just make a run for it?;ทำไมพวกนายไม่หนีไปซะล่ะ?
+BVZA031TO;System;Hey, how's business? Can I buy some art?;นี่, ธุรกิจเป็นไงบ้าง? ซื้อภาพวาดได้ไหม?
+BVZA032TO;System;Why won't they ask Dingo to help? Is he expensive?;ทำไมพวกเขาไม่ขอให้ ดิงโก้ ช่วยล่ะ? เขาค่าตัวแพงเหรอ?
+BVZA033TO;System;COME ON! Tell me! What's the big scandal???;น่า! บอกมาหน่อย! มีเรื่องอื้อฉาวอะไรกัน???
+BVZA034TO;System;Whoa. That's a great story. You should do a painting about it.;ว้าว เป็นเรื่องที่ยอดเยี่ยมมาก นายควรจะวาดภาพเกี่ยวกับเรื่องนี้
+BVZA035TO;System;No, really. I'd like some art.;ไม่, จริงๆ นะ ฉันอยากได้งานศิลปะ
+BVZA036TO;System;You're going to turn away a paying customer?;นายจะปฏิเสธลูกค้าที่พร้อมจ่ายเงินงั้นเหรอ?
+BVZA037TO;System;Pfft, you don't give discounts? Or pffft, you don't think he's famous?;ปึ้ด, นายไม่ลดราคาให้เหรอ? หรือ ปึ้ด, นายไม่คิดว่าเขาดัง?
+BVZA038TO;System;Hey, there's no shame in hiding from wrestlers. They're trouble. Especially the wild animal type.;นี่, ไม่เห็นน่าอายเลยที่จะหนีนักมวยปล้ำ พวกนั้นมันตัวปัญหา โดยเฉพาะพวกที่เป็นสัตว์ป่า
+BVZA039TO;System;No. I just meant wrestlers can be tough. I didn't mean you.;ไม่ ฉันแค่หมายถึงนักมวยปล้ำอาจจะแข็งแกร่ง ฉันไม่ได้หมายถึงนาย
+BVZA040TO;System;Yes. I would like to wrestle. Let's go.;ใช่ ฉันอยากปล้ำ ไปกันเลย
+BVZA041TO;System;Okay, I'm off.;โอเค ฉันไปแล้วนะ
+BVZA042TO;System;Okay, promise you won't take this the wrong way, but you ARE a dog.;โอเค สัญญานะว่าจะไม่โกรธ แต่คุณเป็นหมาจริงๆ นะ
+BVZB000TO;System;Guitar Painting;ภาพวาดกีตาร์
+BVZB001TO;System;Rose;ดอกกุหลาบ
+BVZF006TO;System;Press /YButton/ to hang painting.;กด /YButton/ เพื่อแขวนภาพวาด
+BVZF008TO;System;You can cloud the minds of others using the power of CONFUSION. But if you use it too much, you will need to pick up more CONFUSION GRENADES to energize the confusing aspect of your mind. /ConfusionAmmo/;คุณสามารถทำให้จิตใจของผู้อื่นสับสนได้โดยใช้พลังแห่ง CONFUSION แต่ถ้าใช้มากเกินไป คุณจะต้องเก็บ CONFUSION GRENADES เพิ่มเติมเพื่อเติมพลังด้านความสับสนในจิตใจของคุณ /ConfusionAmmo/
 BVZF009TO;System;"/AButton/ Try again
-/BButton/ Try Later";
-BVZA044TO;System;Why don't you guys just make a run for it.;
-BVZA045TO;System;Hey, can you fight bulls? I have a bull problem.;
-BVZA046TO;System;Okay, I bought some art. Now give me the dirt on Dingo.;
-BVZB002TO;System;Window Painting;
-BVZB003TO;System;Confusion;
-BVZB004TO;System;Vine Painting;
-BVZE001TO;System;Matador's Apartment;
-BVIN014RA;Raz;Yes, uh--ummph!!;ได้เลย uh--ummph!!
-BVZB005TO;System;Rose Painting;
-BVZB006TO;System;Archway Painting;
-BVWS005RA;Raz;Hey, wanna dance?;
-BVZF010TO;System;Press /YButton/ to raise the fire escape.;
-BVZZ000TO;System;ONE WAY;
-BVZZ001TO;System;YOU LOSE;
-BVZZ002TO;System;YOU WIN;
-BVZZ003TO;System;YOUR AD HERE;
-BVZZ004TO;System;COBRA BITES!;
-BVZZ005TO;System;DRAGON ROCKS;
-BVZZ006TO;System;EAGLE #1;
-BVZZ007TO;System;KILL TIGER KILL;
-BVZZ008TO;System;WE WANT BLOOD;
-BVZZ009TO;System;KILL;
+/BButton/ Try Later";"/AButton/ ลองอีกครั้ง
+/BButton/ ลองใหม่คราวหลัง"
+BVZA044TO;System;Why don't you guys just make a run for it.;ทำไมนายไม่ลองหนีไปซะล่ะ
+BVZA045TO;System;Hey, can you fight bulls? I have a bull problem.;นี่, นายสู้วัวกระทิงได้ไหม? ฉันมีปัญหากับวัวกระทิงน่ะ
+BVZA046TO;System;Okay, I bought some art. Now give me the dirt on Dingo.;โอเค ฉันซื้อภาพวาดไปแล้ว ทีนี้บอกเรื่องฉาวๆ ของ ดิงโก้ มาหน่อย
+BVZB002TO;System;Window Painting;ภาพวาดหน้าต่าง
+BVZB003TO;System;Confusion;Confusion
+BVZB004TO;System;Vine Painting;ภาพวาดเถาวัลย์
+BVZE001TO;System;Matador's Apartment;อพาร์ตเมนต์ของมาธาดอร์
+BVIN014RA;Raz;Yes, uh--ummph!!;ครับ, เอ่อ--อืม!
+BVZB005TO;System;Rose Painting;ภาพวาดดอกกุหลาบ
+BVZB006TO;System;Archway Painting;ภาพวาดซุ้มประตูโค้ง
+BVWS005RA;Raz;Hey, wanna dance?;นี่, อยากเต้นไหม?
+BVZF010TO;System;Press /YButton/ to raise the fire escape.;กด /YButton/ เพื่อยกบันไดหนีไฟขึ้น
+BVZZ000TO;System;ONE WAY;ทางเดียว
+BVZZ001TO;System;YOU LOSE;คุณแพ้
+BVZZ002TO;System;YOU WIN;คุณชนะ
+BVZZ003TO;System;YOUR AD HERE;พื้นที่โฆษณาของคุณ
+BVZZ004TO;System;COBRA BITES!;นักสู้งูขย้ำ!
+BVZZ005TO;System;DRAGON ROCKS;นักสู้มังกรสุดยอด!
+BVZZ006TO;System;EAGLE #1;นักสู้เหยี่ยวอันดับ 1!
+BVZZ007TO;System;KILL TIGER KILL;ฆ่านักสู้เสือให้ตาย!
+BVZZ008TO;System;WE WANT BLOOD;พวกเราต้องการเลือด!
+BVZZ009TO;System;KILL;ฆ่า!

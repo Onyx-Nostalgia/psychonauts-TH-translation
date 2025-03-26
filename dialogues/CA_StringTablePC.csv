@@ -1,13 +1,13 @@
 id;character;origin_dialogue;translated_dialogue
-CAZE001TO;System;Move /LookControls/ to look right.;����͹ /LookControls/ �����ͧ价ҧ���
-CAZE002TO;System;Move /LookControls/ to look up.;����͹ /LookControls/ �����ͧ���
-CAZE005TO;System;Move /LookControls/ to look around.;����͹ /LookControls/ �����ͧ��ͺ�
-CAZE010TO;System;Use /MovementControls/ to aim your toss.;�� /MovementControls/ ������秡�â��ҧ�ͧ�س
-CAZE014TO;System;Try hanging and swinging on these wood supports. Use /MovementControls/ to swing.  Press /AButton/ to jump off.;�ͧ���������觺������ �� /MovementControls/ ������� �� /AButton/ ���͡��ⴴ�͡
-CAZE021TO;System;Move /MovementControls/ to build up momentum on this trapeze, then press /AButton/ to jump!;����͹ /MovementControls/ �������ҧ�ç�����§����ǹ�� �ҡ��鹡� /AButton/ ���͡��ⴴ!
-CAZJ004TO;System;/AButton/ Select Bunk;/AButton/ ���͡��§
-CAZJ005TO;System;/AButton/ Overwrite Profile;/AButton/ ��¹�Ѻ�����
-CAZJ006TO;System;Delete Profile;ź�����
-GLZG041TO;System;/BButton/ Exit;/BButton/ �͡
-CAZF004TO;System;To change your camera preferences, press /StartButton/ to open your JOURNAL, and select OPTIONS from the first page.;"�ҡ��ͧ�������¹��õ�駤�ҡ��ͧ�ͧ�س �� /StartButton/ �����Դ ""�ѹ�֡"" �ͧ�س ������͡������͡�ҡ˹���á"
-CAZF006TO;System;This DOWSING ROD can be used to find deeper, more valuable PSITANIUM ARROWHEADS. Equip the DOWSING ROD and watch and listen to its changing color and sound. This is how it lets you know that you are getting closer to a DEEP ARROWHEAD.;"""�觴�ǫ��"" ����ö�������� ""�����������"" ����֡����դ���٧�� ����觴�ǫ�� �����ѧࡵ����С����蹷������¹� �ѹ�к觺͡��ҡ��ѧ������""�������Թ""����"
+CAZE001TO;System;Move /LookControls/ to look right.;เลื่อน /LookControls/ เพื่อมองไปทางขวา
+CAZE002TO;System;Move /LookControls/ to look up.;เลื่อน /LookControls/ เพื่อมองขึ้น
+CAZE005TO;System;Move /LookControls/ to look around.;เลื่อน /LookControls/ เพื่อมองไปรอบๆ
+CAZE010TO;System;Use /MovementControls/ to aim your toss.;ใช้ /MovementControls/ เพื่อเล็งการขว้างของคุณ
+CAZE014TO;System;Try hanging and swinging on these wood supports. Use /MovementControls/ to swing.  Press /AButton/ to jump off.;ลองห้อยและแกว่งบนไม้ค้ำ ใช้ /MovementControls/ เพื่อแกว่ง กด /AButton/ เพื่อกระโดดออก
+CAZE021TO;System;Move /MovementControls/ to build up momentum on this trapeze, then press /AButton/ to jump!;เลื่อน /MovementControls/ เพื่อสร้างแรงเหวี่ยงบนราวนี้ จากนั้นกด /AButton/ เพื่อกระโดด!
+CAZJ004TO;System;/AButton/ Select Bunk;/AButton/ เลือกเตียง
+CAZJ005TO;System;/AButton/ Overwrite Profile;/AButton/ เขียนทับโปรไฟล์
+CAZJ006TO;System;Delete Profile;ลบโปรไฟล์
+GLZG041TO;System;/BButton/ Exit;/BButton/ ออก
+CAZF004TO;System;To change your camera preferences, press /StartButton/ to open your JOURNAL, and select OPTIONS from the first page.;"หากต้องการเปลี่ยนการตั้งค่ากล้องของคุณ กด /StartButton/ เพื่อเปิด ""บันทึก"" ของคุณ และเลือกตัวเลือกจากหน้าแรก"
+CAZF006TO;System;This DOWSING ROD can be used to find deeper, more valuable PSITANIUM ARROWHEADS. Equip the DOWSING ROD and watch and listen to its changing color and sound. This is how it lets you know that you are getting closer to a DEEP ARROWHEAD.;"""แท่งดาวซิ่ง"" สามารถใช้เพื่อหา ""หัวศรไซเทเนียม"" ที่ลึกและมีค่าสูงได้ ถือแท่งดาวซิ่ง แล้วสังเกตสีและการสั่นที่เปลี่ยนไป มันจะบ่งบอกว่ากำลังเข้าใกล้""หัวศรใต้ดิน""แล้ว"

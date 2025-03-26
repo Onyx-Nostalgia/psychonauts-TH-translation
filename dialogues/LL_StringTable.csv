@@ -1,58 +1,58 @@
 id;character;origin_dialogue;translated_dialogue
-ASCL001RA;Raz;Hey it works!;
-ASCL002RA;Raz;What's up, Linda?;
-ASCL003RA;Raz;I don't suppose I could just ride on top this time?;
-ASCL004RA;Raz;You know, I'm not getting any more used to this.;
-ASCL005RA;Raz;You haven't been eating algae again, have you?;
-ASCL006LF;Linda;Prepare yourself for passage, human child.;
-ASCL007RA;Raz;Ya--;
+ASCL001RA;Raz;Hey it works!;เฮ้! เวิร์คแฮะ!
+ASCL002RA;Raz;What's up, Linda?;ไง ลินดา?
+ASCL003RA;Raz;I don't suppose I could just ride on top this time?;รอบนี้ขี่ข้างบนไปเลยไม่ได้เหรอ?
+ASCL004RA;Raz;You know, I'm not getting any more used to this.;รู้ไหม ฉันไม่ชินกับเรื่องแบบนี้เลยจริงๆ นะ
+ASCL005RA;Raz;You haven't been eating algae again, have you?;แกไม่ได้กินสาหร่ายเข้าไปอีกแล้วใช่มั้ยเนี่ย?
+ASCL006LF;Linda;Prepare yourself for passage, human child.;เตรียมตัวให้พร้อมสำหรับการเดินทาง เด็กมนุษย์
+ASCL007RA;Raz;Ya--;ยะ--
 LLBF001RA;Raz;Okay, cough up the girl and no one gets hurt, fish!;เอาล่ะ คายเด็กผู้หญิงมาซะ จะได้ไม่มีใครต้องเจ็บตัว ไอ้ปลา!
-LLBF002LF;Linda;Rrrrrrrrroooooooooaaaahhhhh!;
-LLBF003RA;Raz;Man, it's gonna be hard to find a new place to give you lumps.;พวก คงยากแน่ถ้าต้องหาที่ใหม่เพื่ออัดแกเนี่ย
+LLBF002LF;Linda;Rrrrrrrrroooooooooaaaahhhhh!;Rrrrrrrrroooooooooaaaahhhhh!
+LLBF003RA;Raz;Man, it's gonna be hard to find a new place to give you lumps.;ให้ตาย จะไปหาที่ใหม่ซ้อมอัดแกได้ที่ไหนเนี่ย
 LLLV001LF;Linda;Human child.;เด็กมนุษย์
 LLLV002RA;Raz;Wha--who is that?;ไงนะ-- นั่นใคร?
 LLLV003LF;Linda;It is I, the creature whose spirit was once--;ข้าเอง สิ่งมีชีวิตที่ครั้งนึงเคย--
 LLLV004LF;Linda;Um, over here. Behind you? Yes.;อืม ทางนี้ ข้างหลังเจ้า? ใช่
 LLLV005RA;Raz;Oh.;โอ้
-LLLV006LF;Linda;The creature whose spirit was once enslaved by the evil one.;สิ่งมีชีวิตที่ครั้งนึงจิตวิญญาณเคยตกเป็นทาสของปีศาจ
-LLLV007LF;Linda;You have unchained my soul, and now I shall repay you, powerful human child!;เจ้าได้ปลดโซ่ตรวนแห่งจิตวิญญาณของข้า และตอนนี้ข้าจะตอบแทนเจ้า เด็กมนุษย์ผู้ทรงพลังเอ๋ย!
-LLLV008RA;Raz;Oh, uh... great! Well okay, show me what you did to my friend Lili!;โอ้ เอ่อ... เยี่ยม! โอเค บอกมาว่าแกทำอะไรกับเพื่อนฉัน ลิลี่!!
-LLLV009LF;Linda;By the drowned spirit of Oblongata, it is done!;แด่ดวงวิญญาณที่จมน้ำแห่งออบลองกาตา มันจบแล้ว!
-LLLV010RA;Raz;Ah--;Ah--
-LLAA000RA;Raz;Man, that must be full of sharp nails. Hate to swallow that!;
-LLAA001RA;Raz;"""Shaky Claim Day Care Center.""";
-LLAA002RA;Raz;Wow, this must have been a pretty advanced ghost town down here if they had lawn gnomes.;
-LLAA003RA;Raz;Hey, that helmet got spit at me in the Brain Tumbler vision!;
-LLAA004RA;Raz;I must have been fighting the Coach's idea of this monster.;
-LLAA005RA;Raz;I mean, Linda.;
-LLAA006RA;Raz;Ooh, I wonder if I can find out what happened on that western I was watching. ;
-LLAA007RA;Raz;Poor, gross little sucker fish! It can't breathe! I should kill it.;
-LLAA008RA;Raz;Hey, I think I see a piece of teriyaki salmon jerky over there in that clam. Why don't you go eat that instead?;
-LLAA009RA;Raz;This freshwater lake coral is so pretty I just want to smash it.;
-LLAA010RA;Raz;The creature's prints are still glowing! This must be where he brought Lili!;
-LLAB000FO;Ford;Ah, poor little thing.;
-LLAB001RA;Raz;"That ""poor little thing"" just tried to kill me about eight different ways.";
-LLAB002FO;Ford;Well, that's not its fault.;
-LLAB003FO;Ford;This was once just a normal-sized lungfish, minding its own business in a mucus-lined air bubble beneath a semi-dry lake bed.;
-LLAB004FO;Ford;But judging by the work done on it, I suspect Morry has mutated it, accelerated its growth, and has placed an implant in its brain to make it do his evil bidding.;
-LLAB005RA;Raz;Whoa. Poor little thing.;
-LLAB006FO;Ford;Yeah. Go inside there and try to smash the implant! Use the Psycho-Portal I saw you steal from Sasha's lab.;
-LLAB007RA;Raz;Oh, uh, yeah. That works on big, scary monsters?;
-LLAB008FO;Ford;Oh, monster-schmonster! That thing is more afraid of you than you are of it! ;
-LLAB009FO;Ford;Now git in there!;
-LLAC000LF;Linda;Please... my home is your home.;
-LLAC001LF;Linda;I think I have some Teriyaki Salmon Jerky in one of these mud holes around here...;
-LLAC002RA;Raz;No, that's cool. Why don't you just relax. I'd like to poke around.;
-LLAC003LF;Linda;As you wish, human child.;
-LLAC004RA;Raz;Hey, Linda?;
-LLAC005LF;Linda;Yes.;
-LLAC006RA;Raz;Could you take me back to camp now?;
-LLAC007RA;Raz;Could you take me back to the Asylum?;
-LLAC008RA;Raz;Nothing. I just wanted to make sure you're not dead.;
-LLAC009LF;Linda;As you wish.;
-LLAD001RA;Raz;Sorry. False alarm.;
-LLAD002LF;Linda;(Sigh.);
-LLAD003RA;Raz;Thanks, Linda!;
-LLAD004LF;Linda;Um-hm.;
-LLZF000TO;System;Punch coral to break it.;
-LLZZ000TO;System;Shakey Claim Nail Factory;
+LLLV006LF;Linda;The creature whose spirit was once enslaved by the evil one.;สิ่งมีชีวิตที่ครั้งนึง จิตวิญญาณเคย ถูกปีศาจร้ายจองจำ
+LLLV007LF;Linda;You have unchained my soul, and now I shall repay you, powerful human child!;เจ้าได้ปลดโซ่ตรวนวิญญาณของข้า ตอนนี้ ข้าจะตอบแทนเจ้า เด็กมนุษย์ผู้ทรงพลังเอ๋ย!
+LLLV008RA;Raz;Oh, uh... great! Well okay, show me what you did to my friend Lili!;โอ้ เอ่อ... เยี่ยม! โอเค บอกมา แกทำอะไรเพื่อนฉัน ลิลี่!
+LLLV009LF;Linda;By the drowned spirit of Oblongata, it is done!;แด่วิญญาณแห่งออบลองกาตาที่จมดิ่ง มันจบแล้ว!
+LLLV010RA;Raz;Ah--;อ๊ะ--
+LLAA000RA;Raz;Man, that must be full of sharp nails. Hate to swallow that!;ให้ตายสิ นั่นมันต้องเต็มไปด้วยตะปูแหลมคมแน่เลย เกลียดการกลืนอะไรแบบนั้นที่สุด!
+LLAA001RA;Raz;"""Shaky Claim Day Care Center.""";"ศูนย์ดูแลเด็ก ""Shaky Claim"" "
+LLAA002RA;Raz;Wow, this must have been a pretty advanced ghost town down here if they had lawn gnomes.;ว้าว ที่นี่ต้องเป็นเมืองร้างที่เจริญมากๆ เลยนะเนี่ย ถึงขนาดมีตุ๊กตาแต่งสวนด้วย
+LLAA003RA;Raz;Hey, that helmet got spit at me in the Brain Tumbler vision!;เฮ้ หมวกนั่นเคยถ่มน้ำลายใส่ฉันในการมองเห็น Brain Tumbler นี่นา!
+LLAA004RA;Raz;I must have been fighting the Coach's idea of this monster.;ฉันคงกำลังสู้กับความคิดของ โค้ช ที่มีต่อสัตว์ประหลาดตัวนี้อยู่น่ะสิ
+LLAA005RA;Raz;I mean, Linda.;ฉันหมายถึง ลินดา
+LLAA006RA;Raz;Ooh, I wonder if I can find out what happened on that western I was watching. ;อู้ว ฉันสงสัยว่าจะหาคำตอบได้ไหมนะว่าเกิดอะไรขึ้นในหนังคาวบอยที่ฉันเคยดู
+LLAA007RA;Raz;Poor, gross little sucker fish! It can't breathe! I should kill it.;ปลาดูดตัวน้อยน่าสงสาร น่าขยะแขยง! มันหายใจไม่ออก! ฉันควรจะฆ่ามันซะ
+LLAA008RA;Raz;Hey, I think I see a piece of teriyaki salmon jerky over there in that clam. Why don't you go eat that instead?;เฮ้ ฉันว่าฉันเห็นเนื้อปลาแซลมอนเทอริยากิอบแห้งอยู่ในหอยนั่นนะ ทำไมแกไม่ไปกินอันนั้นแทนล่ะ?
+LLAA009RA;Raz;This freshwater lake coral is so pretty I just want to smash it.;ปะการังน้ำจืดในทะเลสาบนี่สวยจนอยากทุบให้แหลกเลย
+LLAA010RA;Raz;The creature's prints are still glowing! This must be where he brought Lili!;รอยเท้าของตัวประหลาดยังเปล่งแสงอยู่เลย! มันต้องพา ลิลี่ มาที่นี่แน่ๆ!
+LLAB000FO;Ford;Ah, poor little thing.;อ่า น่าสงสารจัง
+LLAB001RA;Raz;"That ""poor little thing"" just tried to kill me about eight different ways.";"ไอ้ ""น่าสงสาร"" นั่นเพิ่งพยายามฆ่าผมมาตั้งแปดวิธีแหนะ"
+LLAB002FO;Ford;Well, that's not its fault.;เอาน่า นั่นไม่ใช่ความผิดของมันหรอก
+LLAB003FO;Ford;This was once just a normal-sized lungfish, minding its own business in a mucus-lined air bubble beneath a semi-dry lake bed.;เมื่อก่อนมันก็แค่ปลาปอดขนาดปกติ ที่ใช้ชีวิตอยู่ในฟองอากาศที่มีเมือกบุอยู่ใต้พื้นทะเลสาบกึ่งแห้งแล้ง
+LLAB004FO;Ford;But judging by the work done on it, I suspect Morry has mutated it, accelerated its growth, and has placed an implant in its brain to make it do his evil bidding.;แต่ดูจากสิ่งที่มันโดนกระทำ ผมสงสัยว่า มอร์รี่ กลายพันธุ์มัน เร่งการเจริญเติบโตของมัน และฝังอะไรบางอย่างเข้าไปในสมองเพื่อให้มันทำตามคำสั่งชั่วร้ายของเขา
+LLAB005RA;Raz;Whoa. Poor little thing.;ว้าว น่าสงสารจัง
+LLAB006FO;Ford;Yeah. Go inside there and try to smash the implant! Use the Psycho-Portal I saw you steal from Sasha's lab.;ใช่ ไปข้างในนั่นแล้วพยายามทำลายสิ่งที่ฝังอยู่ในตัวมันซะ! ใช้ Psycho-Portal ที่ผมเห็นนายขโมยมาจาก แล็ป ของ ซาช่า นั่นแหละ
+LLAB007RA;Raz;Oh, uh, yeah. That works on big, scary monsters?;โอ้ เอ่อ ใช่ Psycho-Portal นั่นใช้ได้ผลกับสัตว์ประหลาดตัวใหญ่ๆ น่ากลัวๆ ด้วยเหรอ?
+LLAB008FO;Ford;Oh, monster-schmonster! That thing is more afraid of you than you are of it! ;โอ้ สัตว์ประหลาดอะไรกัน! มันกลัวนายมากกว่าที่นายกลัวมันอีก!
+LLAB009FO;Ford;Now git in there!;เข้าไปข้างในซะ!
+LLAC000LF;Linda;Please... my home is your home.;เชิญ... บ้านของข้าก็คือบ้านของเจ้า
+LLAC001LF;Linda;I think I have some Teriyaki Salmon Jerky in one of these mud holes around here...;ข้าคิดว่าข้ามีปลาแซลมอนเทอริยากิอบแห้งอยู่ในหลุมโคลนแถวๆ นี้นะ...
+LLAC002RA;Raz;No, that's cool. Why don't you just relax. I'd like to poke around.;ไม่เป็นไร ข้าว่าเจ้านอนพักผ่อนเถอะ ข้าอยากเดินดูรอบๆ หน่อย
+LLAC003LF;Linda;As you wish, human child.;ตามที่เจ้าต้องการ เด็กมนุษย์
+LLAC004RA;Raz;Hey, Linda?;เฮ้ ลินดา?
+LLAC005LF;Linda;Yes.;ว่าไง?
+LLAC006RA;Raz;Could you take me back to camp now?;พาผมกลับแคมป์หน่อยได้ไหม?
+LLAC007RA;Raz;Could you take me back to the Asylum?;พาผมกลับไปที่โรงพยาบาลบ้าหน่อยได้ไหม?
+LLAC008RA;Raz;Nothing. I just wanted to make sure you're not dead.;ไม่มีอะไร แค่อยากจะแน่ใจว่าเธอยังไม่ตาย
+LLAC009LF;Linda;As you wish.;ตามที่เจ้าต้องการ
+LLAD001RA;Raz;Sorry. False alarm.;โทษที แจ้งเตือนผิด
+LLAD002LF;Linda;(Sigh.);(ถอนหายใจ)
+LLAD003RA;Raz;Thanks, Linda!;ขอบคุณนะ ลินดา!
+LLAD004LF;Linda;Um-hm.;อืมๆ
+LLZF000TO;System;Punch coral to break it.;ต่อยปะการังเพื่อทำลายมัน
+LLZZ000TO;System;Shakey Claim Nail Factory;โรงงานทำตะปู เชคกี้ เคลม
